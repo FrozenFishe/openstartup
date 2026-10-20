@@ -34,6 +34,7 @@
 
 | | Feature | Details |
 |---|---|---|
+| 🔢 | **Clickable totals** | Every headline number opens its list: countries jumps to the ranked list; accelerators, investors, private equity and grants each open a searchable worldwide table (filter by region, sort by country, name or deadline, click a country to open its dossier); global programs and the 30-day deadline count open their views. |
 | 🗺️ | **World map** | Colour every country by all listings, region, ecosystem tier, accelerators, VCs, grants, upcoming deadlines or startup visa. Counts run from pale to deep blue in nine steps. Zoom, pan and tap any country. |
 | 🎨 | **Shades of blue** | A white page where every distinction is a different blue: each region, ecosystem tier and listing type (teal-blue grants, royal-blue accelerators, navy investors, indigo resources, sky-blue global programs) has its own shade. Deadlines darken as they get closer: navy within 7 days, royal blue within 30, lighter blues further out, indigo for rolling, grey for closed. |
 | 📅 | **Deadline ledger** | Every dated application call in the atlas (country accelerators and grants plus global programs), soonest first, grouped by month. Window: 30 days, 90 days, 12 months, all dated, or rolling only. A program listed for many countries (EIC Accelerator, YC, Techstars) shows once with every country named. |
@@ -44,7 +45,7 @@
 | 🎛️ | **Stackable filters** | Region, ecosystem tier, and must-haves (startup visa, upcoming deadline, accelerators, local VCs, grants) with live counts, plus free-text search across every program and fund name. |
 | 📱 | **Works on phones** | Filters fold away on small screens. Your filters are remembered in your browser. |
 
-🔗 Link straight to a country with its name as the anchor, e.g. [`#australia`](https://openstartup-qz7.pages.dev/#australia), [`#nigeria`](https://openstartup-qz7.pages.dev/#nigeria) or [`#united-kingdom`](https://openstartup-qz7.pages.dev/#united-kingdom). Open a view with [`#deadlines`](https://openstartup-qz7.pages.dev/#deadlines), [`#global`](https://openstartup-qz7.pages.dev/#global) or [`#databases`](https://openstartup-qz7.pages.dev/#databases).
+🔗 Link straight to a country with its name as the anchor, e.g. [`#australia`](https://openstartup-qz7.pages.dev/#australia), [`#nigeria`](https://openstartup-qz7.pages.dev/#nigeria) or [`#united-kingdom`](https://openstartup-qz7.pages.dev/#united-kingdom). Open a view with [`#deadlines`](https://openstartup-qz7.pages.dev/#deadlines), [`#global`](https://openstartup-qz7.pages.dev/#global) or [`#databases`](https://openstartup-qz7.pages.dev/#databases), or a worldwide list with [`#accelerators`](https://openstartup-qz7.pages.dev/#accelerators), [`#investors`](https://openstartup-qz7.pages.dev/#investors), [`#private-equity`](https://openstartup-qz7.pages.dev/#private-equity) or [`#grants`](https://openstartup-qz7.pages.dev/#grants).
 
 ---
 

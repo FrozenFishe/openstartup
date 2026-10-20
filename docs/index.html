@@ -67,6 +67,11 @@ h1, h2, h3 { font-family: var(--f-display); text-wrap: balance; margin: 0; line-
 .strip { display: flex; flex-wrap: wrap; gap: 6px 22px; align-items: baseline; margin-bottom: 14px; }
 .strip .n { font: 500 20px/1 var(--f-mono); }
 .strip .k { color: var(--muted); font-size: 13px; margin-left: 4px; }
+.strip button.stat { border: 0; background: none; padding: 4px 6px; margin: -4px -6px; border-radius: var(--r); cursor: pointer; text-align: left; color: inherit; }
+.strip button.stat:hover { background: var(--accent-soft); }
+.strip button.stat:hover .n, .strip button.stat[aria-current="true"] .n { color: var(--accent); }
+.strip button.stat[aria-current="true"] { background: var(--accent-soft); }
+.browse-back { border: 0; background: none; color: var(--accent); cursor: pointer; padding: 0; font-weight: 600; font-size: 13px; }
 .strip .stamp { margin-left: auto; color: var(--muted); font-size: 12px; }
 
 /* map view */
@@ -320,6 +325,26 @@ th .dot { margin-right: 4px; }
         <thead><tr><th>Program</th><th>Deadline</th><th>Offer</th><th class="hide-sm">Where · who</th><th class="hide-sm">Sectors</th></tr></thead>
         <tbody id="glist"></tbody>
       </table></div>
+    </div>
+  </section>
+
+  <section id="v-browse" class="view" hidden>
+    <div class="panel">
+      <h2 id="btitle">Everything</h2>
+      <p class="intro" id="bintro"></p>
+      <div class="ledgerbar">
+        <label class="field grow"><span class="label">Search</span><input id="bq" type="search" placeholder="Name, city, sector…" autocomplete="off"></label>
+        <label class="field"><span class="label">Show</span><select id="bkind">
+          <option value="accelerators">Accelerators</option><option value="vcs">VCs &amp; investors</option>
+          <option value="pe">Private equity</option><option value="grants">Grants</option></select></label>
+        <label class="field"><span class="label">Region</span><select id="bregion"><option value="">All regions</option></select></label>
+        <label class="field"><span class="label">Sort</span><select id="bsort"><option value="country">Country</option><option value="name">Name</option><option value="deadline">Deadline</option></select></label>
+      </div>
+      <div class="tablewrap"><table>
+        <thead id="bhead"></thead>
+        <tbody id="blist"></tbody>
+      </table></div>
+      <p class="intro note" id="bcount" style="padding-top:12px"></p>
     </div>
   </section>
 
@@ -706,19 +731,81 @@ function renderAbout() {
 function renderStrip() {
   const tot = k => DATA.reduce((s, d) => s + d.n[k], 0);
   const soon = LEDGER_ROWS.filter(r => r.due && r.due >= TODAY && daysTo(r.due) <= 30).length;
-  $("#strip").innerHTML = [[DATA.length, "countries"], [tot("accelerators"), "accelerators"], [tot("vcs"), "investors"], [tot("pe"), "private equity"], [tot("grants"), "grants"],
-    [GLOBAL.accelerators.length, "global programs"], [soon, "deadlines in the next 30 days"]]
-    .map(([n, k]) => `<span><span class="n">${n.toLocaleString("en")}</span><span class="k">${k}</span></span>`).join("") +
+  $("#strip").innerHTML = [[DATA.length, "countries", "countries", "See the country list"], [tot("accelerators"), "accelerators", "accelerators", "List every accelerator"],
+    [tot("vcs"), "investors", "investors", "List every VC and investor"], [tot("pe"), "private equity", "private-equity", "List every private equity firm"],
+    [tot("grants"), "grants", "grants", "List every grant"], [GLOBAL.accelerators.length, "global programs", "global", "Open global programs"],
+    [soon, "deadlines in the next 30 days", "deadlines-30", "Deadlines closing in the next 30 days"]]
+    .map(([n, k, go, t]) => `<button type="button" class="stat" data-stat="${go}" title="${t}"><span class="n">${n.toLocaleString("en")}</span><span class="k">${k}</span></button>`).join("") +
     `<span class="stamp">Deadlines checked ${esc(fmtDate(TODAY))}</span>`;
 }
 
+/* browse: every item of one kind, worldwide */
+const BROWSE = {
+  accelerators: { title: "Accelerators", token: "accelerators", intro: "Every accelerator, incubator and venture studio in the atlas, by country.",
+    cols: ["Accelerator", "Country", "Type · city", "Offer", "Deadline"],
+    row: (x, c) => [link(x.url, x.name), cl(c), esc([(x.type || "").replace(/_/g, " "), x.city].filter(Boolean).join(" · ")), esc(x.investment || ""), dueChip(x)] },
+  vcs: { title: "VCs & investors", token: "investors", intro: "Every VC firm, angel network, corporate VC and government fund in the atlas, by country.",
+    cols: ["Investor", "Country", "Type · city", "Stage", "Cheque or assets"],
+    row: (x, c) => [link(x.url, x.name), cl(c), esc([(x.type || "").replace(/_/g, " "), x.city].filter(Boolean).join(" · ")), esc(x.stage || ""), esc([x.check_size, x.aum].filter(v => v && v !== "unknown").join(" · "))] },
+  pe: { title: "Private equity", token: "private-equity", intro: "Every private equity firm in the atlas, from Wikipedia's List of private equity firms.",
+    cols: ["Firm", "Country", "City", "Founded", "Assets or capital raised"],
+    row: (x, c) => [link(x.url, x.name), cl(c), esc(x.city || ""), esc(x.founded || ""), esc(x.aum || "")] },
+  grants: { title: "Government grants", token: "grants", intro: "Every government grant, loan scheme and innovation program in the atlas, by country.",
+    cols: ["Grant", "Country", "Agency", "Amount", "Deadline"],
+    row: (x, c) => [link(x.url, x.name), cl(c), esc(x.agency || ""), esc(x.amount || ""), dueChip(x)] },
+};
+const BY_TOKEN = Object.fromEntries(Object.entries(BROWSE).map(([k, v]) => [v.token, k]));
+const cl = c => `<a href="#${slug(c.country)}" data-go="${esc(c.country)}">${esc(c.country)}</a>`;
+$("#bregion").innerHTML += REGIONS.map(r => `<option>${esc(r)}</option>`).join("");
+function renderBrowse() {
+  const kind = $("#bkind").value, B = BROWSE[kind];
+  const q = $("#bq").value.trim().toLowerCase(), reg = $("#bregion").value, sort = $("#bsort").value;
+  let rows = DATA.flatMap(c => c[kind].map(x => ({ x, c })))
+    .filter(r => (!reg || r.c.region === reg) && (!q || [r.c.country, ...Object.values(r.x)].join(" ").toLowerCase().includes(q)));
+  const total = DATA.reduce((s, c) => s + c[kind].length, 0);
+  rows.sort(sort === "name" ? (a, b) => a.x.name.localeCompare(b.x.name)
+    : sort === "deadline" ? (a, b) => (parseDue(a.x.deadline) || 9e15) - (parseDue(b.x.deadline) || 9e15) || a.x.name.localeCompare(b.x.name)
+    : (a, b) => a.c.country.localeCompare(b.c.country) || a.x.name.localeCompare(b.x.name));
+  $("#btitle").textContent = B.title;
+  $("#bintro").textContent = B.intro;
+  $("#bsort").querySelector('[value="deadline"]').hidden = !(kind === "accelerators" || kind === "grants");
+  if ($("#bsort").value === "deadline" && $("#bsort").querySelector('[value="deadline"]').hidden) $("#bsort").value = "country";
+  $("#bhead").innerHTML = `<tr>${B.cols.map((h, i) => `<th${i > 1 && i < 4 ? ' class="hide-sm"' : ""}>${esc(h)}</th>`).join("")}</tr>`;
+  $("#blist").innerHTML = rows.map(r => `<tr>${B.row(r.x, r.c).map((v, i) => `<td${i > 1 && i < 4 ? ' class="hide-sm"' : ""}>${v}</td>`).join("")}</tr>`).join("")
+    || `<tr><td colspan="5" class="empty">Nothing matches. Clear the search or pick another region.</td></tr>`;
+  $("#bcount").textContent = rows.length === total ? `${total.toLocaleString("en")} entries.` : `${rows.length.toLocaleString("en")} of ${total.toLocaleString("en")} entries.`;
+}
+["#bq", "#bkind", "#bregion", "#bsort"].forEach(s => $(s).addEventListener("input", () => { renderBrowse(); markStat(); if (!$("#v-browse").hidden) try { history.replaceState(null, "", "#" + BROWSE[$("#bkind").value].token); } catch {} }));
+function openBrowse(kind) {
+  $("#bkind").value = kind; $("#bq").value = ""; $("#bregion").value = "";
+  $("#bsort").value = kind === "accelerators" || kind === "grants" ? "deadline" : "country";
+  renderBrowse(); show("browse");
+  try { history.replaceState(null, "", "#" + BROWSE[kind].token); } catch {}
+}
+function markStat() {
+  const v = VIEWS.find(k => !$("#v-" + k).hidden);
+  const cur = v === "browse" ? BROWSE[$("#bkind").value].token : v === "global" ? "global" : v === "deadlines" && $("#dwin").value === "30" ? "deadlines-30" : "";
+  document.querySelectorAll(".strip .stat").forEach(b => b.setAttribute("aria-current", b.dataset.stat === cur));
+}
+$("#strip").addEventListener("click", e => {
+  const b = e.target.closest("[data-stat]"); if (!b) return;
+  const go = b.dataset.stat;
+  if (go === "countries") { show("map"); $("#list").closest(".panel").scrollIntoView({ behavior: "smooth", block: "start" }); }
+  else if (go === "global") show("global");
+  else if (go === "deadlines-30") { $("#dwin").value = "30"; $("#dkind").value = "all"; $("#dq").value = ""; $("#dregion").value = ""; renderLedger(); show("deadlines"); }
+  else openBrowse(BY_TOKEN[go]);
+  markStat();
+});
+
 /* views, theme, hash */
-const VIEWS = ["map", "deadlines", "global", "databases", "about"];
+const VIEWS = ["map", "deadlines", "global", "databases", "about", "browse"];
 function show(v) {
-  VIEWS.forEach(k => { $("#v-" + k).hidden = k !== v; $("#tab-" + k).setAttribute("aria-selected", k === v); });
-  if (v !== "map") try { history.replaceState(null, "", "#" + v); } catch {}
+  VIEWS.forEach(k => { $("#v-" + k).hidden = k !== v; $("#tab-" + k)?.setAttribute("aria-selected", k === v); });
+  if (v === "browse") { /* openBrowse sets the hash */ }
+  else if (v !== "map") try { history.replaceState(null, "", "#" + v); } catch {}
   else if (S.sel) try { history.replaceState(null, "", "#" + slug(S.sel)); } catch {}
   store.set("view", v);
+  if (typeof markStat === "function") markStat();
 }
 document.querySelectorAll(".tabs button").forEach(b => b.onclick = () => show(b.dataset.view));
 if (matchMedia("(max-width: 820px)").matches) $("#fdetails").open = false;
@@ -727,7 +814,8 @@ function render() { renderFacets(); paintMap(); renderList(); }
 render(); renderDossier(); renderLedger(); renderGlobal(); renderRes(); renderAbout(); renderStrip();
 {
   const h = decodeURIComponent(location.hash.slice(1));
-  if (VIEWS.includes(h)) show(h);
+  if (BY_TOKEN[h]) openBrowse(BY_TOKEN[h]);
+  else if (VIEWS.includes(h) && h !== "browse") show(h);
   else if (bySlug.has(h)) { show("map"); select(bySlug.get(h).country, false); }
 }
 </script>
