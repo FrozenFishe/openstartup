@@ -19,7 +19,7 @@
   --nodata: #f2f5f9;
   /* every distinction is a different shade of blue on white */
   --c0: #edf1f7; --c1: #dbe7ff; --c2: #bcd3ff; --c3: #93b8fd; --c4: #6b9bf8; --c5: #4a7ff0; --c6: #2f63e0; --c7: #1d4ac0; --c8: #0f2f86;
-  --k-grant: #0891b2; --k-acc: #1d4ed8; --k-vc: #0b2a6f; --k-res: #6366f1; --k-global: #0ea5e9;
+  --k-grant: #0891b2; --k-acc: #1d4ed8; --k-vc: #0b2a6f; --k-res: #6366f1; --k-global: #0ea5e9; --k-pe: #075985;
   --tier-hub: #0b2a6f; --tier-est: #1d4ed8; --tier-emg: #4f8ef7; --tier-nas: #93b8fd;
   --u-now: #0b2a6f; --u-soon: #1d4ed8; --u-mid: #4f8ef7; --u-later: #7aa7f8; --u-roll: #6366f1; --u-none: #94a0b8;
   --cf-high: #1d4ed8; --cf-med: #4f8ef7; --cf-low: #94a0b8;
@@ -128,8 +128,8 @@ tr.row.sel td { background: var(--accent-soft); }
 .d-closed, .d-unknown { --x: var(--u-none); }
 .cf-high { --x: var(--cf-high); } .cf-medium { --x: var(--cf-med); } .cf-low { --x: var(--cf-low); }
 .k-grant, .k-grants { --x: var(--k-grant); } .k-accelerator, .k-accelerators { --x: var(--k-acc); }
-.k-vcs { --x: var(--k-vc); } .k-resources { --x: var(--k-res); } .k-global { --x: var(--k-global); }
-td.num.k-accelerators, td.num.k-vcs, td.num.k-grants { color: color-mix(in srgb, var(--x) 80%, var(--ink)); font-weight: 500; }
+.k-vcs { --x: var(--k-vc); } .k-pe { --x: var(--k-pe); } .k-resources { --x: var(--k-res); } .k-global { --x: var(--k-global); }
+td.num.k-accelerators, td.num.k-vcs, td.num.k-pe, td.num.k-grants { color: color-mix(in srgb, var(--x) 80%, var(--ink)); font-weight: 500; }
 td.num.zero { color: var(--muted); font-weight: 400; }
 th .dot { margin-right: 4px; }
 .item { border-left: 3px solid var(--x, var(--line)); }
@@ -146,7 +146,7 @@ th .dot { margin-right: 4px; }
 .facts { display: grid; gap: 10px; }
 .fact { display: grid; gap: 2px; }
 .fact div { font-size: 14px; overflow-wrap: anywhere; }
-.counts { display: grid; grid-template-columns: repeat(4, 1fr); border: 1px solid var(--line); border-radius: var(--r); }
+.counts { display: grid; grid-template-columns: repeat(5, 1fr); border: 1px solid var(--line); border-radius: var(--r); }
 .counts button { border: 0; border-right: 1px solid var(--line); border-top: 4px solid var(--x); background: none; padding: 8px 6px; cursor: pointer; text-align: left; }
 .counts b { color: color-mix(in srgb, var(--x) 80%, var(--ink)); }
 .counts button:last-child { border-right: 0; }
@@ -243,6 +243,7 @@ th .dot { margin-right: 4px; }
                 <option value="tier">Ecosystem tier</option>
                 <option value="accelerators">Accelerators</option>
                 <option value="vcs">VCs &amp; investors</option>
+                <option value="pe">Private equity</option>
                 <option value="grants">Government grants</option>
                 <option value="open">Upcoming deadlines</option>
                 <option value="visa">Startup visa</option>
@@ -265,13 +266,14 @@ th .dot { margin-right: 4px; }
                 <option value="open">Next deadline soonest</option>
                 <option value="accelerators">Most accelerators</option>
                 <option value="vcs">Most VCs</option>
+                <option value="pe">Most private equity firms</option>
                 <option value="grants">Most grants</option>
                 <option value="az">A–Z</option>
               </select>
             </label>
           </div>
           <div class="tablewrap"><table>
-            <thead><tr><th>Country</th><th class="hide-sm">Ecosystem</th><th class="num" title="Accelerators"><span class="dot" style="--x:var(--k-acc)"></span>Accel.</th><th class="num"><span class="dot" style="--x:var(--k-vc)"></span>VCs</th><th class="num"><span class="dot" style="--x:var(--k-grant)"></span>Grants</th><th>Next deadline</th></tr></thead>
+            <thead><tr><th>Country</th><th class="hide-sm">Ecosystem</th><th class="num" title="Accelerators"><span class="dot" style="--x:var(--k-acc)"></span>Accel.</th><th class="num"><span class="dot" style="--x:var(--k-vc)"></span>VCs</th><th class="num" title="Private equity firms"><span class="dot" style="--x:var(--k-pe)"></span>PE</th><th class="num"><span class="dot" style="--x:var(--k-grant)"></span>Grants</th><th>Next deadline</th></tr></thead>
             <tbody id="list"></tbody>
           </table></div>
         </div>
@@ -350,9 +352,9 @@ const TIER_LABEL = { global_hub: "Global hub", established: "Established", emerg
 const REGION_VAR = { "Central Asia & Caucasus": "--rg-cac", "East Asia": "--rg-eas", "Europe": "--rg-eur", "Latin America & Caribbean": "--rg-lac",
   "Middle East & North Africa": "--rg-mena", "North America": "--rg-nam", "Oceania": "--rg-oce", "South Asia": "--rg-sas", "Southeast Asia": "--rg-sea", "Sub-Saharan Africa": "--rg-ssa" };
 const TIER_VAR = { global_hub: "--tier-hub", established: "--tier-est", emerging: "--tier-emg", nascent: "--tier-nas" };
-const HAS_VAR = { visa: "--c3", open: "--u-soon", accelerators: "--k-acc", vcs: "--k-vc", grants: "--k-grant" };
+const HAS_VAR = { visa: "--c3", open: "--u-soon", accelerators: "--k-acc", vcs: "--k-vc", pe: "--k-pe", grants: "--k-grant" };
 const rdot = r => `<span class="dot" style="--x:var(${REGION_VAR[r] || "--u-none"})"></span>`;
-const HAS = { visa: "Startup visa", open: "Upcoming deadline", accelerators: "Accelerators", vcs: "Local VCs", grants: "Grants" };
+const HAS = { visa: "Startup visa", open: "Upcoming deadline", accelerators: "Accelerators", vcs: "Local VCs", pe: "Private equity", grants: "Grants" };
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : null;
@@ -387,15 +389,15 @@ function dueChip(item) {
 const REGIONS = [...new Set(DATA.map(d => d.region))].sort();
 for (const d of DATA) {
   d.slug = slug(d.country);
-  d.n = { accelerators: d.accelerators.length, vcs: d.vcs.length, grants: d.grants.length, resources: d.resources.length };
-  d.total = d.n.accelerators + d.n.vcs + d.n.grants + d.n.resources;
+  d.n = { accelerators: d.accelerators.length, vcs: d.vcs.length, pe: d.pe.length, grants: d.grants.length, resources: d.resources.length };
+  d.total = d.n.accelerators + d.n.vcs + d.n.pe + d.n.grants + d.n.resources;
   const dated = [...d.accelerators.map(x => ({ ...x, kind: "accelerator" })), ...d.grants.map(x => ({ ...x, kind: "grant" }))]
     .map(x => ({ ...x, due: parseDue(x.deadline) })).filter(x => x.due && x.due >= TODAY).sort((a, b) => a.due - b.due);
   d.upcoming = dated;
   d.nOpen = dated.length;
   d.next = dated[0] || null;
   d.hasVisa = !!d.startup_visa && !/^(none|no\b|n\/a|not )/i.test(d.startup_visa.trim());
-  d.hay = [d.country, d.summary, ...["grants", "accelerators", "vcs", "resources"].flatMap(k => d[k].map(x => x.name + " " + (x.sectors || "") + " " + (x.agency || "")))].join(" ").toLowerCase();
+  d.hay = [d.country, d.summary, ...["grants", "accelerators", "vcs", "pe", "resources"].flatMap(k => d[k].map(x => x.name + " " + (x.sectors || "") + " " + (x.agency || "")))].join(" ").toLowerCase();
 }
 const byName = new Map(DATA.map(d => [d.country, d]));
 const bySlug = new Map(DATA.map(d => [d.slug, d]));
@@ -413,7 +415,7 @@ function match(d, skip) {
   if (skip !== "has") for (const h of S.has) {
     if (h === "visa" && !d.hasVisa) return false;
     if (h === "open" && !d.nOpen) return false;
-    if (["accelerators", "vcs", "grants"].includes(h) && !d.n[h]) return false;
+    if (["accelerators", "vcs", "pe", "grants"].includes(h) && !d.n[h]) return false;
   }
   if (S.q && !d.hay.includes(S.q)) return false;
   return true;
@@ -525,6 +527,7 @@ function ranked() {
     open: (a, b) => (a.next ? a.next.due : 9e15) - (b.next ? b.next.due : 9e15) || b.total - a.total,
     accelerators: (a, b) => b.n.accelerators - a.n.accelerators,
     vcs: (a, b) => b.n.vcs - a.n.vcs,
+    pe: (a, b) => b.n.pe - a.n.pe,
     grants: (a, b) => b.n.grants - a.n.grants,
     az: () => 0
   }[k];
@@ -537,9 +540,9 @@ function renderList() {
   $("#list").innerHTML = rows.map(d => `<tr class="row${S.sel === d.country ? " sel" : ""}" data-c="${esc(d.country)}" tabindex="0">
     <td class="cname">${esc(d.country)}<small>${rdot(d.region)}${esc(d.region)}</small></td>
     <td class="hide-sm"><span class="pill t-${esc(d.tier)}">${esc(TIER_LABEL[d.tier] || d.tier)}</span></td>
-    ${["accelerators", "vcs", "grants"].map(k => `<td class="num k-${k}${d.n[k] ? "" : " zero"}">${d.n[k]}</td>`).join("")}
+    ${["accelerators", "vcs", "pe", "grants"].map(k => `<td class="num k-${k}${d.n[k] ? "" : " zero"}">${d.n[k]}</td>`).join("")}
     <td>${d.next ? `${dueChip(d.next)} <span class="note">${esc(d.next.name)}</span>` : `<span class="note">—</span>`}</td></tr>`).join("")
-    || `<tr><td colspan="6" class="empty">No country matches these filters. Remove a filter to widen the search.</td></tr>`;
+    || `<tr><td colspan="7" class="empty">No country matches these filters. Remove a filter to widen the search.</td></tr>`;
 }
 $("#list").addEventListener("click", e => { const r = e.target.closest("tr.row"); if (r) select(r.dataset.c, true); });
 $("#list").addEventListener("keydown", e => { const r = e.target.closest("tr.row"); if (r && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); select(r.dataset.c, true); } });
@@ -547,7 +550,7 @@ $("#rank").value = S.rank;
 $("#rank").onchange = e => { S.rank = e.target.value; save(); renderList(); };
 
 /* dossier */
-const DTABS = [["grants", "Grants"], ["accelerators", "Accelerators"], ["vcs", "Investors"], ["resources", "Resources"]];
+const DTABS = [["grants", "Grants"], ["accelerators", "Accelerators"], ["vcs", "VCs"], ["pe", "Private equity"], ["resources", "Resources"]];
 function itemHTML(kind, x) {
   const kv = (k, v) => v && v !== "unknown" ? `<span class="kv"><b>${k}</b> ${esc(v)}</span>` : "";
   if (kind === "grants") return `<div class="item k-grants"><div class="ih">${link(x.url, x.name)}${dueChip(x)}</div>
@@ -555,7 +558,9 @@ function itemHTML(kind, x) {
   if (kind === "accelerators") return `<div class="item k-accelerators"><div class="ih">${link(x.url, x.name)}${dueChip(x)}</div>
     <span class="sub">${esc([x.city, (x.type || "").replace(/_/g, " "), x.sectors].filter(Boolean).join(" · "))}</span>${kv("Offer", x.investment)}${kv("Next cohort", x.next_cohort)}</div>`;
   if (kind === "vcs") return `<div class="item k-vcs"><div class="ih">${link(x.url, x.name)}<span class="note">${esc((x.type || "").replace(/_/g, " "))}</span></div>
-    <span class="sub">${esc([x.city, x.stage, x.sectors].filter(Boolean).join(" · "))}</span>${kv("Cheque", x.check_size)}</div>`;
+    <span class="sub">${esc([x.city, x.stage, x.sectors].filter(Boolean).join(" · "))}</span>${kv("Cheque", x.check_size)}${kv("Assets", x.aum)}${x.source ? `<span class="note">Listed on Wikipedia</span>` : ""}</div>`;
+  if (kind === "pe") return `<div class="item k-pe"><div class="ih">${link(x.url, x.name)}<span class="note">private equity</span></div>
+    ${x.city || x.founded ? `<span class="sub">${esc([x.city, x.founded && "founded " + x.founded].filter(Boolean).join(" · "))}</span>` : ""}${kv("Raised", x.aum)}<span class="note">Listed on Wikipedia</span></div>`;
   return `<div class="item k-resources"><div class="ih">${link(x.url, x.name)}<span class="note">${esc((x.type || "").replace(/_/g, " "))}</span></div>${x.note ? `<span class="sub">${esc(x.note)}</span>` : ""}</div>`;
 }
 function renderDossier() {
@@ -580,7 +585,7 @@ function renderDossier() {
       ${d.notes ? `<div class="fact"><span class="label">Caveats</span><div>${esc(d.notes)}</div></div>` : ""}
     </div>
     ${d.upcoming.length ? `<div class="fact"><span class="label">Upcoming deadlines</span><div class="items">${d.upcoming.slice(0, 4).map(x => `<div class="item"><div class="ih">${link(x.url, x.name)}${dueChip(x)}</div><span class="sub">${x.kind}</span></div>`.replace('class="item"', `class="item k-${x.kind}"`)).join("")}</div></div>` : ""}
-    <div class="counts" role="tablist">${DTABS.map(([k, l]) => `<button type="button" role="tab" data-dt="${k}" class="k-${k}" style="--x:var(${{ grants: "--k-grant", accelerators: "--k-acc", vcs: "--k-vc", resources: "--k-res" }[k]})" aria-selected="${tab === k}"><b>${d.n[k]}</b><span>${l}</span></button>`).join("")}</div>
+    <div class="counts" role="tablist">${DTABS.map(([k, l]) => `<button type="button" role="tab" data-dt="${k}" class="k-${k}" style="--x:var(${{ grants: "--k-grant", accelerators: "--k-acc", vcs: "--k-vc", pe: "--k-pe", resources: "--k-res" }[k]})" aria-selected="${tab === k}"><b>${d.n[k]}</b><span>${l}</span></button>`).join("")}</div>
     <div class="items">${d[tab].length ? d[tab].map(x => itemHTML(tab, x)).join("") : `<div class="empty">None found for ${esc(d.country)}. The global programs tab lists options open to founders anywhere.</div>`}</div>
     ${d.sources?.length ? `<div class="fact"><span class="label">Sources</span><div class="srcs">${d.sources.map(u => link(u)).join("")}</div></div>` : ""}
   </div>`;
@@ -674,13 +679,15 @@ function renderAbout() {
   const tot = k => DATA.reduce((s, d) => s + d.n[k], 0);
   const conf = k => DATA.filter(d => d.confidence === k).length;
   $("#about").innerHTML = `
-  <div><h3>What this is</h3><p>OpenStartup is an open atlas of startup funding for ${DATA.length} countries and territories: ${tot("accelerators")} accelerators and incubators, ${tot("vcs")} VCs and investor networks, ${tot("grants")} government grants and schemes, ${tot("resources")} local resources, plus ${GLOBAL.accelerators.length} global programs and ${GLOBAL.resources.length} cross-border databases. Built ${esc(META.today)}.</p></div>
+  <div><h3>What this is</h3><p>OpenStartup is an open atlas of startup funding for ${DATA.length} countries and territories: ${tot("accelerators")} accelerators and incubators, ${tot("vcs")} VCs and investor networks, ${tot("pe")} private equity firms, ${tot("grants")} government grants and schemes, ${tot("resources")} local resources, plus ${GLOBAL.accelerators.length} global programs and ${GLOBAL.resources.length} cross-border databases. Built ${esc(META.today)}.</p></div>
   <div><h3>How it was researched</h3><p>Research agents worked through 15 regional batches, checking each entity on its official site and recording the next application deadline on or after ${esc(META.today)} where one was published. Undated programs are marked rolling, given their usual pattern (for example "annual, usually March"), or marked as not published. Dates are never guessed.</p>
   <p>Confidence by country: ${conf("high")} high, ${conf("medium")} medium, ${conf("low")} low.</p></div>
   <div><h3>Download the data</h3><div class="dl">${META.files.map(f => `<a href="data/${esc(f)}" target="_blank" rel="noopener">${esc(f)}</a>`).join("")}</div></div>
   <div><h3>Inspired by and built from</h3><ul>
     <li>${link("https://opencharity-org.github.io/OpenCharity/", "OpenCharity")}, the charity registration atlas this project is modelled on (map approach and country list).</li>
     <li>${link("https://www.openvc.app/", "OpenVC")}, the free investor database. Search it for investors by country, stage and sector.</li>
+    <li>${link("https://en.wikipedia.org/wiki/List_of_private_equity_firms", "Wikipedia's List of private equity firms")}: a separate private equity list for each country, with five-year fundraising totals from the PEI 300 ranking where Wikipedia gives them.</li>
+    <li>${link("https://en.wikipedia.org/wiki/List_of_venture_capital_firms", "Wikipedia's List of venture capital firms")}: firms not already in the atlas were added to their home country, with websites from Wikidata or the article infobox and a live check of each site. These are marked "Listed on Wikipedia".</li>
     <li>${link("https://www.airtree.vc/open-source-vc-categories/lists-and-databases", "Airtree Open Source VC")} lists: Australian and US investor lists and the Australian and New Zealand grant guides.</li>
   </ul></div>
   <div><h3>Before you apply</h3><p class="note">This is research, not financial or legal advice. Deadlines move, programs pause and funds close. Check the official page before you rely on a date. Found a mistake or a missing program? Open an issue or pull request with an official link on ${link("https://github.com/FrozenFishe/openstartup", "GitHub")}.</p></div>
@@ -691,7 +698,7 @@ function renderAbout() {
 function renderStrip() {
   const tot = k => DATA.reduce((s, d) => s + d.n[k], 0);
   const soon = LEDGER_ROWS.filter(r => r.due && r.due >= TODAY && daysTo(r.due) <= 30).length;
-  $("#strip").innerHTML = [[DATA.length, "countries"], [tot("accelerators"), "accelerators"], [tot("vcs"), "investors"], [tot("grants"), "grants"],
+  $("#strip").innerHTML = [[DATA.length, "countries"], [tot("accelerators"), "accelerators"], [tot("vcs"), "investors"], [tot("pe"), "private equity"], [tot("grants"), "grants"],
     [GLOBAL.accelerators.length, "global programs"], [soon, "deadlines in the next 30 days"]]
     .map(([n, k]) => `<span><span class="n">${n.toLocaleString("en")}</span><span class="k">${k}</span></span>`).join("") +
     `<span class="stamp">Deadlines checked ${esc(fmtDate(TODAY))}</span>`;

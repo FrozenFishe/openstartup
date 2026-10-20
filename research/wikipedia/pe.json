@@ -1,0 +1,2108 @@
+{
+ "source": "https://en.wikipedia.org/wiki/List_of_private_equity_firms",
+ "revision": 1380031888,
+ "checked": "2026-10-20",
+ "license": "Firm names and countries from Wikipedia (CC BY-SA 4.0); websites from Wikidata (CC0) or the article infobox.",
+ "firms": [
+  {
+   "name": "3G Capital",
+   "country": "United States",
+   "url": "http://www.3g-capital.com",
+   "city": "New York City",
+   "aum": "",
+   "founded": "2004",
+   "wiki": "https://en.wikipedia.org/wiki/3G_Capital"
+  },
+  {
+   "name": "ABS Capital",
+   "country": "United States",
+   "url": "http://abscapital.com",
+   "city": "Hunt Valley",
+   "aum": "",
+   "founded": "1990",
+   "wiki": "https://en.wikipedia.org/wiki/ABS_Capital"
+  },
+  {
+   "name": "Adams Street Partners",
+   "country": "United States",
+   "url": "http://www.adamsstreetpartners.com/",
+   "city": "One North Wacker",
+   "aum": "US$54 billion (2023)",
+   "founded": "1972",
+   "wiki": "https://en.wikipedia.org/wiki/Adams_Street_Partners"
+  },
+  {
+   "name": "Advent International",
+   "country": "United States",
+   "url": "https://www.adventinternational.com",
+   "city": "Boston",
+   "aum": "~$100 billion (2025)",
+   "founded": "1984",
+   "wiki": "https://en.wikipedia.org/wiki/Advent_International"
+  },
+  {
+   "name": "AEA Investors",
+   "country": "United States",
+   "url": "http://www.aeainvestors.com",
+   "city": "New York City",
+   "aum": "(2023)",
+   "founded": "1968",
+   "wiki": "https://en.wikipedia.org/wiki/AEA_Investors"
+  },
+  {
+   "name": "Angelo, Gordon & Co.",
+   "country": "United States",
+   "url": "https://angelogordon.com",
+   "city": "New York City",
+   "aum": "(2023)",
+   "founded": "1988",
+   "wiki": "https://en.wikipedia.org/wiki/Angelo,_Gordon_&_Co."
+  },
+  {
+   "name": "Apollo Global Management",
+   "country": "United States",
+   "url": "https://www.apollo.com/",
+   "city": "New York City",
+   "aum": "US$938.4 billion (2025)",
+   "founded": "1990",
+   "wiki": "https://en.wikipedia.org/wiki/Apollo_Global_Management"
+  },
+  {
+   "name": "Ares Management",
+   "country": "United States",
+   "url": "http://www.aresmgmt.com/",
+   "city": "Los Angeles",
+   "aum": "$596 billion (2025)",
+   "founded": "1997",
+   "wiki": "https://en.wikipedia.org/wiki/Ares_Management"
+  },
+  {
+   "name": "Arlington Capital Partners",
+   "country": "United States",
+   "url": "http://www.arlingtoncap.com",
+   "city": "Washington",
+   "aum": "",
+   "founded": "1999",
+   "wiki": "https://en.wikipedia.org/wiki/Arlington_Capital_Partners"
+  },
+  {
+   "name": "Auldbrass Partners",
+   "country": "United States",
+   "url": "http://www.auldbrasspartners.com",
+   "city": "New York City",
+   "aum": "",
+   "founded": "2011",
+   "wiki": "https://en.wikipedia.org/wiki/Auldbrass_Partners"
+  },
+  {
+   "name": "Avista Capital Partners",
+   "country": "United States",
+   "url": "https://www.avistahealthcare.com/",
+   "city": "New York",
+   "aum": "",
+   "founded": "",
+   "wiki": "https://en.wikipedia.org/wiki/Avista_Capital_Partners"
+  },
+  {
+   "name": "BDT & MSD Partners",
+   "country": "United States",
+   "url": "https://bdtmsd.com/",
+   "city": "Equitable Building",
+   "aum": "US$50 billion (2023)",
+   "founded": "2023",
+   "wiki": "https://en.wikipedia.org/wiki/BDT_&_MSD_Partners"
+  },
+  {
+   "name": "Berkshire Partners",
+   "country": "United States",
+   "url": "http://www.berkshirepartners.com/",
+   "city": "Boston",
+   "aum": "US$ 25 billion",
+   "founded": "1984",
+   "wiki": "https://en.wikipedia.org/wiki/Berkshire_Partners"
+  },
+  {
+   "name": "Blackstone",
+   "country": "United States",
+   "url": "https://www.blackstone.com/",
+   "city": "New York City",
+   "aum": "US$1.27 trillion (2025)",
+   "founded": "1985",
+   "wiki": "https://en.wikipedia.org/wiki/Blackstone_Inc."
+  },
+  {
+   "name": "Blue Owl Capital",
+   "country": "United States",
+   "url": "https://www.blueowlcapitalcorporation.com/",
+   "city": "New York City",
+   "aum": "US$307.5 billion (2025)",
+   "founded": "2021",
+   "wiki": "https://en.wikipedia.org/wiki/Blue_Owl_Capital"
+  },
+  {
+   "name": "Blum Capital",
+   "country": "United States",
+   "url": "http://www.blumcapital.com",
+   "city": "San Francisco",
+   "aum": "",
+   "founded": "1975",
+   "wiki": "https://en.wikipedia.org/wiki/Blum_Capital"
+  },
+  {
+   "name": "Brentwood Associates",
+   "country": "United States",
+   "url": "http://www.brentwood.com",
+   "city": "Los Angeles",
+   "aum": "",
+   "founded": "1972",
+   "wiki": "https://en.wikipedia.org/wiki/Brentwood_Associates"
+  },
+  {
+   "name": "Bruckmann, Rosser, Sherrill & Co.",
+   "country": "United States",
+   "url": "http://www.brs.com",
+   "city": "New York",
+   "aum": "",
+   "founded": "1995",
+   "wiki": "https://en.wikipedia.org/wiki/Bruckmann,_Rosser,_Sherrill_&_Co."
+  },
+  {
+   "name": "Brynwood Partners",
+   "country": "United States",
+   "url": "http://www.brynwoodpartners.com",
+   "city": "Greenwich",
+   "aum": "",
+   "founded": "1984",
+   "wiki": "https://en.wikipedia.org/wiki/Brynwood_Partners"
+  },
+  {
+   "name": "Carlyle Group",
+   "country": "United States",
+   "url": "https://carlyle.com",
+   "city": "Washington",
+   "aum": "(2024)",
+   "founded": "1987",
+   "wiki": "https://en.wikipedia.org/wiki/Carlyle_Group"
+  },
+  {
+   "name": "Castle Harlan",
+   "country": "United States",
+   "url": "http://www.castleharlan.com/",
+   "city": "New York City",
+   "aum": "",
+   "founded": "1987",
+   "wiki": "https://en.wikipedia.org/wiki/Castle_Harlan"
+  },
+  {
+   "name": "CCMP Capital",
+   "country": "United States",
+   "url": "http://www.ccmpcapital.com",
+   "city": "New York City",
+   "aum": "$4.7 billion",
+   "founded": "1984",
+   "wiki": "https://en.wikipedia.org/wiki/CCMP_Capital"
+  },
+  {
+   "name": "Centerbridge Partners",
+   "country": "United States",
+   "url": "http://www.centerbridge.com/",
+   "city": "Seagram Building",
+   "aum": "$56 Billion",
+   "founded": "2005",
+   "wiki": "https://en.wikipedia.org/wiki/Centerbridge_Partners"
+  },
+  {
+   "name": "Cerberus Capital Management",
+   "country": "United States",
+   "url": "https://www.cerberuscapital.com/",
+   "city": "New York City",
+   "aum": "$70 billion",
+   "founded": "1992",
+   "wiki": "https://en.wikipedia.org/wiki/Cerberus_Capital_Management"
+  },
+  {
+   "name": "Charlesbank Capital Partners",
+   "country": "United States",
+   "url": "http://www.charlesbank.com/",
+   "city": "",
+   "aum": "",
+   "founded": "1998",
+   "wiki": "https://en.wikipedia.org/wiki/Charlesbank_Capital_Partners"
+  },
+  {
+   "name": "Clayton, Dubilier & Rice",
+   "country": "United States",
+   "url": "https://www.cdr.com",
+   "city": "New York City",
+   "aum": "US$49.5bn raised in five years (PEI 300 2026, rank 11)",
+   "founded": "1978",
+   "wiki": "https://en.wikipedia.org/wiki/Clayton,_Dubilier_&_Rice"
+  },
+  {
+   "name": "Clearlake Capital",
+   "country": "United States",
+   "url": "https://clearlake.com/",
+   "city": "Santa Monica",
+   "aum": "185 billion (2025)",
+   "founded": "2006",
+   "wiki": "https://en.wikipedia.org/wiki/Clearlake_Capital"
+  },
+  {
+   "name": "Colony Capital",
+   "country": "United States",
+   "url": "https://digitalbridge.com",
+   "city": "Boca Raton",
+   "aum": "$106 billion (June 2025)",
+   "founded": "1991",
+   "wiki": "https://en.wikipedia.org/wiki/Colony_Capital"
+  },
+  {
+   "name": "Court Square Capital Partners",
+   "country": "United States",
+   "url": "http://www.courtsquare.com",
+   "city": "New York City",
+   "aum": "$8.2 billion (2025)",
+   "founded": "1968",
+   "wiki": "https://en.wikipedia.org/wiki/Court_Square_Capital_Partners"
+  },
+  {
+   "name": "Crescent Capital Group",
+   "country": "United States",
+   "url": "http://www.mezzanine.com",
+   "city": "Los Angeles",
+   "aum": "US$50 billion (December 2025)",
+   "founded": "1991",
+   "wiki": "https://en.wikipedia.org/wiki/Crescent_Capital_Group"
+  },
+  {
+   "name": "CrossHarbor Capital Partners",
+   "country": "United States",
+   "url": "http://www.crossharborcapital.com",
+   "city": "Boston",
+   "aum": "US$5.5 billion",
+   "founded": "1992",
+   "wiki": "https://en.wikipedia.org/wiki/CrossHarbor_Capital_Partners"
+  },
+  {
+   "name": "DLJ Merchant Banking Partners",
+   "country": "United States",
+   "url": "http://aprioricapital.com",
+   "city": "New York City",
+   "aum": "",
+   "founded": "1985",
+   "wiki": "https://en.wikipedia.org/wiki/DLJ_Merchant_Banking_Partners"
+  },
+  {
+   "name": "EIG Global Energy Partners",
+   "country": "United States",
+   "url": "https://eigpartners.com/",
+   "city": "Washington",
+   "aum": "US$23.5 billion (March 2023)",
+   "founded": "1982",
+   "wiki": "https://en.wikipedia.org/wiki/EIG_Global_Energy_Partners"
+  },
+  {
+   "name": "EnCap Investments",
+   "country": "United States",
+   "url": "http://www.encapinvestments.com",
+   "city": "Houston",
+   "aum": "$18 billion (2021)",
+   "founded": "1988",
+   "wiki": "https://en.wikipedia.org/wiki/EnCap_Investments"
+  },
+  {
+   "name": "Energy Capital Partners",
+   "country": "United States",
+   "url": "https://www.ecpgp.com/",
+   "city": "Summit",
+   "aum": "US$18.5 billion (March 2023)",
+   "founded": "2005",
+   "wiki": "https://en.wikipedia.org/wiki/Energy_Capital_Partners"
+  },
+  {
+   "name": "Fenway Partners",
+   "country": "United States",
+   "url": "http://www.fenwaypartners.com/",
+   "city": "New York",
+   "aum": "",
+   "founded": "1994",
+   "wiki": "https://en.wikipedia.org/wiki/Fenway_Partners"
+  },
+  {
+   "name": "First Reserve Corporation",
+   "country": "United States",
+   "url": "http://www.firstreserve.com/",
+   "city": "Stamford",
+   "aum": "$14.3 billion",
+   "founded": "1984",
+   "wiki": "https://en.wikipedia.org/wiki/First_Reserve_Corporation"
+  },
+  {
+   "name": "Fortress Investment Group",
+   "country": "United States",
+   "url": "https://www.fortress.com/",
+   "city": "New York City",
+   "aum": "US$53 billion (2025)",
+   "founded": "1998",
+   "wiki": "https://en.wikipedia.org/wiki/Fortress_Investment_Group"
+  },
+  {
+   "name": "Fox Paine & Company",
+   "country": "United States",
+   "url": "https://www.foxpaine.com",
+   "city": "Woodside",
+   "aum": "",
+   "founded": "1996",
+   "wiki": "https://en.wikipedia.org/wiki/Fox_Paine_&_Company"
+  },
+  {
+   "name": "Francisco Partners",
+   "country": "United States",
+   "url": "http://www.franciscopartners.com/",
+   "city": "Letterman Digital Arts Center",
+   "aum": "US$45 billion (2024)",
+   "founded": "1999",
+   "wiki": "https://en.wikipedia.org/wiki/Francisco_Partners"
+  },
+  {
+   "name": "Freeman Spogli & Co.",
+   "country": "United States",
+   "url": "https://www.freemanspogli.com/",
+   "city": "Los Angeles",
+   "aum": "",
+   "founded": "1983",
+   "wiki": "https://en.wikipedia.org/wiki/Freeman_Spogli_&_Co."
+  },
+  {
+   "name": "Fremont Group",
+   "country": "United States",
+   "url": "https://fremontgroup.com",
+   "city": "San Francisco",
+   "aum": "",
+   "founded": "1986",
+   "wiki": "https://en.wikipedia.org/wiki/Fremont_Group"
+  },
+  {
+   "name": "Friedman Fleischer & Lowe",
+   "country": "United States",
+   "url": "http://www.fflpartners.com/",
+   "city": "San Francisco",
+   "aum": "",
+   "founded": "1997",
+   "wiki": "https://en.wikipedia.org/wiki/Friedman_Fleischer_&_Lowe"
+  },
+  {
+   "name": "Frontenac Company",
+   "country": "United States",
+   "url": "http://www.frontenac.com/",
+   "city": "Chicago",
+   "aum": "",
+   "founded": "1971",
+   "wiki": "https://en.wikipedia.org/wiki/Frontenac_Company"
+  },
+  {
+   "name": "General Atlantic",
+   "country": "United States",
+   "url": "https://www.generalatlantic.com",
+   "city": "New York City",
+   "aum": "US$125.3 billion (March 2026)",
+   "founded": "1980",
+   "wiki": "https://en.wikipedia.org/wiki/General_Atlantic"
+  },
+  {
+   "name": "Genstar Capital",
+   "country": "United States",
+   "url": "http://www.gencap.com",
+   "city": "San Francisco",
+   "aum": "US$49 billion (2023)",
+   "founded": "1988",
+   "wiki": "https://en.wikipedia.org/wiki/Genstar_Capital"
+  },
+  {
+   "name": "GI Partners",
+   "country": "United States",
+   "url": "https://www.gipartners.com/",
+   "city": "Four Embarcadero Center",
+   "aum": "$42 billion",
+   "founded": "2001",
+   "wiki": "https://en.wikipedia.org/wiki/GI_Partners"
+  },
+  {
+   "name": "Goldman Sachs Alternatives",
+   "country": "United States",
+   "url": "https://am.gs.com/en-us/institutions/products/alternative-investing",
+   "city": "New York City",
+   "aum": "US$627 billion (December 2025)",
+   "founded": "1986",
+   "wiki": "https://en.wikipedia.org/wiki/Goldman_Sachs_Alternatives"
+  },
+  {
+   "name": "Gores Group",
+   "country": "United States",
+   "url": "http://www.gores.com/",
+   "city": "Beverly Hills",
+   "aum": "",
+   "founded": "1987",
+   "wiki": "https://en.wikipedia.org/wiki/Gores_Group"
+  },
+  {
+   "name": "GP Investimentos",
+   "country": "Brazil",
+   "url": "https://gp-investments.com/",
+   "city": "São Paulo",
+   "aum": "",
+   "founded": "",
+   "wiki": "https://en.wikipedia.org/wiki/GP_Investimentos"
+  },
+  {
+   "name": "GTCR",
+   "country": "United States",
+   "url": "http://www.gtcr.com/",
+   "city": "Chicago",
+   "aum": "US$40 billion (2024)",
+   "founded": "1980",
+   "wiki": "https://en.wikipedia.org/wiki/GTCR"
+  },
+  {
+   "name": "H.I.G. Capital",
+   "country": "United States",
+   "url": "http://www.higcapital.com/",
+   "city": "Miami",
+   "aum": "$74 billion",
+   "founded": "1993",
+   "wiki": "https://en.wikipedia.org/wiki/H.I.G._Capital"
+  },
+  {
+   "name": "Hamilton Lane",
+   "country": "United States",
+   "url": "http://hamiltonlane.com/",
+   "city": "Conshohocken",
+   "aum": "(November 2024)",
+   "founded": "1991",
+   "wiki": "https://en.wikipedia.org/wiki/Hamilton_Lane"
+  },
+  {
+   "name": "Harbert Management Corporation",
+   "country": "United States",
+   "url": "http://www.harbert.net",
+   "city": "Concord Center",
+   "aum": "$7.9 billion (September 30, 2026)",
+   "founded": "1993",
+   "wiki": "https://en.wikipedia.org/wiki/Harbert_Management_Corporation"
+  },
+  {
+   "name": "HarbourVest Partners",
+   "country": "United States",
+   "url": "http://www.harbourvest.com/",
+   "city": "One Financial Center",
+   "aum": "US$36.8bn raised in five years (PEI 300 2026, rank 19)",
+   "founded": "1982",
+   "wiki": "https://en.wikipedia.org/wiki/HarbourVest_Partners"
+  },
+  {
+   "name": "Harvest Partners",
+   "country": "United States",
+   "url": "http://www.harvpart.com/",
+   "city": "New York City",
+   "aum": "$7.0 billion",
+   "founded": "1981",
+   "wiki": "https://en.wikipedia.org/wiki/Harvest_Partners"
+  },
+  {
+   "name": "Hellman & Friedman",
+   "country": "United States",
+   "url": "http://www.hf.com",
+   "city": "Salesforce Tower",
+   "aum": "US$107.5 billion (March 2025)",
+   "founded": "1984",
+   "wiki": "https://en.wikipedia.org/wiki/Hellman_&_Friedman"
+  },
+  {
+   "name": "Highbridge Capital Management",
+   "country": "United States",
+   "url": "https://www.highbridge.com/",
+   "city": "New York",
+   "aum": "$4 billion (2022)",
+   "founded": "",
+   "wiki": "https://en.wikipedia.org/wiki/Highbridge_Capital_Management"
+  },
+  {
+   "name": "HPS Investment Partners",
+   "country": "United States",
+   "url": "http://www.hpspartners.com/",
+   "city": "New York City",
+   "aum": "US$197 billion (June 2026)",
+   "founded": "2007",
+   "wiki": "https://en.wikipedia.org/wiki/HPS_Investment_Partners"
+  },
+  {
+   "name": "Irving Place Capital",
+   "country": "United States",
+   "url": "http://www.irvingplacecapital.com",
+   "city": "New York City",
+   "aum": "",
+   "founded": "1997",
+   "wiki": "https://en.wikipedia.org/wiki/Irving_Place_Capital"
+  },
+  {
+   "name": "J.H. Whitney & Company",
+   "country": "United States",
+   "url": "https://www.whitney.com",
+   "city": "New Canaan",
+   "aum": "$1.0 billion",
+   "founded": "1946",
+   "wiki": "https://en.wikipedia.org/wiki/J.H._Whitney_&_Company"
+  },
+  {
+   "name": "J.W. Childs Associates",
+   "country": "United States",
+   "url": "https://jwchilds.com",
+   "city": "Waltham",
+   "aum": "",
+   "founded": "1995",
+   "wiki": "https://en.wikipedia.org/wiki/J.W._Childs_Associates"
+  },
+  {
+   "name": "JC Flowers",
+   "country": "United States",
+   "url": "http://jcfco.com",
+   "city": "New York",
+   "aum": "US$5.4 billion",
+   "founded": "2001",
+   "wiki": "https://en.wikipedia.org/wiki/JC_Flowers"
+  },
+  {
+   "name": "JLL Partners",
+   "country": "United States",
+   "url": "http://www.jllpartners.com/",
+   "city": "New York City",
+   "aum": "",
+   "founded": "1988",
+   "wiki": "https://en.wikipedia.org/wiki/JLL_Partners"
+  },
+  {
+   "name": "Jordan Company",
+   "country": "United States",
+   "url": "https://tjclp.com/",
+   "city": "New York",
+   "aum": "",
+   "founded": "1982",
+   "wiki": "https://en.wikipedia.org/wiki/Jordan_Company"
+  },
+  {
+   "name": "Kelso & Company",
+   "country": "United States",
+   "url": "http://www.kelso.com/",
+   "city": "New York City",
+   "aum": "$11.2 billion",
+   "founded": "1971",
+   "wiki": "https://en.wikipedia.org/wiki/Kelso_&_Company"
+  },
+  {
+   "name": "Kinderhook Industries",
+   "country": "United States",
+   "url": "https://www.kinderhook.com",
+   "city": "New York City",
+   "aum": "",
+   "founded": "2003",
+   "wiki": "https://en.wikipedia.org/wiki/Kinderhook_Industries"
+  },
+  {
+   "name": "KKR",
+   "country": "United States",
+   "url": "https://www.kkr.com/",
+   "city": "New York City",
+   "aum": "US$744 billion (2025)",
+   "founded": "1976",
+   "wiki": "https://en.wikipedia.org/wiki/KKR_&_Co."
+  },
+  {
+   "name": "Kohlberg & Company",
+   "country": "United States",
+   "url": "http://www.kohlberg.com",
+   "city": "Mount Kisco",
+   "aum": "",
+   "founded": "1987",
+   "wiki": "https://en.wikipedia.org/wiki/Kohlberg_&_Company"
+  },
+  {
+   "name": "KPS Capital Partners",
+   "country": "United States",
+   "url": "http://www.kpsfund.com",
+   "city": "New York",
+   "aum": "",
+   "founded": "1991",
+   "wiki": "https://en.wikipedia.org/wiki/KPS_Capital_Partners"
+  },
+  {
+   "name": "L Catterton",
+   "country": "United States",
+   "url": "https://www.lcatterton.com",
+   "city": "Greenwich",
+   "aum": "US$33 billion (2023)",
+   "founded": "1989",
+   "wiki": "https://en.wikipedia.org/wiki/L_Catterton"
+  },
+  {
+   "name": "Landmark Partners",
+   "country": "United States",
+   "url": "http://www.landmarkpartners.com/",
+   "city": "Los Angeles",
+   "aum": "$596 billion (2025)",
+   "founded": "1997",
+   "wiki": "https://en.wikipedia.org/wiki/Landmark_Partners"
+  },
+  {
+   "name": "Lee Equity Partners",
+   "country": "United States",
+   "url": "https://leeequity.com",
+   "city": "General Motors Building",
+   "aum": "$3.0 billion",
+   "founded": "2006",
+   "wiki": "https://en.wikipedia.org/wiki/Lee_Equity_Partners"
+  },
+  {
+   "name": "Leeds Equity Partners",
+   "country": "United States",
+   "url": "https://www.leedsequity.com/",
+   "city": "New York",
+   "aum": "$7.0 billion",
+   "founded": "1993",
+   "wiki": "https://en.wikipedia.org/wiki/Leeds_Equity_Partners"
+  },
+  {
+   "name": "Leonard Green & Partners",
+   "country": "United States",
+   "url": "http://www.leonardgreen.com/",
+   "city": "Los Angeles",
+   "aum": "(2024)",
+   "founded": "1989",
+   "wiki": "https://en.wikipedia.org/wiki/Leonard_Green_&_Partners"
+  },
+  {
+   "name": "Lexington Partners",
+   "country": "United States",
+   "url": "http://www.lexingtonpartners.com/",
+   "city": "New York",
+   "aum": "$55 billion",
+   "founded": "1994",
+   "wiki": "https://en.wikipedia.org/wiki/Lexington_Partners"
+  },
+  {
+   "name": "Lightyear Capital",
+   "country": "United States",
+   "url": "http://www.lycap.com",
+   "city": "New York City",
+   "aum": "()",
+   "founded": "2000",
+   "wiki": "https://en.wikipedia.org/wiki/Lightyear_Capital"
+  },
+  {
+   "name": "Lincolnshire Management",
+   "country": "United States",
+   "url": "https://www.lincolnshiremgmt.com/",
+   "city": "New York",
+   "aum": "",
+   "founded": "1986",
+   "wiki": "https://en.wikipedia.org/wiki/Lincolnshire_Management"
+  },
+  {
+   "name": "Lindsay Goldberg Bessemer",
+   "country": "United States",
+   "url": "https://www.lindsaygoldbergllc.com",
+   "city": "New York City",
+   "aum": "",
+   "founded": "2001",
+   "wiki": "https://en.wikipedia.org/wiki/Lindsay_Goldberg_Bessemer"
+  },
+  {
+   "name": "Littlejohn & Co.",
+   "country": "United States",
+   "url": "http://www.littlejohnllc.com/",
+   "city": "Cos Cob",
+   "aum": "",
+   "founded": "1987",
+   "wiki": "https://en.wikipedia.org/wiki/Littlejohn_&_Co."
+  },
+  {
+   "name": "Lone Star Funds",
+   "country": "United States",
+   "url": "http://www.lonestarfunds.com",
+   "city": "London",
+   "aum": "$95 billion (2024)",
+   "founded": "1995",
+   "wiki": "https://en.wikipedia.org/wiki/Lone_Star_Funds"
+  },
+  {
+   "name": "LRG Capital Funds",
+   "country": "United States",
+   "url": "http://www.lrgcapital.com/",
+   "city": "San Francisco",
+   "aum": "",
+   "founded": "1999",
+   "wiki": "https://en.wikipedia.org/wiki/LRG_Capital_Funds"
+  },
+  {
+   "name": "Madison Dearborn Partners",
+   "country": "United States",
+   "url": "http://www.mdcp.com/",
+   "city": "Chicago",
+   "aum": "",
+   "founded": "1992",
+   "wiki": "https://en.wikipedia.org/wiki/Madison_Dearborn_Partners"
+  },
+  {
+   "name": "Metalmark Capital",
+   "country": "United States",
+   "url": "https://www.metalmarkcapital.com/",
+   "city": "New York",
+   "aum": "",
+   "founded": "",
+   "wiki": "https://en.wikipedia.org/wiki/Metalmark_Capital"
+  },
+  {
+   "name": "MidOcean Partners",
+   "country": "United States",
+   "url": "http://www.midoceanpartners.com",
+   "city": "Midtown Manhattan",
+   "aum": "",
+   "founded": "2003",
+   "wiki": "https://en.wikipedia.org/wiki/MidOcean_Partners"
+  },
+  {
+   "name": "New Mountain Capital",
+   "country": "United States",
+   "url": "https://www.newmountaincapital.com/",
+   "city": "Paramount Plaza",
+   "aum": "US$55 billion (March 2024)",
+   "founded": "1999",
+   "wiki": "https://en.wikipedia.org/wiki/New_Mountain_Capital"
+  },
+  {
+   "name": "NRDC Equity Partners",
+   "country": "United States",
+   "url": "https://nrdcequity.com",
+   "city": "New York City",
+   "aum": "",
+   "founded": "2005",
+   "wiki": "https://en.wikipedia.org/wiki/NRDC_Equity_Partners"
+  },
+  {
+   "name": "Oak Hill Capital Partners",
+   "country": "United States",
+   "url": "http://www.oakhillcapital.com",
+   "city": "New York City",
+   "aum": "",
+   "founded": "1986",
+   "wiki": "https://en.wikipedia.org/wiki/Oak_Hill_Capital_Partners"
+  },
+  {
+   "name": "Olympus Partners",
+   "country": "United States",
+   "url": "http://www.olympuspartners.com",
+   "city": "Stamford",
+   "aum": "",
+   "founded": "1988",
+   "wiki": "https://en.wikipedia.org/wiki/Olympus_Partners"
+  },
+  {
+   "name": "One Equity Partners",
+   "country": "United States",
+   "url": "https://www.oneequity.com",
+   "city": "New York City",
+   "aum": "",
+   "founded": "2001",
+   "wiki": "https://en.wikipedia.org/wiki/One_Equity_Partners"
+  },
+  {
+   "name": "Onex Corporation",
+   "country": "Canada",
+   "url": "http://www.onex.com/",
+   "city": "Toronto",
+   "aum": "CA$47 billion (November 2022)",
+   "founded": "1984",
+   "wiki": "https://en.wikipedia.org/wiki/Onex_Corporation"
+  },
+  {
+   "name": "Pamlico Capital",
+   "country": "United States",
+   "url": "http://www.pamlicocapital.com/",
+   "city": "Charlotte",
+   "aum": "",
+   "founded": "1988",
+   "wiki": "https://en.wikipedia.org/wiki/Pamlico_Capital"
+  },
+  {
+   "name": "Pathway Capital Management",
+   "country": "United States",
+   "url": "https://www.pathwaycapital.com",
+   "city": "Irvine",
+   "aum": "",
+   "founded": "1991",
+   "wiki": "https://en.wikipedia.org/wiki/Pathway_Capital_Management"
+  },
+  {
+   "name": "Platinum Equity",
+   "country": "United States",
+   "url": "https://www.platinumequity.com/",
+   "city": "Beverly Hills",
+   "aum": "",
+   "founded": "1995",
+   "wiki": "https://en.wikipedia.org/wiki/Platinum_Equity"
+  },
+  {
+   "name": "Rhône Group",
+   "country": "United States",
+   "url": "http://www.rhonegroup.com/",
+   "city": "New York City",
+   "aum": "$10 billion (2025)",
+   "founded": "1995",
+   "wiki": "https://en.wikipedia.org/wiki/Rhône_Group"
+  },
+  {
+   "name": "Riverside Partners",
+   "country": "United States",
+   "url": "http://www.riversidepartners.com",
+   "city": "Boston",
+   "aum": "US$700 mil (December 2011)",
+   "founded": "1989",
+   "wiki": "https://en.wikipedia.org/wiki/Riverside_Partners"
+  },
+  {
+   "name": "Riverstone Holdings",
+   "country": "United States",
+   "url": "http://www.riverstonellc.com",
+   "city": "New York",
+   "aum": "",
+   "founded": "2000",
+   "wiki": "https://en.wikipedia.org/wiki/Riverstone_Holdings"
+  },
+  {
+   "name": "Roark Capital Group",
+   "country": "United States",
+   "url": "http://www.roarkcapital.com",
+   "city": "Atlanta",
+   "aum": "(2023)",
+   "founded": "2001",
+   "wiki": "https://en.wikipedia.org/wiki/Roark_Capital_Group"
+  },
+  {
+   "name": "RPX Corporation",
+   "country": "United States",
+   "url": "http://www.rpxcorp.com",
+   "city": "San Francisco",
+   "aum": "",
+   "founded": "2008",
+   "wiki": "https://en.wikipedia.org/wiki/RPX_Corporation"
+  },
+  {
+   "name": "Sentinel Capital Partners",
+   "country": "United States",
+   "url": "http://www.sentinelpartners.com",
+   "city": "One Vanderbilt",
+   "aum": "",
+   "founded": "1995",
+   "wiki": "https://en.wikipedia.org/wiki/Sentinel_Capital_Partners"
+  },
+  {
+   "name": "Silver Lake Partners",
+   "country": "United States",
+   "url": "https://www.silverlake.com",
+   "city": "United States",
+   "aum": "US$110 billion (2025)",
+   "founded": "1999",
+   "wiki": "https://en.wikipedia.org/wiki/Silver_Lake_Partners"
+  },
+  {
+   "name": "Stonepeak",
+   "country": "United States",
+   "url": "https://stonepeak.com/",
+   "city": "New York City",
+   "aum": "US$93 billion (2026)",
+   "founded": "2011",
+   "wiki": "https://en.wikipedia.org/wiki/Stonepeak"
+  },
+  {
+   "name": "Summit Partners",
+   "country": "United States",
+   "url": "http://www.summitpartners.com/",
+   "city": "Boston",
+   "aum": "US$35 billion (2024)",
+   "founded": "1984",
+   "wiki": "https://en.wikipedia.org/wiki/Summit_Partners"
+  },
+  {
+   "name": "Sun Capital Partners",
+   "country": "United States",
+   "url": "http://www.suncappart.com",
+   "city": "Boca Raton",
+   "aum": "",
+   "founded": "1995",
+   "wiki": "https://en.wikipedia.org/wiki/Sun_Capital_Partners"
+  },
+  {
+   "name": "Sycamore Partners",
+   "country": "United States",
+   "url": "http://sycamorepartners.com",
+   "city": "New York City",
+   "aum": "",
+   "founded": "2011",
+   "wiki": "https://en.wikipedia.org/wiki/Sycamore_Partners"
+  },
+  {
+   "name": "Symphony Technology Group",
+   "country": "United States",
+   "url": "http://stg.com/",
+   "city": "Menlo Park",
+   "aum": "$12 billion (2025) , $11.7 billion (2024)",
+   "founded": "2017",
+   "wiki": "https://en.wikipedia.org/wiki/Symphony_Technology_Group"
+  },
+  {
+   "name": "TA Associates",
+   "country": "United States",
+   "url": "https://www.ta.com",
+   "city": "John Hancock Tower",
+   "aum": "$55 billion (2026)",
+   "founded": "1968",
+   "wiki": "https://en.wikipedia.org/wiki/TA_Associates"
+  },
+  {
+   "name": "Tavistock Group",
+   "country": "United States",
+   "url": "http://www.tavistock.com/",
+   "city": "The Bahamas",
+   "aum": "",
+   "founded": "1975",
+   "wiki": "https://en.wikipedia.org/wiki/Tavistock_Group"
+  },
+  {
+   "name": "Thayer Hidden Creek",
+   "country": "United States",
+   "url": "http://www.hciequity.com",
+   "city": "Washington",
+   "aum": "",
+   "founded": "1994",
+   "wiki": "https://en.wikipedia.org/wiki/Thayer_Hidden_Creek"
+  },
+  {
+   "name": "Thoma Bravo",
+   "country": "United States",
+   "url": "https://www.thomabravo.com/",
+   "city": "Chicago",
+   "aum": "US$71.9bn raised in five years (PEI 300 2026, rank 5)",
+   "founded": "",
+   "wiki": "https://en.wikipedia.org/wiki/Thoma_Bravo"
+  },
+  {
+   "name": "Thoma Cressey Bravo",
+   "country": "United States",
+   "url": "https://thomabravo.com",
+   "city": "Chicago",
+   "aum": "(2026)",
+   "founded": "2008",
+   "wiki": "https://en.wikipedia.org/wiki/Thoma_Cressey_Bravo"
+  },
+  {
+   "name": "Thomas H. Lee Partners",
+   "country": "United States",
+   "url": "https://thl.com",
+   "city": "Boston",
+   "aum": "$16.9 billion",
+   "founded": "1974",
+   "wiki": "https://en.wikipedia.org/wiki/Thomas_H._Lee_Partners"
+  },
+  {
+   "name": "TowerBrook Capital Partners",
+   "country": "United States",
+   "url": "http://www.towerbrook.com/",
+   "city": "London and New York City",
+   "aum": "USD$25 billion",
+   "founded": "2005",
+   "wiki": "https://en.wikipedia.org/wiki/TowerBrook_Capital_Partners"
+  },
+  {
+   "name": "TPG Capital",
+   "country": "United States",
+   "url": "https://tpg.com",
+   "city": "Corporate: Bank of America Tower",
+   "aum": "(2024)",
+   "founded": "1992",
+   "wiki": "https://en.wikipedia.org/wiki/TPG_Capital"
+  },
+  {
+   "name": "Trilantic Capital Partners",
+   "country": "United States",
+   "url": "http://www.trilantic.com",
+   "city": "New York",
+   "aum": "",
+   "founded": "2009",
+   "wiki": "https://en.wikipedia.org/wiki/Trilantic_Capital_Partners"
+  },
+  {
+   "name": "TSG Consumer Partners",
+   "country": "United States",
+   "url": "http://www.tsgconsumer.com",
+   "city": "Larkspur",
+   "aum": "US$20 billion",
+   "founded": "1986",
+   "wiki": "https://en.wikipedia.org/wiki/TSG_Consumer_Partners"
+  },
+  {
+   "name": "Värde Partners",
+   "country": "United States",
+   "url": "https://www.varde.com",
+   "city": "New York",
+   "aum": "US$16 billion (2025)",
+   "founded": "1993",
+   "wiki": "https://en.wikipedia.org/wiki/Värde_Partners"
+  },
+  {
+   "name": "Veritas Capital",
+   "country": "United States",
+   "url": "http://www.veritascapital.com",
+   "city": "New York City",
+   "aum": "> billion (2026)",
+   "founded": "1992",
+   "wiki": "https://en.wikipedia.org/wiki/Veritas_Capital"
+  },
+  {
+   "name": "Veronis Suhler Stevenson",
+   "country": "United States",
+   "url": "http://www.vss.com/",
+   "city": "New York",
+   "aum": "",
+   "founded": "1981",
+   "wiki": "https://en.wikipedia.org/wiki/Veronis_Suhler_Stevenson"
+  },
+  {
+   "name": "Vestar Capital Partners",
+   "country": "United States",
+   "url": "http://www.vestarcapital.com",
+   "city": "New York City",
+   "aum": "",
+   "founded": "1988",
+   "wiki": "https://en.wikipedia.org/wiki/Vestar_Capital_Partners"
+  },
+  {
+   "name": "Vista Equity Partners",
+   "country": "United States",
+   "url": "https://www.vistaequitypartners.com",
+   "city": "Austin",
+   "aum": "(2026)",
+   "founded": "2000",
+   "wiki": "https://en.wikipedia.org/wiki/Vista_Equity_Partners"
+  },
+  {
+   "name": "Vulcan Capital Management",
+   "country": "United States",
+   "url": "http://www.VulcanCapital.com",
+   "city": "New York City",
+   "aum": "",
+   "founded": "1997",
+   "wiki": "https://en.wikipedia.org/wiki/Vulcan_Capital_Management"
+  },
+  {
+   "name": "Warburg Pincus",
+   "country": "United States",
+   "url": "http://www.warburgpincus.com",
+   "city": "New York City",
+   "aum": "(2026)",
+   "founded": "1966",
+   "wiki": "https://en.wikipedia.org/wiki/Warburg_Pincus"
+  },
+  {
+   "name": "Warwick Energy Group",
+   "country": "United States",
+   "url": "https://warwickinvestmentgroup.com",
+   "city": "",
+   "aum": "",
+   "founded": "2010",
+   "wiki": "https://en.wikipedia.org/wiki/Warwick_Energy_Group"
+  },
+  {
+   "name": "Wind Point Partners",
+   "country": "United States",
+   "url": "http://www.wppartners.com",
+   "city": "Chicago",
+   "aum": "",
+   "founded": "1984",
+   "wiki": "https://en.wikipedia.org/wiki/Wind_Point_Partners"
+  },
+  {
+   "name": "WL Ross & Co.",
+   "country": "United States",
+   "url": "http://www.wlross.com",
+   "city": "New York City",
+   "aum": "",
+   "founded": "2000",
+   "wiki": "https://en.wikipedia.org/wiki/WL_Ross_&_Co."
+  },
+  {
+   "name": "Yucaipa Cos.",
+   "country": "United States",
+   "url": "http://yucaipaco.com",
+   "city": "Los Angeles",
+   "aum": "",
+   "founded": "1986",
+   "wiki": "https://en.wikipedia.org/wiki/Yucaipa_Cos."
+  },
+  {
+   "name": "Affinity Equity Partners",
+   "country": "Hong Kong",
+   "url": "http://www.affinityequity.com/",
+   "city": "Hong Kong",
+   "aum": "$14 billion (2023)",
+   "founded": "1998",
+   "wiki": "https://en.wikipedia.org/wiki/Affinity_Equity_Partners"
+  },
+  {
+   "name": "BGH Capital",
+   "country": "Australia",
+   "url": "https://www.bghcapital.com",
+   "city": "Melbourne",
+   "aum": "",
+   "founded": "2017",
+   "wiki": "https://en.wikipedia.org/wiki/BGH_Capital"
+  },
+  {
+   "name": "Boyu Capital",
+   "country": "Hong Kong",
+   "url": "https://www.boyucapital.com",
+   "city": "Two Pacific Place",
+   "aum": "(2022)",
+   "founded": "2010",
+   "wiki": "https://en.wikipedia.org/wiki/Boyu_Capital"
+  },
+  {
+   "name": "CBC Group",
+   "country": "Singapore",
+   "url": "https://www.cbridgecap.com",
+   "city": "CapitaSpring",
+   "aum": "US$7 billion (2023)",
+   "founded": "2014",
+   "wiki": "https://en.wikipedia.org/wiki/CBC_Group"
+  },
+  {
+   "name": "Centurium Capital",
+   "country": "China",
+   "url": "https://www.centurium.com/",
+   "city": "Beijing",
+   "aum": "(December 2023)",
+   "founded": "",
+   "wiki": "https://en.wikipedia.org/wiki/Centurium_Capital"
+  },
+  {
+   "name": "China Chengtong Holdings Group",
+   "country": "China",
+   "url": "http://www.cctgroup.com.cn/",
+   "city": "Beijing",
+   "aum": "",
+   "founded": "1992",
+   "wiki": "https://en.wikipedia.org/wiki/China_Chengtong_Holdings_Group"
+  },
+  {
+   "name": "China Media Capital",
+   "country": "China",
+   "url": "https://www.cmccap.com/",
+   "city": "Shanghai",
+   "aum": "",
+   "founded": "2009",
+   "wiki": "https://en.wikipedia.org/wiki/China_Media_Capital"
+  },
+  {
+   "name": "China Reform Fund Management",
+   "country": "China",
+   "url": "https://www.crhc.cn",
+   "city": "Beijing",
+   "aum": "",
+   "founded": "2010",
+   "wiki": "https://en.wikipedia.org/wiki/China_Reform_Fund_Management"
+  },
+  {
+   "name": "CITIC Capital",
+   "country": "China",
+   "url": "https://www.citiccapital.com",
+   "city": "CITIC Tower",
+   "aum": "US$15 billion (2024)",
+   "founded": "2002",
+   "wiki": "https://en.wikipedia.org/wiki/CITIC_Capital"
+  },
+  {
+   "name": "CPE",
+   "country": "China",
+   "url": "https://www.cpe-fund.com/",
+   "city": "Beijing",
+   "aum": "US$14 billion (2024)",
+   "founded": "2008",
+   "wiki": "https://en.wikipedia.org/wiki/CPE_(investment_firm)"
+  },
+  {
+   "name": "DCP Capital",
+   "country": "China",
+   "url": "https://dcpcapital.com",
+   "city": "Beijing",
+   "aum": "(2023)",
+   "founded": "2017",
+   "wiki": "https://en.wikipedia.org/wiki/DCP_Capital"
+  },
+  {
+   "name": "Dymon Asia Private Equity",
+   "country": "Singapore",
+   "url": "https://www.dymonasia.com/",
+   "city": "",
+   "aum": "US$4.8 billion (2025)",
+   "founded": "2008",
+   "wiki": "https://en.wikipedia.org/wiki/Dymon_Asia"
+  },
+  {
+   "name": "Ekuinas",
+   "country": "Malaysia",
+   "url": "http://www.ekuinas.com.my/",
+   "city": "Surian Tower",
+   "aum": "nowrap| RM4.1 billion (2014)",
+   "founded": "2009",
+   "wiki": "https://en.wikipedia.org/wiki/Ekuinas"
+  },
+  {
+   "name": "FountainVest Partners",
+   "country": "Hong Kong",
+   "url": "https://fountainvest.com",
+   "city": "Two IFC",
+   "aum": "(2022)",
+   "founded": "2007",
+   "wiki": "https://en.wikipedia.org/wiki/FountainVest_Partners"
+  },
+  {
+   "name": "Hony Capital",
+   "country": "China",
+   "url": "http://www.honycapital.com",
+   "city": "Beijing",
+   "aum": "US$13 Billion (2023)",
+   "founded": "",
+   "wiki": "https://en.wikipedia.org/wiki/Hony_Capital"
+  },
+  {
+   "name": "Hopu Investment Management",
+   "country": "China",
+   "url": "https://www.hopucap.com",
+   "city": "Singapore",
+   "aum": "US$15 billion (2025)",
+   "founded": "2008",
+   "wiki": "https://en.wikipedia.org/wiki/Hopu_Investment_Management"
+  },
+  {
+   "name": "JIC Capital",
+   "country": "Japan",
+   "url": "https://www.j-ic.co.jp/",
+   "city": "Toranomon",
+   "aum": "",
+   "founded": "2018",
+   "wiki": "https://en.wikipedia.org/wiki/Japan_Investment_Corporation"
+  },
+  {
+   "name": "MBK Partners",
+   "country": "South Korea",
+   "url": "https://www.mbkpartnerslp.com/",
+   "city": "",
+   "aum": "US$33 billion",
+   "founded": "2005",
+   "wiki": "https://en.wikipedia.org/wiki/MBK_Partners"
+  },
+  {
+   "name": "Pacific Equity Partners",
+   "country": "Australia",
+   "url": "http://www.pep.com.au/",
+   "city": "Sydney",
+   "aum": "(2025)",
+   "founded": "1998",
+   "wiki": "https://en.wikipedia.org/wiki/Pacific_Equity_Partners"
+  },
+  {
+   "name": "PAG",
+   "country": "Hong Kong",
+   "url": "https://www.pag.com/en/",
+   "city": "",
+   "aum": "US$55 billion (2023)",
+   "founded": "2002",
+   "wiki": "https://en.wikipedia.org/wiki/PAG_(investment_firm)"
+  },
+  {
+   "name": "Quadria Capital",
+   "country": "Singapore",
+   "url": "http://www.quadriacapital.com",
+   "city": "Singapore",
+   "aum": "",
+   "founded": "2012",
+   "wiki": "https://en.wikipedia.org/wiki/Quadria_Capital"
+  },
+  {
+   "name": "Quadrant Private Equity",
+   "country": "Australia",
+   "url": "http://quadrantpe.com.au/",
+   "city": "Sydney",
+   "aum": "",
+   "founded": "1996",
+   "wiki": "https://en.wikipedia.org/wiki/Quadrant_Private_Equity"
+  },
+  {
+   "name": "Yunfeng Capital",
+   "country": "China",
+   "url": "http://www.yfc.cn/",
+   "city": "Shanghai",
+   "aum": "US$20 billion (2021)",
+   "founded": "2010",
+   "wiki": "https://en.wikipedia.org/wiki/Yunfeng_Capital"
+  },
+  {
+   "name": "3i",
+   "country": "United Kingdom",
+   "url": "https://www.3i.com/",
+   "city": "London",
+   "aum": "£36.8 billion (2026)",
+   "founded": "1945",
+   "wiki": "https://en.wikipedia.org/wiki/3i"
+  },
+  {
+   "name": "Actis",
+   "country": "United Kingdom",
+   "url": "http://www.act.is",
+   "city": "London",
+   "aum": "$14.1 billion (2024)",
+   "founded": "2004",
+   "wiki": "https://en.wikipedia.org/wiki/Actis_Capital"
+  },
+  {
+   "name": "AlpInvest Partners",
+   "country": "Netherlands",
+   "url": "http://www.alpinvest.com/",
+   "city": "New York",
+   "aum": "",
+   "founded": "1999",
+   "wiki": "https://en.wikipedia.org/wiki/AlpInvest_Partners"
+  },
+  {
+   "name": "Altor Equity Partners",
+   "country": "Sweden",
+   "url": "http://www.altor.com",
+   "city": "Stockholm",
+   "aum": "",
+   "founded": "2003",
+   "wiki": "https://en.wikipedia.org/wiki/Altor_Equity_Partners"
+  },
+  {
+   "name": "Apax Partners",
+   "country": "United Kingdom",
+   "url": "https://www.apax.com",
+   "city": "London",
+   "aum": "US$77 billion",
+   "founded": "1972",
+   "wiki": "https://en.wikipedia.org/wiki/Apax_Partners"
+  },
+  {
+   "name": "Arcapita",
+   "country": "Bahrain",
+   "url": "https://arcapita.com",
+   "city": "Manama",
+   "aum": "",
+   "founded": "1997",
+   "wiki": "https://en.wikipedia.org/wiki/Arcapita"
+  },
+  {
+   "name": "Ardian",
+   "country": "France",
+   "url": "http://www.ardian.com",
+   "city": "Paris",
+   "aum": "",
+   "founded": "1996",
+   "wiki": "https://en.wikipedia.org/wiki/Ardian_(company)"
+  },
+  {
+   "name": "Argentum Fondsinvesteringer",
+   "country": "Norway",
+   "url": "http://www.argentum.no/",
+   "city": "Bergen",
+   "aum": "",
+   "founded": "2001",
+   "wiki": "https://en.wikipedia.org/wiki/Argentum_Fondsinvesteringer"
+  },
+  {
+   "name": "Axcel",
+   "country": "Denmark",
+   "url": "http://www.axcel.com",
+   "city": "Copenhagen",
+   "aum": "",
+   "founded": "1994",
+   "wiki": "https://en.wikipedia.org/wiki/Axcel"
+  },
+  {
+   "name": "Aurelius Group",
+   "country": "Germany",
+   "url": "http://www.aureliusinvest.de/",
+   "city": "",
+   "aum": "",
+   "founded": "2005",
+   "wiki": "https://en.wikipedia.org/wiki/Aurelius_Group"
+  },
+  {
+   "name": "Baring Vostok Capital Partners",
+   "country": "Russia",
+   "url": "http://www.baring-vostok.com",
+   "city": "Moscow",
+   "aum": "",
+   "founded": "",
+   "wiki": "https://en.wikipedia.org/wiki/Baring_Vostok_Capital_Partners"
+  },
+  {
+   "name": "BC Partners",
+   "country": "United Kingdom",
+   "url": "http://www.bcpartners.com",
+   "city": "London",
+   "aum": "$40+ billion",
+   "founded": "1986",
+   "wiki": "https://en.wikipedia.org/wiki/BC_Partners"
+  },
+  {
+   "name": "Business Growth Fund",
+   "country": "United Kingdom",
+   "url": "https://www.bgf.co.uk/",
+   "city": "",
+   "aum": "",
+   "founded": "2011",
+   "wiki": "https://en.wikipedia.org/wiki/Business_Growth_Fund"
+  },
+  {
+   "name": "BIP Investment Partners",
+   "country": "Luxembourg",
+   "url": "http://www.bip.lu",
+   "city": "rue des Coquelicots",
+   "aum": "",
+   "founded": "2000",
+   "wiki": "https://en.wikipedia.org/wiki/BIP_Investment_Partners"
+  },
+  {
+   "name": "Bridgepoint Capital",
+   "country": "United Kingdom",
+   "url": "https://www.bridgepointgroup.com/",
+   "city": "London",
+   "aum": "£38.8 billion (December 2025)",
+   "founded": "1984",
+   "wiki": "https://en.wikipedia.org/wiki/Bridgepoint_Capital"
+  },
+  {
+   "name": "CapMan",
+   "country": "Finland",
+   "url": "https://www.capman.com/",
+   "city": "Helsinki",
+   "aum": "",
+   "founded": "",
+   "wiki": "https://en.wikipedia.org/wiki/CapMan"
+  },
+  {
+   "name": "Capvis",
+   "country": "Switzerland",
+   "url": "http://www.capvis.com/",
+   "city": "Baar",
+   "aum": "",
+   "founded": "1990",
+   "wiki": "https://en.wikipedia.org/wiki/Capvis"
+  },
+  {
+   "name": "Charterhouse Capital Partners",
+   "country": "United Kingdom",
+   "url": "https://www.charterhouse.co.uk/",
+   "city": "London",
+   "aum": "",
+   "founded": "1934",
+   "wiki": "https://en.wikipedia.org/wiki/Charterhouse_Capital_Partners"
+  },
+  {
+   "name": "Close Brothers Group",
+   "country": "United Kingdom",
+   "url": "https://www.closebrothers.com/",
+   "city": "London",
+   "aum": "",
+   "founded": "1878",
+   "wiki": "https://en.wikipedia.org/wiki/Close_Brothers_Group"
+  },
+  {
+   "name": "Coller Capital",
+   "country": "United Kingdom",
+   "url": "http://www.collercapital.com/",
+   "city": "London",
+   "aum": "$50 billion (2026)",
+   "founded": "1990",
+   "wiki": "https://en.wikipedia.org/wiki/Coller_Capital"
+  },
+  {
+   "name": "Conquest Asset Management",
+   "country": "Luxembourg",
+   "url": "http://www.conquest.group/asset",
+   "city": "Ireland",
+   "aum": "",
+   "founded": "2010",
+   "wiki": "https://en.wikipedia.org/wiki/Conquest_Asset_Management"
+  },
+  {
+   "name": "Copenhagen Infrastructure Partners",
+   "country": "Denmark",
+   "url": "https://www.cip.com/",
+   "city": "Copenhagen",
+   "aum": "",
+   "founded": "2012",
+   "wiki": "https://en.wikipedia.org/wiki/Copenhagen_Infrastructure_Partners"
+  },
+  {
+   "name": "C.W. Obel",
+   "country": "Denmark",
+   "url": "http://www.cwobel.dk/",
+   "city": "Copenhagen",
+   "aum": "",
+   "founded": "",
+   "wiki": "https://en.wikipedia.org/wiki/C.W._Obel"
+  },
+  {
+   "name": "CVC Capital Partners",
+   "country": "Luxembourg",
+   "url": "https://www.cvc.com/",
+   "city": "St Helier",
+   "aum": "billion (2025)",
+   "founded": "1981",
+   "wiki": "https://en.wikipedia.org/wiki/CVC_Capital_Partners"
+  },
+  {
+   "name": "Doughty Hanson & Co",
+   "country": "United Kingdom",
+   "url": "http://www.doughtyhanson.com/",
+   "city": "London",
+   "aum": "",
+   "founded": "1985",
+   "wiki": "https://en.wikipedia.org/wiki/Doughty_Hanson_&_Co"
+  },
+  {
+   "name": "EMVest Asset Management",
+   "country": "South Africa",
+   "url": "http://www.emvest.com",
+   "city": "Pretoria",
+   "aum": "",
+   "founded": "2011",
+   "wiki": "https://en.wikipedia.org/wiki/EMVest_Asset_Management"
+  },
+  {
+   "name": "Ferd",
+   "country": "Norway",
+   "url": "https://ferd.no",
+   "city": "Bærum",
+   "aum": "",
+   "founded": "2001",
+   "wiki": "https://en.wikipedia.org/wiki/Ferd_(company)"
+  },
+  {
+   "name": "GFH Capital",
+   "country": "Bahrain",
+   "url": "http://www.gfh-capital.com",
+   "city": "Manama",
+   "aum": "",
+   "founded": "1999",
+   "wiki": "https://en.wikipedia.org/wiki/GFH_Capital"
+  },
+  {
+   "name": "GIMV",
+   "country": "Belgium",
+   "url": "https://www.gimv.com",
+   "city": "Antwerp",
+   "aum": "",
+   "founded": "1980",
+   "wiki": "https://en.wikipedia.org/wiki/GIMV"
+  },
+  {
+   "name": "Graphite Capital",
+   "country": "United Kingdom",
+   "url": "http://www.graphitecapital.com/",
+   "city": "London",
+   "aum": "",
+   "founded": "1981",
+   "wiki": "https://en.wikipedia.org/wiki/Graphite_Capital"
+  },
+  {
+   "name": "GK Investment",
+   "country": "Switzerland",
+   "url": "http://www.gkinvest.com/en",
+   "city": "Lugano",
+   "aum": "",
+   "founded": "2015",
+   "wiki": "https://en.wikipedia.org/wiki/GK_Investment"
+  },
+  {
+   "name": "HgCapital",
+   "country": "United Kingdom",
+   "url": "http://www.hgcapital.com/",
+   "city": "London",
+   "aum": "",
+   "founded": "2000",
+   "wiki": "https://en.wikipedia.org/wiki/HgCapital"
+  },
+  {
+   "name": "IK Investment Partners",
+   "country": "United Kingdom",
+   "url": "https://ikpartners.com",
+   "city": "London",
+   "aum": "",
+   "founded": "1989",
+   "wiki": "https://en.wikipedia.org/wiki/IK_Investment_Partners"
+  },
+  {
+   "name": "Intermediate Capital Group",
+   "country": "United Kingdom",
+   "url": "https://www.icgam.com",
+   "city": "London",
+   "aum": "$126 billion (2026)",
+   "founded": "1989",
+   "wiki": "https://en.wikipedia.org/wiki/Intermediate_Capital_Group"
+  },
+  {
+   "name": "Investcorp",
+   "country": "Bahrain",
+   "url": "https://www.investcorp.com/",
+   "city": "Manama",
+   "aum": "US$62.3 billion",
+   "founded": "1982",
+   "wiki": "https://en.wikipedia.org/wiki/Investcorp"
+  },
+  {
+   "name": "Kennet Partners",
+   "country": "United Kingdom",
+   "url": "http://www.kennet.com",
+   "city": "London",
+   "aum": "",
+   "founded": "1997",
+   "wiki": "https://en.wikipedia.org/wiki/Kennet_Partners"
+  },
+  {
+   "name": "Kistefos",
+   "country": "Norway",
+   "url": "https://kistefos.no",
+   "city": "Oslo",
+   "aum": "",
+   "founded": "1889",
+   "wiki": "https://en.wikipedia.org/wiki/Kistefos"
+  },
+  {
+   "name": "LGT Capital Partners",
+   "country": "Liechtenstein",
+   "url": "https://www.lgt.com",
+   "city": "Vaduz",
+   "aum": "CHF 386.1 billion",
+   "founded": "",
+   "wiki": "https://en.wikipedia.org/wiki/LGT_Capital_Partners"
+  },
+  {
+   "name": "M. Goldschmidt Holding",
+   "country": "Denmark",
+   "url": "http://www.mgh.dk",
+   "city": "Copenhagen",
+   "aum": "",
+   "founded": "1979",
+   "wiki": "https://en.wikipedia.org/wiki/M._Goldschmidt_Holding"
+  },
+  {
+   "name": "Marfin Investment Group",
+   "country": "Greece",
+   "url": "https://www.migholdingssa.com/en/",
+   "city": "Athens",
+   "aum": "",
+   "founded": "1988",
+   "wiki": "https://en.wikipedia.org/wiki/Marfin_Investment_Group"
+  },
+  {
+   "name": "Meyer Bergman",
+   "country": "United Kingdom",
+   "url": "https://thisismark.com/",
+   "city": "London",
+   "aum": "€7 billion (2021)",
+   "founded": "2004",
+   "wiki": "https://en.wikipedia.org/wiki/Meyer_Bergman"
+  },
+  {
+   "name": "Mid Europa Partners",
+   "country": "Hungary",
+   "url": "https://www.mideuropa.com",
+   "city": "London",
+   "aum": "",
+   "founded": "1999",
+   "wiki": "https://en.wikipedia.org/wiki/Mid_Europa_Partners"
+  },
+  {
+   "name": "Mubadala Investment Company",
+   "country": "United Arab Emirates",
+   "url": "https://www.mubadala.com/",
+   "city": "Abu Dhabi",
+   "aum": "US$330 billion (2024)",
+   "founded": "2017",
+   "wiki": "https://en.wikipedia.org/wiki/Mubadala_Investment_Company"
+  },
+  {
+   "name": "Mutares",
+   "country": "Germany",
+   "url": "https://mutares.com/",
+   "city": "Munich",
+   "aum": "",
+   "founded": "2008",
+   "wiki": "https://en.wikipedia.org/wiki/Mutares"
+  },
+  {
+   "name": "Nordic Capital",
+   "country": "Sweden",
+   "url": "https://www.nordiccapital.com/",
+   "city": "",
+   "aum": "$50 billion (2026)",
+   "founded": "1989",
+   "wiki": "https://en.wikipedia.org/wiki/Nordic_Capital"
+  },
+  {
+   "name": "Norfund",
+   "country": "Norway",
+   "url": "http://www.norfund.no",
+   "city": "Oslo",
+   "aum": "",
+   "founded": "1997",
+   "wiki": "https://en.wikipedia.org/wiki/Norfund"
+  },
+  {
+   "name": "PAI Partners",
+   "country": "France",
+   "url": "http://www.paipartners.com/",
+   "city": "rue de la Paix",
+   "aum": "",
+   "founded": "1998",
+   "wiki": "https://en.wikipedia.org/wiki/PAI_Partners"
+  },
+  {
+   "name": "Pantheon Ventures",
+   "country": "United Kingdom",
+   "url": "http://www.pantheon.com",
+   "city": "London",
+   "aum": "US$60.9 billion (2023)",
+   "founded": "1982",
+   "wiki": "https://en.wikipedia.org/wiki/Pantheon_Ventures"
+  },
+  {
+   "name": "Partners Group",
+   "country": "Switzerland",
+   "url": "https://www.partnersgroup.com/",
+   "city": "Baar",
+   "aum": "US$186 billion (2026)",
+   "founded": "1996",
+   "wiki": "https://en.wikipedia.org/wiki/Partners_Group"
+  },
+  {
+   "name": "Permira",
+   "country": "United Kingdom",
+   "url": "https://www.permira.com/",
+   "city": "London",
+   "aum": "€80 billion (2024)",
+   "founded": "1985",
+   "wiki": "https://en.wikipedia.org/wiki/Permira"
+  },
+  {
+   "name": "Phoenix Equity Partners",
+   "country": "United Kingdom",
+   "url": "http://www.phoenix-equity.com",
+   "city": "London",
+   "aum": "",
+   "founded": "2001",
+   "wiki": "https://en.wikipedia.org/wiki/Phoenix_Equity_Partners"
+  },
+  {
+   "name": "Ratos",
+   "country": "Sweden",
+   "url": "https://www.ratos.com/",
+   "city": "Stockholm",
+   "aum": "",
+   "founded": "1933",
+   "wiki": "https://en.wikipedia.org/wiki/Ratos"
+  },
+  {
+   "name": "SL Capital Partners",
+   "country": "United Kingdom",
+   "url": "https://standardlife.co.uk",
+   "city": "",
+   "aum": "",
+   "founded": "1825",
+   "wiki": "https://en.wikipedia.org/wiki/SL_Capital_Partners"
+  },
+  {
+   "name": "Sofina",
+   "country": "Belgium",
+   "url": "https://www.sofinagroup.com/",
+   "city": "",
+   "aum": "",
+   "founded": "",
+   "wiki": "https://en.wikipedia.org/wiki/Sofina"
+  },
+  {
+   "name": "Terra Firma Capital Partners",
+   "country": "United Kingdom",
+   "url": "http://www.terrafirma.com",
+   "city": "London",
+   "aum": "",
+   "founded": "2002",
+   "wiki": "https://en.wikipedia.org/wiki/Terra_Firma_Capital_Partners"
+  },
+  {
+   "name": "Unbound Group",
+   "country": "United Kingdom",
+   "url": "http://www.electraequity.com",
+   "city": "London",
+   "aum": "",
+   "founded": "1976",
+   "wiki": "https://en.wikipedia.org/wiki/Unbound_Group"
+  },
+  {
+   "name": "Vitruvian Partners",
+   "country": "United Kingdom",
+   "url": "http://www.vitruvianpartners.com",
+   "city": "London",
+   "aum": "",
+   "founded": "2006",
+   "wiki": "https://en.wikipedia.org/wiki/Vitruvian_Partners"
+  }
+ ],
+ "skipped": [
+  {
+   "name": "American Securities",
+   "country": "United States",
+   "reason": "defunct"
+  },
+  {
+   "name": "Avenue Capital Group",
+   "country": "United States",
+   "reason": "defunct"
+  },
+  {
+   "name": "Chicago Growth Partners",
+   "country": "United States",
+   "reason": "site check failed (404)"
+  },
+  {
+   "name": "CIVC Partners",
+   "country": "United States",
+   "reason": "site check failed (200)"
+  },
+  {
+   "name": "Crossroads Group",
+   "country": "United States",
+   "reason": "defunct"
+  },
+  {
+   "name": "Cypress Group",
+   "country": "United States",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "Defoe Fournier & Cie.",
+   "country": "United States",
+   "reason": "defunct"
+  },
+  {
+   "name": "Diamond Castle Holdings",
+   "country": "United States",
+   "reason": "site check failed (404)"
+  },
+  {
+   "name": "Forstmann Little & Company",
+   "country": "United States",
+   "reason": "defunct"
+  },
+  {
+   "name": "Heartland Industrial Partners",
+   "country": "United States",
+   "reason": "defunct"
+  },
+  {
+   "name": "HM Capital Partners",
+   "country": "United States",
+   "reason": "defunct"
+  },
+  {
+   "name": "InterMedia Partners",
+   "country": "United States",
+   "reason": "site check failed (404)"
+  },
+  {
+   "name": "Lovell Minnick Partners",
+   "country": "United States",
+   "reason": "no website"
+  },
+  {
+   "name": "MatlinPatterson Global Advisors",
+   "country": "United States",
+   "reason": "site check failed (404)"
+  },
+  {
+   "name": "Morgan Stanley Private Equity",
+   "country": "United States",
+   "reason": "no website"
+  },
+  {
+   "name": "Providence Equity Partners",
+   "country": "United States",
+   "reason": "no website"
+  },
+  {
+   "name": "Quadrangle Group",
+   "country": "United States",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "Ripplewood Holdings",
+   "country": "United States",
+   "reason": "no website"
+  },
+  {
+   "name": "Trivest",
+   "country": "United States",
+   "reason": "site check failed (200)"
+  },
+  {
+   "name": "Welsh, Carson, Anderson & Stowe",
+   "country": "United States",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "Wesray Capital Corporation",
+   "country": "United States",
+   "reason": "no website"
+  },
+  {
+   "name": "Weston Presidio",
+   "country": "United States",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "Willis Stein & Partners",
+   "country": "United States",
+   "reason": "site check failed (200)"
+  },
+  {
+   "name": "Zelnick Media Capital",
+   "country": "United States",
+   "reason": "no website"
+  },
+  {
+   "name": "Archer Capital",
+   "country": "Australia",
+   "reason": "site check failed (404)"
+  },
+  {
+   "name": "Axiom Asia",
+   "country": "Singapore",
+   "reason": "defunct"
+  },
+  {
+   "name": "China Merchants Capital",
+   "country": "China",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "Leopard Capital LP",
+   "country": "Cambodia",
+   "reason": "no website"
+  },
+  {
+   "name": "Northstar Group",
+   "country": "Singapore",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "RRJ Capital",
+   "country": "Singapore",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "Seavi Advent",
+   "country": "Singapore",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "Tybourne Capital Management",
+   "country": "Hong Kong",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "Zhongzhi Capital",
+   "country": "China",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "Butler Capital Partners",
+   "country": "France",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "Capital Dynamics",
+   "country": "Switzerland",
+   "reason": "no website"
+  },
+  {
+   "name": "Cinven",
+   "country": "United Kingdom",
+   "reason": "site check failed (404)"
+  },
+  {
+   "name": "Dubai International Capital",
+   "country": "United Arab Emirates",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "Duke Street Capital",
+   "country": "United Kingdom",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "Fondinvest Capital",
+   "country": "France",
+   "reason": "site check failed (404)"
+  },
+  {
+   "name": "ICT Group",
+   "country": "Russia",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "Idinvest Partners",
+   "country": "France",
+   "reason": "site check failed (404)"
+  },
+  {
+   "name": "IFD Kapital Group",
+   "country": "Russia",
+   "reason": "defunct"
+  },
+  {
+   "name": "Jadwa Investment",
+   "country": "Saudi Arabia",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "MerchantBridge",
+   "country": "United Kingdom",
+   "reason": "defunct"
+  },
+  {
+   "name": "OpCapita",
+   "country": "United Kingdom",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "Silverfleet Capital Partners",
+   "country": "United Kingdom",
+   "reason": "site check failed (000)"
+  },
+  {
+   "name": "SVG Capital",
+   "country": "United Kingdom",
+   "reason": "defunct"
+  }
+ ]
+}

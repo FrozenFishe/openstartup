@@ -3,6 +3,8 @@
 
 research/countries/*.json  (one array per regional batch, see research/SCHEMA.md)
 research/global/accelerators.json, research/global/resources.json
+research/wikipedia/vcs.json  (Wikipedia's List of venture capital firms, extra investors per country)
+research/wikipedia/pe.json   (Wikipedia's List of private equity firms, a separate "pe" list per country)
         |
         v
 data/*.csv, data/openstartup.json, data/openstartup.xlsx
@@ -53,11 +55,12 @@ ALIAS = {
 POINTS = {"Tuvalu": [179.2, -8.5]}  # no 1:50m polygon: [lon, lat]
 
 TIERS = {"global_hub", "established", "emerging", "nascent"}
-LISTS = ("grants", "accelerators", "vcs", "resources")
+LISTS = ("grants", "accelerators", "vcs", "pe", "resources")
 FIELDS = {
     "grants": ["name", "agency", "amount", "amount_usd_max", "eligibility", "deadline", "status", "url"],
     "accelerators": ["name", "city", "type", "investment", "sectors", "deadline", "next_cohort", "status", "url"],
-    "vcs": ["name", "city", "stage", "check_size", "sectors", "type", "url"],
+    "vcs": ["name", "city", "stage", "check_size", "aum", "sectors", "type", "url", "source"],
+    "pe": ["name", "city", "aum", "founded", "url", "source"],
     "resources": ["name", "type", "url", "note"],
 }
 G_ACC = ["name", "organizer", "type", "locations", "countries_eligible", "investment", "equity", "sectors",
@@ -96,7 +99,25 @@ def dedupe(items):
     return out
 
 
+def load_wikipedia(kind):
+    """Country -> firms from a Wikipedia list (research/wikipedia/<kind>.json), shaped like that list's entries."""
+    f = RESEARCH / "wikipedia" / f"{kind}.json"
+    if not f.exists():
+        return {}
+    src = json.loads(f.read_text(encoding="utf-8"))
+    label = {"vcs": "Wikipedia: List of venture capital firms", "pe": "Wikipedia: List of private equity firms"}[kind]
+    out = {}
+    for x in src["firms"]:
+        row = {"name": x["name"], "city": x.get("city", ""), "aum": x.get("aum", ""), "founded": x.get("founded", ""),
+               "url": x["url"], "source": label}
+        if kind == "vcs":
+            row.update(stage="", check_size="unknown", sectors="", type="vc")
+        out.setdefault(x["country"], []).append(row)
+    return out
+
+
 def load_countries(problems):
+    wiki = {k: load_wikipedia(k) for k in ("vcs", "pe")}
     batches = json.loads((RESEARCH / "batches.json").read_text(encoding="utf-8"))
     want = {c: b for b, cs in batches.items() for c in cs}
     got = {}
@@ -131,6 +152,8 @@ def load_countries(problems):
         }
         for k in LISTS:
             items = [tidy(x, FIELDS[k], problems, f"{name}/{k}") for x in (r.get(k) or []) if isinstance(x, dict)]
+            if k in wiki:  # research entries first, then Wikipedia firms not already listed
+                items += [tidy(x, FIELDS[k], problems, f"{name}/wikipedia-{k}") for x in wiki[k].get(name, [])]
             d[k] = dedupe([x for x in items if x])
         out.append(d)
     return sorted(out, key=lambda d: d["country"])
@@ -163,10 +186,10 @@ def write_csv(path, header, rows):
 def write_data(countries, glob):
     DATA.mkdir(exist_ok=True)
     files = []
-    head = ["country", "iso2", "region", "ecosystem_tier", "accelerators", "vcs", "grants", "resources",
+    head = ["country", "iso2", "region", "ecosystem_tier", "accelerators", "vcs", "private_equity", "grants", "resources",
             "startup_visa", "company_setup", "summary", "notes", "confidence", "sources"]
     write_csv(DATA / "countries.csv", head, [[d["country"], d["iso2"], d["region"], d["tier"],
-              *(len(d[k]) for k in ("accelerators", "vcs", "grants", "resources")),
+              *(len(d[k]) for k in ("accelerators", "vcs", "pe", "grants", "resources")),
               d["startup_visa"], d["company_setup"], d["summary"], d["notes"], d["confidence"], "; ".join(d["sources"])]
               for d in countries])
     files.append("countries.csv")
@@ -193,8 +216,8 @@ def write_xlsx(countries, glob):
     except ImportError:
         print("openpyxl not installed: skipping openstartup.xlsx")
         return False
-    head_fill, head_font = PatternFill("solid", start_color="0D6B66"), Font(color="FFFFFF", bold=True)
-    tier_fill = {"global_hub": "0B4F4B", "established": "4A9E95", "emerging": "B9DBD6", "nascent": "E4EFED"}
+    head_fill, head_font = PatternFill("solid", start_color="1D4ED8"), Font(color="FFFFFF", bold=True)
+    tier_fill = {"global_hub": "0B2A6F", "established": "1D4ED8", "emerging": "93B8FD", "nascent": "DBE7FF"}
     wb = Workbook()
     wb.remove(wb.active)
 
@@ -214,20 +237,20 @@ def write_xlsx(countries, glob):
                 c.alignment = Alignment(vertical="top", wrap_text=True)
         return ws
 
-    ws = sheet("Countries", ["Country", "Region", "Ecosystem", "Accelerators", "VCs", "Grants", "Resources",
+    ws = sheet("Countries", ["Country", "Region", "Ecosystem", "Accelerators", "VCs", "Private equity", "Grants", "Resources",
                              "Startup visa", "Company setup", "Summary", "Confidence"],
-               [[d["country"], d["region"], d["tier"], len(d["accelerators"]), len(d["vcs"]), len(d["grants"]),
+               [[d["country"], d["region"], d["tier"], len(d["accelerators"]), len(d["vcs"]), len(d["pe"]), len(d["grants"]),
                  len(d["resources"]), d["startup_visa"], d["company_setup"], d["summary"], d["confidence"]] for d in countries],
                {"Startup visa": 40, "Company setup": 40, "Summary": 60})
     for row in ws.iter_rows(min_row=2):
         col = tier_fill.get(row[2].value)
         if col:
             row[2].fill = PatternFill("solid", start_color=col)
-            if col in ("0B4F4B", "4A9E95"):
+            if col in ("0B2A6F", "1D4ED8"):
                 row[2].font = Font(color="FFFFFF")
     wide = {"name": 34, "eligibility": 40, "amount": 26, "investment": 28, "url": 40, "note": 40, "sectors": 26}
     for k in LISTS:
-        sheet(k.capitalize() if k != "vcs" else "VCs", ["country", *FIELDS[k]],
+        sheet({"vcs": "VCs", "pe": "Private equity"}.get(k, k.capitalize()), ["country", *FIELDS[k]],
               [[d["country"], *(x[f] for f in FIELDS[k])] for d in countries for x in d[k]], wide)
     sheet("Global programs", G_ACC, [[x[f] for f in G_ACC] for x in glob["accelerators"]], wide)
     sheet("Databases", G_RES, [[x[f] for f in G_RES] for x in glob["resources"]], wide)

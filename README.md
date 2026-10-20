@@ -4,7 +4,7 @@
 
 ### Every startup accelerator, VC, government grant and founder resource, for every country, on one map, with application deadlines.
 
-**202 countries · 769 accelerators · 979 investors · 659 grants · 1,165 local resources · 100 global programs · 77 databases · deadlines checked 20 October 2026**
+**202 countries · 769 accelerators · 1,093 VCs · 207 private equity firms · 659 grants · 1,165 local resources · 100 global programs · 77 databases · deadlines checked 20 October 2026**
 
 [![Live atlas](https://img.shields.io/badge/🗺️_live_atlas-open_the_map-1d4ed8?style=for-the-badge)](https://openstartup-qz7.pages.dev/)
 [![Download Excel](https://img.shields.io/badge/📗_workbook-Excel-217346?style=for-the-badge)](https://openstartup-qz7.pages.dev/data/openstartup.xlsx)
@@ -12,7 +12,8 @@
 
 [![Countries](https://img.shields.io/badge/countries-202-0b2a6f)](#-at-a-glance)
 [![Accelerators](https://img.shields.io/badge/accelerators-769-1d4ed8)](#-at-a-glance)
-[![Investors](https://img.shields.io/badge/investors-979-2f63e0)](#-at-a-glance)
+[![Investors](https://img.shields.io/badge/VCs-1093-2f63e0)](#-at-a-glance)
+[![Private equity](https://img.shields.io/badge/private_equity-207-075985)](#-at-a-glance)
 [![Grants](https://img.shields.io/badge/grants-659-4a7ff0)](#-at-a-glance)
 [![Deadlines in 30 days](https://img.shields.io/badge/deadlines_next_30_days-50-1d4ed8)](#-closing-soon)
 [![Hosted on Cloudflare Pages](https://img.shields.io/badge/hosted_on-Cloudflare_Pages-F38020?logo=cloudflare&logoColor=white)](https://openstartup-qz7.pages.dev/)
@@ -36,8 +37,9 @@
 | 🗺️ | **World map** | Colour every country by all listings, region, ecosystem tier, accelerators, VCs, grants, upcoming deadlines or startup visa. Counts run from pale to deep blue in nine steps. Zoom, pan and tap any country. |
 | 🎨 | **Shades of blue** | A white page where every distinction is a different blue: each region, ecosystem tier and listing type (teal-blue grants, royal-blue accelerators, navy investors, indigo resources, sky-blue global programs) has its own shade. Deadlines darken as they get closer: navy within 7 days, royal blue within 30, lighter blues further out, indigo for rolling, grey for closed. |
 | 📅 | **Deadline ledger** | Every dated application call in the atlas (country accelerators and grants plus global programs), soonest first, grouped by month. Window: 30 days, 90 days, 12 months, all dated, or rolling only. A program listed for many countries (EIC Accelerator, YC, Techstars) shows once with every country named. |
-| 📄 | **Country dossier** | Ecosystem summary, startup visa, how to set up the company, caveats, upcoming deadlines, then tabs for grants, accelerators, investors and resources, each with its deadline badge and official link, plus sources. |
+| 📄 | **Country dossier** | Ecosystem summary, startup visa, how to set up the company, caveats, upcoming deadlines, then tabs for grants, accelerators, VCs, private equity and resources, each with its deadline badge and official link, plus sources. |
 | 🌍 | **Global programs** | 100 accelerators, fellowships, competitions and perks open to founders anywhere: YC, Techstars, a16z speedrun, Antler, EF, Google for Startups, the EIC Accelerator, Thiel, Emergent Ventures, cloud credits and more. |
+| 🏦 | **Private equity** | A separate list of 207 private equity firms in 28 countries from Wikipedia's [List of private equity firms](https://en.wikipedia.org/wiki/List_of_private_equity_firms), with headquarters, founding year and assets or five-year fundraising (PEI 300) where Wikipedia gives them. It has its own dossier tab, list column, filter and map view. |
 | 🧰 | **Databases** | 77 cross-border tools: OpenVC, Airtree's open-source lists, Crunchbase, Dealroom, Signal, Grants.gov, the EU Funding & Tenders portal, Stripe Atlas, e-Residency, and others. |
 | 🎛️ | **Stackable filters** | Region, ecosystem tier, and must-haves (startup visa, upcoming deadline, accelerators, local VCs, grants) with live counts, plus free-text search across every program and fund name. |
 | 📱 | **Works on phones** | Filters fold away on small screens. Your filters are remembered in your browser. |
@@ -64,21 +66,23 @@
 
 ## 📈 At a glance
 
-| Region | Countries | Accelerators | Investors | Grants | Resources |
-|---|---:|---:|---:|---:|---:|
-| 🌍 Europe | 46 | 247 | 309 | 227 | 273 |
-| 🌍 Sub-Saharan Africa | 48 | 140 | 195 | 150 | 244 |
-| 🌎 Latin America & Caribbean | 33 | 124 | 110 | 66 | 210 |
-| 🌏 East Asia | 8 | 50 | 84 | 36 | 59 |
-| 🌏 Southeast Asia | 11 | 53 | 66 | 35 | 67 |
-| 🌍 Middle East & North Africa | 23 | 48 | 65 | 49 | 55 |
-| 🌎 North America | 3 | 33 | 41 | 24 | 24 |
-| 🌏 Oceania | 14 | 22 | 50 | 35 | 132 |
-| 🌏 South Asia | 8 | 24 | 33 | 22 | 55 |
-| 🌏 Central Asia & Caucasus | 8 | 28 | 26 | 15 | 46 |
-| | **202** | **769** | **979** | **659** | **1,165** |
+| Region | Countries | Accelerators | VCs | Private equity | Grants | Resources |
+|---|---:|---:|---:|---:|---:|---:|
+| 🌍 Europe | 46 | 247 | 321 | 52 | 227 | 273 |
+| 🌍 Sub-Saharan Africa | 48 | 140 | 195 | 1 | 150 | 244 |
+| 🌎 Latin America & Caribbean | 33 | 124 | 110 | 1 | 66 | 210 |
+| 🌎 North America | 3 | 33 | 129 | 126 | 24 | 24 |
+| 🌏 East Asia | 8 | 50 | 94 | 16 | 36 | 59 |
+| 🌏 Oceania | 14 | 22 | 50 | 3 | 35 | 132 |
+| 🌏 Southeast Asia | 11 | 53 | 68 | 4 | 35 | 67 |
+| 🌍 Middle East & North Africa | 23 | 48 | 67 | 4 | 49 | 55 |
+| 🌏 South Asia | 8 | 24 | 33 | 0 | 22 | 55 |
+| 🌏 Central Asia & Caucasus | 8 | 28 | 26 | 0 | 15 | 46 |
+| | **202** | **769** | **1,093** | **207** | **659** | **1,165** |
 
-**🏆 Deepest ecosystems in the atlas** (all listings): 🇬🇧 United Kingdom 67 · 🇺🇸 United States 67 · 🇮🇳 India 63 · 🇦🇺 Australia 60 · 🇯🇵 Japan 57 · 🇸🇬 Singapore 54 · 🇨🇳 China 50 · 🇩🇪 Germany 45 · 🇰🇷 South Korea 44 · 🇨🇦 Canada 43
+**🏆 Deepest ecosystems in the atlas** (all listings): 🇺🇸 United States 279 · 🇬🇧 United Kingdom 96 · 🇨🇳 China 67 · 🇦🇺 Australia 63 · 🇮🇳 India 63 · 🇯🇵 Japan 59 · 🇸🇬 Singapore 59 · 🇩🇪 Germany 50 · 🇨🇦 Canada 45 · 🇫🇷 France 45
+
+**🏦 Most private equity firms:** 🇺🇸 United States 125 · 🇬🇧 United Kingdom 23 · 🇨🇳 China 10 · Denmark 4 · 🇭🇰 Hong Kong 4 · Norway 4
 
 **🏛️ Most government grants:** 🇦🇺 Australia 16 · 🇮🇳 India 12 · 🇬🇧 UK 12 · 🇺🇸 US 12 · 🇩🇪 Germany 10 · 🇫🇷 France 9
 
@@ -121,7 +125,8 @@ All files are in [`data/`](data/) and served from the live site under `/data/`.
 |---|---:|---|
 | `countries.csv` | 202 | Region, ecosystem tier, counts, startup visa, company setup, summary, caveats, confidence, sources |
 | `accelerators.csv` | 769 | Name, city, type, investment terms, sectors, **deadline**, next cohort, status, URL |
-| `vcs.csv` | 979 | Name, city, stage, cheque size, sectors, type (VC, CVC, angel network, government fund, venture debt), URL |
+| `vcs.csv` | 1,093 | Name, city, stage, cheque size, assets under management, sectors, type (VC, CVC, angel network, government fund, venture debt), URL, source |
+| `pe.csv` | 207 | Private equity firms: name, city, assets or capital raised, founding year, URL, source |
 | `grants.csv` | 659 | Name, agency, amount, max in US$, eligibility, **deadline**, status, URL |
 | `resources.csv` | 1,165 | Agencies, startup associations, hubs, communities, events, legal and tax help |
 | `global_programs.csv` | 100 | Cross-border accelerators, fellowships, competitions and perks with deadlines |
@@ -141,7 +146,8 @@ All files are in [`data/`](data/) and served from the live site under `/data/`.
 | 2️⃣ Regional research | 15 research agents worked through regional batches ([`research/batches.json`](research/batches.json)), checking each entity on its official site and recording the next deadline |
 | 3️⃣ Global layer | One agent covered cross-border programs and databases (`research/global/`) |
 | 4️⃣ Merge & validate | `build.py` drops entries without names, rejects malformed URLs, removes duplicates, and lists problems in `research/build_problems.txt` |
-| 5️⃣ Spot checks | Conflicts between agents checked against the official page (e.g. a16z speedrun SR008: 1 Nov 2026) |
+| 5️⃣ Wikipedia lists | Firms on Wikipedia's [venture capital](https://en.wikipedia.org/wiki/List_of_venture_capital_firms) and [private equity](https://en.wikipedia.org/wiki/List_of_private_equity_firms) lists that were not already in the atlas were added to their home country (`research/wikipedia/`). Websites come from Wikidata or the article infobox; firms marked defunct, without a website, or whose site failed a live check were left out and are listed under `skipped`. A firm on both lists stays under VCs. |
+| 6️⃣ Spot checks | Conflicts between agents checked against the official page (e.g. a16z speedrun SR008: 1 Nov 2026) |
 
 **Known gaps.** The research session ran out of web searches early, so later batches verified entities by opening official sites directly rather than by searching. Coverage is strongest for global hubs and established ecosystems and thinnest for small and fragile states: **93 of 202 countries are low confidence**, and many accelerator deadlines say `rolling` or `unknown` because the program publishes no date. Entities whose sites were parked, dead or unverifiable were left out, not guessed. Each country's `notes` say what changed (e.g. Techstars Sydney closed, LaunchVic merged into Innovation Victoria, Canada's Start-up Visa paused, Innovate UK Smart grants closed).
 
@@ -188,7 +194,8 @@ openstartup/
 └── 🔬 research/
     ├── SCHEMA.md · batches.json
     ├── countries/b01…b15_*.json   # per-region research
-    └── global/                    # accelerators.json, resources.json
+    ├── global/                    # accelerators.json, resources.json
+    └── wikipedia/                 # vcs.json, pe.json from Wikipedia's firm lists
 ```
 
 ---
@@ -210,8 +217,9 @@ Found a new deadline, a closed program or a missing fund? 🙌
 
 ## 📜 License & credits
 
-- 📜 Code: [MIT](LICENSE). Data: CC BY 4.0.
+- 📜 Code: [MIT](LICENSE). Data: CC BY 4.0, except `research/wikipedia/` and the firms drawn from it, which follow Wikipedia's CC BY-SA 4.0.
 - 🌍 Modelled on [OpenCharity](https://github.com/OpenCharity-org/OpenCharity) ([atlas](https://opencharity-org.github.io/OpenCharity/)), whose map approach, country list and screenshot script this project reuses.
+- 📚 Extra VCs and the private equity list from Wikipedia's [List of venture capital firms](https://en.wikipedia.org/wiki/List_of_venture_capital_firms) and [List of private equity firms](https://en.wikipedia.org/wiki/List_of_private_equity_firms) (CC BY-SA 4.0), with websites from [Wikidata](https://www.wikidata.org/) (CC0).
 - 💡 Resource lists inspired by [OpenVC](https://www.openvc.app/) and [Airtree's Open Source VC](https://www.airtree.vc/open-source-vc-categories/lists-and-databases) lists and databases.
 - 🗺️ Map geometry: [Natural Earth](https://www.naturalearthdata.com/) via [world-atlas](https://github.com/topojson/world-atlas) · 📈 [D3](https://d3js.org/) · 🧩 [TopoJSON](https://github.com/topojson/topojson-client)
 - 🔤 Type: Geist and Geist Mono (Google Fonts)
