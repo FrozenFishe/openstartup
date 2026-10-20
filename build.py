@@ -5,6 +5,7 @@ research/countries/*.json  (one array per regional batch, see research/SCHEMA.md
 research/global/accelerators.json, research/global/resources.json
 research/wikipedia/vcs.json  (Wikipedia's List of venture capital firms, extra investors per country)
 research/wikipedia/pe.json   (Wikipedia's List of private equity firms, a separate "pe" list per country)
+research/patches/*.json      (later corrections and additions, see research/patches/README.md)
         |
         v
 data/*.csv, data/openstartup.json, data/openstartup.xlsx
@@ -116,6 +117,42 @@ def load_wikipedia(kind):
     return out
 
 
+def apply_patches(got, problems):
+    """Apply research/patches/*.json on top of the raw research rows (in place)."""
+    for f in sorted((RESEARCH / "patches").glob("*.json")):
+        try:
+            patches = json.loads(f.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as e:
+            problems.append(f"patches/{f.name}: invalid JSON ({e}); skipped")
+            continue
+        for pt in patches:
+            r = got.get(pt.get("country"))
+            if r is None:
+                problems.append(f"patches/{f.name}: unknown country {pt.get('country')!r}")
+                continue
+            for k, items in (pt.get("add") or {}).items():
+                if k not in LISTS:
+                    problems.append(f"patches/{f.name}: {pt['country']}: unknown list {k!r}")
+                    continue
+                have = {clean(x.get("name")).lower() for x in r.get(k) or []}
+                r[k] = (r.get(k) or []) + [x for x in items if clean(x.get("name")).lower() not in have]
+            for ch in pt.get("set") or []:
+                hit = [x for x in r.get(ch["list"]) or [] if clean(x.get("name")).lower() == clean(ch["name"]).lower()]
+                if not hit:
+                    problems.append(f"patches/{f.name}: {pt['country']}: no {ch['list']} item named {ch['name']!r}")
+                for x in hit:
+                    x.update(ch.get("fields") or {})
+            for rm in pt.get("remove") or []:
+                before = len(r.get(rm["list"]) or [])
+                r[rm["list"]] = [x for x in r.get(rm["list"]) or [] if clean(x.get("name")).lower() != clean(rm["name"]).lower()]
+                if len(r[rm["list"]]) == before:
+                    problems.append(f"patches/{f.name}: {pt['country']}: nothing to remove named {rm['name']!r}")
+            r.update(pt.get("country_fields") or {})
+            if pt.get("notes_append"):
+                r["notes"] = (clean(r.get("notes")) + " | " if r.get("notes") else "") + pt["notes_append"]
+            r["sources"] = (r.get("sources") or []) + [u for u in pt.get("sources") or [] if u not in (r.get("sources") or [])]
+
+
 def load_countries(problems):
     wiki = {k: load_wikipedia(k) for k in ("vcs", "pe")}
     batches = json.loads((RESEARCH / "batches.json").read_text(encoding="utf-8"))
@@ -133,6 +170,7 @@ def load_countries(problems):
                 problems.append(f"{f.name}: unknown country {name!r}")
                 continue
             got[name] = r
+    apply_patches(got, problems)
     out = []
     for name, batch in want.items():
         r = got.get(name)

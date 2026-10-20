@@ -4,18 +4,18 @@
 
 ### Every startup accelerator, VC, government grant and founder resource, for every country, on one map, with application deadlines.
 
-**202 countries · 769 accelerators · 1,093 VCs · 207 private equity firms · 659 grants · 1,165 local resources · 100 global programs · 77 databases · deadlines checked 20 October 2026**
+**202 countries · 786 accelerators · 1,157 VCs · 207 private equity firms · 664 grants · 1,174 local resources · 100 global programs · 77 databases · deadlines checked 20 October 2026**
 
 [![Live atlas](https://img.shields.io/badge/🗺️_live_atlas-open_the_map-1d4ed8?style=for-the-badge)](https://openstartup-qz7.pages.dev/)
 [![Download Excel](https://img.shields.io/badge/📗_workbook-Excel-217346?style=for-the-badge)](https://openstartup-qz7.pages.dev/data/openstartup.xlsx)
 [![Download JSON](https://img.shields.io/badge/🧾_data-JSON-555?style=for-the-badge)](https://openstartup-qz7.pages.dev/data/openstartup.json)
 
 [![Countries](https://img.shields.io/badge/countries-202-0b2a6f)](#-at-a-glance)
-[![Accelerators](https://img.shields.io/badge/accelerators-769-1d4ed8)](#-at-a-glance)
-[![Investors](https://img.shields.io/badge/VCs-1093-2f63e0)](#-at-a-glance)
+[![Accelerators](https://img.shields.io/badge/accelerators-786-1d4ed8)](#-at-a-glance)
+[![Investors](https://img.shields.io/badge/VCs-1157-2f63e0)](#-at-a-glance)
 [![Private equity](https://img.shields.io/badge/private_equity-207-075985)](#-at-a-glance)
-[![Grants](https://img.shields.io/badge/grants-659-4a7ff0)](#-at-a-glance)
-[![Deadlines in 30 days](https://img.shields.io/badge/deadlines_next_30_days-50-1d4ed8)](#-closing-soon)
+[![Grants](https://img.shields.io/badge/grants-664-4a7ff0)](#-at-a-glance)
+[![Deadlines in 30 days](https://img.shields.io/badge/deadlines_next_30_days-52-1d4ed8)](#-closing-soon)
 [![Hosted on Cloudflare Pages](https://img.shields.io/badge/hosted_on-Cloudflare_Pages-F38020?logo=cloudflare&logoColor=white)](https://openstartup-qz7.pages.dev/)
 [![No build step](https://img.shields.io/badge/build-plain_Python_3-3776AB?logo=python&logoColor=white)](#%EF%B8%8F-run-it-yourself)
 [![D3](https://img.shields.io/badge/map-D3_v7-F9A03C?logo=d3dotjs&logoColor=white)](https://d3js.org/)
@@ -68,17 +68,17 @@
 
 | Region | Countries | Accelerators | VCs | Private equity | Grants | Resources |
 |---|---:|---:|---:|---:|---:|---:|
-| 🌍 Europe | 46 | 247 | 321 | 52 | 227 | 273 |
-| 🌍 Sub-Saharan Africa | 48 | 140 | 195 | 1 | 150 | 244 |
-| 🌎 Latin America & Caribbean | 33 | 124 | 110 | 1 | 66 | 210 |
+| 🌍 Europe | 46 | 247 | 336 | 52 | 228 | 274 |
+| 🌍 Sub-Saharan Africa | 48 | 141 | 198 | 1 | 151 | 246 |
+| 🌎 Latin America & Caribbean | 33 | 127 | 125 | 1 | 67 | 213 |
 | 🌎 North America | 3 | 33 | 129 | 126 | 24 | 24 |
+| 🌍 Middle East & North Africa | 23 | 54 | 90 | 4 | 50 | 57 |
 | 🌏 East Asia | 8 | 50 | 94 | 16 | 36 | 59 |
-| 🌏 Oceania | 14 | 22 | 50 | 3 | 35 | 132 |
+| 🌏 Oceania | 14 | 23 | 50 | 3 | 35 | 132 |
 | 🌏 Southeast Asia | 11 | 53 | 68 | 4 | 35 | 67 |
-| 🌍 Middle East & North Africa | 23 | 48 | 67 | 4 | 49 | 55 |
-| 🌏 South Asia | 8 | 24 | 33 | 0 | 22 | 55 |
-| 🌏 Central Asia & Caucasus | 8 | 28 | 26 | 0 | 15 | 46 |
-| | **202** | **769** | **1,093** | **207** | **659** | **1,165** |
+| 🌏 South Asia | 8 | 29 | 36 | 0 | 23 | 55 |
+| 🌏 Central Asia & Caucasus | 8 | 29 | 31 | 0 | 15 | 47 |
+| | **202** | **786** | **1,157** | **207** | **664** | **1,174** |
 
 **🏆 Deepest ecosystems in the atlas** (all listings): 🇺🇸 United States 279 · 🇬🇧 United Kingdom 96 · 🇨🇳 China 67 · 🇦🇺 Australia 63 · 🇮🇳 India 63 · 🇯🇵 Japan 59 · 🇸🇬 Singapore 59 · 🇩🇪 Germany 50 · 🇨🇦 Canada 45 · 🇫🇷 France 45
 
@@ -101,6 +101,7 @@ From the 20 October 2026 check. The [live ledger](https://openstartup-qz7.pages.
 | 28 Oct 2026 | NASA SBIR/STTR | 🇺🇸 United States |
 | 30 Oct 2026 | EBRD Star Venture | 🇲🇩 Moldova, 🇺🇦 Ukraine |
 | 30 Oct 2026 | Activate Fellowship | 🌍 Global |
+| 30 Oct 2026 | Malta Enterprise Start-up Finance | 🇲🇹 Malta |
 | 31 Oct 2026 | BIRAC E-YUVA | 🇮🇳 India |
 | 1 Nov 2026 | Startmate Summer '27 (A$120k for 8%) | 🇦🇺 Australia, 🇳🇿 New Zealand |
 | 1 Nov 2026 | a16z speedrun SR008 (up to US$1M) | 🌍 Global |
@@ -110,10 +111,12 @@ From the 20 October 2026 check. The [live ledger](https://openstartup-qz7.pages.
 | 4 Nov 2026 | NSF SBIR/STTR Phase I | 🇺🇸 United States |
 | 6 Nov 2026 | MIT Solve 2027 Global Challenges | 🌍 Global |
 | 13 Nov 2026 | ELEVATE NxT | 🇮🇳 Karnataka, India |
+| 15 Nov 2026 | IoBM SSK Incubation Cohort 6 | 🇵🇰 Karachi, Pakistan |
 | 16 Nov 2026 | Innovation Fund Smart Start | 🇷🇸 Serbia |
 | 17 Nov 2026 | NEDO GX_UPP | 🇯🇵 Japan |
 | 18 Nov 2026 | Techstars Spring 2027 (NYC, Boston, London, Anywhere…) | 🌍 Global |
 | 18 Nov 2026 | Innovate UK Efficient AI | 🇬🇧 United Kingdom |
+| 26 Nov 2026 | NBB Innovation Programme (Bahrain FinTech Bay) | 🇧🇭 Bahrain |
 
 ---
 
@@ -124,11 +127,11 @@ All files are in [`data/`](data/) and served from the live site under `/data/`.
 | File | Rows | What it holds |
 |---|---:|---|
 | `countries.csv` | 202 | Region, ecosystem tier, counts, startup visa, company setup, summary, caveats, confidence, sources |
-| `accelerators.csv` | 769 | Name, city, type, investment terms, sectors, **deadline**, next cohort, status, URL |
-| `vcs.csv` | 1,093 | Name, city, stage, cheque size, assets under management, sectors, type (VC, CVC, angel network, government fund, venture debt), URL, source |
+| `accelerators.csv` | 786 | Name, city, type, investment terms, sectors, **deadline**, next cohort, status, URL |
+| `vcs.csv` | 1,157 | Name, city, stage, cheque size, assets under management, sectors, type (VC, CVC, angel network, government fund, venture debt), URL, source |
 | `pe.csv` | 207 | Private equity firms: name, city, assets or capital raised, founding year, URL, source |
-| `grants.csv` | 659 | Name, agency, amount, max in US$, eligibility, **deadline**, status, URL |
-| `resources.csv` | 1,165 | Agencies, startup associations, hubs, communities, events, legal and tax help |
+| `grants.csv` | 664 | Name, agency, amount, max in US$, eligibility, **deadline**, status, URL |
+| `resources.csv` | 1,174 | Agencies, startup associations, hubs, communities, events, legal and tax help |
 | `global_programs.csv` | 100 | Cross-border accelerators, fellowships, competitions and perks with deadlines |
 | `global_resources.csv` | 77 | Cross-border investor databases, grant finders, ecosystem reports, incorporation services |
 | `openstartup.json` | | Everything above in one file |
@@ -147,9 +150,11 @@ All files are in [`data/`](data/) and served from the live site under `/data/`.
 | 3️⃣ Global layer | One agent covered cross-border programs and databases (`research/global/`) |
 | 4️⃣ Merge & validate | `build.py` drops entries without names, rejects malformed URLs, removes duplicates, and lists problems in `research/build_problems.txt` |
 | 5️⃣ Wikipedia lists | Firms on Wikipedia's [venture capital](https://en.wikipedia.org/wiki/List_of_venture_capital_firms) and [private equity](https://en.wikipedia.org/wiki/List_of_private_equity_firms) lists that were not already in the atlas were added to their home country (`research/wikipedia/`). Websites come from Wikidata or the article infobox; firms marked defunct, without a website, or whose site failed a live check were left out and are listed under `skipped`. A firm on both lists stays under VCs. |
-| 6️⃣ Spot checks | Conflicts between agents checked against the official page (e.g. a16z speedrun SR008: 1 Nov 2026) |
+| 6️⃣ Gap-fill | A second pass on 36 thin emerging ecosystems (Gulf states, Jordan, Lebanon, Tunisia, Morocco, Cyprus, Malta, Hungary, the Baltics, the Caucasus, Bangladesh, Pakistan, Sri Lanka, Peru, Uruguay, Paraguay, Guatemala and others), written as patches in [`research/patches/`](research/patches/) that `build.py` applies on top of the first pass. |
+| 7️⃣ Link check | `check_links.py` opens all 3,000+ URLs; dead links are fixed or removed, and the results are in `research/link_report.json`. |
+| 8️⃣ Spot checks | Conflicts between agents checked against the official page (e.g. a16z speedrun SR008: 1 Nov 2026) |
 
-**Known gaps.** The research session ran out of web searches early, so later batches verified entities by opening official sites directly rather than by searching. Coverage is strongest for global hubs and established ecosystems and thinnest for small and fragile states: **93 of 202 countries are low confidence**, and many accelerator deadlines say `rolling` or `unknown` because the program publishes no date. Entities whose sites were parked, dead or unverifiable were left out, not guessed. Each country's `notes` say what changed (e.g. Techstars Sydney closed, LaunchVic merged into Innovation Victoria, Canada's Start-up Visa paused, Innovate UK Smart grants closed).
+**Known gaps.** The research session ran out of web searches early, so later batches verified entities by opening official sites directly rather than by searching. Coverage is strongest for global hubs and established ecosystems and thinnest for small and fragile states: **91 of 202 countries are low confidence**, and many accelerator deadlines say `rolling` or `unknown` because the program publishes no date. Entities whose sites were parked, dead or unverifiable were left out, not guessed. Each country's `notes` say what changed (e.g. Techstars Sydney closed, LaunchVic merged into Innovation Victoria, Canada's Start-up Visa paused, Innovate UK Smart grants closed).
 
 ---
 
@@ -167,7 +172,8 @@ python3 -m http.server 8734 --directory docs   # → http://localhost:8734
 **🔄 Rebuild after editing research files:**
 
 ```bash
-python3 build.py             # research/*.json → data/*, webapp/atlas.html, docs/index.html
+python3 build.py             # research/*.json (+ patches) → data/*, webapp/atlas.html, docs/index.html
+python3 check_links.py       # optional: check every URL → research/link_report.json
 python3 make_screenshots.py  # README screenshots (macOS + Google Chrome)
 ```
 
@@ -205,7 +211,7 @@ openstartup/
 Found a new deadline, a closed program or a missing fund? 🙌
 
 1. 🐛 **Open an issue** with the country, the entry, the correction and an **official link**.
-2. 🔧 **Or send a PR**: edit the country's object in `research/countries/<batch>.json` (the shape is in `research/SCHEMA.md`), run `python3 build.py`, and commit the result.
+2. 🔧 **Or send a PR**: add a patch file to `research/patches/` (format in [`research/patches/README.md`](research/patches/README.md)) or edit the country's object in `research/countries/<batch>.json` (shape in `research/SCHEMA.md`), run `python3 build.py`, and commit the result.
 
 ---
 

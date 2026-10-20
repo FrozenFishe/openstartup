@@ -1,0 +1,115 @@
+[
+  {
+    "country": "Peru",
+    "add": {
+      "vcs": [
+        {"name": "Salkantay Ventures", "city": "Lima", "stage": "pre-seed to series A", "check_size": "unknown", "sectors": "edtech, healthtech, fintech, proptech, SaaS, agtech, climate", "type": "vc", "url": "https://www.salkantay.vc/"},
+        {"name": "Krealo (Credicorp CVC)", "city": "Lima", "stage": "multi", "check_size": "unknown", "sectors": "fintech, insurtech, health", "type": "cvc", "url": "https://www.krealo.pe/"},
+        {"name": "FCEI (Fondo de Capital para Emprendimientos Innovadores, COFIDE)", "city": "Lima", "stage": "multi", "check_size": "fund-of-funds; ~US$25M fund, commits to VC funds that back Peruvian startups", "sectors": "generalist", "type": "government_fund", "url": "https://documentos.cofide.com.pe/wp-content/uploads/2026/02/NP-COFIDE-financiara-a-unas-85-startups-hasta-fin-de-ano.pdf"},
+        {"name": "ALAYA Capital", "city": "Santiago / regional", "stage": "seed to series A", "check_size": "unknown", "sectors": "tech, positive impact", "type": "vc", "url": "https://alaya-capital.com/"},
+        {"name": "iThink VC", "city": "regional", "stage": "pre-seed, seed", "check_size": "US$100k-500k", "sectors": "generalist tech (focus Paraguay, Peru, Ecuador, Bolivia, Uruguay)", "type": "vc", "url": "https://www.ithink.vc/"}
+      ]
+    },
+    "set": [
+      {"list": "grants", "name": "StartUp Perú PLUG", "fields": {"deadline": "last: 2025-03-25 (PLUG Cambio Climático 2G); no new call published as of 2026-10-20", "status": "closed", "url": "https://startup.proinnovate.gob.pe/concursos/concursos-startup-peru-plug/"}},
+      {"list": "grants", "name": "StartUp Perú (Emprendedores Innovadores, Emprendimientos Dinámicos)", "fields": {"amount": "up to PEN 67k (Innovadores) / PEN 150k (Dinámicos) non-reimbursable", "url": "https://startup.proinnovate.gob.pe/concursos/"}}
+    ],
+    "notes_append": "2026-10-20 gap-fill: startup.proinnovate.gob.pe shows all StartUp Perú concursos (Innovadores, Dinámicos, PLUG, capital de riesgo) as 'Convocatoria Cerrada'; the PLUG page's last dates are Jan-Mar 2025, so the earlier 'opened Aug 2026' note was not confirmed. Added Salkantay, Krealo, COFIDE's FCEI fund-of-funds (backs Salkantay, ALAYA and others) and iThink VC. UTEC Ventures site still unreachable.",
+    "sources": ["https://startup.proinnovate.gob.pe/concursos/", "https://elperuano.pe/noticia/138533-cofide-fija-convenio-de-inversion", "https://www.revistaeconomia.com/caf-invierte-usd-5-millones-en-fondo-de-capital-para-emprendimientos-innovadores-administrado-por-cofide/"]
+  },
+  {
+    "country": "Uruguay",
+    "add": {
+      "grants": [
+        {"name": "Uruguay al Mundo", "agency": "ANDE / Uruguay XXI / ANII / LATU / MIEM (Uruguay Innova)", "amount": "technical and financial support for export/internationalisation", "amount_usd_max": null, "eligibility": "Uruguayan companies of any sector with international potential", "deadline": "last: 2026-03-26", "status": "closed", "url": "https://anii.org.uy/apoyos/emprendimientos/554/uruguay-al-mundo"}
+      ],
+      "accelerators": [
+        {"name": "LAB+ (Institut Pasteur de Montevideo company builder)", "city": "Montevideo", "type": "venture_studio", "investment": "company building and investment in science startups", "sectors": "life sciences, biotech", "deadline": "call-based; no open call as of 2026-10-20", "next_cohort": "unknown", "status": "closed", "url": "https://labplus.uy/"}
+      ],
+      "vcs": [
+        {"name": "iThink VC", "city": "regional", "stage": "pre-seed, seed", "check_size": "US$100k-500k", "sectors": "generalist tech (focus Paraguay, Peru, Ecuador, Bolivia, Uruguay)", "type": "vc", "url": "https://www.ithink.vc/"}
+      ],
+      "resources": [
+        {"name": "Urucap (Asociación Uruguaya de Capital Privado)", "type": "startup_association", "url": "https://www.urucap.org/", "note": "Private equity, VC and seed investor association"}
+      ]
+    },
+    "set": [
+      {"list": "grants", "name": "SprintUY", "fields": {"url": "https://anii.org.uy/apoyos/emprendimientos/655/sprintuy-2026"}}
+    ],
+    "remove": [
+      {"list": "resources", "name": "Uruguay Innovation Hub", "reason": "uruguayinnovation.com is a parked GoDaddy for-sale domain; uih.uy redirects to ANII (already listed)"}
+    ],
+    "notes_append": "2026-10-20 gap-fill: ANII's emprendimientos page still lists only permanent windows plus closed 2026 calls (SprintUy closed 2026-07-21, Catalizadores 2026-06-30, Uruguay al Mundo 2026-03-26). Local VC funds remain few; IC Ventures and Quasar Ventures (Montevideo) could not be confirmed from their own sites.",
+    "sources": ["https://www.anii.org.uy/apoyos/emprendimientos/", "https://www.urucap.org/"]
+  },
+  {
+    "country": "Panama",
+    "add": {
+      "vcs": [
+        {"name": "Venture Club Latam (formerly Venture Club Panamá)", "city": "Panama City", "stage": "pre-seed, seed", "check_size": "unknown", "sectors": "AI, SaaS, IoT, enterprise software, climate", "type": "vc", "url": "https://ventureclublatam.com/"}
+      ]
+    },
+    "notes_append": "2026-10-20 gap-fill: Venture Club (Panama's first angel group, now a Panama-based rolling fund with per-deal SPVs) confirmed at ventureclublatam.com. SENACYT open-calls pages still load dynamically; no dated 2026-27 innovation call found.",
+    "sources": ["https://ventureclublatam.com/"]
+  },
+  {
+    "country": "Paraguay",
+    "add": {
+      "vcs": [
+        {"name": "iThink VC", "city": "regional", "stage": "pre-seed, seed", "check_size": "US$100k-500k", "sectors": "generalist tech (focus Paraguay, Peru, Ecuador, Bolivia, Uruguay)", "type": "vc", "url": "https://www.ithink.vc/"},
+        {"name": "AngelHub Paraguay (formerly RIAP)", "city": "Asunción", "stage": "pre-seed, seed", "check_size": "unknown", "sectors": "generalist", "type": "angel_network", "url": "https://www.inversionangel.co/"},
+        {"name": "Cibersons", "city": "Asunción", "stage": "seed", "check_size": "unknown", "sectors": "tech", "type": "vc", "url": "https://www.cibersons.com/"}
+      ],
+      "accelerators": [
+        {"name": "LAN Accelerator", "city": "Asunción / Santiago", "type": "accelerator", "investment": "accelerator that invests; BID Lab-supported", "sectors": "generalist (fintech, AI, proptech, agtech, govtech)", "deadline": "unknown (LAN V5 applications closed)", "next_cohort": "unknown", "status": "closed", "url": "https://lanaccelerator.com/"}
+      ],
+      "resources": [
+        {"name": "PARCAPY (Asociación Paraguaya de Venture Capital)", "type": "startup_association", "url": "https://parcapy.org/", "note": "VC association; runs VC & Startups Summit (4 Aug 2026)"}
+      ]
+    },
+    "set": [
+      {"list": "grants", "name": "PROINNOVA (innovation projects, EBT creation, incubator support)", "fields": {"deadline": "unknown; no PROINNOVA startup call open on CONACYT's convocatorias list as of 2026-10-20 (PROINNOVA II approved by IDB in 2026)", "status": "upcoming", "url": "https://www.conacyt.gov.py/proinnova"}}
+    ],
+    "notes_append": "2026-10-20 gap-fill: CONACYT convocatorias list (Oct 2026) has only science/training calls open; PROINNOVA I has ended and IDB approved PROINNOVA II in 2026, with calls not yet published. Added PARCAPY members iThink VC, AngelHub Paraguay (ex-RIAP) and Cibersons, plus LAN Accelerator.",
+    "sources": ["https://www.conacyt.gov.py/convocatorias", "https://parcapy.org/", "https://lanaccelerator.com/"]
+  },
+  {
+    "country": "Guatemala",
+    "add": {
+      "vcs": [
+        {"name": "Invariantes Fund", "city": "Guatemala City", "stage": "pre-seed, seed", "check_size": "unknown", "sectors": "generalist tech; also invests in emerging fund managers", "type": "vc", "url": "https://www.invariantes.com/"},
+        {"name": "Cacao Capital", "city": "Guatemala City", "stage": "pre-seed, seed", "check_size": "under US$100k", "sectors": "fintech, agtech, e-commerce, healthtech, SaaS", "type": "vc", "url": "https://cacao-capital.com/"},
+        {"name": "Barrilete Ventures", "city": "Guatemala City", "stage": "pre-seed", "check_size": "US$5k-50k", "sectors": "university and early tech startups", "type": "angel_network", "url": "https://www.barrilete.vc/"}
+      ]
+    },
+    "notes_append": "2026-10-20 gap-fill: added Guatemala-based VCs Invariantes (first local early-stage VC; first fund US$3.5M), Cacao Capital and Barrilete Ventures (Banco Industrial trust structure). Cacao check size and Barrilete ticket ladder come from LAVCA and directory profiles, not the funds' own pages.",
+    "sources": ["https://www.lavca.org/guatemalas-invariantes-closes-first-fund-with-us3-5m-in-commitments/", "https://www.bloomberglinea.com/latinoamerica/ecuador/el-venture-capital-basado-en-guatemala-que-invierte-en-latam-y-estados-unidos/"]
+  },
+  {
+    "country": "Dominican Republic",
+    "add": {
+      "accelerators": [
+        {"name": "Cree Banreservas incubation programme", "city": "Santo Domingo", "type": "corporate", "investment": "no equity; technical support, financing instruments, investor access", "sectors": "generalist", "deadline": "annual call; 2026 cohort (2nd edition) selected Apr 2026", "next_cohort": "unknown", "status": "closed", "url": "https://www.creebanreservas.com.do"}
+      ],
+      "resources": [
+        {"name": "Impulsa Popular (Banco Popular Dominicano)", "type": "other", "url": "https://impulsapopular.com/", "note": "SME and entrepreneur programmes (Emprende Popular, Emprende Mujer)"}
+      ]
+    },
+    "notes_append": "2026-10-20 gap-fill: added Cree Banreservas incubation (2026 cohort of 5 picked from 50+ proposals, Apr 2026) and Impulsa Popular. No new Dominican VC fund found; Enlaces remains the main local angel network.",
+    "sources": ["https://eldia.com.do/banreservas-selecciona-cinco-equipos-para-el-programa-de-incubacion-cree-2026/"]
+  },
+  {
+    "country": "Jamaica",
+    "add": {
+      "vcs": [
+        {"name": "DBJ Venture Capital Programme", "city": "Kingston", "stage": "multi", "check_size": "unknown", "sectors": "generalist; backs VC/PE fund managers and angel co-investment", "type": "government_fund", "url": "https://www.dbankjm.com/venture-capital/"},
+        {"name": "Sygnus Capital", "city": "Kingston", "stage": "growth", "check_size": "unknown", "sectors": "private credit and private equity for growing companies", "type": "venture_debt", "url": "https://sygnusgroup.com/"}
+      ],
+      "resources": [
+        {"name": "Jamaica Stock Exchange (Junior Market)", "type": "other", "url": "https://www.jamstockex.com/", "note": "Junior Market listing route for SMEs"}
+      ]
+    },
+    "notes_append": "2026-10-20 gap-fill: added DBJ Venture Capital Programme (policy and fund-manager backing; its own SME VC fund not yet launched) and Sygnus (private credit/PE). No local seed VC with a working site found; Caribbean Seed Fund (2023 announcement) has no confirmed launch.",
+    "sources": ["https://www.dbankjm.com/venture-capital/", "https://thinkbigee.com/"]
+  }
+]

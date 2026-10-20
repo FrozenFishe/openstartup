@@ -1,0 +1,488 @@
+[
+ {
+  "country": "Bahrain",
+  "add": {
+   "vcs": [
+    {
+     "name": "Tenmou",
+     "city": "Manama",
+     "stage": "pre-seed | seed",
+     "check_size": "unknown",
+     "sectors": "technology, SaaS, AI, marketplaces",
+     "type": "angel_network",
+     "url": "https://www.tenmou.me"
+    }
+   ],
+   "accelerators": [
+    {
+     "name": "NBB Innovation Programme (Bahrain FinTech Bay)",
+     "city": "Manama",
+     "type": "corporate",
+     "investment": "US$10k prize to winning team + 3-month BFB incubation; no equity",
+     "sectors": "fintech, AI",
+     "deadline": "2026-11-26",
+     "next_cohort": "2027-01",
+     "status": "open",
+     "url": "https://www.bahrainfintechbay.com/nbb-innovation-programme"
+    }
+   ]
+  },
+  "remove": [
+   {
+    "list": "accelerators",
+    "name": "C5 Accelerate",
+    "reason": "c5accelerate.com now serves an unrelated lottery/gambling site; program no longer active"
+   }
+  ],
+  "notes_append": "2026-10-20 gap-fill: Added Tenmou angel network and NBB Innovation Programme (applications close 26 Nov 2026; programme 4-28 Jan 2027, Demo Day 1 Feb 2027). Removed C5 Accelerate (domain taken over). Al Waha Fund of Funds site still returns HTTP 500; Brinc lists Bahrain but no active program found.",
+  "sources": [
+   "https://www.bahrainfintechbay.com/nbb-innovation-programme",
+   "https://www.tenmou.me"
+  ]
+ },
+ {
+  "country": "Qatar",
+  "add": {
+   "vcs": [
+    {
+     "name": "Rasmal Ventures",
+     "city": "Doha",
+     "stage": "seed | series A",
+     "check_size": "unknown",
+     "sectors": "fintech, AI, B2B SaaS, climate tech",
+     "type": "vc",
+     "url": "https://www.rasmalventures.com/"
+    },
+    {
+     "name": "Doha Tech Angels",
+     "city": "Doha",
+     "stage": "seed",
+     "check_size": "unknown",
+     "sectors": "technology",
+     "type": "angel_network",
+     "url": "https://dta.qa"
+    },
+    {
+     "name": "Finjan Investments",
+     "city": "Doha",
+     "stage": "multi",
+     "check_size": "unknown",
+     "sectors": "technology",
+     "type": "vc",
+     "url": "https://finjan.vc"
+    },
+    {
+     "name": "Shorooq",
+     "city": "Abu Dhabi / Doha",
+     "stage": "multi",
+     "check_size": "unknown",
+     "sectors": "generalist, AI, fintech",
+     "type": "vc",
+     "url": "https://www.shorooq.com/"
+    }
+   ],
+   "resources": [
+    {
+     "name": "Web Summit Qatar",
+     "type": "event",
+     "url": "https://qatar.websummit.com/",
+     "note": "Doha, 31 Jan - 3 Feb 2027; startup programme"
+    }
+   ]
+  },
+  "notes_append": "2026-10-20 gap-fill: Added Rasmal Ventures (QFC-licensed, Doha), Doha Tech Angels, Finjan Investments and Shorooq (QIA Fund of Funds manager with Doha presence; QIA FoF expanded to US$3bn in Feb 2026). QSTP XLR8 and Alchemist Doha 2026-27 deadlines still unpublished.",
+  "sources": [
+   "https://www.rasmalventures.com/",
+   "https://dta.qa",
+   "https://qatar.websummit.com/"
+  ]
+ },
+ {
+  "country": "Kuwait",
+  "add": {
+   "vcs": [
+    {
+     "name": "NTEC (National Technology Enterprises Company)",
+     "city": "Kuwait City",
+     "stage": "multi",
+     "check_size": "unknown",
+     "sectors": "ICT, life sciences, energy, water, environment",
+     "type": "government_fund",
+     "url": "https://www.ntec.com.kw/"
+    }
+   ],
+   "accelerators": [
+    {
+     "name": "KDSC Accelerator (Kuwait Digital Startup Campus)",
+     "city": "Kuwait City",
+     "type": "government",
+     "investment": "unknown",
+     "sectors": "generalist",
+     "deadline": "last: 2026 cohort applications closed",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://kdsc.ventures"
+    },
+    {
+     "name": "CBK Wolooj Strategic Initiative Accelerator Program",
+     "city": "Kuwait City",
+     "type": "government",
+     "investment": "mentoring, no equity",
+     "sectors": "fintech, AI, RegTech/SupTech, cybersecurity",
+     "deadline": "last: 2026-10-01",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://www.cbk.gov.kw/en/legislation-and-regulation/innovation-hub/overview"
+    }
+   ]
+  },
+  "country_fields": {
+   "confidence": "medium"
+  },
+  "notes_append": "2026-10-20 gap-fill: Added NTEC (KIA-owned tech investor), KDSC accelerator (Youth Public Authority with Boeing; 2026 cohort closed) and CBK Wolooj accelerator (2026 window 1 Sep - 1 Oct 2026). Arzan VC domains now parked/redirect, Sharq Ventures domain parked, Faith Capital site blocks access (403), so omitted.",
+  "sources": [
+   "https://www.ntec.com.kw/",
+   "https://kdsc.ventures",
+   "https://www.cbk.gov.kw/en/legislation-and-regulation/innovation-hub/overview"
+  ]
+ },
+ {
+  "country": "Oman",
+  "add": {
+   "vcs": [
+    {
+     "name": "Jasoor Ventures",
+     "city": "Abu Dhabi",
+     "stage": "seed | series A",
+     "check_size": "unknown",
+     "sectors": "technology",
+     "type": "vc",
+     "url": "https://www.jasoor.vc/"
+    },
+    {
+     "name": "IDO Investments",
+     "city": "Muscat",
+     "stage": "growth",
+     "check_size": "unknown",
+     "sectors": "health, energy tech, cybersecurity, mobility, AI",
+     "type": "government_fund",
+     "url": "https://www.ido.om/"
+    }
+   ]
+  },
+  "set": [
+   {
+    "list": "vcs",
+    "name": "Oman Technology Fund",
+    "fields": {
+     "stage": "pre-seed",
+     "check_size": "up to OMR 40,000 (~US$104k) via OTF Scale; rolling applications",
+     "sectors": "technology"
+    }
+   }
+  ],
+  "notes_append": "2026-10-20 gap-fill: otf.om now presents OTF Scale, the ideation-stage vehicle of Oman Future Fund (up to OMR 40k, rolling review, apply via investee.futurefund.om). Added Jasoor Ventures (ADQ/OIA-backed, led eMushrif US$7.5m in Jan 2026) and IDO Investments (OIA tech arm).",
+  "sources": [
+   "https://www.otf.om/",
+   "https://www.jasoor.vc/",
+   "https://www.ido.om/"
+  ]
+ },
+ {
+  "country": "Jordan",
+  "add": {
+   "vcs": [
+    {
+     "name": "MEVP",
+     "city": "Beirut / Dubai / Amman",
+     "stage": "multi",
+     "check_size": "unknown",
+     "sectors": "generalist tech",
+     "type": "vc",
+     "url": "https://mevp.com/"
+    },
+    {
+     "name": "BECO Capital",
+     "city": "Dubai",
+     "stage": "multi",
+     "check_size": "unknown",
+     "sectors": "generalist tech",
+     "type": "vc",
+     "url": "https://www.becocapital.com/"
+    },
+    {
+     "name": "Global Ventures",
+     "city": "Dubai",
+     "stage": "growth",
+     "check_size": "unknown",
+     "sectors": "fintech, healthtech, edtech, SaaS",
+     "type": "vc",
+     "url": "https://www.global.vc"
+    }
+   ],
+   "accelerators": [
+    {
+     "name": "C3 Launchpad",
+     "city": "Amman",
+     "type": "government",
+     "investment": "no equity, no fee",
+     "sectors": "tech-enabled, UAE expansion",
+     "deadline": "last: 2026-08-16",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://wegrowwithc3.com/c3-launchpad"
+    },
+    {
+     "name": "Green Growth and Jobs Accelerator (GGJAP, Flat6Labs/UNDP)",
+     "city": "Amman",
+     "type": "accelerator",
+     "investment": "non-financial support",
+     "sectors": "green economy",
+     "deadline": "unknown",
+     "next_cohort": "unknown",
+     "status": "unknown",
+     "url": "https://flat6labs.com/program/ggjap/"
+    }
+   ]
+  },
+  "set": [
+   {
+    "list": "accelerators",
+    "name": "Flat6Labs Amman",
+    "fields": {
+     "url": "https://flat6labs.com/Location/jordan/"
+    }
+   }
+  ],
+  "notes_append": "2026-10-20 gap-fill: Added ISSF-backed regional VCs (MEVP opened an Amman branch after ISSF's US$5m into MEVF IV; BECO Fund IV; Global Ventures Funds II-III). ISSF lists 27 portfolio funds and got a World Bank 'Highly Satisfactory' rating in 2026. Added C3 Launchpad (MoDEE-funded, closed 16 Aug 2026) and GGJAP.",
+  "sources": [
+   "https://issfjo.com/",
+   "https://wegrowwithc3.com/c3-launchpad",
+   "https://flat6labs.com/program/ggjap/"
+  ]
+ },
+ {
+  "country": "Lebanon",
+  "add": {
+   "vcs": [
+    {
+     "name": "IM Fndng (IM Ventures / IM Capital)",
+     "city": "Dbayeh",
+     "stage": "multi",
+     "check_size": "unknown",
+     "sectors": "generalist",
+     "type": "vc",
+     "url": "https://im-fndng.com/"
+    },
+    {
+     "name": "Berytech Fund II",
+     "city": "Beirut",
+     "stage": "seed | series A",
+     "check_size": "unknown",
+     "sectors": "ICT, digital content, renewable energy",
+     "type": "vc",
+     "url": "https://www.berytechfund.org/"
+    },
+    {
+     "name": "BY Venture Partners",
+     "city": "Dubai / London / Boston",
+     "stage": "seed",
+     "check_size": "unknown",
+     "sectors": "marketplaces, platforms, AI",
+     "type": "vc",
+     "url": "https://www.byvp.com/"
+    }
+   ]
+  },
+  "notes_append": "2026-10-20 gap-fill: Added IM Fndng (IM Ventures US$38m matching-capital and IM Capital US$20m programs, SPEED@BDD and SEEDERS accelerators; news through Sep 2026), Berytech Fund II (US$51m, linked from berytech.org) and BY Venture Partners (Lebanese-rooted). Berytech ScaleSmart (AgriFood/CleanTech) status unclear.",
+  "sources": [
+   "https://im-fndng.com/",
+   "https://berytech.org/get-funded/",
+   "https://www.byvp.com/"
+  ]
+ },
+ {
+  "country": "Tunisia",
+  "add": {
+   "vcs": [
+    {
+     "name": "Janngo Capital",
+     "city": "Paris / Abidjan",
+     "stage": "seed | series A",
+     "check_size": "unknown",
+     "sectors": "African tech, women-led",
+     "type": "vc",
+     "url": "https://www.janngo.com/"
+    },
+    {
+     "name": "Sawari Ventures",
+     "city": "Cairo",
+     "stage": "series A",
+     "check_size": "unknown",
+     "sectors": "technology",
+     "type": "vc",
+     "url": "https://www.sawariventures.com/"
+    },
+    {
+     "name": "Rasmal Ventures",
+     "city": "Doha",
+     "stage": "seed | series A",
+     "check_size": "unknown",
+     "sectors": "fintech, B2B SaaS, healthtech, logistics",
+     "type": "vc",
+     "url": "https://www.rasmalventures.com/"
+    }
+   ],
+   "accelerators": [
+    {
+     "name": "Green Growth and Jobs Accelerator (GGJAP, Flat6Labs/UNDP)",
+     "city": "Tunis",
+     "type": "accelerator",
+     "investment": "non-financial support",
+     "sectors": "green economy",
+     "deadline": "unknown",
+     "next_cohort": "unknown",
+     "status": "unknown",
+     "url": "https://flat6labs.com/program/ggjap/"
+    }
+   ],
+   "resources": [
+    {
+     "name": "The Dot",
+     "type": "coworking_hub",
+     "url": "https://thedot.tn/",
+     "note": "Public-private digital innovation hub in Tunis (Dot Camp, Dot Sprint, AI Rise)"
+    }
+   ]
+  },
+  "set": [
+   {
+    "list": "grants",
+    "name": "Startup Act label and benefits",
+    "fields": {
+     "deadline": "monthly sessions, 1st-8th of each month",
+     "status": "rolling"
+    }
+   },
+   {
+    "list": "accelerators",
+    "name": "Flat6Labs Tunis",
+    "fields": {
+     "url": "https://flat6labs.com/Location/tunisia/",
+     "status": "closed"
+    }
+   }
+  ],
+  "notes_append": "2026-10-20 gap-fill: Label submissions open 1st-8th of each month (one application per 6 months, 100 TND). Added ANAVA-backed or Tunisia-active VCs (Janngo, Sawari, Rasmal, which got US$4m from ANAVA in Sep 2025), GGJAP and The Dot. Flat6Labs' Tunisia programs (Ignite, Ebda'Y, Green4Youth) show Not Active; only GGJAP active.",
+  "sources": [
+   "https://startup.gov.tn/en/startup_act/how_to_obtain_the_label",
+   "https://flat6labs.com/Location/tunisia/",
+   "https://thedot.tn/"
+  ]
+ },
+ {
+  "country": "Morocco",
+  "add": {
+   "vcs": [
+    {
+     "name": "Mohammed VI Investment Fund (FM6I) fund of funds",
+     "city": "Rabat",
+     "stage": "multi",
+     "check_size": "via selected fund managers",
+     "sectors": "fintech, agritech, edtech, healthtech, climatetech",
+     "type": "government_fund",
+     "url": "https://www.fm6i.ma/fr"
+    },
+    {
+     "name": "MNF Ventures (Maroc Numeric Fund)",
+     "city": "Casablanca",
+     "stage": "seed | series A",
+     "check_size": "MAD 1-10M (~US$100k-1M)",
+     "sectors": "fintech, edtech, proptech, AI, SaaS",
+     "type": "vc",
+     "url": "https://mnf.ma/"
+    },
+    {
+     "name": "212 Founders (CDG Invest)",
+     "city": "Casablanca",
+     "stage": "seed | series A",
+     "check_size": "up to MAD 13M (~US$1.4M) co-investment",
+     "sectors": "generalist",
+     "type": "government_fund",
+     "url": "https://www.212founders.co/"
+    },
+    {
+     "name": "Sawari Ventures",
+     "city": "Cairo",
+     "stage": "series A",
+     "check_size": "unknown",
+     "sectors": "technology",
+     "type": "vc",
+     "url": "https://www.sawariventures.com/"
+    }
+   ],
+   "grants": [
+    {
+     "name": "Reseau Entreprendre Maroc honour loans",
+     "agency": "Reseau Entreprendre Maroc",
+     "amount": "interest-free honour loan (amount not stated)",
+     "amount_usd_max": null,
+     "eligibility": "founders of new or growing businesses in Morocco",
+     "deadline": "rolling",
+     "status": "rolling",
+     "url": "https://www.reseau-entreprendre.org/maroc/"
+    }
+   ],
+   "accelerators": [
+    {
+     "name": "Green Growth and Jobs Accelerator (GGJAP, Flat6Labs/UNDP)",
+     "city": "Casablanca",
+     "type": "accelerator",
+     "investment": "non-financial support",
+     "sectors": "green economy",
+     "deadline": "unknown",
+     "next_cohort": "unknown",
+     "status": "unknown",
+     "url": "https://flat6labs.com/program/ggjap/"
+    }
+   ]
+  },
+  "notes_append": "2026-10-20 gap-fill: FM6I preselected 9 startup fund managers in Apr 2026 (incl. 500, Plug and Play, MEVP, Sawari, Outlierz, Kalys, Sienna) for a ~US$270m startup fund mechanism. Added FM6I, MNF Ventures, 212 Founders (Expand212/HQ212), Sawari, Reseau Entreprendre honour loans and GGJAP. Flat6Labs Ignite Morocco page shows Active from 24 Jun 2026 with no deadline.",
+  "sources": [
+   "https://www.fm6i.ma/fr",
+   "https://mnf.ma/",
+   "https://www.212founders.co/",
+   "https://www.tamwilstartups.ma/"
+  ]
+ },
+ {
+  "country": "Iran",
+  "add": {
+   "vcs": [
+    {
+     "name": "Shenasa (Pasargad Financial Group)",
+     "city": "Tehran",
+     "stage": "multi",
+     "check_size": "unknown",
+     "sectors": "fintech, health, e-commerce, AI, agritech",
+     "type": "cvc",
+     "url": "https://shenasa.ir/"
+    },
+    {
+     "name": "Smartup Ventures",
+     "city": "Tehran",
+     "stage": "seed | series A",
+     "check_size": "unknown",
+     "sectors": "digital, e-commerce, fintech",
+     "type": "vc",
+     "url": "https://smartup.ir/"
+    }
+   ]
+  },
+  "notes_append": "2026-10-20 gap-fill: Added Shenasa (Pasargad's VC/accelerator arm, news to Feb 2025) and Smartup Ventures, both fetched directly. Sarava and Avatech domains resolve but refuse foreign connections, so omitted.",
+  "sources": [
+   "https://shenasa.ir/",
+   "https://smartup.ir/"
+  ]
+ }
+]

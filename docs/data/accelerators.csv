@@ -38,16 +38,19 @@ Austria,Europe,accent Gründerservice,Lower Austria,incubator,no equity,tech,unk
 Austria,Europe,Plug and Play Austria,Vienna,corporate,no equity,corporate innovation,unknown,unknown,unknown,https://www.plugandplaytechcenter.com/austria/
 Azerbaijan,Central Asia & Caucasus,INNOLAND,Baku,government,"no equity; incubation, acceleration, virtual residency",generalist,rolling,unknown,rolling,https://innoland.az/
 Azerbaijan,Central Asia & Caucasus,ITU Regional Acceleration Center (IDDA),Baku,government,unknown,"digital, ICT",unknown,unknown,unknown,https://idda.az/az/innovasiya/itu-regional-akselerasiya-merkezi
-Azerbaijan,Central Asia & Caucasus,SUP.VC,Baku,corporate,unknown,"corporate open innovation, generalist",unknown,unknown,unknown,https://sup.vc/
+Azerbaijan,Central Asia & Caucasus,SUP.VC,Baku,corporate,"no in-house fund; runs corporate and public-sector accelerators, incubation and CVC-as-a-service","corporate open innovation, generalist",unknown,unknown,unknown,https://sup.vc/
 Azerbaijan,Central Asia & Caucasus,EBRD Star Venture,regional,accelerator,no equity; 24-month advisory and investor access,generalist (turnover under EUR 1m),periodic calls (last Central Asia call closed 2025-11-30),unknown,unknown,https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html
 Bahamas,Latin America & Caribbean,SBDC Blue Economy Accelerator Programme,Nassau,government,no equity; 8 weeks plus funding access,blue economy,unknown,unknown (first cohort started 2026-06-23),unknown,https://sbdcbahamas.com
 Bahamas,Latin America & Caribbean,UB Ignite (University of The Bahamas),Nassau,university,no equity; 7-week accelerator and pitch,"fintech, generalist",unknown,unknown,unknown,https://www.ub.edu.bs
 Bahamas,Latin America & Caribbean,"Founder Institute Caribbean (Fall 2026, virtual)",virtual,accelerator,no investment; program fee US$749,"generalist, pre-seed",2026-10-20,2026-10,open,https://fi.co/apply/14634
 Bahamas,Latin America & Caribbean,RevUP Caribbean Incubation Programme,virtual (Kingston),incubator,"no equity; training, mentoring, investor intros (CDB-backed)",generalist; women-led and climate-smart priority,last: 2026-06-30 (Cohort 8),unknown,closed,https://www.revupcaribbean.com
 Bahamas,Latin America & Caribbean,"Parallel18 (P18), Puerto Rico","San Juan, Puerto Rico",accelerator,US$100k via SAFE,generalist,unknown (Gen 15 applications reopen 2027; waitlist open),2027,upcoming,https://parallel18.com/p18/
-Bahrain,Middle East & North Africa,C5 Accelerate,Manama,accelerator,seed investment,"fintech, cloud",unknown,unknown,unknown,https://www.c5accelerate.com/
 Bahrain,Middle East & North Africa,Brinc,Manama,accelerator,seed investment for equity,"hardware, climate, web3",unknown,unknown,unknown,https://brinc.io/
+Bahrain,Middle East & North Africa,NBB Innovation Programme (Bahrain FinTech Bay),Manama,corporate,US$10k prize to winning team + 3-month BFB incubation; no equity,"fintech, AI",2026-11-26,2027-01,open,https://www.bahrainfintechbay.com/nbb-innovation-programme
 Bangladesh,South Asia,iDEA incubation and co-working,Dhaka,government,"no equity; co-working, lab, mentoring",tech,rolling,unknown,rolling,https://idea.gov.bd/
+Bangladesh,South Asia,Orange Corners Bangladesh,Dhaka,incubator,"no equity; grant up to EUR 5,000","generalist (SDG-aligned), founders 18-35, female co-founder required",twice yearly; dates not published,unknown,closed,https://www.orangecorners.com/country/bangladesh/
+Bangladesh,South Asia,OnnoRokom Uddokta Accelerator,Dhaka,accelerator,no equity (non-profit),"generalist, operating startups and SMEs",unknown (waitlist open; last: 2025-12-20),unknown,upcoming,https://onnorokomuddokta.org/
+Bangladesh,South Asia,DEIED Startup Support Program (Early-Stage Accelerator),Dhaka,government,no stated funding; mentoring and demo day,tech,unknown (last round closed May 15),unknown,closed,https://deied.bhtpa.gov.bd/early-stage-startup-accelerator
 Barbados,Latin America & Caribbean,FutureBarbados (Catapult incubator / Flight accelerator),Bridgetown,government,no equity,"science, emerging tech",unknown,unknown,unknown,https://futurebarbados.bb
 Barbados,Latin America & Caribbean,TEN Habitat / Venture Habitat,Bridgetown,incubator,unknown,generalist,unknown,unknown,unknown,https://tenhabitat.com
 Barbados,Latin America & Caribbean,"Founder Institute Caribbean (Fall 2026, virtual)",virtual,accelerator,no investment; program fee US$749,"generalist, pre-seed",2026-10-20,2026-10,open,https://fi.co/apply/14634
@@ -77,6 +80,7 @@ Bosnia & Herzegovina,Europe,Innovation Centre Banja Luka (ICBL),Banja Luka,incub
 Botswana,Sub-Saharan Africa,Botswana Innovation Hub,Gaborone,government,incubation and science park,"tech, innovation",unknown,unknown,unknown,https://www.bih.co.bw/
 Botswana,Sub-Saharan Africa,Google for Startups Accelerator: Africa,Pan-African (hybrid),corporate,equity-free,"AI/ML, Series A startups","last: 2026-03-18 (annual, usually Feb to Mar)",unknown,upcoming,https://startup.google.com/programs/accelerator/africa/
 Botswana,Sub-Saharan Africa,Catalyst Fund,Pan-African (remote),accelerator,US$200k pre-seed equity plus venture building,"climate adaptation, climate fintech, agri, water, energy",rolling,unknown,rolling,https://www.thecatalystfund.com/pitch-to-us
+Botswana,Sub-Saharan Africa,Botswana Tech Fund Accelerator,Gaborone,accelerator,GBP 25k then GBP 75k for 10%,"B2B tech, Southern Africa",unknown (last round closed July 13),unknown,closed,https://botswanatech.com/
 Brazil,Latin America & Caribbean,BNDES Garagem (run with Quintessa),Rio de Janeiro / remote,government,no equity; free acceleration (Criação and Tração tracks),"impact, generalist",annual; last cycle 2 closed 2025-09-14; 2026 call pending,unknown,upcoming,https://garagem.bndes.gov.br/
 Brazil,Latin America & Caribbean,InovAtiva (Brasil and Impacto),remote,government,no equity; free acceleration and mentoring,"generalist, impact",cohorts usually twice yearly; last regional call closed 2026-05-22,unknown,upcoming,https://inovativa.online/
 Brazil,Latin America & Caribbean,Cubo Itaú,São Paulo,corporate,no equity; hub and corporate connections,generalist tech,rolling,unknown,rolling,https://cubo.itau/
@@ -153,7 +157,7 @@ Croatia,Europe,Step Ri Science and Technology Park,Rijeka,university,no equity,"
 Croatia,Europe,BIOS Business Incubator,Osijek,incubator,"subsidised space, no equity",generalist,rolling,unknown,rolling,https://www.inkubator.hr
 Croatia,Europe,HAMAG-BICRO Most Innovative Startup of Croatia,Zagreb,government,awards and investor exposure,"generalist, S3 areas",last: 2026-09-01,unknown,closed,https://hamagbicro.hr/hamag-bicro-bira-najinovativniji-startup-hrvatske-za-2026-godinu/
 Cyprus,Europe,Cyprus Seeds,Nicosia,university,no equity,"generalist, research spinouts",unknown,unknown,unknown,https://www.cyprusseeds.com/
-Cyprus,Europe,EIT Jumpstarter,online / pan-European,accelerator,no equity; prizes for finalists,"health, climate, energy, food, manufacturing, mobility, raw materials",unknown,unknown,unknown,https://eitjumpstarter.eu/
+Cyprus,Europe,EIT Jumpstarter,online / pan-European,accelerator,no equity; prizes for finalists,"health, climate, energy, food, manufacturing, mobility, raw materials",annual (spring); last: 2026-05-17,unknown,closed,https://eitjumpstarter.eu/
 Czechia,Europe,StartupYard,Prague,accelerator,"seed investment (backed by Credo, Rockaway)","fintech track (with DEPO Ventures, Mastercard); deeptech",rolling (FinTech track open; Deep-Tech closed),unknown,open,https://startupyard.com/apply-to-startupyard-remote-lab/
 Czechia,Europe,JICbooster,Brno,incubator,"incubation, possible seed funding",generalist,unknown,unknown,unknown,https://www.jic.cz/en/
 Czechia,Europe,ESA BIC Czech Republic,Prague,government,"up to EUR 180k, no equity",space tech,around turn of 2026/2027,unknown,upcoming,https://www.esa-bic.cz/
@@ -179,6 +183,7 @@ Dominica,Latin America & Caribbean,"Parallel18 (P18), Puerto Rico","San Juan, Pu
 Dominican Republic,Latin America & Caribbean,"Founder Institute Caribbean / Dominican Republic (Fall 2026, virtual)",virtual,accelerator,no investment; program fee US$749,"generalist, pre-seed",2026-10-20,2026-10,open,https://fi.co/apply/14634
 Dominican Republic,Latin America & Caribbean,EmprendeLab (Promipyme),Santo Domingo,government,no equity; training plus loan access,generalist,unknown,unknown,unknown,https://promipyme.gob.do
 Dominican Republic,Latin America & Caribbean,"Parallel18 (P18), Puerto Rico","San Juan, Puerto Rico",accelerator,US$100k via SAFE,generalist,unknown (Gen 15 applications reopen 2027; waitlist open),2027,upcoming,https://parallel18.com/p18/
+Dominican Republic,Latin America & Caribbean,Cree Banreservas incubation programme,Santo Domingo,corporate,"no equity; technical support, financing instruments, investor access",generalist,annual call; 2026 cohort (2nd edition) selected Apr 2026,unknown,closed,https://www.creebanreservas.com.do
 Ecuador,Latin America & Caribbean,"Founder Institute Ecuador (Latam Fall 2026, virtual)",virtual,accelerator,no investment; program fee,"generalist, pre-seed",2026-10-27,2026-11,open,https://fi.co/apply/14729
 Ecuador,Latin America & Caribbean,Prendho,Cuenca,incubator,no equity,"generalist, creative industries",unknown,unknown,unknown,https://prendho.com
 Ecuador,Latin America & Caribbean,EPICO business incubation (Ruta EPICA),Guayaquil,government,no equity,generalist,unknown,unknown,unknown,https://epico.gob.ec
@@ -208,6 +213,7 @@ Ethiopia,Sub-Saharan Africa,Villgro Africa Incubation Program,Nairobi,incubator,
 Ethiopia,Sub-Saharan Africa,Google for Startups Accelerator: Africa,Pan-African (hybrid),corporate,equity-free,"AI/ML, Series A startups","last: 2026-03-18 (annual, usually Feb to Mar)",unknown,upcoming,https://startup.google.com/programs/accelerator/africa/
 Ethiopia,Sub-Saharan Africa,Catalyst Fund,Pan-African (remote),accelerator,US$200k pre-seed equity plus venture building,"climate adaptation, climate fintech, agri, water, energy",rolling,unknown,rolling,https://www.thecatalystfund.com/pitch-to-us
 Fiji,Oceania,Fiji Innovation Hub,Suva,incubator,"no equity stated; accelerator programmes, hackathons and design sprints","fintech, digital",unknown,unknown,unknown,https://fijiinnovationhub.com
+Fiji,Oceania,Fiji Enterprise Engine (FEE),Suva,accelerator,no equity stated; mentoring,"established MSMEs (2+ years), about 15 per year",annual; dates not published,unknown,unknown,https://www.fcef.com.fj/activities/fiji-enterprise-engine/
 Finland,Europe,Maria 01,Helsinki,incubator,no equity; startup campus,generalist tech,rolling,unknown,rolling,https://maria.io/
 Finland,Europe,Startup Sauna,Espoo,accelerator,no equity,generalist,unknown,unknown,unknown,https://www.startupsauna.com/
 Finland,Europe,Kiuas,Helsinki,accelerator,unknown,"idea-stage founders, generalist",rolling,unknown,rolling,https://kiuas.com/
@@ -231,6 +237,7 @@ Georgia,Central Asia & Caucasus,"Plug and Play Georgia (GITA, 2nd cohort)",Tbili
 Georgia,Central Asia & Caucasus,Startupbootcamp Georgia (GITA program),Tbilisi,accelerator,no equity; GITA grants,generalist,unknown,unknown,unknown,https://startupbootcamp.org/
 Georgia,Central Asia & Caucasus,GITA Regional Pre-Acceleration Program,"Imereti, Guria, Adjara",government,"no equity, free",generalist,"open (opened 2026-10-06, close date not published)",unknown,open,https://gita.gov.ge/news/gita-s-regionuli-pre-akseleratsiis-programaze-ganatskhadebis-migheba-daitsqo-lQuldYd9S
 Georgia,Central Asia & Caucasus,EBRD Star Venture,regional,accelerator,no equity; 24-month advisory and investor access,generalist (turnover under EUR 1m),periodic calls (last Central Asia call closed 2025-11-30),unknown,unknown,https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html
+Georgia,Central Asia & Caucasus,500 Global Georgia Startup Academy,Tbilisi,accelerator,"access to non-dilutive grants (with GITA, Bank of Georgia)",generalist tech,unknown,unknown,unknown,https://500.co/eurasia
 Germany,Europe,"UnternehmerTUM (XPRENEURS, TechFounders)",Munich,university,no equity (programs) / UVC co-investment,"deep tech, B2B",unknown,unknown,unknown,https://www.unternehmertum.de/en
 Germany,Europe,TechFounders,Munich,accelerator,"corporate pilots, no equity",B2B tech,unknown,unknown,unknown,https://www.techfounders.com/
 Germany,Europe,TUM Venture Labs,Munich,university,no equity,"deep tech, life science",rolling,unknown,rolling,https://www.tum-venture-labs.de/
@@ -350,8 +357,10 @@ Japan,East Asia,UTokyo IPC 1stRound,Tokyo,university,grant-like support and poss
 Japan,East Asia,31VENTURES (Mitsui Fudosan),Tokyo,corporate,CVC investment and space,"real estate, generalist",rolling,unknown,rolling,https://www.31ventures.jp
 Japan,East Asia,BRAVE (Beyond Next Ventures),Tokyo,accelerator,no equity in program,"deep tech, life science",annual,unknown,unknown,https://brave.vc
 Jordan,Middle East & North Africa,Oasis500,Amman,accelerator,seed investment for equity,generalist tech,cohort-based,unknown,unknown,https://oasis500.com/
-Jordan,Middle East & North Africa,Flat6Labs Amman,Amman,accelerator,seed investment for equity,generalist,last: 2025-02-15,unknown,unknown,https://flat6labs.com/
+Jordan,Middle East & North Africa,Flat6Labs Amman,Amman,accelerator,seed investment for equity,generalist,last: 2025-02-15,unknown,unknown,https://flat6labs.com/Location/jordan/
 Jordan,Middle East & North Africa,Ahli Fintech,Amman,corporate,no equity,fintech,rolling,unknown,rolling,https://ahlifintech.com/
+Jordan,Middle East & North Africa,C3 Launchpad,Amman,government,"no equity, no fee","tech-enabled, UAE expansion",last: 2026-08-16,unknown,closed,https://wegrowwithc3.com/c3-launchpad
+Jordan,Middle East & North Africa,"Green Growth and Jobs Accelerator (GGJAP, Flat6Labs/UNDP)",Amman,accelerator,non-financial support,green economy,unknown,unknown,unknown,https://flat6labs.com/program/ggjap/
 Kazakhstan,Central Asia & Caucasus,AI'preneurs,Astana,government,no equity; investor demo day,AI,last: 2026-08-17 (6th cohort),unknown,closed,https://dknews.kz/en/articles-in-english/399591-astana-hub-opens-applications-for-sixth-ai-preneurs
 Kazakhstan,Central Asia & Caucasus,Astana Innovations Accelerator,Astana,government,"SAFE investment from Astana Hub, pilots with Astana Akimat","smart city, govtech",last: 2026-06-15,unknown,closed,https://astanahub.com/en/l/AIN2026
 Kazakhstan,Central Asia & Caucasus,Big Sky SEA Hub,Astana / Southeast Asia,accelerator,unknown,generalist (expansion to Southeast Asia),last: 2026-08-24,unknown,closed,https://astanahub.com/en/article/astana-hub-otkryvaet-priem-zaiavok-na-programmu-big-sky-sea-hub-dlia-startapov-tsentralnoi-azii-v-iugo
@@ -370,13 +379,15 @@ Kosovo,Europe,Startup Wise Guys Western Balkans Accelerator,Pristina / Skopje (h
 Kosovo,Europe,Innovation and Training Park Prizren,Prizren,incubator,"no equity; start-up offices, coworking","ICT, green energy, creative",unknown,unknown,unknown,https://itp-prizren.com/
 Kosovo,Europe,EBRD Star Venture,regional,government,no equity; 24-month advisory and investor access,generalist,unknown,unknown,unknown,https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html
 Kosovo,Europe,RISE Regional Incubator for Social Entrepreneurs,regional (Western Balkans),incubator,no equity,social enterprise,unknown,unknown,unknown,https://www.risewb.org/
+Kuwait,Middle East & North Africa,KDSC Accelerator (Kuwait Digital Startup Campus),Kuwait City,government,unknown,generalist,last: 2026 cohort applications closed,unknown,closed,https://kdsc.ventures
+Kuwait,Middle East & North Africa,CBK Wolooj Strategic Initiative Accelerator Program,Kuwait City,government,"mentoring, no equity","fintech, AI, RegTech/SupTech, cybersecurity",last: 2026-10-01,unknown,closed,https://www.cbk.gov.kw/en/legislation-and-regulation/innovation-hub/overview
 Kyrgyzstan,Central Asia & Caucasus,Accelerate Prosperity Kyrgyzstan,Bishkek,accelerator,financing on flexible terms,generalist SMEs and startups,rolling,unknown,rolling,https://apkgz.org/
 Kyrgyzstan,Central Asia & Caucasus,EBRD Star Venture,regional,accelerator,no equity; 24-month advisory and investor access,generalist (turnover under EUR 1m),periodic calls (last Central Asia call closed 2025-11-30),unknown,unknown,https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html
 Laos,Southeast Asia,Startnovation,Vientiane,incubator,no equity,generalist,unknown,unknown,unknown,https://startnovation.com/
 Latvia,Europe,LIAA Innovation Academy (Technology Business Center),Riga,government,no equity,generalist,unknown,unknown,unknown,https://www.liaa.gov.lv/en/liaa-technology-business-center/innovation-academy
-Latvia,Europe,Buildit,Riga,accelerator,pre-seed equity,"hardware, IoT",unknown,unknown,unknown,https://www.buildit.lv/
+Latvia,Europe,Buildit,Riga,accelerator,"up to EUR 250k pre-seed (Latvia), up to EUR 1.5M seed","hardware, IoT",unknown (investment period of current fund over; new EUR 20M fund being raised),unknown,closed,https://www.buildit.lv/
 Latvia,Europe,Startup Wise Guys,"Tallinn (programs across Baltics, Nordics, Europe)",accelerator,initial ticket EUR 100k in flagship programs,"B2B SaaS, fintech, cybersecurity, defence, sustainability, proptech",2026-11-02 (Founders Club); flagship accelerator unknown,unknown,open,https://startupwiseguys.com/
-Latvia,Europe,EIT Jumpstarter,online / pan-European,accelerator,no equity; prizes for finalists,"health, climate, energy, food, manufacturing, mobility, raw materials",unknown,unknown,unknown,https://eitjumpstarter.eu/
+Latvia,Europe,EIT Jumpstarter,online / pan-European,accelerator,no equity; prizes for finalists,"health, climate, energy, food, manufacturing, mobility, raw materials",annual (spring); last: 2026-05-17,unknown,closed,https://eitjumpstarter.eu/
 Lebanon,Middle East & North Africa,Berytech,Beirut,incubator,"grants and seed via partners, no equity for most","agrifood, cleantech, tech",program-specific calls,unknown,unknown,https://berytech.org/
 Lesotho,Sub-Saharan Africa,BEDCO Business Incubation,Maseru,government,"incubation, mentorship and acceleration",youth businesses,unknown,unknown,unknown,https://www.bedco.org.ls/
 Lesotho,Sub-Saharan Africa,Catalyst Fund,Pan-African (remote),accelerator,US$200k pre-seed equity plus venture building,"climate adaptation, climate fintech, agri, water, energy",rolling,unknown,rolling,https://www.thecatalystfund.com/pitch-to-us
@@ -389,7 +400,7 @@ Lithuania,Europe,Startup Lithuania,Vilnius,government,no equity; programs and so
 Lithuania,Europe,Tech Zity,Vilnius,incubator,no equity; tech campus,generalist tech,rolling,unknown,rolling,https://techzity.com/
 Lithuania,Europe,Startup Wise Guys,"Tallinn (programs across Baltics, Nordics, Europe)",accelerator,initial ticket EUR 100k in flagship programs,"B2B SaaS, fintech, cybersecurity, defence, sustainability, proptech",2026-11-02 (Founders Club); flagship accelerator unknown,unknown,open,https://startupwiseguys.com/
 Lithuania,Europe,EIT Jumpstarter,online / pan-European,accelerator,no equity; prizes for finalists,"health, climate, energy, food, manufacturing, mobility, raw materials",unknown,unknown,unknown,https://eitjumpstarter.eu/
-Luxembourg,Europe,Fit 4 Start,Luxembourg City,government,up to €150k (convertible),"ICT, health, space, sustainability",unknown,unknown,unknown,https://startupluxembourg.com/start-your-business/join-our-startup-programmes
+Luxembourg,Europe,Fit 4 Start,Luxembourg City,government,"up to EUR 150k (grant, no equity)","ICT, health, space, sustainability",twice yearly; last: 2026-07-10,2027-01,closed,https://startupluxembourg.com/start-your-business/join-our-startup-programmes
 Luxembourg,Europe,LHoFT Catapult,Luxembourg City,accelerator,no equity,fintech,unknown,unknown,closed,https://www.lhoft.com/en/catapult
 Luxembourg,Europe,Technoport,Esch-sur-Alzette,incubator,no equity,tech,rolling,unknown,rolling,https://technoport.lu/
 Luxembourg,Europe,ESRIC Start-up Support Programme,Luxembourg City,government,no equity,space resources,unknown,unknown,unknown,https://www.esric.lu/
@@ -410,8 +421,8 @@ Malaysia,Southeast Asia,Google for Startups Accelerator: Southeast Asia,Singapor
 Mali,Sub-Saharan Africa,Orange Corners Mali,Bamako (run by Donilab),incubator,no equity; training + OCIF seed grant/loan for alumni,"generalist, youth-led",unknown (annual cohorts),unknown,unknown,https://www.orangecorners.com/country/mali/
 Mali,Sub-Saharan Africa,Orange Digital Center / Orange Fab Mali,Bamako,corporate,"no equity; free acceleration, Orange Ventures access","digital, generalist",annual call (usually Q1),unknown,upcoming,https://www.orangemali.com/
 Malta,Europe,TAKEOFF Enterprise Campus (University of Malta),Msida,university,no equity; seed fund support,"generalist, tech",rolling,unknown,rolling,https://takeoff.org.mt/
-Malta,Europe,EIT Jumpstarter,online / pan-European,accelerator,no equity; prizes for finalists,"health, climate, energy, food, manufacturing, mobility, raw materials",unknown,unknown,unknown,https://eitjumpstarter.eu/
-Mauritius,Sub-Saharan Africa,Turbine Incubator,Moka,incubator,incubation; Innovation Challenge 2026 '300K' cash reward,"generalist, sustainability, AI",last: 2026-08-19 (Innovation Challenge 2026),unknown,closed,https://turbine.mu/
+Malta,Europe,EIT Jumpstarter,online / pan-European,accelerator,no equity; prizes for finalists,"health, climate, energy, food, manufacturing, mobility, raw materials",annual (spring); last: 2026-05-17,unknown,closed,https://eitjumpstarter.eu/
+Mauritius,Sub-Saharan Africa,Turbine Incubator,Moka,incubator,Seed Capital up to MUR 5M for Acceleration Programme startups,"generalist, sustainability, AI",last: 2026-08-19 (Innovation Challenge 2026),unknown,closed,https://turbine.mu/
 Mauritius,Sub-Saharan Africa,Google for Startups Accelerator: Africa,Pan-African (hybrid),corporate,equity-free,"AI/ML, Series A startups","last: 2026-03-18 (annual, usually Feb to Mar)",unknown,upcoming,https://startup.google.com/programs/accelerator/africa/
 Mauritius,Sub-Saharan Africa,Catalyst Fund,Pan-African (remote),accelerator,US$200k pre-seed equity plus venture building,"climate adaptation, climate fintech, agri, water, energy",rolling,unknown,rolling,https://www.thecatalystfund.com/pitch-to-us
 Mexico,Latin America & Caribbean,500 Global LatAm Accelerator,Mexico City,accelerator,up to US$300k (per program page),generalist tech,unknown (apply via latam.aplica.500.co),unknown,unknown,https://500.co/latam
@@ -432,6 +443,7 @@ Montenegro,Europe,RISE Regional Incubator for Social Entrepreneurs,regional (Wes
 Morocco,Middle East & North Africa,Flat6Labs Ignite Morocco,Casablanca,accelerator,free 6-18 month support,"digital, agritech, fintech, cleantech",unknown,unknown,unknown,https://flat6labs.com/program/ignite-morocco/
 Morocco,Middle East & North Africa,UM6P StartGate,Ben Guerir,university,"no equity, incubation","deep tech, agritech",unknown,unknown,unknown,https://www.startgate.ma/
 Morocco,Middle East & North Africa,Technopark,Casablanca,incubator,no equity,tech,rolling,unknown,rolling,https://www.technopark.ma/
+Morocco,Middle East & North Africa,"Green Growth and Jobs Accelerator (GGJAP, Flat6Labs/UNDP)",Casablanca,accelerator,non-financial support,green economy,unknown,unknown,unknown,https://flat6labs.com/program/ggjap/
 Mozambique,Sub-Saharan Africa,Orange Corners Mozambique,Maputo,incubator,training plus OC Innovation Fund eligibility,youth-led startups (18–35),cohort-based (one-month window),unknown,closed,https://www.orangecorners.com/country/mozambique/
 Mozambique,Sub-Saharan Africa,Google for Startups Accelerator: Africa,Pan-African (hybrid),corporate,equity-free,"AI/ML, Series A startups","last: 2026-03-18 (annual, usually Feb to Mar)",unknown,upcoming,https://startup.google.com/programs/accelerator/africa/
 Mozambique,Sub-Saharan Africa,Catalyst Fund,Pan-African (remote),accelerator,US$200k pre-seed equity plus venture building,"climate adaptation, climate fintech, agri, water, energy",rolling,unknown,rolling,https://www.thecatalystfund.com/pitch-to-us
@@ -488,6 +500,8 @@ Pakistan,South Asia,NIC Lahore,Lahore,government,"grant, no equity",generalist,c
 Pakistan,South Asia,NIC Islamabad,Islamabad,government,"grant, no equity",generalist,cohort-based,unknown,unknown,https://nicislamabad.com/
 Pakistan,South Asia,NIC Peshawar,Peshawar,government,"grant, no equity",generalist,cohort-based,unknown,unknown,https://nicpeshawar.pk/
 Pakistan,South Asia,Plan9 (PITB),Lahore,government,"no equity, incubation",tech,cohort-based,unknown,unknown,https://plan9.pitb.gov.pk/
+Pakistan,South Asia,"SSK Incubation Centre (SSKIC), IoBM - Cohort 6",Karachi,university,"PKR 100,000 award per startup, no equity stated","generalist, teams of 2+",2026-11-15,unknown,open,https://incubation.iobm.edu.pk/cohort-6/
+Pakistan,South Asia,Standard Chartered Women in Tech Pakistan,Karachi,corporate,"grants; top 3 get PKR 5M, 3.5M, 2M",women-led tech startups,annual; last: 2026-04-30 (Cohort 8),unknown,closed,https://www.sc.com/pk/women-in-tech/
 Palestine,Middle East & North Africa,Flat6Labs Nawah Pre-Accelerator,Ramallah,accelerator,"no equity, pre-acceleration",generalist,last: 2026-03-28,unknown,closed,https://flat6labs.com/program/nawah-pre-accelerator-program/
 Palestine,Middle East & North Africa,Flow Accelerator,Ramallah,accelerator,incubation and pre-acceleration,generalist,rolling,unknown,unknown,https://flow.ps/
 Palestine,Middle East & North Africa,Gaza Sky Geeks,Gaza / remote,incubator,"no equity, training","tech, freelancing",unknown,unknown,unknown,https://gazaskygeeks.com/
@@ -498,6 +512,7 @@ Paraguay,Latin America & Caribbean,INCUNA BOOTSTART (Universidad Nacional de Asu
 Paraguay,Latin America & Caribbean,Koga Impact Lab,Asuncion,incubator,no equity; pre-incubation to acceleration,impact,unknown,unknown,unknown,https://koga.com.py
 Paraguay,Latin America & Caribbean,Parque Tecnologico Itaipu (PTI) incubator,Hernandarias,government,no equity,"tech, energy",unknown,unknown,unknown,https://www.pti.org.py
 Paraguay,Latin America & Caribbean,Moonshot (ueno bank / itti),Asuncion,corporate,prizes US$5k-30k,tech,last: 2026-04-12,unknown,closed,https://moonshot.ueno.com.py
+Paraguay,Latin America & Caribbean,LAN Accelerator,Asunción / Santiago,accelerator,accelerator that invests; BID Lab-supported,"generalist (fintech, AI, proptech, agtech, govtech)",unknown (LAN V5 applications closed),unknown,closed,https://lanaccelerator.com/
 Peru,Latin America & Caribbean,Emprende UP (Universidad del Pacífico),Lima,university,no equity,generalist,unknown,unknown,unknown,https://emprendeup.pe/
 Peru,Latin America & Caribbean,Bioincuba,Lima,incubator,no equity,"biotech, agtech",unknown,unknown,unknown,https://www.bioincuba.com/
 Peru,Latin America & Caribbean,Kunan,Lima,accelerator,prizes and support,social impact,annual,unknown,unknown,https://www.kunan.com.pe/
@@ -677,8 +692,9 @@ Trinidad & Tobago,Latin America & Caribbean,CARIBEquity Ignite the World (IDB pi
 Trinidad & Tobago,Latin America & Caribbean,"Founder Institute Caribbean (Fall 2026, virtual)",virtual,accelerator,no investment; program fee US$749,"generalist, pre-seed",2026-10-20,2026-10,open,https://fi.co/apply/14634
 Trinidad & Tobago,Latin America & Caribbean,RevUP Caribbean Incubation Programme,virtual (Kingston),incubator,"no equity; training, mentoring, investor intros (CDB-backed)",generalist; women-led and climate-smart priority,last: 2026-06-30 (Cohort 8),unknown,closed,https://www.revupcaribbean.com
 Trinidad & Tobago,Latin America & Caribbean,"Parallel18 (P18), Puerto Rico","San Juan, Puerto Rico",accelerator,US$100k via SAFE,generalist,unknown (Gen 15 applications reopen 2027; waitlist open),2027,upcoming,https://parallel18.com/p18/
-Tunisia,Middle East & North Africa,Flat6Labs Tunis,Tunis,accelerator,seed investment for equity,generalist,cohort-based,unknown,unknown,https://flat6labs.com/
+Tunisia,Middle East & North Africa,Flat6Labs Tunis,Tunis,accelerator,seed investment for equity,generalist,cohort-based,unknown,closed,https://flat6labs.com/Location/tunisia/
 Tunisia,Middle East & North Africa,Wiki Start Up,Tunis,incubator,no equity,generalist,unknown,unknown,unknown,https://wikistartup.tn/
+Tunisia,Middle East & North Africa,"Green Growth and Jobs Accelerator (GGJAP, Flat6Labs/UNDP)",Tunis,accelerator,non-financial support,green economy,unknown,unknown,unknown,https://flat6labs.com/program/ggjap/
 Turkey,Middle East & North Africa,ITU Cekirdek,Istanbul,university,prize money and pre-seed,generalist tech,"annual, check site",unknown,unknown,https://itucekirdek.com/
 Turkey,Middle East & North Africa,ITU ARI Teknokent,Istanbul,university,technopark benefits,tech,rolling,unknown,rolling,https://www.ariteknokent.com.tr/tr
 Turkey,Middle East & North Africa,ODTU Teknokent,Ankara,university,technopark benefits,tech,rolling,unknown,rolling,https://www.odtuteknokent.com.tr/
@@ -751,6 +767,7 @@ Uruguay,Latin America & Caribbean,Sinergia,Montevideo,incubator,no equity,"tech,
 Uruguay,Latin America & Caribbean,CIE ORT (Centro de Innovación y Emprendimientos),Montevideo,university,no equity,generalist,unknown,unknown,unknown,https://cie.ort.edu.uy/
 Uruguay,Latin America & Caribbean,Platanus,Remote / LatAm,accelerator,US$200k for 7%,generalist tech,application windows several times a year; off-cycle accepted,unknown,rolling,https://platan.us/
 Uruguay,Latin America & Caribbean,Y Combinator (LatAm founders apply remotely),San Francisco (remote apply),accelerator,US$500k (US$125k for 7% + US$375k MFN SAFE),generalist,rolling; four batches a year,unknown,rolling,https://www.ycombinator.com/apply
+Uruguay,Latin America & Caribbean,LAB+ (Institut Pasteur de Montevideo company builder),Montevideo,venture_studio,company building and investment in science startups,"life sciences, biotech",call-based; no open call as of 2026-10-20,unknown,closed,https://labplus.uy/
 Uzbekistan,Central Asia & Caucasus,IT Park Incubation and Acceleration programs,Tashkent,government,no equity,IT,rolling (waitlist until next program),unknown,rolling,https://www.it-park.uz/en/itpark/startups
 Uzbekistan,Central Asia & Caucasus,UzVC Startup Growth Program,Tashkent,government,unknown,generalist,unknown,unknown,unknown,https://uzvc.uz/
 Uzbekistan,Central Asia & Caucasus,Techstars Founder Catalyst (Uzbekistan community),virtual,accelerator,"no equity, free",generalist,last: 2026-08-21,unknown,closed,https://www.techstars.com/techstars-founder-catalyst-global-fall-2026-program

@@ -1,0 +1,125 @@
+[
+ {"country": "Cyprus",
+  "add": {"vcs": [
+    {"name": "33East", "city": "Nicosia", "stage": "pre-seed", "check_size": "EUR 100k-1M+", "sectors": "generalist (fintech, energy, software)", "type": "vc", "url": "https://33east.vc/"}
+  ]},
+  "set": [
+    {"list": "grants", "name": "RE-SEED and other RIF startup programmes", "fields": {"deadline": "last: 2026-09-11 (PRE-SEED/0526); RE-SEED/0526 under evaluation", "status": "closed"}},
+    {"list": "accelerators", "name": "EIT Jumpstarter", "fields": {"deadline": "annual (spring); last: 2026-05-17", "status": "closed"}}
+  ],
+  "notes_append": "2026-10-20 gap-fill: added 33East, the first EIF-backed Cyprus VC (Cyprus Equity Fund anchor, EUR 26M first close, investment period to Dec 2027). RIF PRE-SEED/0526 closed 2026-09-11 with 284 proposals. IDEA Innovation Center (Bank of Cyprus) website did not resolve, so it was left out; its 11th cycle closed Feb 2026.",
+  "sources": ["https://33east.vc/", "https://www.research.org.cy/en/", "https://eitjumpstarter.eu/"]
+ },
+ {"country": "Malta",
+  "add": {
+    "vcs": [
+      {"name": "Growth Box Ventures", "city": "Ta' Xbiex", "stage": "seed", "check_size": "unknown", "sectors": "gaming, fintech, lead generation, personal finance", "type": "vc", "url": "https://growthbox.vc/"}
+    ],
+    "grants": [
+      {"name": "Prototype to Minimum Viable Product (P2M) Programme", "agency": "Xjenza Malta", "amount": "up to EUR 30,000 (EUR 16k base grant plus top-ups)", "amount_usd_max": 35000, "eligibility": "Maltese-registered SMEs and start-ups building an MVP", "deadline": "rolling; cut-offs end Mar, Jun, Sep; closed end Sep to end Dec, reopens 2027", "status": "closed", "url": "https://xjenzamalta.mt/2026/05/14/prototype-to-minimum-viable-product-p2m-programme/"}
+    ]
+  },
+  "set": [
+    {"list": "grants", "name": "Start-up Finance", "fields": {"deadline": "2026-10-30", "status": "open"}},
+    {"list": "accelerators", "name": "EIT Jumpstarter", "fields": {"deadline": "annual (spring); last: 2026-05-17", "status": "closed"}}
+  ],
+  "notes_append": "2026-10-20 gap-fill: Malta Enterprise Start-up Finance shows a 30 Oct 2026 deadline. Added Xjenza P2M grant and Growth Box Ventures. The state-backed Malta Venture Capital fund (EUR 10M, launched 2024, tickets reported up to EUR 500k) has no official website found, so it was left out.",
+  "sources": ["https://www.maltaenterprise.com/StartupFinance", "https://xjenzamalta.mt/media/open-funding-schemes/", "https://growthbox.vc/"]
+ },
+ {"country": "Belarus",
+  "notes_append": "2026-10-20 gap-fill: Belarusian Innovation Fund site re-checked; it lists vouchers (up to US$25k), grants (up to US$100k), repayable and venture financing and the Republican Innovation Project Competition, but no dated 2026 call. No new items added because of the sanctions context.",
+  "sources": ["https://belinfund.by"]
+ },
+ {"country": "North Macedonia",
+  "add": {"vcs": [
+    {"name": "500 Global (Eurasia)", "city": "regional", "stage": "pre-seed", "check_size": "unknown", "sectors": "generalist tech", "type": "vc", "url": "https://500.co/eurasia"}
+  ]},
+  "notes_append": "2026-10-20 gap-fill: no 2025-2026 FITD startup call could be confirmed (site still unreadable). 500 Global's Eurasia strategy lists North Macedonia among its 30 countries. Fil Rouge Capital and Eleven Ventures have done deals here but their sites do not state North Macedonia coverage, so they were left out.",
+  "sources": ["https://500.co/eurasia"]
+ },
+ {"country": "Moldova",
+  "add": {
+    "vcs": [
+      {"name": "500 Global (Eurasia)", "city": "regional", "stage": "pre-seed", "check_size": "unknown", "sectors": "generalist tech", "type": "vc", "url": "https://500.co/eurasia"}
+    ],
+    "resources": [
+      {"name": "SeedBlink", "type": "other", "url": "https://seedblink.com/", "note": "European crowdinvesting and deal platform; partnered with Startup Moldova (2026) for syndicated rounds"}
+    ]
+  },
+  "notes_append": "2026-10-20 gap-fill: added 500 Global (lists Moldova in its Eurasia region) and SeedBlink. EU4Innovation ESIL Moldova angel-training programme and a government Fund of Funds are reported but have no confirmed official pages.",
+  "sources": ["https://500.co/eurasia", "https://seedblink.com/"]
+ },
+ {"country": "Hungary",
+  "add": {"vcs": [
+    {"name": "Oktogon Ventures", "city": "Budapest", "stage": "seed", "check_size": "EUR 100k-400k initial, up to EUR 1.2M", "sectors": "B2B SaaS", "type": "vc", "url": "https://www.oktogon.vc/"},
+    {"name": "Impact Ventures", "city": "Budapest", "stage": "seed", "check_size": "unknown", "sectors": "impact, sustainability", "type": "vc", "url": "https://impactventures.hu/"},
+    {"name": "Valor Capital", "city": "Budapest", "stage": "multi", "check_size": "unknown", "sectors": "climate, sustainability, generalist", "type": "vc", "url": "https://www.valorcapital.hu/"},
+    {"name": "Credo Ventures", "city": "Prague", "stage": "pre-seed", "check_size": "unknown", "sectors": "generalist tech (CEE)", "type": "vc", "url": "https://www.credoventures.com/"},
+    {"name": "3TS Capital Partners", "city": "regional", "stage": "growth", "check_size": "unknown", "sectors": "technology (CEE)", "type": "vc", "url": "https://www.3tscapital.com/"}
+  ]},
+  "set": [
+    {"list": "vcs", "name": "Hiventures", "fields": {"check_size": "up to EUR 300k (HUF 17bn GINOP Plus fund, Feb 2026)"}}
+  ],
+  "notes_append": "2026-10-20 gap-fill: added Oktogon Ventures, Impact Ventures, Valor Capital, Credo and 3TS. Hiventures launched a HUF 17bn (about EUR 42M) fund in Feb 2026 with tickets capped at EUR 300k, co-investing with angels and VCs. Euroventures, Lead Ventures and iCatapult sites could not be reached and were left out. Startup Campus lists HFDA, HUMDA and TokajTech programmes without dates.",
+  "sources": ["https://www.oktogon.vc/", "https://impactventures.hu/", "https://www.valorcapital.hu/", "https://www.credoventures.com/"]
+ },
+ {"country": "Latvia",
+  "add": {"vcs": [
+    {"name": "Change Ventures", "city": "Tallinn / Riga", "stage": "pre-seed", "check_size": "EUR 100k-750k", "sectors": "generalist", "type": "vc", "url": "https://www.changeventures.com/"},
+    {"name": "FIRSTPICK", "city": "Vilnius", "stage": "pre-seed", "check_size": "EUR 100k-500k, follow-on to EUR 1M", "sectors": "AI-first software, SaaS, deeptech, fintech", "type": "vc", "url": "https://firstpick.vc/"},
+    {"name": "Superangel", "city": "Tallinn", "stage": "seed", "check_size": "EUR 300k-1M", "sectors": "AI, robotics, data infrastructure, deeptech", "type": "vc", "url": "https://superangel.io/"},
+    {"name": "BADideas.fund", "city": "unknown", "stage": "pre-seed", "check_size": "EUR 200k-1.5M", "sectors": "AI application-layer software", "type": "vc", "url": "https://badideas.fund/"}
+  ]},
+  "set": [
+    {"list": "accelerators", "name": "Buildit", "fields": {"investment": "up to EUR 250k pre-seed (Latvia), up to EUR 1.5M seed", "deadline": "unknown (investment period of current fund over; new EUR 20M fund being raised)", "status": "closed"}},
+    {"list": "accelerators", "name": "EIT Jumpstarter", "fields": {"deadline": "annual (spring); last: 2026-05-17", "status": "closed"}}
+  ],
+  "notes_append": "2026-10-20 gap-fill: added four Baltic or CEE VCs that state Latvia or the Baltics in scope. Buildit says its current investment period is over. LIAA Innovation Academy pages still show the 2023 intake only.",
+  "sources": ["https://www.changeventures.com/", "https://firstpick.vc/", "https://superangel.io/", "https://www.buildit.lv/"]
+ },
+ {"country": "Luxembourg",
+  "add": {"vcs": [
+    {"name": "Luxembourg Future Fund 3 (SNCI / EIF)", "city": "Luxembourg", "stage": "multi", "check_size": "fund-of-funds, EUR 270M total", "sectors": "generalist", "type": "government_fund", "url": "https://www.snci.lu/en/mandat/luxembourg-future-fund-3/"},
+    {"name": "Fonds National de Defense (FND)", "city": "Luxembourg", "stage": "multi", "check_size": "unknown (EUR 150M fund)", "sectors": "defence, dual-use, cybersecurity, space, advanced materials", "type": "government_fund", "url": "https://fnd.lu/"}
+  ]},
+  "set": [
+    {"list": "grants", "name": "Fit 4 Start", "fields": {"amount": "EUR 50k on incorporation plus up to EUR 100k", "deadline": "twice yearly; last: 2026-07-10", "status": "closed"}},
+    {"list": "accelerators", "name": "Fit 4 Start", "fields": {"investment": "up to EUR 150k (grant, no equity)", "deadline": "twice yearly; last: 2026-07-10", "next_cohort": "2027-01", "status": "closed"}}
+  ],
+  "notes_append": "2026-10-20 gap-fill: Fit 4 Start #17 call closed 2026-07-10 (record 556 applications), 24 startups start Jan 2027. Added LFF3 (launched 2026-06-12, EUR 270M fund-of-funds) and the EUR 150M National Defence Fund (launched 2026-04-30). LHoFT Catapult lists no open 2026-27 edition.",
+  "sources": ["https://www.snci.lu/en/our-investment-programs/", "https://fnd.lu/", "https://lhoft.com/programs/catapult-acceleration-programs/"]
+ },
+ {"country": "Georgia",
+  "add": {
+    "vcs": [
+      {"name": "500 Global (Eurasia)", "city": "Tbilisi / regional", "stage": "pre-seed", "check_size": "unknown", "sectors": "generalist tech", "type": "vc", "url": "https://500.co/eurasia"},
+      {"name": "Georgia Development Fund", "city": "Tbilisi", "stage": "multi", "check_size": "unknown", "sectors": "innovative production and startups, export, high-tech", "type": "government_fund", "url": "https://fund.ge/"}
+    ],
+    "accelerators": [
+      {"name": "500 Global Georgia Startup Academy", "city": "Tbilisi", "type": "accelerator", "investment": "access to non-dilutive grants (with GITA, Bank of Georgia)", "sectors": "generalist tech", "deadline": "unknown", "next_cohort": "unknown", "status": "unknown", "url": "https://500.co/eurasia"}
+    ]
+  },
+  "set": [
+    {"list": "grants", "name": "Co-financing startup grants", "fields": {"deadline": "periodic rounds (rounds I-IX, latest winners listed 2024)"}}
+  ],
+  "notes_append": "2026-10-20 gap-fill: added 500 Global (GITA and Bank of Georgia partner; Georgia Startup Academy launched 2025) and the state Georgia Development Fund (fund.ge, subsidiary Startup Georgia). GITA startups page shows no open co-financing round. Kedari Ventures' domain now hosts spam, so it stays excluded.",
+  "sources": ["https://500.co/eurasia", "https://fund.ge/", "https://gita.gov.ge/startups"]
+ },
+ {"country": "Azerbaijan",
+  "add": {
+    "vcs": [
+      {"name": "Caucasus Ventures", "city": "Baku", "stage": "seed", "check_size": "US$50k-100k first cheque, up to US$200k follow-on", "sectors": "fintech, SaaS, health, gaming, applied AI", "type": "vc", "url": "https://caucasus.vc/"},
+      {"name": "INMerge Ventures", "city": "Baku", "stage": "pre-seed", "check_size": "up to US$200k", "sectors": "generalist", "type": "vc", "url": "https://www.inmerge.vc/"},
+      {"name": "500 Global (Eurasia)", "city": "regional", "stage": "pre-seed", "check_size": "unknown", "sectors": "generalist tech", "type": "vc", "url": "https://500.co/eurasia"}
+    ],
+    "resources": [
+      {"name": "INMerge Innovation Summit", "type": "event", "url": "https://www.inmerge.az/", "note": "Baku Convention Center, 2026-11-30 to 2026-12-01"}
+    ]
+  },
+  "set": [
+    {"list": "accelerators", "name": "SUP.VC", "fields": {"investment": "no in-house fund; runs corporate and public-sector accelerators, incubation and CVC-as-a-service"}}
+  ],
+  "notes_append": "2026-10-20 gap-fill: added Caucasus Ventures and INMerge Ventures (local seed VCs) and 500 Global. SUP.VC now presents itself as an innovation consultancy for corporates. INNOLAND publishes no dated calls.",
+  "sources": ["https://caucasus.vc/", "https://www.inmerge.vc/", "https://500.co/eurasia", "https://sup.vc/"]
+ }
+]

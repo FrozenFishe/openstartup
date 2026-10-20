@@ -1,0 +1,307 @@
+[
+ {
+  "country": "Sri Lanka",
+  "add": {
+   "vcs": [
+    {
+     "name": "Lankan Angel Network",
+     "city": "Colombo",
+     "stage": "pre-seed",
+     "check_size": "unknown",
+     "sectors": "generalist",
+     "type": "angel_network",
+     "url": "https://lankanangelnetwork.com/"
+    }
+   ]
+  },
+  "notes_append": "2026-10-20 gap-fill: added Lankan Angel Network (75+ members, Fund II planned). Government startup Fund of Funds (Rs 1.5bn in 2026 budget) had not launched as of Aug 2026 (Cabinet paper pending), so it is not listed. BOV Capital site shows no activity since 2018 and Venture Engine shows only its 2025 edition; both left out. Hatch publishes no dated calls.",
+  "sources": [
+   "https://lankanangelnetwork.com/"
+  ]
+ },
+ {
+  "country": "Bangladesh",
+  "add": {
+   "vcs": [
+    {
+     "name": "Bangladesh Startup Investment Company (BSIC) - ONKUR Bangladesh Fund I",
+     "city": "Dhaka",
+     "stage": "seed",
+     "check_size": "unknown (US$35M fund, late seed to Series B, co-invests with international leads)",
+     "sectors": "fintech, agritech, edtech, healthtech, logistics, SaaS/AI",
+     "type": "vc",
+     "url": "https://www.bsic.vc/"
+    }
+   ],
+   "accelerators": [
+    {
+     "name": "Orange Corners Bangladesh",
+     "city": "Dhaka",
+     "type": "incubator",
+     "investment": "no equity; grant up to EUR 5,000",
+     "sectors": "generalist (SDG-aligned), founders 18-35, female co-founder required",
+     "deadline": "twice yearly; dates not published",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://www.orangecorners.com/country/bangladesh/"
+    },
+    {
+     "name": "OnnoRokom Uddokta Accelerator",
+     "city": "Dhaka",
+     "type": "accelerator",
+     "investment": "no equity (non-profit)",
+     "sectors": "generalist, operating startups and SMEs",
+     "deadline": "unknown (waitlist open; last: 2025-12-20)",
+     "next_cohort": "unknown",
+     "status": "upcoming",
+     "url": "https://onnorokomuddokta.org/"
+    },
+    {
+     "name": "DEIED Startup Support Program (Early-Stage Accelerator)",
+     "city": "Dhaka",
+     "type": "government",
+     "investment": "no stated funding; mentoring and demo day",
+     "sectors": "tech",
+     "deadline": "unknown (last round closed May 15)",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://deied.bhtpa.gov.bd/early-stage-startup-accelerator"
+    }
+   ],
+   "grants": [
+    {
+     "name": "Orange Corners Innovation Fund (OCIF) Bangladesh",
+     "agency": "Netherlands Ministry of Foreign Affairs / Orange Corners",
+     "amount": "up to EUR 50,000 (grant plus soft loan)",
+     "amount_usd_max": 58000,
+     "eligibility": "Bangladeshi private limited company, 2 years audited accounts, profitable",
+     "deadline": "unknown",
+     "status": "unknown",
+     "url": "https://www.orangecorners.com/country/bangladesh/"
+    }
+   ]
+  },
+  "country_fields": {
+   "confidence": "medium"
+  },
+  "notes_append": "2026-10-20 gap-fill: added BSIC/ONKUR (US$35M bank-funded VC, launched 12 May 2026), Orange Corners Bangladesh and OCIF, OnnoRokom Uddokta and the DEIED accelerator. Startup Bangladesh Limited's site (startupbangladesh.gov.bd) returns 'Page Not Found' as of 2026-10-20; LightCastle reports H1 2026 funding fell 95% to US$6M, all from foreign investors.",
+  "sources": [
+   "https://www.bsic.vc/",
+   "https://www.orangecorners.com/country/bangladesh/",
+   "https://onnorokomuddokta.org/"
+  ]
+ },
+ {
+  "country": "Pakistan",
+  "add": {
+   "vcs": [
+    {
+     "name": "Karandaaz Women Ventures",
+     "city": "Islamabad",
+     "stage": "growth",
+     "check_size": "unknown",
+     "sectors": "women-led SMEs, generalist",
+     "type": "vc",
+     "url": "https://www.karandaaz.com.pk/innovation-investments/women-ventures"
+    }
+   ],
+   "accelerators": [
+    {
+     "name": "SSK Incubation Centre (SSKIC), IoBM - Cohort 6",
+     "city": "Karachi",
+     "type": "university",
+     "investment": "PKR 100,000 award per startup, no equity stated",
+     "sectors": "generalist, teams of 2+",
+     "deadline": "2026-11-15",
+     "next_cohort": "unknown",
+     "status": "open",
+     "url": "https://incubation.iobm.edu.pk/cohort-6/"
+    },
+    {
+     "name": "Standard Chartered Women in Tech Pakistan",
+     "city": "Karachi",
+     "type": "corporate",
+     "investment": "grants; top 3 get PKR 5M, 3.5M, 2M",
+     "sectors": "women-led tech startups",
+     "deadline": "annual; last: 2026-04-30 (Cohort 8)",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://www.sc.com/pk/women-in-tech/"
+    }
+   ]
+  },
+  "notes_append": "2026-10-20 gap-fill: added Karandaaz Women Ventures (rolling, IC reviews on the 15th monthly), IoBM SSKIC Cohort 6 (deadline 2026-11-15) and SC Women in Tech. NIC sites still publish no dates. Indus Valley Capital and LUMS NEST domains do not resolve; lakson.vc is a parked domain.",
+  "sources": [
+   "https://incubation.iobm.edu.pk/cohort-6/",
+   "https://www.karandaaz.com.pk/innovation-investments/women-ventures",
+   "https://www.sc.com/pk/women-in-tech/"
+  ]
+ },
+ {
+  "country": "Macau",
+  "notes_append": "2026-10-20 gap-fill: no new verifiable items. A RMB100M Hengqin angel fund (Hengqin Cooperation Zone Industrial Investment Fund with CICC and BIT, signed Apr 2026) has no official page; Macau government industry and guidance funds are still at study stage; 8 fund managers licensed under the 2026 Investment Funds Law. GEG Venture Philanthropy Fund page is stale (2016)."
+ },
+ {
+  "country": "Fiji",
+  "add": {
+   "accelerators": [
+    {
+     "name": "Fiji Enterprise Engine (FEE)",
+     "city": "Suva",
+     "type": "accelerator",
+     "investment": "no equity stated; mentoring",
+     "sectors": "established MSMEs (2+ years), about 15 per year",
+     "deadline": "annual; dates not published",
+     "next_cohort": "unknown",
+     "status": "unknown",
+     "url": "https://www.fcef.com.fj/activities/fiji-enterprise-engine/"
+    }
+   ]
+  },
+  "notes_append": "2026-10-20 gap-fill: added FCEF's Fiji Enterprise Engine. Ministry of Trade site (Young Entrepreneurship Scheme) still returns HTTP 500. Fiji Innovation Hub runs Activator Cohort Two in 2026 (HFC Bank-funded) but publishes no dates.",
+  "sources": [
+   "https://www.fcef.com.fj/activities/fiji-enterprise-engine/"
+  ]
+ },
+ {
+  "country": "Mauritius",
+  "add": {
+   "vcs": [
+    {
+     "name": "ShEquity",
+     "city": "Grand Baie",
+     "stage": "growth",
+     "check_size": "unknown",
+     "sectors": "gender-smart climate and green SMEs, Africa",
+     "type": "vc",
+     "url": "https://shequity.com/"
+    }
+   ]
+  },
+  "set": [
+   {
+    "list": "grants",
+    "name": "Proof of Concept Scheme",
+    "fields": {
+     "deadline": "open under MRIC Call for Proposals 2026; no closing date published",
+     "status": "open"
+    }
+   },
+   {
+    "list": "grants",
+    "name": "Innovation Boost Grant",
+    "fields": {
+     "deadline": "open under MRIC Call for Proposals 2026; no closing date published",
+     "status": "open"
+    }
+   },
+   {
+    "list": "accelerators",
+    "name": "Turbine Incubator",
+    "fields": {
+     "investment": "Seed Capital up to MUR 5M for Acceleration Programme startups"
+    }
+   }
+  ],
+  "notes_append": "2026-10-20 gap-fill: added ShEquity; MRIC homepage says the Call for Proposals 2026 is accepting applications (no closing date); Turbine lists Seed Capital up to MUR 5M. Compass Venture Capital (ENL) and Mauritius Investment Corporation sites could not be reached, so left out.",
+  "sources": [
+   "https://www.mric.mu/",
+   "https://turbine.mu/",
+   "https://shequity.com/"
+  ]
+ },
+ {
+  "country": "Botswana",
+  "add": {
+   "vcs": [
+    {
+     "name": "Botswana Tech Fund",
+     "city": "Gaborone",
+     "stage": "multi",
+     "check_size": "GBP 25k-100k pre-seed; GBP 250k-2.5M seed to Series C",
+     "sectors": "B2B tech, fintech, logistics, SaaS, Southern Africa",
+     "type": "vc",
+     "url": "https://botswanatech.com/"
+    }
+   ],
+   "accelerators": [
+    {
+     "name": "Botswana Tech Fund Accelerator",
+     "city": "Gaborone",
+     "type": "accelerator",
+     "investment": "GBP 25k then GBP 75k for 10%",
+     "sectors": "B2B tech, Southern Africa",
+     "deadline": "unknown (last round closed July 13)",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://botswanatech.com/"
+    }
+   ]
+  },
+  "notes_append": "2026-10-20 gap-fill: added Botswana Tech Fund (GBP 50M target, US$6.7M first close, anchored by Pula Investments) and its accelerator. Botswana Innovation Fund and Scalar ran the 12-month Scalar Botswana Innovation Program from Mar 2026 (cohort selected). BDC site has a TLS error.",
+  "sources": [
+   "https://botswanatech.com/",
+   "https://vc4a.com/botswana-tech-fund/botswana-tech-fund-application/"
+  ]
+ },
+ {
+  "country": "Zambia",
+  "add": {
+   "resources": [
+    {
+     "name": "National Technology Business Centre (NTBC)",
+     "type": "government_agency",
+     "url": "https://ntbc.co.zm/",
+     "note": "Runs the Technology Business Development Fund; 2026 call reportedly closed 30 Jun 2026"
+    }
+   ]
+  },
+  "notes_append": "2026-10-20 gap-fill: added NTBC. No Zambia-based VC with a working site found; Zambia Business Angel Network, Enygma Ventures and Ground Squirrel Ventures sites did not resolve. BongoHive's AI for Business Accelerator 2026 closed 24 Jul 2026; ZICTA ICT Innovation Programme 2026 reportedly closed 20 Apr 2026 (site TLS error)."
+ },
+ {
+  "country": "Zimbabwe",
+  "add": {
+   "vcs": [
+    {
+     "name": "National Venture Capital Company of Zimbabwe (NVCCZ)",
+     "city": "Harare",
+     "stage": "multi",
+     "check_size": "unknown",
+     "sectors": "tech, agriculture, manufacturing, energy, health, fintech",
+     "type": "government_fund",
+     "url": "https://nvccz.com/"
+    }
+   ]
+  },
+  "notes_append": "2026-10-20 gap-fill: added NVCCZ (state venture vehicle, ZiG165.3M 2026 budget allocation, also administers the Industrial Development Fund). Hypercube, Impact Hub Harare and Tech Village sites unreachable or parked.",
+  "sources": [
+   "https://nvccz.com/"
+  ]
+ },
+ {
+  "country": "Cameroon",
+  "add": {
+   "grants": [
+    {
+     "name": "Fonds Proto (APME prototyping fund)",
+     "agency": "APME / MINPMEESA",
+     "amount": "unknown per project (over CFAF 200M disbursed across editions)",
+     "amount_usd_max": null,
+     "eligibility": "Cameroonians 18-35 (in country or diaspora) with an invention or business concept",
+     "deadline": "annual; last: 2026-08-13",
+     "status": "closed",
+     "url": "https://apme.cm/fond-dappui-au-prototypage/"
+    }
+   ],
+   "resources": [
+    {
+     "name": "PATNUC (Cameroon Digital Transformation Acceleration Project)",
+     "type": "government_agency",
+     "url": "https://patnuc.cm/",
+     "note": "World Bank-backed digital project with an agritech innovation component"
+    }
+   ]
+  },
+  "notes_append": "2026-10-20 gap-fill: added APME Fonds Proto (2026 window 20 Jul-13 Aug) and PATNUC. ActivSpaces site still offline. Enovation Factory/UNDP Scale 32 cohort started Jan 2026 (closed)."
+ }
+]

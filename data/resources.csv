@@ -58,6 +58,7 @@ Azerbaijan,Central Asia & Caucasus,AZPROMO,government_agency,https://www.azpromo
 Azerbaijan,Central Asia & Caucasus,ASAN Service,government_agency,https://www.asan.gov.az/,Public service centres
 Azerbaijan,Central Asia & Caucasus,Asian Development Bank - Azerbaijan,other,https://www.adb.org/where-we-work/azerbaijan,ADB country programme incl. SME and private sector finance
 Azerbaijan,Central Asia & Caucasus,World Bank - Azerbaijan,other,https://www.worldbank.org/en/country/azerbaijan,Country programme; private sector and innovation projects
+Azerbaijan,Central Asia & Caucasus,INMerge Innovation Summit,event,https://www.inmerge.az/,"Baku Convention Center, 2026-11-30 to 2026-12-01"
 Bahamas,Latin America & Caribbean,Bahamas Development Bank,government_agency,https://bahamasdevelopmentbank.com,Development lending to Bahamian businesses
 Bahamas,Latin America & Caribbean,Securities Commission of The Bahamas,government_agency,https://scb.gov.bs,Digital assets (DARE) and fintech regulation
 Bahamas,Latin America & Caribbean,BISX,other,https://www.bisxbahamas.com,Bahamas International Securities Exchange
@@ -171,6 +172,7 @@ Cameroon,Sub-Saharan Africa,World Bank - Cameroon,other,https://www.worldbank.or
 Cameroon,Sub-Saharan Africa,BDEAC (CEMAC development bank),other,https://www.bdeac.org/,Central African regional development bank
 Cameroon,Sub-Saharan Africa,African Development Bank,other,https://www.afdb.org/en,"Boost Africa, AFAWA and youth entrepreneurship programmes"
 Cameroon,Sub-Saharan Africa,UNDP Timbuktoo,other,https://timbuktoo.africa/,UNDP pan-African startup initiative and hubs
+Cameroon,Sub-Saharan Africa,PATNUC (Cameroon Digital Transformation Acceleration Project),government_agency,https://patnuc.cm/,World Bank-backed digital project with an agritech innovation component
 Canada,North America,Corporations Canada,government_agency,https://ised-isde.canada.ca/site/corporations-canada/en,Federal incorporation online
 Canada,North America,BDC (Business Development Bank of Canada),government_agency,https://www.bdc.ca/en,"Loans, advisory and VC for entrepreneurs"
 Canada,North America,Startup Canada,startup_association,https://www.startupcanada.ca/,National entrepreneur network
@@ -287,6 +289,7 @@ Dominican Republic,Latin America & Caribbean,IDB Lab,other,https://bidlab.org/en
 Dominican Republic,Latin America & Caribbean,CABEI / BCIE,other,https://www.bcie.org,Central American development bank; MSME and seed-capital programmes
 Dominican Republic,Latin America & Caribbean,CAF Development Bank of Latin America,other,https://www.caf.com,Regional DFI; VC fund investments and innovation programmes
 Dominican Republic,Latin America & Caribbean,Caribbean Export Development Agency,government_agency,https://www.carib-export.com,CARIFORUM export/investment agency; grants and startup partnerships
+Dominican Republic,Latin America & Caribbean,Impulsa Popular (Banco Popular Dominicano),other,https://impulsapopular.com/,"SME and entrepreneur programmes (Emprende Popular, Emprende Mujer)"
 Ecuador,Latin America & Caribbean,Endeavor Ecuador,startup_association,https://endeavorecuador.org,High-impact entrepreneur network (since 2017)
 Ecuador,Latin America & Caribbean,AEI (Alianza para el Emprendimiento e Innovacion),startup_association,https://aei.ec,Ecosystem alliance; publishes calls
 Ecuador,Latin America & Caribbean,Ministerio de Produccion (MPCEIP),government_agency,https://www.produccion.gob.ec,Production and investment ministry
@@ -501,6 +504,7 @@ Jamaica,Latin America & Caribbean,Kingston Creative,community,https://kingstoncr
 Jamaica,Latin America & Caribbean,IDB Lab,other,https://bidlab.org/en,"IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
 Jamaica,Latin America & Caribbean,Caribbean Development Bank,other,https://www.caribank.org,Regional DFI; funds RevUP and MSME programmes
 Jamaica,Latin America & Caribbean,Caribbean Export Development Agency,government_agency,https://www.carib-export.com,CARIFORUM export/investment agency; grants and startup partnerships
+Jamaica,Latin America & Caribbean,Jamaica Stock Exchange (Junior Market),other,https://www.jamstockex.com/,Junior Market listing route for SMEs
 Japan,East Asia,JETRO Invest Japan,government_agency,https://www.jetro.go.jp/en/invest/,Market entry and setup support
 Japan,East Asia,Invest Tokyo / Business Concierge Tokyo,government_agency,https://www.investtokyo.metro.tokyo.lg.jp/jp/oursupports/bdc-tokyo/,Startup visa and setup help
 Japan,East Asia,Immigration Services Agency,government_agency,https://www.moj.go.jp/isa/,Visa rules
@@ -663,6 +667,7 @@ Moldova,Europe,Moldova IT Park,legal_tax,https://mitp.md/,"Virtual IT park, 7% s
 Moldova,Europe,Startup Moldova,startup_association,https://startupmoldova.digital/,"Ecosystem foundation, Startup Moldova Summit"
 Moldova,Europe,Tekwill,coworking_hub,https://tekwill.md/,ICT innovation hub and community
 Moldova,Europe,ODA Grant Calendar,database,https://www.oda.md/ro/granturi/calendar-granturi,"Monthly windows, first 5 working days of each month"
+Moldova,Europe,SeedBlink,other,https://seedblink.com/,European crowdinvesting and deal platform; partnered with Startup Moldova (2026) for syndicated rounds
 Monaco,Europe,Government of Monaco,government_agency,https://www.gouv.mc/,Business authorisation and Extended Monaco digital strategy
 Monaco,Europe,Monaco Chamber of Commerce (Monaco Economic Board),startup_association,https://www.mcc.mc/,Business network and promotion
 Mongolia,East Asia,Mongolian Startup Association,startup_association,https://www.startupmongolia.mn,"Community, Mongolia Startup Forum (Apr 2025)"
@@ -797,6 +802,7 @@ Paraguay,Latin America & Caribbean,Agencia Financiera de Desarrollo (AFD),govern
 Paraguay,Latin America & Caribbean,Paraguay Tech Week,event,https://www.paraguaytechweek.com,Startup-investor week (Aug 2026)
 Paraguay,Latin America & Caribbean,IDB Lab,other,https://bidlab.org/en,"IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
 Paraguay,Latin America & Caribbean,CAF Development Bank of Latin America,other,https://www.caf.com,Regional DFI; VC fund investments and innovation programmes
+Paraguay,Latin America & Caribbean,PARCAPY (Asociación Paraguaya de Venture Capital),startup_association,https://parcapy.org/,VC association; runs VC & Startups Summit (4 Aug 2026)
 Peru,Latin America & Caribbean,PECAP,startup_association,https://www.pecap.pe/,Peruvian seed and venture capital association
 Peru,Latin America & Caribbean,ProInnóvate,government_agency,https://www.gob.pe/proinnovate,"National innovation program, StartUp Perú"
 Peru,Latin America & Caribbean,PRODUCE,government_agency,https://www.produce.gob.pe/,Ministry of Production
@@ -824,6 +830,7 @@ Portugal,Europe,Tech Visa,government_agency,https://startupportugal.com/programs
 Qatar,Middle East & North Africa,Startup Qatar,government_agency,https://startupqatar.qa/en,Invest Qatar one-stop startup portal
 Qatar,Middle East & North Africa,Qatar Free Zones,government_agency,https://qfz.gov.qa/,free-zone incorporation
 Qatar,Middle East & North Africa,Qatar Foundation,other,https://www.qf.org.qa/,"education city, research and innovation"
+Qatar,Middle East & North Africa,Web Summit Qatar,event,https://qatar.websummit.com/,"Doha, 31 Jan - 3 Feb 2027; startup programme"
 Republic of the Congo,Sub-Saharan Africa,World Bank - Republic of the Congo,other,https://www.worldbank.org/en/country/congo,"SME, digital and youth-entrepreneurship projects"
 Republic of the Congo,Sub-Saharan Africa,BDEAC (CEMAC development bank),other,https://www.bdeac.org/,Central African regional development bank
 Republic of the Congo,Sub-Saharan Africa,African Development Bank,other,https://www.afdb.org/en,"Boost Africa, AFAWA and youth entrepreneurship programmes"
@@ -1068,6 +1075,7 @@ Trinidad & Tobago,Latin America & Caribbean,IDB Lab,other,https://bidlab.org/en,
 Trinidad & Tobago,Latin America & Caribbean,Caribbean Development Bank,other,https://www.caribank.org,Regional DFI; funds RevUP and MSME programmes
 Trinidad & Tobago,Latin America & Caribbean,Caribbean Export Development Agency,government_agency,https://www.carib-export.com,CARIFORUM export/investment agency; grants and startup partnerships
 Tunisia,Middle East & North Africa,Startup Tunisia,government_agency,https://startup.gov.tn/,Startup Act portal
+Tunisia,Middle East & North Africa,The Dot,coworking_hub,https://thedot.tn/,"Public-private digital innovation hub in Tunis (Dot Camp, Dot Sprint, AI Rise)"
 Turkey,Middle East & North Africa,Startup Istanbul,event,https://www.startupistanbul.com/,annual international startup event
 Turkey,Middle East & North Africa,Endeavor Turkiye,community,https://turkiye.endeavor.org/,high-impact founder network
 Turkey,Middle East & North Africa,startups.watch,database,https://www.startups.watch/,Turkish startup data
@@ -1124,9 +1132,9 @@ United States,North America,Capital Factory,coworking_hub,https://www.capitalfac
 Uruguay,Latin America & Caribbean,ANII,government_agency,https://anii.org.uy/,National research and innovation agency
 Uruguay,Latin America & Caribbean,Uruguay XXI,government_agency,https://www.uruguayxxi.gub.uy/es/,Investment and export promotion
 Uruguay,Latin America & Caribbean,CUTI,startup_association,https://cuti.org.uy/,Uruguayan chamber of IT
-Uruguay,Latin America & Caribbean,Uruguay Innovation Hub,other,https://www.uruguayinnovation.com/,National innovation hub initiative
 Uruguay,Latin America & Caribbean,Zonamerica,coworking_hub,https://www.zonamerica.com/,Free-trade business park used by tech firms
 Uruguay,Latin America & Caribbean,Endeavor Uruguay,community,https://uruguay.endeavor.org/,"High-impact entrepreneur network, scale-up selection and mentoring"
+Uruguay,Latin America & Caribbean,Urucap (Asociación Uruguaya de Capital Privado),startup_association,https://www.urucap.org/,"Private equity, VC and seed investor association"
 Uzbekistan,Central Asia & Caucasus,IT Park Uzbekistan,government_agency,https://www.it-park.uz/,"Tech park; residency tax regime, startup programs"
 Uzbekistan,Central Asia & Caucasus,IT Park for foreign companies,government_agency,https://outsource.gov.uz/,"IT visa, one-stop company setup"
 Uzbekistan,Central Asia & Caucasus,Ministry of Digital Technologies,government_agency,https://digital.uz,Digital policy
@@ -1160,6 +1168,7 @@ Yemen,Middle East & North Africa,UNDP Yemen,other,https://www.undp.org/yemen,liv
 Zambia,Sub-Saharan Africa,Zambia Development Agency,government_agency,https://zda.org.zm/,Investment promotion
 Zambia,Sub-Saharan Africa,PACRA,legal_tax,https://www.pacra.org.zm/,Company registration
 Zambia,Sub-Saharan Africa,African Business Angel Network (ABAN),community,https://abanangels.org/,Pan-African angel network directory
+Zambia,Sub-Saharan Africa,National Technology Business Centre (NTBC),government_agency,https://ntbc.co.zm/,Runs the Technology Business Development Fund; 2026 call reportedly closed 30 Jun 2026
 Zimbabwe,Sub-Saharan Africa,Zimbabwe Investment and Development Agency (ZIDA),government_agency,https://zidainvest.com/,Investment licensing one-stop shop
 Zimbabwe,Sub-Saharan Africa,ZimTrade,government_agency,https://tradezimbabwe.com/,Export promotion
 Zimbabwe,Sub-Saharan Africa,ZIMRA,legal_tax,https://www.zimra.co.zw/,Tax authority

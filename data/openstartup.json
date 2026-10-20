@@ -1993,14 +1993,18 @@
    "summary": "Baku-centred ecosystem led by the state Innovation and Digital Development Agency (IDDA), which absorbed the former Innovation Agency, and the SMB Development Agency (KOBIA). IDDA reports 750+ startups supported, but the private VC base is small.",
    "startup_visa": "none (ASAN e-visa for many nationalities)",
    "company_setup": "LLC registered via the State Tax Service e-registration or ASAN centres in about 1-3 days. Foreigners can own 100%. A KOBIA Startup Certificate gives a 3-year exemption on income from innovation activity, and Texnopark residents get 10-year tax benefits.",
-   "notes": "Oct 2026: no open IDDA startup call was found in its news feed. White Hill Capital announced a US$5m fund with IDDA in Sep 2025, but there is no standalone site. KOBIA's grant page shows old dates, so check the current round. PASHA Investments is private equity (typed family_office as the closest fit).",
+   "notes": "Oct 2026: no open IDDA startup call was found in its news feed. White Hill Capital announced a US$5m fund with IDDA in Sep 2025, but there is no standalone site. KOBIA's grant page shows old dates, so check the current round. PASHA Investments is private equity (typed family_office as the closest fit). | 2026-10-20 gap-fill: added Caucasus Ventures and INMerge Ventures (local seed VCs) and 500 Global. SUP.VC now presents itself as an innovation consultancy for corporates. INNOLAND publishes no dated calls.",
    "confidence": "medium",
    "sources": [
     "https://idda.az/az",
     "https://smb.gov.az/en/nav/startup-certificate",
     "https://smb.gov.az/en/nav/grant",
     "https://innoland.az/",
-    "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+    "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html",
+    "https://caucasus.vc/",
+    "https://www.inmerge.vc/",
+    "https://500.co/eurasia",
+    "https://sup.vc/"
    ],
    "researched": true,
    "grants": [
@@ -2062,7 +2066,7 @@
      "name": "SUP.VC",
      "city": "Baku",
      "type": "corporate",
-     "investment": "unknown",
+     "investment": "no in-house fund; runs corporate and public-sector accelerators, incubation and CVC-as-a-service",
      "sectors": "corporate open innovation, generalist",
      "deadline": "unknown",
      "next_cohort": "unknown",
@@ -2103,6 +2107,39 @@
      "type": "government_fund",
      "url": "https://ventures.adb.org",
      "source": ""
+    },
+    {
+     "name": "Caucasus Ventures",
+     "city": "Baku",
+     "stage": "seed",
+     "check_size": "US$50k-100k first cheque, up to US$200k follow-on",
+     "aum": "",
+     "sectors": "fintech, SaaS, health, gaming, applied AI",
+     "type": "vc",
+     "url": "https://caucasus.vc/",
+     "source": ""
+    },
+    {
+     "name": "INMerge Ventures",
+     "city": "Baku",
+     "stage": "pre-seed",
+     "check_size": "up to US$200k",
+     "aum": "",
+     "sectors": "generalist",
+     "type": "vc",
+     "url": "https://www.inmerge.vc/",
+     "source": ""
+    },
+    {
+     "name": "500 Global (Eurasia)",
+     "city": "regional",
+     "stage": "pre-seed",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "generalist tech",
+     "type": "vc",
+     "url": "https://500.co/eurasia",
+     "source": ""
     }
    ],
    "pe": [],
@@ -2142,6 +2179,12 @@
      "type": "other",
      "url": "https://www.worldbank.org/en/country/azerbaijan",
      "note": "Country programme; private sector and innovation projects"
+    },
+    {
+     "name": "INMerge Innovation Summit",
+     "type": "event",
+     "url": "https://www.inmerge.az/",
+     "note": "Baku Convention Center, 2026-11-30 to 2026-12-01"
     }
    ]
   },
@@ -2329,12 +2372,14 @@
    "summary": "Compact, regulator-friendly hub for fintech (CBB sandbox, Bahrain FinTech Bay) with strong Tamkeen subsidies and the Al Waha fund of funds.",
    "startup_visa": "Golden Residency (investor/talent categories); no dedicated startup visa",
    "company_setup": "WLL or SPC via Sijilat portal; 100% foreign ownership in most sectors; can be done in days, largely remotely.",
-   "notes": "Al Waha Fund of Funds site returned errors; omitted. Flat6Labs Bahrain activity not verified.",
+   "notes": "Al Waha Fund of Funds site returned errors; omitted. Flat6Labs Bahrain activity not verified. | 2026-10-20 gap-fill: Added Tenmou angel network and NBB Innovation Programme (applications close 26 Nov 2026; programme 4-28 Jan 2027, Demo Day 1 Feb 2027). Removed C5 Accelerate (domain taken over). Al Waha Fund of Funds site still returns HTTP 500; Brinc lists Bahrain but no active program found.",
    "confidence": "medium",
    "sources": [
     "https://www.tamkeen.bh/",
     "https://startupbahrain.com/",
-    "https://www.bdb-bh.com/"
+    "https://www.bdb-bh.com/",
+    "https://www.bahrainfintechbay.com/nbb-innovation-programme",
+    "https://www.tenmou.me"
    ],
    "researched": true,
    "grants": [
@@ -2361,17 +2406,6 @@
    ],
    "accelerators": [
     {
-     "name": "C5 Accelerate",
-     "city": "Manama",
-     "type": "accelerator",
-     "investment": "seed investment",
-     "sectors": "fintech, cloud",
-     "deadline": "unknown",
-     "next_cohort": "unknown",
-     "status": "unknown",
-     "url": "https://www.c5accelerate.com/"
-    },
-    {
      "name": "Brinc",
      "city": "Manama",
      "type": "accelerator",
@@ -2381,9 +2415,32 @@
      "next_cohort": "unknown",
      "status": "unknown",
      "url": "https://brinc.io/"
+    },
+    {
+     "name": "NBB Innovation Programme (Bahrain FinTech Bay)",
+     "city": "Manama",
+     "type": "corporate",
+     "investment": "US$10k prize to winning team + 3-month BFB incubation; no equity",
+     "sectors": "fintech, AI",
+     "deadline": "2026-11-26",
+     "next_cohort": "2027-01",
+     "status": "open",
+     "url": "https://www.bahrainfintechbay.com/nbb-innovation-programme"
     }
    ],
-   "vcs": [],
+   "vcs": [
+    {
+     "name": "Tenmou",
+     "city": "Manama",
+     "stage": "pre-seed | seed",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "technology, SaaS, AI, marketplaces",
+     "type": "angel_network",
+     "url": "https://www.tenmou.me",
+     "source": ""
+    }
+   ],
    "pe": [
     {
      "name": "Arcapita",
@@ -2439,12 +2496,15 @@
    "summary": "Dhaka-centred ecosystem with large consumer market; fintech (bKash, Nagad), logistics and e-commerce lead. Government supports startups via ICT Division (iDEA) and the state VC Startup Bangladesh Limited.",
    "startup_visa": "none",
    "company_setup": "Private limited company via RJSC online; foreign investors register with BIDA; 100% foreign ownership allowed in most sectors; about 1-2 weeks.",
-   "notes": "As of 2026-10-20. Startup Bangladesh Limited's site (startupbangladesh.vc redirects to startupbangladesh.gov.bd) returned errors during checks; verify before relying on it. Political transition since Aug 2024 may affect government schemes.",
-   "confidence": "low",
+   "notes": "As of 2026-10-20. Startup Bangladesh Limited's site (startupbangladesh.vc redirects to startupbangladesh.gov.bd) returned errors during checks; verify before relying on it. Political transition since Aug 2024 may affect government schemes. | 2026-10-20 gap-fill: added BSIC/ONKUR (US$35M bank-funded VC, launched 12 May 2026), Orange Corners Bangladesh and OCIF, OnnoRokom Uddokta and the DEIED accelerator. Startup Bangladesh Limited's site (startupbangladesh.gov.bd) returns 'Page Not Found' as of 2026-10-20; LightCastle reports H1 2026 funding fell 95% to US$6M, all from foreign investors. | 2026-10-20 link check: startupbangladesh.vc returns 404 and startupbangladesh.gov.bd refuses connections, so Startup Bangladesh Limited is listed without a link until its site is back.",
+   "confidence": "medium",
    "sources": [
     "https://idea.gov.bd/",
     "https://anchorless.vc/",
-    "https://bdventure.com/"
+    "https://bdventure.com/",
+    "https://www.bsic.vc/",
+    "https://www.orangecorners.com/country/bangladesh/",
+    "https://onnorokomuddokta.org/"
    ],
    "researched": true,
    "grants": [
@@ -2467,6 +2527,16 @@
      "deadline": "rolling",
      "status": "rolling",
      "url": "https://idea.gov.bd/"
+    },
+    {
+     "name": "Orange Corners Innovation Fund (OCIF) Bangladesh",
+     "agency": "Netherlands Ministry of Foreign Affairs / Orange Corners",
+     "amount": "up to EUR 50,000 (grant plus soft loan)",
+     "amount_usd_max": 58000,
+     "eligibility": "Bangladeshi private limited company, 2 years audited accounts, profitable",
+     "deadline": "unknown",
+     "status": "unknown",
+     "url": "https://www.orangecorners.com/country/bangladesh/"
     }
    ],
    "accelerators": [
@@ -2480,6 +2550,39 @@
      "next_cohort": "unknown",
      "status": "rolling",
      "url": "https://idea.gov.bd/"
+    },
+    {
+     "name": "Orange Corners Bangladesh",
+     "city": "Dhaka",
+     "type": "incubator",
+     "investment": "no equity; grant up to EUR 5,000",
+     "sectors": "generalist (SDG-aligned), founders 18-35, female co-founder required",
+     "deadline": "twice yearly; dates not published",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://www.orangecorners.com/country/bangladesh/"
+    },
+    {
+     "name": "OnnoRokom Uddokta Accelerator",
+     "city": "Dhaka",
+     "type": "accelerator",
+     "investment": "no equity (non-profit)",
+     "sectors": "generalist, operating startups and SMEs",
+     "deadline": "unknown (waitlist open; last: 2025-12-20)",
+     "next_cohort": "unknown",
+     "status": "upcoming",
+     "url": "https://onnorokomuddokta.org/"
+    },
+    {
+     "name": "DEIED Startup Support Program (Early-Stage Accelerator)",
+     "city": "Dhaka",
+     "type": "government",
+     "investment": "no stated funding; mentoring and demo day",
+     "sectors": "tech",
+     "deadline": "unknown (last round closed May 15)",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://deied.bhtpa.gov.bd/early-stage-startup-accelerator"
     }
    ],
    "vcs": [
@@ -2487,11 +2590,11 @@
      "name": "Startup Bangladesh Limited",
      "city": "Dhaka",
      "stage": "seed",
-     "check_size": "unknown",
+     "check_size": "unknown (official site offline)",
      "aum": "",
      "sectors": "generalist tech",
      "type": "government_fund",
-     "url": "https://startupbangladesh.vc/",
+     "url": "",
      "source": ""
     },
     {
@@ -2525,6 +2628,17 @@
      "sectors": "generalist",
      "type": "angel_network",
      "url": "https://bangladeshangels.com/",
+     "source": ""
+    },
+    {
+     "name": "Bangladesh Startup Investment Company (BSIC) - ONKUR Bangladesh Fund I",
+     "city": "Dhaka",
+     "stage": "seed",
+     "check_size": "unknown (US$35M fund, late seed to Series B, co-invests with international leads)",
+     "aum": "",
+     "sectors": "fintech, agritech, edtech, healthtech, logistics, SaaS/AI",
+     "type": "vc",
+     "url": "https://www.bsic.vc/",
      "source": ""
     }
    ],
@@ -2738,7 +2852,7 @@
    "summary": "Historically strong IT outsourcing and product hub in Minsk (EPAM, Wargaming, Viber, MSQRD/Flo founders), but since 2020-2022 large parts of the tech workforce and many startups have relocated to Poland, Lithuania, Georgia and elsewhere. Remaining activity is concentrated around the Hi-Tech Park.",
    "startup_visa": "none",
    "company_setup": "LLC (OOO); IT companies can apply for Hi-Tech Park residency (0% profit tax and VAT, 9% salary income tax, 13% in 2023-2027). Foreign founders face sanctions, banking and payment restrictions; relocated founders typically incorporate in Poland, Lithuania or the US.",
-   "notes": "Sanctions: Belarus is under extensive EU, UK and US sanctions (since 2020-2022, tightened after its role in the invasion of Ukraine). Western VCs, accelerators and most international payment rails are effectively unavailable; Belarusian nationals are excluded from some EU programmes (e.g. EBRD-backed Bridge to Scale). Not eligible for EIC/Horizon Europe. RBF Ventures was set up in 2016 with Russia's RVC. Many well-known Belarusian startups now operate from abroad; include them under their new countries.",
+   "notes": "Sanctions: Belarus is under extensive EU, UK and US sanctions (since 2020-2022, tightened after its role in the invasion of Ukraine). Western VCs, accelerators and most international payment rails are effectively unavailable; Belarusian nationals are excluded from some EU programmes (e.g. EBRD-backed Bridge to Scale). Not eligible for EIC/Horizon Europe. RBF Ventures was set up in 2016 with Russia's RVC. Many well-known Belarusian startups now operate from abroad; include them under their new countries. | 2026-10-20 gap-fill: Belarusian Innovation Fund site re-checked; it lists vouchers (up to US$25k), grants (up to US$100k), repayable and venture financing and the Republican Innovation Project Competition, but no dated 2026 call. No new items added because of the sanctions context.",
    "confidence": "low",
    "sources": [
     "https://park.by/en/membership/benefits/",
@@ -3852,12 +3966,14 @@
    "summary": "Small, stable ecosystem in Gaborone backed by the state: Botswana Innovation Hub, CEDA finance and LEA SME support; diamond-dependent economy pushing digital diversification.",
    "startup_visa": "none; investor/residence permits via BITC, https://www.bitc.co.bw/",
    "company_setup": "Private company registered online with CIPA; foreigners can incorporate; some sectors reserved for citizens.",
-   "notes": "Checked 2026-10-20. Botswana Innovation Hub site sits behind a captcha.",
+   "notes": "Checked 2026-10-20. Botswana Innovation Hub site sits behind a captcha. | 2026-10-20 gap-fill: added Botswana Tech Fund (GBP 50M target, US$6.7M first close, anchored by Pula Investments) and its accelerator. Botswana Innovation Fund and Scalar ran the 12-month Scalar Botswana Innovation Program from Mar 2026 (cohort selected). BDC site has a TLS error.",
    "confidence": "medium",
    "sources": [
     "https://www.ceda.co.bw/",
     "https://www.bitc.co.bw/",
-    "https://www.cipa.co.bw/"
+    "https://www.cipa.co.bw/",
+    "https://botswanatech.com/",
+    "https://vc4a.com/botswana-tech-fund/botswana-tech-fund-application/"
    ],
    "researched": true,
    "grants": [
@@ -3935,6 +4051,17 @@
      "next_cohort": "unknown",
      "status": "rolling",
      "url": "https://www.thecatalystfund.com/pitch-to-us"
+    },
+    {
+     "name": "Botswana Tech Fund Accelerator",
+     "city": "Gaborone",
+     "type": "accelerator",
+     "investment": "GBP 25k then GBP 75k for 10%",
+     "sectors": "B2B tech, Southern Africa",
+     "deadline": "unknown (last round closed July 13)",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://botswanatech.com/"
     }
    ],
    "vcs": [
@@ -3980,6 +4107,17 @@
      "sectors": "generalist tech",
      "type": "vc",
      "url": "https://partechpartners.com/",
+     "source": ""
+    },
+    {
+     "name": "Botswana Tech Fund",
+     "city": "Gaborone",
+     "stage": "multi",
+     "check_size": "GBP 25k-100k pre-seed; GBP 250k-2.5M seed to Series C",
+     "aum": "",
+     "sectors": "B2B tech, fintech, logistics, SaaS, Southern Africa",
+     "type": "vc",
+     "url": "https://botswanatech.com/",
      "source": ""
     }
    ],
@@ -5280,7 +5418,7 @@
    "summary": "Bilingual ecosystem across Douala, Yaoundé and Buea (Silicon Mountain); strengths in fintech and edtech; CEMAC/CFA zone.",
    "startup_visa": "none",
    "company_setup": "OHADA SARL/SAS via CFCE one-stop shop (online, about 72 hours).",
-   "notes": "ActivSpaces site under construction at time of check; omitted. Anglophone-region conflict affects Buea.",
+   "notes": "ActivSpaces site under construction at time of check; omitted. Anglophone-region conflict affects Buea. | 2026-10-20 gap-fill: added APME Fonds Proto (2026 window 20 Jul-13 Aug) and PATNUC. ActivSpaces site still offline. Enovation Factory/UNDP Scale 32 cohort started Jan 2026 (closed).",
    "confidence": "low",
    "sources": [
     "https://www.minpmeesa.cm/",
@@ -5319,6 +5457,16 @@
      "deadline": "annual (usually opens Mar); last: 2026-05-07",
      "status": "upcoming",
      "url": "https://africabusinessheroes.org/en/"
+    },
+    {
+     "name": "Fonds Proto (APME prototyping fund)",
+     "agency": "APME / MINPMEESA",
+     "amount": "unknown per project (over CFAF 200M disbursed across editions)",
+     "amount_usd_max": "",
+     "eligibility": "Cameroonians 18-35 (in country or diaspora) with an invention or business concept",
+     "deadline": "annual; last: 2026-08-13",
+     "status": "closed",
+     "url": "https://apme.cm/fond-dappui-au-prototypage/"
     }
    ],
    "accelerators": [
@@ -5478,6 +5626,12 @@
      "type": "other",
      "url": "https://timbuktoo.africa/",
      "note": "UNDP pan-African startup initiative and hubs"
+    },
+    {
+     "name": "PATNUC (Cameroon Digital Transformation Acceleration Project)",
+     "type": "government_agency",
+     "url": "https://patnuc.cm/",
+     "note": "World Bank-backed digital project with an agritech innovation component"
     }
    ]
   },
@@ -8111,12 +8265,14 @@
    "summary": "Limassol/Nicosia ecosystem boosted by tech relocation, fintech and gaming; 12.5% corporate tax and IP box. Public funding through the Research and Innovation Foundation (RIF) and Deputy Ministry of Research, Innovation and Digital Policy.",
    "startup_visa": "Cyprus Start-up Visa scheme (Ministry of Finance/Invest Cyprus endorsement) for non-EU founders, https://www.investcyprus.org.cy/",
    "company_setup": "Private limited company (Ltd) via the Department of Registrar of Companies; no minimum capital in practice; typically via local lawyer, about 1-2 weeks.",
-   "notes": "No Cyprus VC fund verified (several candidate domains parked). RIF calls checked 2026-10-20.",
+   "notes": "No Cyprus VC fund verified (several candidate domains parked). RIF calls checked 2026-10-20. | 2026-10-20 gap-fill: added 33East, the first EIF-backed Cyprus VC (Cyprus Equity Fund anchor, EUR 26M first close, investment period to Dec 2027). RIF PRE-SEED/0526 closed 2026-09-11 with 284 proposals. IDEA Innovation Center (Bank of Cyprus) website did not resolve, so it was left out; its 11th cycle closed Feb 2026.",
    "confidence": "medium",
    "sources": [
     "https://www.research.org.cy/en/",
     "https://www.investcyprus.org.cy/",
-    "https://thetechisland.org/"
+    "https://thetechisland.org/",
+    "https://33east.vc/",
+    "https://eitjumpstarter.eu/"
    ],
    "researched": true,
    "grants": [
@@ -8146,7 +8302,7 @@
      "amount": "varies",
      "amount_usd_max": "",
      "eligibility": "Cypriot startups",
-     "deadline": "last call under evaluation",
+     "deadline": "last: 2026-09-11 (PRE-SEED/0526); RE-SEED/0526 under evaluation",
      "status": "closed",
      "url": "https://www.research.org.cy/en/"
     },
@@ -8189,13 +8345,25 @@
      "type": "accelerator",
      "investment": "no equity; prizes for finalists",
      "sectors": "health, climate, energy, food, manufacturing, mobility, raw materials",
-     "deadline": "unknown",
+     "deadline": "annual (spring); last: 2026-05-17",
      "next_cohort": "unknown",
-     "status": "unknown",
+     "status": "closed",
      "url": "https://eitjumpstarter.eu/"
     }
    ],
-   "vcs": [],
+   "vcs": [
+    {
+     "name": "33East",
+     "city": "Nicosia",
+     "stage": "pre-seed",
+     "check_size": "EUR 100k-1M+",
+     "aum": "",
+     "sectors": "generalist (fintech, energy, software)",
+     "type": "vc",
+     "url": "https://33east.vc/",
+     "source": ""
+    }
+   ],
    "pe": [],
    "resources": [
     {
@@ -9344,13 +9512,14 @@
    "summary": "Fast-growing Caribbean hub centred on Santo Domingo. StartupBlink's 2026 index reported 52.9% ecosystem growth, the highest in the Caribbean. The Enlaces angel network, Promipyme's EmprendeLab and ProDominicana lead support, and regional VCs such as Carao are active.",
    "startup_visa": "none",
    "company_setup": "SRL (sociedad de responsabilidad limitada) registered with the Chamber of Commerce and DGII; foreigners can own 100%; about 2-4 weeks.",
-   "notes": "Startup World Cup DR national round was held 2026-10-13. The Santo Domingo FI chapter page was not enrolling; the Caribbean virtual cohort covers DR.",
+   "notes": "Startup World Cup DR national round was held 2026-10-13. The Santo Domingo FI chapter page was not enrolling; the Caribbean virtual cohort covers DR. | 2026-10-20 gap-fill: added Cree Banreservas incubation (2026 cohort of 5 picked from 50+ proposals, Apr 2026) and Impulsa Popular. No new Dominican VC fund found; Enlaces remains the main local angel network.",
    "confidence": "medium",
    "sources": [
     "https://www.descubre.vc/angeles-enlaces",
     "https://promipyme.gob.do",
     "https://fi.co/apply/14634",
-    "https://eldinero.com.do/?p=367186"
+    "https://eldinero.com.do/?p=367186",
+    "https://eldia.com.do/banreservas-selecciona-cinco-equipos-para-el-programa-de-incubacion-cree-2026/"
    ],
    "researched": true,
    "grants": [
@@ -9398,6 +9567,17 @@
      "next_cohort": "2027",
      "status": "upcoming",
      "url": "https://parallel18.com/p18/"
+    },
+    {
+     "name": "Cree Banreservas incubation programme",
+     "city": "Santo Domingo",
+     "type": "corporate",
+     "investment": "no equity; technical support, financing instruments, investor access",
+     "sectors": "generalist",
+     "deadline": "annual call; 2026 cohort (2nd edition) selected Apr 2026",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://www.creebanreservas.com.do"
     }
    ],
    "vcs": [
@@ -9490,6 +9670,12 @@
      "type": "government_agency",
      "url": "https://www.carib-export.com",
      "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+    },
+    {
+     "name": "Impulsa Popular (Banco Popular Dominicano)",
+     "type": "other",
+     "url": "https://impulsapopular.com/",
+     "note": "SME and entrepreneur programmes (Emprende Popular, Emprende Mujer)"
     }
    ]
   },
@@ -9920,7 +10106,6 @@
    "confidence": "low",
    "sources": [
     "https://corenest.com/sv",
-    "https://diario.elmundo.sv/economia/corenest-lanza-fondo-de-25-millones-como-capital-de-riesgo-para-startups-en-el-salvador",
     "https://www.conamype.gob.sv",
     "https://www.freedomvisa.com"
    ],
@@ -10808,14 +10993,15 @@
    "summary": "The most developed startup scene in the Pacific islands, centred on Suva and Nadi, with fintech, tourism tech and agri-business activity backed by the Reserve Bank of Fiji's innovation work and donor programmes.",
    "startup_visa": "none",
    "company_setup": "Private company registered with the Registrar of Companies; foreign investors register with Investment Fiji. Online registration is available, but foreign investment registration takes a few weeks.",
-   "notes": "Fiji Innovation Hub partners with Creative HQ (NZ), Mastercard and the Reserve Bank of Fiji. No local VC fund could be verified. The Ministry of Trade site, which runs the national MSME and young entrepreneur schemes, was unreachable (HTTP 500), so those schemes are left out. Most Pacific founders raise from Australian or NZ investors and often incorporate there; check PTI and ADB programmes for current calls.",
+   "notes": "Fiji Innovation Hub partners with Creative HQ (NZ), Mastercard and the Reserve Bank of Fiji. No local VC fund could be verified. The Ministry of Trade site, which runs the national MSME and young entrepreneur schemes, was unreachable (HTTP 500), so those schemes are left out. Most Pacific founders raise from Australian or NZ investors and often incorporate there; check PTI and ADB programmes for current calls. | 2026-10-20 gap-fill: added FCEF's Fiji Enterprise Engine. Ministry of Trade site (Young Entrepreneurship Scheme) still returns HTTP 500. Fiji Innovation Hub runs Activator Cohort Two in 2026 (HFC Bank-funded) but publishes no dates.",
    "confidence": "medium",
    "sources": [
     "https://fijiinnovationhub.com",
     "https://www.investmentfiji.org.fj",
     "https://www.pipso.org.fj",
     "https://www.pacifictradeinvest.com",
-    "https://www.adb.org/where-we-work/fiji"
+    "https://www.adb.org/where-we-work/fiji",
+    "https://www.fcef.com.fj/activities/fiji-enterprise-engine/"
    ],
    "researched": true,
    "grants": [
@@ -10851,6 +11037,17 @@
      "next_cohort": "unknown",
      "status": "unknown",
      "url": "https://fijiinnovationhub.com"
+    },
+    {
+     "name": "Fiji Enterprise Engine (FEE)",
+     "city": "Suva",
+     "type": "accelerator",
+     "investment": "no equity stated; mentoring",
+     "sectors": "established MSMEs (2+ years), about 15 per year",
+     "deadline": "annual; dates not published",
+     "next_cohort": "unknown",
+     "status": "unknown",
+     "url": "https://www.fcef.com.fj/activities/fiji-enterprise-engine/"
     }
    ],
    "vcs": [
@@ -11927,13 +12124,16 @@
    "summary": "Tbilisi-centred ecosystem driven by the state agency GITA, which has funded 640+ startups with grants and runs accelerators with Plug and Play, Startupbootcamp, 500 Global and Founder Institute. Easy incorporation and low taxes attract relocating founders.",
    "startup_visa": "No startup visa. Citizens of about 95 countries get visa-free stays of up to 1 year, https://www.evisa.gov.ge/GeoVisa/",
    "company_setup": "LLC or Individual Entrepreneur registered at the Public Service Hall (NAPR) in 1 day, possible through a representative with power of attorney. Small Business status gives 1% turnover tax; Virtual Zone status gives 0% CIT on foreign IT income.",
-   "notes": "Oct 2026: the Plug and Play deadline is 11 December (year inferred from the 2026-10-06 announcement). Enterprise Georgia (enterprise.gov.ge) was left out because its TLS certificate is invalid. Smart Capital and the Georgian angel networks were left out as unverified.",
+   "notes": "Oct 2026: the Plug and Play deadline is 11 December (year inferred from the 2026-10-06 announcement). Enterprise Georgia (enterprise.gov.ge) was left out because its TLS certificate is invalid. Smart Capital and the Georgian angel networks were left out as unverified. | 2026-10-20 gap-fill: added 500 Global (GITA and Bank of Georgia partner; Georgia Startup Academy launched 2025) and the state Georgia Development Fund (fund.ge, subsidiary Startup Georgia). GITA startups page shows no open co-financing round. Kedari Ventures' domain now hosts spam, so it stays excluded.",
    "confidence": "medium",
    "sources": [
     "https://gita.gov.ge/",
     "https://gita.gov.ge/news/plug-and-play-m-akseleratsiis-meore-tslis-nakadistvis-ganatskhadebis-migheba-daitsqo-t5hIQtUGv",
     "https://gita.gov.ge/programs/inovatsiuri-startapebis-akseleratsiis-programa-0OgxZ-r3C",
-    "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+    "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html",
+    "https://500.co/eurasia",
+    "https://fund.ge/",
+    "https://gita.gov.ge/startups"
    ],
    "researched": true,
    "grants": [
@@ -11943,7 +12143,7 @@
      "amount": "up to GEL 150,000; larger grants up to GEL 650,000",
      "amount_usd_max": 240000,
      "eligibility": "Georgian innovative startups",
-     "deadline": "periodic rounds",
+     "deadline": "periodic rounds (rounds I-IX, latest winners listed 2024)",
      "status": "unknown",
      "url": "https://gita.gov.ge/startups"
     },
@@ -12012,6 +12212,17 @@
      "next_cohort": "unknown",
      "status": "unknown",
      "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+    },
+    {
+     "name": "500 Global Georgia Startup Academy",
+     "city": "Tbilisi",
+     "type": "accelerator",
+     "investment": "access to non-dilutive grants (with GITA, Bank of Georgia)",
+     "sectors": "generalist tech",
+     "deadline": "unknown",
+     "next_cohort": "unknown",
+     "status": "unknown",
+     "url": "https://500.co/eurasia"
     }
    ],
    "vcs": [
@@ -12035,6 +12246,28 @@
      "sectors": "climate, health, fintech, agritech impact",
      "type": "government_fund",
      "url": "https://ventures.adb.org",
+     "source": ""
+    },
+    {
+     "name": "500 Global (Eurasia)",
+     "city": "Tbilisi / regional",
+     "stage": "pre-seed",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "generalist tech",
+     "type": "vc",
+     "url": "https://500.co/eurasia",
+     "source": ""
+    },
+    {
+     "name": "Georgia Development Fund",
+     "city": "Tbilisi",
+     "stage": "multi",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "innovative production and startups, export, high-tech",
+     "type": "government_fund",
+     "url": "https://fund.ge/",
      "source": ""
     }
    ],
@@ -13446,13 +13679,15 @@
    "summary": "Largest Central American economy, with a growing scene in Guatemala City and Quetzaltenango. Impact investing (Pomona, Alterna), university programmes (UFM) and regional VCs drive it. It hosts a Startup World Cup round and the Volcano Innovation Summit.",
    "startup_visa": "none",
    "company_setup": "Sociedad Anonima registered with the Registro Mercantil (online via MINECO); foreigners can own 100%; about 2-4 weeks.",
-   "notes": "Startup World Cup Guatemala 2026 was held 2026-06-23. Invest Guatemala's domain now redirects elsewhere, so it is left out. AGEXPORT's site timed out.",
+   "notes": "Startup World Cup Guatemala 2026 was held 2026-06-23. Invest Guatemala's domain now redirects elsewhere, so it is left out. AGEXPORT's site timed out. | 2026-10-20 gap-fill: added Guatemala-based VCs Invariantes (first local early-stage VC; first fund US$3.5M), Cacao Capital and Barrilete Ventures (Banco Industrial trust structure). Cacao check size and Barrilete ticket ladder come from LAVCA and directory profiles, not the funds' own pages.",
    "confidence": "low",
    "sources": [
     "https://pomonaimpact.com",
     "https://www.caraov.com",
     "https://agn.gt/abren-convocatoria-para-financiar-proyectos-de-ciencia-tecnologia-e-innovacion",
-    "https://ecosistemastartup.com/?p=89874"
+    "https://ecosistemastartup.com/?p=89874",
+    "https://www.lavca.org/guatemalas-invariantes-closes-first-fund-with-us3-5m-in-commitments/",
+    "https://www.bloomberglinea.com/latinoamerica/ecuador/el-venture-capital-basado-en-guatemala-que-invierte-en-latam-y-estados-unidos/"
    ],
    "researched": true,
    "grants": [
@@ -13534,6 +13769,39 @@
      "sectors": "generalist, Central America",
      "type": "vc",
      "url": "https://caricaco.vc",
+     "source": ""
+    },
+    {
+     "name": "Invariantes Fund",
+     "city": "Guatemala City",
+     "stage": "pre-seed, seed",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "generalist tech; also invests in emerging fund managers",
+     "type": "vc",
+     "url": "https://www.invariantes.com/",
+     "source": ""
+    },
+    {
+     "name": "Cacao Capital",
+     "city": "Guatemala City",
+     "stage": "pre-seed, seed",
+     "check_size": "under US$100k",
+     "aum": "",
+     "sectors": "fintech, agtech, e-commerce, healthtech, SaaS",
+     "type": "vc",
+     "url": "https://cacao-capital.com/",
+     "source": ""
+    },
+    {
+     "name": "Barrilete Ventures",
+     "city": "Guatemala City",
+     "stage": "pre-seed",
+     "check_size": "US$5k-50k",
+     "aum": "",
+     "sectors": "university and early tech startups",
+     "type": "angel_network",
+     "url": "https://www.barrilete.vc/",
      "source": ""
     }
    ],
@@ -14519,14 +14787,18 @@
    "summary": "Budapest-centred ecosystem with notable successes Prezi, LogMeIn, Ustream and Bitrise. State-backed Hiventures is the largest early-stage investor; private VCs include Day One and Portfolion.",
    "startup_visa": "none",
    "company_setup": "Kft. (LLC), HUF 3M minimum capital; e-registration through a lawyer typically within 1-2 business days; foreigners can incorporate remotely via attorney.",
-   "notes": "Few verifiable accelerators with open calls in Oct 2026. Hiventures ticket sizes not stated on site.",
+   "notes": "Few verifiable accelerators with open calls in Oct 2026. Hiventures ticket sizes not stated on site. | 2026-10-20 gap-fill: added Oktogon Ventures, Impact Ventures, Valor Capital, Credo and 3TS. Hiventures launched a HUF 17bn (about EUR 42M) fund in Feb 2026 with tickets capped at EUR 300k, co-investing with angels and VCs. Euroventures, Lead Ventures and iCatapult sites could not be reached and were left out. Startup Campus lists HFDA, HUMDA and TokajTech programmes without dates.",
    "confidence": "medium",
    "sources": [
     "https://www.hiventures.hu/en",
     "https://nkfih.gov.hu/english",
     "https://www.dayonecapital.com",
     "https://www.portfolion.com/",
-    "https://www.startupcampus.hu/"
+    "https://www.startupcampus.hu/",
+    "https://www.oktogon.vc/",
+    "https://impactventures.hu/",
+    "https://www.valorcapital.hu/",
+    "https://www.credoventures.com/"
    ],
    "researched": true,
    "grants": [
@@ -14599,7 +14871,7 @@
      "name": "Hiventures",
      "city": "Budapest",
      "stage": "multi",
-     "check_size": "unknown",
+     "check_size": "up to EUR 300k (HUF 17bn GINOP Plus fund, Feb 2026)",
      "aum": "",
      "sectors": "AI, deeptech, medtech, fintech, greentech",
      "type": "government_fund",
@@ -14637,6 +14909,61 @@
      "sectors": "tech",
      "type": "vc",
      "url": "https://oxolabs.eu/",
+     "source": ""
+    },
+    {
+     "name": "Oktogon Ventures",
+     "city": "Budapest",
+     "stage": "seed",
+     "check_size": "EUR 100k-400k initial, up to EUR 1.2M",
+     "aum": "",
+     "sectors": "B2B SaaS",
+     "type": "vc",
+     "url": "https://www.oktogon.vc/",
+     "source": ""
+    },
+    {
+     "name": "Impact Ventures",
+     "city": "Budapest",
+     "stage": "seed",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "impact, sustainability",
+     "type": "vc",
+     "url": "https://impactventures.hu/",
+     "source": ""
+    },
+    {
+     "name": "Valor Capital",
+     "city": "Budapest",
+     "stage": "multi",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "climate, sustainability, generalist",
+     "type": "vc",
+     "url": "https://www.valorcapital.hu/",
+     "source": ""
+    },
+    {
+     "name": "Credo Ventures",
+     "city": "Prague",
+     "stage": "pre-seed",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "generalist tech (CEE)",
+     "type": "vc",
+     "url": "https://www.credoventures.com/",
+     "source": ""
+    },
+    {
+     "name": "3TS Capital Partners",
+     "city": "regional",
+     "stage": "growth",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "technology (CEE)",
+     "type": "vc",
+     "url": "https://www.3tscapital.com/",
      "source": ""
     }
    ],
@@ -15832,11 +16159,13 @@
    "summary": "Large, isolated domestic tech market (Tehran) with local champions like Digikala, Snapp and Cafe Bazaar, supported by the knowledge-based company law and state innovation funds.",
    "startup_visa": "none",
    "company_setup": "Private joint-stock or LLC via Iran's companies registration office; foreign founders face severe sanctions and banking barriers.",
-   "notes": "Sanctions: comprehensive US sanctions and UN sanctions re-imposed via snapback (Sep 2025); EU measures; June 2025 Israel-Iran war. International VC and payments effectively unavailable; Iranian government sites geo-block foreign traffic, so URLs confirmed only by DNS/403 response.",
+   "notes": "Sanctions: comprehensive US sanctions and UN sanctions re-imposed via snapback (Sep 2025); EU measures; June 2025 Israel-Iran war. International VC and payments effectively unavailable; Iranian government sites geo-block foreign traffic, so URLs confirmed only by DNS/403 response. | 2026-10-20 gap-fill: Added Shenasa (Pasargad's VC/accelerator arm, news to Feb 2025) and Smartup Ventures, both fetched directly. Sarava and Avatech domains resolve but refuse foreign connections, so omitted.",
    "confidence": "low",
    "sources": [
     "https://www.inif.ir/",
-    "https://isti.ir/"
+    "https://isti.ir/",
+    "https://shenasa.ir/",
+    "https://smartup.ir/"
    ],
    "researched": true,
    "grants": [
@@ -15862,7 +16191,30 @@
     }
    ],
    "accelerators": [],
-   "vcs": [],
+   "vcs": [
+    {
+     "name": "Shenasa (Pasargad Financial Group)",
+     "city": "Tehran",
+     "stage": "multi",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "fintech, health, e-commerce, AI, agritech",
+     "type": "cvc",
+     "url": "https://shenasa.ir/",
+     "source": ""
+    },
+    {
+     "name": "Smartup Ventures",
+     "city": "Tehran",
+     "stage": "seed | series A",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "digital, e-commerce, fintech",
+     "type": "vc",
+     "url": "https://smartup.ir/",
+     "source": ""
+    }
+   ],
    "pe": [],
    "resources": [
     {
@@ -17007,14 +17359,16 @@
    "summary": "Largest English-speaking Caribbean ecosystem, centred on Kingston. Support comes from DBJ's BIGEE programme, UTech's Technology Innovation Centre, the Caribbean Climate Innovation Centre and the FirstAngels Caribbean network. Junior Market listings on the JSE give SMEs a capital route.",
    "startup_visa": "none",
    "company_setup": "Private company limited by shares, registered online with the Companies Office of Jamaica (BizRegistration); foreigners can own 100%. Usually a few days.",
-   "notes": "BIGEE's IDB-backed IGNITE/IGF grants paused when the disbursement window ended in March 2025. J$900M+ budgeted for BIGEE in FY2026/27, incl. a planned SME VC fund (not yet launched as of Oct 2026). In March 2026 UTech TIC, RevUP and FirstAngels signed a 3-year pipeline MOU.",
+   "notes": "BIGEE's IDB-backed IGNITE/IGF grants paused when the disbursement window ended in March 2025. J$900M+ budgeted for BIGEE in FY2026/27, incl. a planned SME VC fund (not yet launched as of Oct 2026). In March 2026 UTech TIC, RevUP and FirstAngels signed a 3-year pipeline MOU. | 2026-10-20 gap-fill: added DBJ Venture Capital Programme (policy and fund-manager backing; its own SME VC fund not yet launched) and Sygnus (private credit/PE). No local seed VC with a working site found; Caribbean Seed Fund (2023 announcement) has no confirmed launch.",
    "confidence": "medium",
    "sources": [
     "https://thinkbigee.com",
     "https://firstangelscaribbean.com",
     "https://fi.co/apply/14634",
     "https://jamaica-gleaner.com/article/news/20260414/new-partnership-targets-startup-growth-innovation",
-    "https://www.caribank.org/node/11571"
+    "https://www.caribank.org/node/11571",
+    "https://www.dbankjm.com/venture-capital/",
+    "https://thinkbigee.com/"
    ],
    "researched": true,
    "grants": [
@@ -17128,6 +17482,28 @@
      "type": "angel_network",
      "url": "https://www.caribbeanangels.com",
      "source": ""
+    },
+    {
+     "name": "DBJ Venture Capital Programme",
+     "city": "Kingston",
+     "stage": "multi",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "generalist; backs VC/PE fund managers and angel co-investment",
+     "type": "government_fund",
+     "url": "https://www.dbankjm.com/venture-capital/",
+     "source": ""
+    },
+    {
+     "name": "Sygnus Capital",
+     "city": "Kingston",
+     "stage": "growth",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "private credit and private equity for growing companies",
+     "type": "venture_debt",
+     "url": "https://sygnusgroup.com/",
+     "source": ""
     }
    ],
    "pe": [],
@@ -17179,6 +17555,12 @@
      "type": "government_agency",
      "url": "https://www.carib-export.com",
      "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+    },
+    {
+     "name": "Jamaica Stock Exchange (Junior Market)",
+     "type": "other",
+     "url": "https://www.jamstockex.com/",
+     "note": "Junior Market listing route for SMEs"
     }
    ]
   },
@@ -17806,12 +18188,14 @@
    "summary": "Amman-centred ecosystem with strong software, gaming and e-commerce talent; exits include Maktoob (Yahoo) and Jamalon. The World Bank-backed ISSF fund of funds anchors local VC.",
    "startup_visa": "none (investor residency via Ministry of Investment; no dedicated startup visa verified)",
    "company_setup": "LLC or Private Shareholding Company registered with the Companies Control Department; foreigners can own most tech businesses; about 1-2 weeks.",
-   "notes": "Flat6Labs Amman's last published deadline was Feb 2025. Regional conflict has dampened 2024-26 funding.",
+   "notes": "Flat6Labs Amman's last published deadline was Feb 2025. Regional conflict has dampened 2024-26 funding. | 2026-10-20 gap-fill: Added ISSF-backed regional VCs (MEVP opened an Amman branch after ISSF's US$5m into MEVF IV; BECO Fund IV; Global Ventures Funds II-III). ISSF lists 27 portfolio funds and got a World Bank 'Highly Satisfactory' rating in 2026. Added C3 Launchpad (MoDEE-funded, closed 16 Aug 2026) and GGJAP.",
    "confidence": "medium",
    "sources": [
     "https://issfjo.com/",
     "https://www.jedco.gov.jo/",
-    "https://oasis500.com/"
+    "https://oasis500.com/",
+    "https://wegrowwithc3.com/c3-launchpad",
+    "https://flat6labs.com/program/ggjap/"
    ],
    "researched": true,
    "grants": [
@@ -17857,7 +18241,7 @@
      "deadline": "last: 2025-02-15",
      "next_cohort": "unknown",
      "status": "unknown",
-     "url": "https://flat6labs.com/"
+     "url": "https://flat6labs.com/Location/jordan/"
     },
     {
      "name": "Ahli Fintech",
@@ -17869,6 +18253,28 @@
      "next_cohort": "unknown",
      "status": "rolling",
      "url": "https://ahlifintech.com/"
+    },
+    {
+     "name": "C3 Launchpad",
+     "city": "Amman",
+     "type": "government",
+     "investment": "no equity, no fee",
+     "sectors": "tech-enabled, UAE expansion",
+     "deadline": "last: 2026-08-16",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://wegrowwithc3.com/c3-launchpad"
+    },
+    {
+     "name": "Green Growth and Jobs Accelerator (GGJAP, Flat6Labs/UNDP)",
+     "city": "Amman",
+     "type": "accelerator",
+     "investment": "non-financial support",
+     "sectors": "green economy",
+     "deadline": "unknown",
+     "next_cohort": "unknown",
+     "status": "unknown",
+     "url": "https://flat6labs.com/program/ggjap/"
     }
    ],
    "vcs": [
@@ -17892,6 +18298,39 @@
      "sectors": "tech",
      "type": "vc",
      "url": "https://www.sadaravc.com/",
+     "source": ""
+    },
+    {
+     "name": "MEVP",
+     "city": "Beirut / Dubai / Amman",
+     "stage": "multi",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "generalist tech",
+     "type": "vc",
+     "url": "https://mevp.com/",
+     "source": ""
+    },
+    {
+     "name": "BECO Capital",
+     "city": "Dubai",
+     "stage": "multi",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "generalist tech",
+     "type": "vc",
+     "url": "https://www.becocapital.com/",
+     "source": ""
+    },
+    {
+     "name": "Global Ventures",
+     "city": "Dubai",
+     "stage": "growth",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "fintech, healthtech, edtech, SaaS",
+     "type": "vc",
+     "url": "https://www.global.vc",
      "source": ""
     }
    ],
@@ -18771,11 +19210,14 @@
    "summary": "Small but wealthy market; notable startups include Talabat and Carriage (both acquired). Government National Fund for SMEs and family offices are main funders.",
    "startup_visa": "none",
    "company_setup": "WLL via Ministry of Commerce; 100% foreign ownership possible via KDIPA licence; several weeks.",
-   "notes": "Brilliant Lab domain no longer active; omitted.",
-   "confidence": "low",
+   "notes": "Brilliant Lab domain no longer active; omitted. | 2026-10-20 gap-fill: Added NTEC (KIA-owned tech investor), KDSC accelerator (Youth Public Authority with Boeing; 2026 cohort closed) and CBK Wolooj accelerator (2026 window 1 Sep - 1 Oct 2026). Arzan VC domains now parked/redirect, Sharq Ventures domain parked, Faith Capital site blocks access (403), so omitted.",
+   "confidence": "medium",
    "sources": [
     "https://nationalfund.gov.kw/",
-    "https://www.kfas.org.kw/"
+    "https://www.kfas.org.kw/",
+    "https://www.ntec.com.kw/",
+    "https://kdsc.ventures",
+    "https://www.cbk.gov.kw/en/legislation-and-regulation/innovation-hub/overview"
    ],
    "researched": true,
    "grants": [
@@ -18800,7 +19242,30 @@
      "url": "https://www.kfas.org.kw/"
     }
    ],
-   "accelerators": [],
+   "accelerators": [
+    {
+     "name": "KDSC Accelerator (Kuwait Digital Startup Campus)",
+     "city": "Kuwait City",
+     "type": "government",
+     "investment": "unknown",
+     "sectors": "generalist",
+     "deadline": "last: 2026 cohort applications closed",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://kdsc.ventures"
+    },
+    {
+     "name": "CBK Wolooj Strategic Initiative Accelerator Program",
+     "city": "Kuwait City",
+     "type": "government",
+     "investment": "mentoring, no equity",
+     "sectors": "fintech, AI, RegTech/SupTech, cybersecurity",
+     "deadline": "last: 2026-10-01",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://www.cbk.gov.kw/en/legislation-and-regulation/innovation-hub/overview"
+    }
+   ],
    "vcs": [
     {
      "name": "Nuwa Capital",
@@ -18811,6 +19276,17 @@
      "sectors": "tech",
      "type": "vc",
      "url": "https://nuwa.capital/",
+     "source": ""
+    },
+    {
+     "name": "NTEC (National Technology Enterprises Company)",
+     "city": "Kuwait City",
+     "stage": "multi",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "ICT, life sciences, energy, water, environment",
+     "type": "government_fund",
+     "url": "https://www.ntec.com.kw/",
      "source": ""
     }
    ],
@@ -19021,13 +19497,17 @@
    "summary": "Riga-based ecosystem with startups such as Printful, Sonarworks and airBaltic-adjacent aerospace/drone firms; supportive Startup Law with tax benefits. Funding via ALTUM-backed VC funds and LIAA programs.",
    "startup_visa": "Latvian startup residence permit under the Startup Law (via Office of Citizenship and Migration Affairs), https://www.pmlp.gov.lv/en",
    "company_setup": "SIA (limited liability), registered with the Register of Enterprises, online with eID; e-residents of Latvia or Estonia can sign electronically; low minimum capital.",
-   "notes": "LIAA English pages give few startup program details; amounts for ALTUM VC funds not published on overview page.",
+   "notes": "LIAA English pages give few startup program details; amounts for ALTUM VC funds not published on overview page. | 2026-10-20 gap-fill: added four Baltic or CEE VCs that state Latvia or the Baltics in scope. Buildit says its current investment period is over. LIAA Innovation Academy pages still show the 2023 intake only.",
    "confidence": "medium",
    "sources": [
     "https://www.liaa.gov.lv/en",
     "https://www.altum.lv/en/services/",
     "https://startin.lv/",
-    "https://www.techchill.co/"
+    "https://www.techchill.co/",
+    "https://www.changeventures.com/",
+    "https://firstpick.vc/",
+    "https://superangel.io/",
+    "https://www.buildit.lv/"
    ],
    "researched": true,
    "grants": [
@@ -19088,11 +19568,11 @@
      "name": "Buildit",
      "city": "Riga",
      "type": "accelerator",
-     "investment": "pre-seed equity",
+     "investment": "up to EUR 250k pre-seed (Latvia), up to EUR 1.5M seed",
      "sectors": "hardware, IoT",
-     "deadline": "unknown",
+     "deadline": "unknown (investment period of current fund over; new EUR 20M fund being raised)",
      "next_cohort": "unknown",
-     "status": "unknown",
+     "status": "closed",
      "url": "https://www.buildit.lv/"
     },
     {
@@ -19112,9 +19592,9 @@
      "type": "accelerator",
      "investment": "no equity; prizes for finalists",
      "sectors": "health, climate, energy, food, manufacturing, mobility, raw materials",
-     "deadline": "unknown",
+     "deadline": "annual (spring); last: 2026-05-17",
      "next_cohort": "unknown",
-     "status": "unknown",
+     "status": "closed",
      "url": "https://eitjumpstarter.eu/"
     }
    ],
@@ -19162,6 +19642,50 @@
      "type": "angel_network",
      "url": "https://latban.lv/",
      "source": ""
+    },
+    {
+     "name": "Change Ventures",
+     "city": "Tallinn / Riga",
+     "stage": "pre-seed",
+     "check_size": "EUR 100k-750k",
+     "aum": "",
+     "sectors": "generalist",
+     "type": "vc",
+     "url": "https://www.changeventures.com/",
+     "source": ""
+    },
+    {
+     "name": "FIRSTPICK",
+     "city": "Vilnius",
+     "stage": "pre-seed",
+     "check_size": "EUR 100k-500k, follow-on to EUR 1M",
+     "aum": "",
+     "sectors": "AI-first software, SaaS, deeptech, fintech",
+     "type": "vc",
+     "url": "https://firstpick.vc/",
+     "source": ""
+    },
+    {
+     "name": "Superangel",
+     "city": "Tallinn",
+     "stage": "seed",
+     "check_size": "EUR 300k-1M",
+     "aum": "",
+     "sectors": "AI, robotics, data infrastructure, deeptech",
+     "type": "vc",
+     "url": "https://superangel.io/",
+     "source": ""
+    },
+    {
+     "name": "BADideas.fund",
+     "city": "unknown",
+     "stage": "pre-seed",
+     "check_size": "EUR 200k-1.5M",
+     "aum": "",
+     "sectors": "AI application-layer software",
+     "type": "vc",
+     "url": "https://badideas.fund/",
+     "source": ""
     }
    ],
    "pe": [],
@@ -19206,12 +19730,15 @@
    "summary": "Beirut historically had a vibrant scene (Anghami listed on Nasdaq) but the 2019 banking collapse, 2020 port blast and 2024 war hit it hard; many startups now operate from the Gulf or Europe.",
    "startup_visa": "none",
    "company_setup": "SAL or SARL via notary and commercial register; capital controls make local banking hard, so many founders incorporate abroad (UAE, Delaware) and keep a Lebanese subsidiary.",
-   "notes": "Financial crisis since 2019 (BDL Circular 331 VC scheme is effectively defunct). Funding is scarce; status of Flat6Labs Beirut unclear and omitted.",
+   "notes": "Financial crisis since 2019 (BDL Circular 331 VC scheme is effectively defunct). Funding is scarce; status of Flat6Labs Beirut unclear and omitted. | 2026-10-20 gap-fill: Added IM Fndng (IM Ventures US$38m matching-capital and IM Capital US$20m programs, SPEED@BDD and SEEDERS accelerators; news through Sep 2026), Berytech Fund II (US$51m, linked from berytech.org) and BY Venture Partners (Lebanese-rooted). Berytech ScaleSmart (AgriFood/CleanTech) status unclear.",
    "confidence": "low",
    "sources": [
     "https://berytech.org/",
     "https://kafalat.com.lb/",
-    "https://www.leap.vc/"
+    "https://www.leap.vc/",
+    "https://im-fndng.com/",
+    "https://berytech.org/get-funded/",
+    "https://www.byvp.com/"
    ],
    "researched": true,
    "grants": [
@@ -19271,6 +19798,39 @@
      "sectors": "tech",
      "type": "vc",
      "url": "https://www.cedarmundi.com/",
+     "source": ""
+    },
+    {
+     "name": "IM Fndng (IM Ventures / IM Capital)",
+     "city": "Dbayeh",
+     "stage": "multi",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "generalist",
+     "type": "vc",
+     "url": "https://im-fndng.com/",
+     "source": ""
+    },
+    {
+     "name": "Berytech Fund II",
+     "city": "Beirut",
+     "stage": "seed | series A",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "ICT, digital content, renewable energy",
+     "type": "vc",
+     "url": "https://www.berytechfund.org/",
+     "source": ""
+    },
+    {
+     "name": "BY Venture Partners",
+     "city": "Dubai / London / Boston",
+     "stage": "seed",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "marketplaces, platforms, AI",
+     "type": "vc",
+     "url": "https://www.byvp.com/",
      "source": ""
     }
    ],
@@ -19825,24 +20385,27 @@
    "summary": "Small but well-funded ecosystem in Luxembourg City, built on its financial centre and EU institutions. Strengths in fintech, space resources, cybersecurity and fund tech; government support via Luxinnovation and Fit 4 Start.",
    "startup_visa": "none (non-EU founders apply for a self-employed residence permit)",
    "company_setup": "SARL (€12k capital, notarised) or simplified SARL-S (from €1); business permit from the Ministry of the Economy; guidance via Guichet.lu; about 2–4 weeks.",
-   "notes": "Fit 4 Start #17 cohort has been selected; next call date not found. LHoFT Catapult 2026 editions (Green Fintech, FundTech, Kickstarter) all listed as closed. Luxembourg Future Fund site not reachable, so left out. EIC Accelerator: remaining 2026 full-proposal cut-off is 4 Nov 2026; short proposals accepted any time; 2027 cut-offs not yet published (2027 info day 19 Nov 2026). EIC Pathfinder Open 2027 deadline awaits the 2027 Work Programme.",
+   "notes": "Fit 4 Start #17 cohort has been selected; next call date not found. LHoFT Catapult 2026 editions (Green Fintech, FundTech, Kickstarter) all listed as closed. Luxembourg Future Fund site not reachable, so left out. EIC Accelerator: remaining 2026 full-proposal cut-off is 4 Nov 2026; short proposals accepted any time; 2027 cut-offs not yet published (2027 info day 19 Nov 2026). EIC Pathfinder Open 2027 deadline awaits the 2027 Work Programme. | 2026-10-20 gap-fill: Fit 4 Start #17 call closed 2026-07-10 (record 556 applications), 24 startups start Jan 2027. Added LFF3 (launched 2026-06-12, EUR 270M fund-of-funds) and the EUR 150M National Defence Fund (launched 2026-04-30). LHoFT Catapult lists no open 2026-27 edition.",
    "confidence": "medium",
    "sources": [
     "https://startupluxembourg.com/start-your-business/join-our-startup-programmes",
     "https://www.lhoft.com/en/catapult",
     "https://luxinnovation.lu/news/24-startups-selected-for-fit-4-start-17",
-    "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+    "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+    "https://www.snci.lu/en/our-investment-programs/",
+    "https://fnd.lu/",
+    "https://lhoft.com/programs/catapult-acceleration-programs/"
    ],
    "researched": true,
    "grants": [
     {
      "name": "Fit 4 Start",
      "agency": "Luxinnovation / Ministry of the Economy",
-     "amount": "Up to €150,000 pre-seed capital + 6 months coaching",
+     "amount": "EUR 50k on incorporation plus up to EUR 100k",
      "amount_usd_max": 172500,
      "eligibility": "Early-stage digital, health, space and ICT startups willing to base in Luxembourg",
-     "deadline": "unknown (calls usually twice a year)",
-     "status": "unknown",
+     "deadline": "twice yearly; last: 2026-07-10",
+     "status": "closed",
      "url": "https://startupluxembourg.com/start-your-business/join-our-startup-programmes"
     },
     {
@@ -19881,11 +20444,11 @@
      "name": "Fit 4 Start",
      "city": "Luxembourg City",
      "type": "government",
-     "investment": "up to €150k (convertible)",
+     "investment": "up to EUR 150k (grant, no equity)",
      "sectors": "ICT, health, space, sustainability",
-     "deadline": "unknown",
-     "next_cohort": "unknown",
-     "status": "unknown",
+     "deadline": "twice yearly; last: 2026-07-10",
+     "next_cohort": "2027-01",
+     "status": "closed",
      "url": "https://startupluxembourg.com/start-your-business/join-our-startup-programmes"
     },
     {
@@ -19977,6 +20540,28 @@
      "type": "government_fund",
      "url": "https://www.snci.lu/",
      "source": ""
+    },
+    {
+     "name": "Luxembourg Future Fund 3 (SNCI / EIF)",
+     "city": "Luxembourg",
+     "stage": "multi",
+     "check_size": "fund-of-funds, EUR 270M total",
+     "aum": "",
+     "sectors": "generalist",
+     "type": "government_fund",
+     "url": "https://www.snci.lu/en/mandat/luxembourg-future-fund-3/",
+     "source": ""
+    },
+    {
+     "name": "Fonds National de Defense (FND)",
+     "city": "Luxembourg",
+     "stage": "multi",
+     "check_size": "unknown (EUR 150M fund)",
+     "aum": "",
+     "sectors": "defence, dual-use, cybersecurity, space, advanced materials",
+     "type": "government_fund",
+     "url": "https://fnd.lu/",
+     "source": ""
     }
    ],
    "pe": [
@@ -20046,7 +20631,7 @@
    "summary": "Small, government-led ecosystem built around youth entrepreneurship, diversification beyond gaming, and the Guangdong-Macao In-Depth Cooperation Zone in Hengqin. Support is mostly interest-free loans, incubation space and Greater Bay Area programs.",
    "startup_visa": "none (no startup visa; non-residents typically enter via investment or talent schemes)",
    "company_setup": "Sociedade por quotas (limited company), minimum capital MOP25,000. Registered through the Commercial and Movable Property Registry, with help from IPIM's Investor One Stop Service. Takes about 1-3 weeks.",
-   "notes": "No Macau-based VC with a verifiable official site was found. Founders usually raise from Hong Kong or Mainland funds. Many Hengqin youth-entrepreneurship programs are listed on Mainland sites that could not be verified.",
+   "notes": "No Macau-based VC with a verifiable official site was found. Founders usually raise from Hong Kong or Mainland funds. Many Hengqin youth-entrepreneurship programs are listed on Mainland sites that could not be verified. | 2026-10-20 gap-fill: no new verifiable items. A RMB100M Hengqin angel fund (Hengqin Cooperation Zone Industrial Investment Fund with CICC and BIT, signed Apr 2026) has no official page; Macau government industry and guidance funds are still at study stage; 8 fund managers licensed under the 2026 Investment Funds Law. GEG Venture Philanthropy Fund page is stale (2016).",
    "confidence": "medium",
    "sources": [
     "https://www.dsedt.gov.mo/en_US/web/public/pg_ead_lsye_intro",
@@ -20942,13 +21527,16 @@
    "summary": "Small EU island ecosystem strong in iGaming, fintech and blockchain regulation, with Malta Enterprise offering generous startup grants and repayable advances. English-speaking, Valletta-centred.",
    "startup_visa": "Malta Startup Residence Programme (Malta Enterprise endorsement, residence via Identita)",
    "company_setup": "Private limited company (Ltd) via the Malta Business Registry, minimum share capital EUR 1,165 (20% paid up); online filing possible through a registered agent; about a week.",
-   "notes": "Startup Residence Programme page URL not confirmed (old path 404). Takeoff site shows injected casino spam in menus; content otherwise current.",
+   "notes": "Startup Residence Programme page URL not confirmed (old path 404). Takeoff site shows injected casino spam in menus; content otherwise current. | 2026-10-20 gap-fill: Malta Enterprise Start-up Finance shows a 30 Oct 2026 deadline. Added Xjenza P2M grant and Growth Box Ventures. The state-backed Malta Venture Capital fund (EUR 10M, launched 2024, tickets reported up to EUR 500k) has no official website found, so it was left out.",
    "confidence": "medium",
    "sources": [
     "https://www.maltaenterprise.com/support",
     "https://www.maltaenterprise.com/support/business-start",
     "https://takeoff.org.mt/",
-    "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+    "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+    "https://www.maltaenterprise.com/StartupFinance",
+    "https://xjenzamalta.mt/media/open-funding-schemes/",
+    "https://growthbox.vc/"
    ],
    "researched": true,
    "grants": [
@@ -20968,8 +21556,8 @@
      "amount": "repayable advance/equity-like support",
      "amount_usd_max": "",
      "eligibility": "small startups committed to growth",
-     "deadline": "rolling",
-     "status": "rolling",
+     "deadline": "2026-10-30",
+     "status": "open",
      "url": "https://www.maltaenterprise.com/StartupFinance"
     },
     {
@@ -21021,6 +21609,16 @@
      "deadline": "2026-11-04 (full proposal); short proposals rolling, batched first Tuesday monthly (next 2026-11-03)",
      "status": "open",
      "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+    },
+    {
+     "name": "Prototype to Minimum Viable Product (P2M) Programme",
+     "agency": "Xjenza Malta",
+     "amount": "up to EUR 30,000 (EUR 16k base grant plus top-ups)",
+     "amount_usd_max": 35000,
+     "eligibility": "Maltese-registered SMEs and start-ups building an MVP",
+     "deadline": "rolling; cut-offs end Mar, Jun, Sep; closed end Sep to end Dec, reopens 2027",
+     "status": "closed",
+     "url": "https://xjenzamalta.mt/2026/05/14/prototype-to-minimum-viable-product-p2m-programme/"
     }
    ],
    "accelerators": [
@@ -21041,9 +21639,9 @@
      "type": "accelerator",
      "investment": "no equity; prizes for finalists",
      "sectors": "health, climate, energy, food, manufacturing, mobility, raw materials",
-     "deadline": "unknown",
+     "deadline": "annual (spring); last: 2026-05-17",
      "next_cohort": "unknown",
-     "status": "unknown",
+     "status": "closed",
      "url": "https://eitjumpstarter.eu/"
     }
    ],
@@ -21068,6 +21666,17 @@
      "sectors": "generalist",
      "type": "angel_network",
      "url": "https://zaar.com.mt/",
+     "source": ""
+    },
+    {
+     "name": "Growth Box Ventures",
+     "city": "Ta' Xbiex",
+     "stage": "seed",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "gaming, fintech, lead generation, personal finance",
+     "type": "vc",
+     "url": "https://growthbox.vc/",
      "source": ""
     }
    ],
@@ -21265,13 +21874,14 @@
    "summary": "Ebene-centred hub for fintech, offshore structuring and pan-African holding companies; government MRIC grants, EDB promotion and the Turbine incubator support startups.",
    "startup_visa": "Residency by Innovation (Occupation Permit route for innovative startups), https://residency.mu/invest/residency-by-innovation/",
    "company_setup": "Private company via CBRD online registration in days; widely used by foreigners as a pan-African holding jurisdiction (Global Business Licence).",
-   "notes": "Checked 2026-10-20. MRIC scheme pages give no amounts or deadlines. Turbine's page shows a '300K Cash Reward' without naming the currency.",
+   "notes": "Checked 2026-10-20. MRIC scheme pages give no amounts or deadlines. Turbine's page shows a '300K Cash Reward' without naming the currency. | 2026-10-20 gap-fill: added ShEquity; MRIC homepage says the Call for Proposals 2026 is accepting applications (no closing date); Turbine lists Seed Capital up to MUR 5M. Compass Venture Capital (ENL) and Mauritius Investment Corporation sites could not be reached, so left out.",
    "confidence": "medium",
    "sources": [
     "https://www.mric.mu/",
     "https://residency.mu/invest/residency-by-innovation/",
     "https://turbine.mu/",
-    "https://edbmauritius.org/"
+    "https://edbmauritius.org/",
+    "https://shequity.com/"
    ],
    "researched": true,
    "grants": [
@@ -21281,8 +21891,8 @@
      "amount": "not stated",
      "amount_usd_max": "",
      "eligibility": "Innovators and companies registered in Mauritius",
-     "deadline": "unknown",
-     "status": "unknown",
+     "deadline": "open under MRIC Call for Proposals 2026; no closing date published",
+     "status": "open",
      "url": "https://www.mric.mu/proof-of-concept-scheme"
     },
     {
@@ -21291,8 +21901,8 @@
      "amount": "not stated",
      "amount_usd_max": "",
      "eligibility": "Mauritian innovators and SMEs",
-     "deadline": "unknown",
-     "status": "unknown",
+     "deadline": "open under MRIC Call for Proposals 2026; no closing date published",
+     "status": "open",
      "url": "https://www.mric.mu/ibgscheme"
     },
     {
@@ -21341,7 +21951,7 @@
      "name": "Turbine Incubator",
      "city": "Moka",
      "type": "incubator",
-     "investment": "incubation; Innovation Challenge 2026 '300K' cash reward",
+     "investment": "Seed Capital up to MUR 5M for Acceleration Programme startups",
      "sectors": "generalist, sustainability, AI",
      "deadline": "last: 2026-08-19 (Innovation Challenge 2026)",
      "next_cohort": "unknown",
@@ -21414,6 +22024,17 @@
      "sectors": "generalist tech",
      "type": "vc",
      "url": "https://partechpartners.com/",
+     "source": ""
+    },
+    {
+     "name": "ShEquity",
+     "city": "Grand Baie",
+     "stage": "growth",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "gender-smart climate and green SMEs, Africa",
+     "type": "vc",
+     "url": "https://shequity.com/",
      "source": ""
     }
    ],
@@ -21837,7 +22458,7 @@
    "summary": "Fast-growing small ecosystem in Chisinau with 300+ startups that raised about US$17M in 2025, anchored by the Moldova IT Park 7% single-tax regime, Tekwill and the Startup Moldova foundation. EU candidate status opens EU programmes; local VC is still thin.",
    "startup_visa": "none (Moldova IT Park IT Visa for foreign IT specialists, https://mitp.md/why-mitp/it-visa/)",
    "company_setup": "SRL (LLC) registered with the Public Services Agency, usually within a day; foreigners can own 100%; tech firms can join Moldova IT Park for a 7% single tax on turnover.",
-   "notes": "ODA monthly windows close early when the budget is spent. ODA Fund of Funds (first-loss tranche, MDL 180M) has no selected managers yet as of Oct 2026. Mozaic angel community (EUR 25-100k tickets) and Business Angels Moldova exist but their websites could not be verified (DNS/certificate errors), so they were left out.",
+   "notes": "ODA monthly windows close early when the budget is spent. ODA Fund of Funds (first-loss tranche, MDL 180M) has no selected managers yet as of Oct 2026. Mozaic angel community (EUR 25-100k tickets) and Business Angels Moldova exist but their websites could not be verified (DNS/certificate errors), so they were left out. | 2026-10-20 gap-fill: added 500 Global (lists Moldova in its Eurasia region) and SeedBlink. EU4Innovation ESIL Moldova angel-training programme and a government Fund of Funds are reported but have no confirmed official pages.",
    "confidence": "medium",
    "sources": [
     "https://www.oda.md/ro/granturi/start-uri-tehnologice",
@@ -21845,7 +22466,9 @@
     "https://www.oda.md/ro/acces-la-finantare/fondul-de-fonduri",
     "https://ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture/Start-up-applications.html",
     "https://mitp.md/",
-    "https://umaef.org/"
+    "https://umaef.org/",
+    "https://500.co/eurasia",
+    "https://seedblink.com/"
    ],
    "researched": true,
    "grants": [
@@ -21968,6 +22591,17 @@
      "type": "vc",
      "url": "https://horizoncapital.com.ua/",
      "source": ""
+    },
+    {
+     "name": "500 Global (Eurasia)",
+     "city": "regional",
+     "stage": "pre-seed",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "generalist tech",
+     "type": "vc",
+     "url": "https://500.co/eurasia",
+     "source": ""
     }
    ],
    "pe": [],
@@ -22001,6 +22635,12 @@
      "type": "database",
      "url": "https://www.oda.md/ro/granturi/calendar-granturi",
      "note": "Monthly windows, first 5 working days of each month"
+    },
+    {
+     "name": "SeedBlink",
+     "type": "other",
+     "url": "https://seedblink.com/",
+     "note": "European crowdinvesting and deal platform; partnered with Startup Moldova (2026) for syndicated rounds"
     }
    ]
   },
@@ -22354,12 +22994,15 @@
    "summary": "Casablanca and Rabat-led ecosystem with strong state push (Digital Morocco 2030, Innov Invest Fund, UM6P); strengths in fintech, agritech and outsourcing.",
    "startup_visa": "none dedicated",
    "company_setup": "SARL via CRI online platform; 100% foreign ownership allowed; about 1-2 weeks.",
-   "notes": "World Bank rated Innov Invest Fund I 'Highly Satisfactory' (Sep 2026); FII 2 selecting up to 20 support structures.",
+   "notes": "World Bank rated Innov Invest Fund I 'Highly Satisfactory' (Sep 2026); FII 2 selecting up to 20 support structures. | 2026-10-20 gap-fill: FM6I preselected 9 startup fund managers in Apr 2026 (incl. 500, Plug and Play, MEVP, Sawari, Outlierz, Kalys, Sienna) for a ~US$270m startup fund mechanism. Added FM6I, MNF Ventures, 212 Founders (Expand212/HQ212), Sawari, Reseau Entreprendre honour loans and GGJAP. Flat6Labs Ignite Morocco page shows Active from 24 Jun 2026 with no deadline.",
    "confidence": "medium",
    "sources": [
     "https://www.tamwilstartups.ma/",
     "https://flat6labs.com/program/ignite-morocco/",
-    "https://www.technopark.ma/"
+    "https://www.technopark.ma/",
+    "https://www.fm6i.ma/fr",
+    "https://mnf.ma/",
+    "https://www.212founders.co/"
    ],
    "researched": true,
    "grants": [
@@ -22392,6 +23035,16 @@
      "deadline": "rolling",
      "status": "rolling",
      "url": "https://marocpme.gov.ma/"
+    },
+    {
+     "name": "Reseau Entreprendre Maroc honour loans",
+     "agency": "Reseau Entreprendre Maroc",
+     "amount": "interest-free honour loan (amount not stated)",
+     "amount_usd_max": "",
+     "eligibility": "founders of new or growing businesses in Morocco",
+     "deadline": "rolling",
+     "status": "rolling",
+     "url": "https://www.reseau-entreprendre.org/maroc/"
     }
    ],
    "accelerators": [
@@ -22427,6 +23080,17 @@
      "next_cohort": "unknown",
      "status": "rolling",
      "url": "https://www.technopark.ma/"
+    },
+    {
+     "name": "Green Growth and Jobs Accelerator (GGJAP, Flat6Labs/UNDP)",
+     "city": "Casablanca",
+     "type": "accelerator",
+     "investment": "non-financial support",
+     "sectors": "green economy",
+     "deadline": "unknown",
+     "next_cohort": "unknown",
+     "status": "unknown",
+     "url": "https://flat6labs.com/program/ggjap/"
     }
    ],
    "vcs": [
@@ -22472,6 +23136,50 @@
      "sectors": "tech",
      "type": "vc",
      "url": "https://partechpartners.com/",
+     "source": ""
+    },
+    {
+     "name": "Mohammed VI Investment Fund (FM6I) fund of funds",
+     "city": "Rabat",
+     "stage": "multi",
+     "check_size": "via selected fund managers",
+     "aum": "",
+     "sectors": "fintech, agritech, edtech, healthtech, climatetech",
+     "type": "government_fund",
+     "url": "https://www.fm6i.ma/fr",
+     "source": ""
+    },
+    {
+     "name": "MNF Ventures (Maroc Numeric Fund)",
+     "city": "Casablanca",
+     "stage": "seed | series A",
+     "check_size": "MAD 1-10M (~US$100k-1M)",
+     "aum": "",
+     "sectors": "fintech, edtech, proptech, AI, SaaS",
+     "type": "vc",
+     "url": "https://mnf.ma/",
+     "source": ""
+    },
+    {
+     "name": "212 Founders (CDG Invest)",
+     "city": "Casablanca",
+     "stage": "seed | series A",
+     "check_size": "up to MAD 13M (~US$1.4M) co-investment",
+     "aum": "",
+     "sectors": "generalist",
+     "type": "government_fund",
+     "url": "https://www.212founders.co/",
+     "source": ""
+    },
+    {
+     "name": "Sawari Ventures",
+     "city": "Cairo",
+     "stage": "series A",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "technology",
+     "type": "vc",
+     "url": "https://www.sawariventures.com/",
      "source": ""
     }
    ],
@@ -24486,14 +25194,14 @@
    "summary": "Small but active ecosystem concentrated in Skopje, with outsourcing-heavy IT sector and growing startup scene. Main public funder is the Fund for Innovation and Technology Development (FITD), backed by the World Bank; regional VC South Central Ventures has a local presence.",
    "startup_visa": "none",
    "company_setup": "DOOEL/DOO (LLC) via Central Registry of North Macedonia, one-stop registration typically within days; foreigners can own 100%.",
-   "notes": "FITD website (fitr.mk) is JavaScript-rendered and could not be read; latest confirmed FITD startup call was 2024, so 2025-2026 calls are unverified. BAU Accelerator site had an expired certificate and was excluded.",
+   "notes": "FITD website (fitr.mk) is JavaScript-rendered and could not be read; latest confirmed FITD startup call was 2024, so 2025-2026 calls are unverified. BAU Accelerator site had an expired certificate and was excluded. | 2026-10-20 gap-fill: no 2025-2026 FITD startup call could be confirmed (site still unreadable). 500 Global's Eurasia strategy lists North Macedonia among its 30 countries. Fil Rouge Capital and Eleven Ventures have done deals here but their sites do not state North Macedonia coverage, so they were left out.",
    "confidence": "low",
    "sources": [
     "https://fitr.mk/",
-    "https://vlada.mk/node/10182?ln=en-gb",
     "https://stikk.org/call-for-applications-western-balkan-accelerator-program-opens-for-startups-in-kosovo-and-north-macedonia/",
     "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
-    "https://eitjumpstarter.eu/"
+    "https://eitjumpstarter.eu/",
+    "https://500.co/eurasia"
    ],
    "researched": true,
    "grants": [
@@ -24616,6 +25324,17 @@
      "sectors": "generalist tech",
      "type": "vc",
      "url": "https://sc-ventures.com/",
+     "source": ""
+    },
+    {
+     "name": "500 Global (Eurasia)",
+     "city": "regional",
+     "stage": "pre-seed",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "generalist tech",
+     "type": "vc",
+     "url": "https://500.co/eurasia",
      "source": ""
     }
    ],
@@ -24940,12 +25659,14 @@
    "summary": "Muscat-centred ecosystem backed by state funds (Oman Technology Fund, Future Fund Oman) and the SME Development Authority; focus on logistics, energy and tourism tech.",
    "startup_visa": "none",
    "company_setup": "LLC via Invest Easy portal; 100% foreign ownership allowed in most sectors; 1-2 weeks.",
-   "notes": "",
+   "notes": "2026-10-20 gap-fill: otf.om now presents OTF Scale, the ideation-stage vehicle of Oman Future Fund (up to OMR 40k, rolling review, apply via investee.futurefund.om). Added Jasoor Ventures (ADQ/OIA-backed, led eMushrif US$7.5m in Jan 2026) and IDO Investments (OIA tech arm).",
    "confidence": "medium",
    "sources": [
     "https://www.futurefund.om/",
     "https://www.otf.om/",
-    "https://www.sme.gov.om/"
+    "https://www.sme.gov.om/",
+    "https://www.jasoor.vc/",
+    "https://www.ido.om/"
    ],
    "researched": true,
    "grants": [
@@ -24998,12 +25719,34 @@
     {
      "name": "Oman Technology Fund",
      "city": "Muscat",
-     "stage": "multi",
-     "check_size": "US$0.1M-5M",
+     "stage": "pre-seed",
+     "check_size": "up to OMR 40,000 (~US$104k) via OTF Scale; rolling applications",
      "aum": "",
-     "sectors": "tech",
+     "sectors": "technology",
      "type": "government_fund",
      "url": "https://www.otf.om/",
+     "source": ""
+    },
+    {
+     "name": "Jasoor Ventures",
+     "city": "Abu Dhabi",
+     "stage": "seed | series A",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "technology",
+     "type": "vc",
+     "url": "https://www.jasoor.vc/",
+     "source": ""
+    },
+    {
+     "name": "IDO Investments",
+     "city": "Muscat",
+     "stage": "growth",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "health, energy tech, cybersecurity, mobility, AI",
+     "type": "government_fund",
+     "url": "https://www.ido.om/",
      "source": ""
     }
    ],
@@ -25031,13 +25774,16 @@
    "summary": "Growing ecosystem centred on Karachi, Lahore and Islamabad; fintech, e-commerce and logistics lead. Funding fell sharply after the 2022 peak; Ignite runs a national network of incubation centres.",
    "startup_visa": "none (business visa via Board of Investment; no dedicated startup visa)",
    "company_setup": "Private limited company via SECP eServices online, typically 1-3 days and low fees; foreigners can own 100% in most sectors but foreign directors/shareholders need security clearance.",
-   "notes": "As of 2026-10-20. NIC deadlines not published; cohorts recruit on rolling basis. LUMS NEST and Indus Valley Capital sites did not resolve during checks and were left out.",
+   "notes": "As of 2026-10-20. NIC deadlines not published; cohorts recruit on rolling basis. LUMS NEST and Indus Valley Capital sites did not resolve during checks and were left out. | 2026-10-20 gap-fill: added Karandaaz Women Ventures (rolling, IC reviews on the 15th monthly), IoBM SSKIC Cohort 6 (deadline 2026-11-15) and SC Women in Tech. NIC sites still publish no dates. Indus Valley Capital and LUMS NEST domains do not resolve; lakson.vc is a parked domain.",
    "confidence": "medium",
    "sources": [
     "https://ignite.org.pk/",
     "https://nickarachi.com/",
     "https://niclahore.com/",
-    "https://nicislamabad.com/"
+    "https://nicislamabad.com/",
+    "https://incubation.iobm.edu.pk/cohort-6/",
+    "https://www.karandaaz.com.pk/innovation-investments/women-ventures",
+    "https://www.sc.com/pk/women-in-tech/"
    ],
    "researched": true,
    "grants": [
@@ -25127,6 +25873,28 @@
      "next_cohort": "unknown",
      "status": "unknown",
      "url": "https://plan9.pitb.gov.pk/"
+    },
+    {
+     "name": "SSK Incubation Centre (SSKIC), IoBM - Cohort 6",
+     "city": "Karachi",
+     "type": "university",
+     "investment": "PKR 100,000 award per startup, no equity stated",
+     "sectors": "generalist, teams of 2+",
+     "deadline": "2026-11-15",
+     "next_cohort": "unknown",
+     "status": "open",
+     "url": "https://incubation.iobm.edu.pk/cohort-6/"
+    },
+    {
+     "name": "Standard Chartered Women in Tech Pakistan",
+     "city": "Karachi",
+     "type": "corporate",
+     "investment": "grants; top 3 get PKR 5M, 3.5M, 2M",
+     "sectors": "women-led tech startups",
+     "deadline": "annual; last: 2026-04-30 (Cohort 8)",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://www.sc.com/pk/women-in-tech/"
     }
    ],
    "vcs": [
@@ -25172,6 +25940,17 @@
      "sectors": "fintech, generalist; active in Pakistan",
      "type": "vc",
      "url": "https://www.shorooq.com/",
+     "source": ""
+    },
+    {
+     "name": "Karandaaz Women Ventures",
+     "city": "Islamabad",
+     "stage": "growth",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "women-led SMEs, generalist",
+     "type": "vc",
+     "url": "https://www.karandaaz.com.pk/innovation-investments/women-ventures",
      "source": ""
     }
    ],
@@ -25410,13 +26189,14 @@
    "summary": "Regional logistics and finance hub. Ciudad del Saber (City of Knowledge) is the main incubator and accelerator, with 150+ firms incubated. SENACYT funds innovation, and regional VCs (Carao, Magma, NXTP) invest. Fintech and logistics lead.",
    "startup_visa": "none (Remote worker short-stay visa and Friendly Nations residency via Migracion: https://www.migracion.gob.pa)",
    "company_setup": "Sociedad Anonima or SRL via a Panamanian lawyer (registered agent) at the Registro Publico; can be done remotely; about 1-2 weeks.",
-   "notes": "AMPYME marked Capital Semilla 'inactive' (Oct 2026). SENACYT call listings load dynamically and could not be read. Venture Club Panama (angel pitch days) exists but its official URL was not verified.",
+   "notes": "AMPYME marked Capital Semilla 'inactive' (Oct 2026). SENACYT call listings load dynamically and could not be read. Venture Club Panama (angel pitch days) exists but its official URL was not verified. | 2026-10-20 gap-fill: Venture Club (Panama's first angel group, now a Panama-based rolling fund with per-deal SPVs) confirmed at ventureclublatam.com. SENACYT open-calls pages still load dynamically; no dated 2026-27 innovation call found.",
    "confidence": "medium",
    "sources": [
     "https://ciudaddelsaber.org",
     "https://ampyme.gob.pa",
     "https://www.senacyt.gob.pa/convocatoriassenacyt/",
-    "https://www.ellty.com/investors/panama-city-seed-investors"
+    "https://www.ellty.com/investors/panama-city-seed-investors",
+    "https://ventureclublatam.com/"
    ],
    "researched": true,
    "grants": [
@@ -25519,6 +26299,17 @@
      "sectors": "impact, agrifood, greentech",
      "type": "vc",
      "url": "https://pomonaimpact.com",
+     "source": ""
+    },
+    {
+     "name": "Venture Club Latam (formerly Venture Club Panamá)",
+     "city": "Panama City",
+     "stage": "pre-seed, seed",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "AI, SaaS, IoT, enterprise software, climate",
+     "type": "vc",
+     "url": "https://ventureclublatam.com/",
      "source": ""
     }
    ],
@@ -25683,13 +26474,16 @@
    "summary": "Small but active ecosystem in Asuncion. Public programmes include MITIC's InnovandoPY seed capital, CONACYT's PROINNOVA and incubators (INCUNA, PTI, Koga). Corporate programmes such as ueno/itti Moonshot are growing, and Paraguay Tech Week links founders to regional funds.",
    "startup_visa": "none",
    "company_setup": "S.A. or SRL; EAS (Empresa por Acciones Simplificada) can be registered online quickly; foreigners can own 100%; low territorial tax regime.",
-   "notes": "InnovandoPY 9th edition awarded 7 startups US$20k each (July 2026). No Founder Institute Paraguay programme found for 2026.",
+   "notes": "InnovandoPY 9th edition awarded 7 startups US$20k each (July 2026). No Founder Institute Paraguay programme found for 2026. | 2026-10-20 gap-fill: CONACYT convocatorias list (Oct 2026) has only science/training calls open; PROINNOVA I has ended and IDB approved PROINNOVA II in 2026, with calls not yet published. Added PARCAPY members iThink VC, AngelHub Paraguay (ex-RIAP) and Cibersons, plus LAN Accelerator.",
    "confidence": "medium",
    "sources": [
     "https://www.ultimahora.com/innovandopy-otorga-usd-140-000-en-capital-semilla-a-siete-startups-paraguayas",
     "https://incuna.una.py/bootstart/",
     "https://www.conacyt.gov.py",
-    "https://www.lanacion.com.py/negocios/2026/04/09/programa-moonshot-2026-busca-talentos-innovadores-y-ofrece-capital-semilla-de-hasta-usd-30000/"
+    "https://www.lanacion.com.py/negocios/2026/04/09/programa-moonshot-2026-busca-talentos-innovadores-y-ofrece-capital-semilla-de-hasta-usd-30000/",
+    "https://www.conacyt.gov.py/convocatorias",
+    "https://parcapy.org/",
+    "https://lanaccelerator.com/"
    ],
    "researched": true,
    "grants": [
@@ -25709,9 +26503,9 @@
      "amount": "varies",
      "amount_usd_max": "",
      "eligibility": "Paraguayan firms, EBTs and incubators",
-     "deadline": "unknown",
-     "status": "unknown",
-     "url": "https://www.conacyt.gov.py"
+     "deadline": "unknown; no PROINNOVA startup call open on CONACYT's convocatorias list as of 2026-10-20 (PROINNOVA II approved by IDB in 2026)",
+     "status": "upcoming",
+     "url": "https://www.conacyt.gov.py/proinnova"
     }
    ],
    "accelerators": [
@@ -25758,6 +26552,17 @@
      "next_cohort": "unknown",
      "status": "closed",
      "url": "https://moonshot.ueno.com.py"
+    },
+    {
+     "name": "LAN Accelerator",
+     "city": "Asunción / Santiago",
+     "type": "accelerator",
+     "investment": "accelerator that invests; BID Lab-supported",
+     "sectors": "generalist (fintech, AI, proptech, agtech, govtech)",
+     "deadline": "unknown (LAN V5 applications closed)",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://lanaccelerator.com/"
     }
    ],
    "vcs": [
@@ -25781,6 +26586,39 @@
      "sectors": "generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",
      "type": "vc",
      "url": "https://www.caraov.com",
+     "source": ""
+    },
+    {
+     "name": "iThink VC",
+     "city": "regional",
+     "stage": "pre-seed, seed",
+     "check_size": "US$100k-500k",
+     "aum": "",
+     "sectors": "generalist tech (focus Paraguay, Peru, Ecuador, Bolivia, Uruguay)",
+     "type": "vc",
+     "url": "https://www.ithink.vc/",
+     "source": ""
+    },
+    {
+     "name": "AngelHub Paraguay (formerly RIAP)",
+     "city": "Asunción",
+     "stage": "pre-seed, seed",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "generalist",
+     "type": "angel_network",
+     "url": "https://www.inversionangel.co/",
+     "source": ""
+    },
+    {
+     "name": "Cibersons",
+     "city": "Asunción",
+     "stage": "seed",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "tech",
+     "type": "vc",
+     "url": "https://www.cibersons.com/",
      "source": ""
     }
    ],
@@ -25827,6 +26665,12 @@
      "type": "other",
      "url": "https://www.caf.com",
      "note": "Regional DFI; VC fund investments and innovation programmes"
+    },
+    {
+     "name": "PARCAPY (Asociación Paraguaya de Venture Capital)",
+     "type": "startup_association",
+     "url": "https://parcapy.org/",
+     "note": "VC association; runs VC & Startups Summit (4 Aug 2026)"
     }
    ]
   },
@@ -25838,25 +26682,28 @@
    "summary": "Emerging ecosystem centred on Lima with fintech and B2B SaaS leaders (e.g. Yape, Culqi, Crehana, Kambista). Public seed funding through ProInnóvate's StartUp Perú anchors early-stage activity.",
    "startup_visa": "none (no startup visa; ProInnóvate StartUp Perú PLUG offers seed for foreign startups landing in Peru; residence via Migraciones, https://www.gob.pe/migraciones)",
    "company_setup": "Typical entity S.A.C. or S.R.L.; foreigners can incorporate via notary with a RUC from SUNAT; about 1–3 weeks and US$300–800.",
-   "notes": "gob.pe blocked automated fetching, so StartUp Perú dates come from news reports (13G closed Jan 2026; PLUG 2G for foreign startups announced Aug 2026). UTEC Ventures and Salkantaventures sites unreachable, so omitted. Local VC firms not verified. ~PEN 3.75/US$.",
+   "notes": "gob.pe blocked automated fetching, so StartUp Perú dates come from news reports (13G closed Jan 2026; PLUG 2G for foreign startups announced Aug 2026). UTEC Ventures and Salkantaventures sites unreachable, so omitted. Local VC firms not verified. ~PEN 3.75/US$. | 2026-10-20 gap-fill: startup.proinnovate.gob.pe shows all StartUp Perú concursos (Innovadores, Dinámicos, PLUG, capital de riesgo) as 'Convocatoria Cerrada'; the PLUG page's last dates are Jan-Mar 2025, so the earlier 'opened Aug 2026' note was not confirmed. Added Salkantay, Krealo, COFIDE's FCEI fund-of-funds (backs Salkantay, ALAYA and others) and iThink VC. UTEC Ventures site still unreachable.",
    "confidence": "low",
    "sources": [
     "https://www.gob.pe/proinnovate",
     "https://www.pecap.pe/",
     "https://500.co/latam",
-    "https://elperuano.pe/noticia/140781-peru-abre-sus-puertas-a-startups-extranjeras-que-busquen-iniciar-operaciones-en-el-pais"
+    "https://elperuano.pe/noticia/140781-peru-abre-sus-puertas-a-startups-extranjeras-que-busquen-iniciar-operaciones-en-el-pais",
+    "https://startup.proinnovate.gob.pe/concursos/",
+    "https://elperuano.pe/noticia/138533-cofide-fija-convenio-de-inversion",
+    "https://www.revistaeconomia.com/caf-invierte-usd-5-millones-en-fondo-de-capital-para-emprendimientos-innovadores-administrado-por-cofide/"
    ],
    "researched": true,
    "grants": [
     {
      "name": "StartUp Perú (Emprendedores Innovadores, Emprendimientos Dinámicos)",
      "agency": "ProInnóvate (PRODUCE)",
-     "amount": "up to PEN 150k non-reimbursable (up to 70%)",
+     "amount": "up to PEN 67k (Innovadores) / PEN 150k (Dinámicos) non-reimbursable",
      "amount_usd_max": 40000,
      "eligibility": "Peruvian startups with MVP/traction",
      "deadline": "last: 2026-01-16 (13G); usually annual",
      "status": "closed",
-     "url": "https://www.gob.pe/proinnovate"
+     "url": "https://startup.proinnovate.gob.pe/concursos/"
     },
     {
      "name": "StartUp Perú PLUG",
@@ -25864,9 +26711,9 @@
      "amount": "up to US$38k non-reimbursable",
      "amount_usd_max": 38000,
      "eligibility": "Foreign startups launching operations in Peru",
-     "deadline": "call opened Aug 2026; check bases",
-     "status": "unknown",
-     "url": "https://www.gob.pe/proinnovate"
+     "deadline": "last: 2025-03-25 (PLUG Cambio Climático 2G); no new call published as of 2026-10-20",
+     "status": "closed",
+     "url": "https://startup.proinnovate.gob.pe/concursos/concursos-startup-peru-plug/"
     },
     {
      "name": "COFIDE development finance",
@@ -25979,6 +26826,61 @@
      "sectors": "B2B tech",
      "type": "vc",
      "url": "https://www.nxtp.vc/",
+     "source": ""
+    },
+    {
+     "name": "Salkantay Ventures",
+     "city": "Lima",
+     "stage": "pre-seed to series A",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "edtech, healthtech, fintech, proptech, SaaS, agtech, climate",
+     "type": "vc",
+     "url": "https://www.salkantay.vc/",
+     "source": ""
+    },
+    {
+     "name": "Krealo (Credicorp CVC)",
+     "city": "Lima",
+     "stage": "multi",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "fintech, insurtech, health",
+     "type": "cvc",
+     "url": "https://www.krealo.pe/",
+     "source": ""
+    },
+    {
+     "name": "FCEI (Fondo de Capital para Emprendimientos Innovadores, COFIDE)",
+     "city": "Lima",
+     "stage": "multi",
+     "check_size": "fund-of-funds; ~US$25M fund, commits to VC funds that back Peruvian startups",
+     "aum": "",
+     "sectors": "generalist",
+     "type": "government_fund",
+     "url": "https://documentos.cofide.com.pe/wp-content/uploads/2026/02/NP-COFIDE-financiara-a-unas-85-startups-hasta-fin-de-ano.pdf",
+     "source": ""
+    },
+    {
+     "name": "ALAYA Capital",
+     "city": "Santiago / regional",
+     "stage": "seed to series A",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "tech, positive impact",
+     "type": "vc",
+     "url": "https://alaya-capital.com/",
+     "source": ""
+    },
+    {
+     "name": "iThink VC",
+     "city": "regional",
+     "stage": "pre-seed, seed",
+     "check_size": "US$100k-500k",
+     "aum": "",
+     "sectors": "generalist tech (focus Paraguay, Peru, Ecuador, Bolivia, Uruguay)",
+     "type": "vc",
+     "url": "https://www.ithink.vc/",
      "source": ""
     }
    ],
@@ -26897,12 +27799,15 @@
    "summary": "State-driven ecosystem around QSTP, Qatar Development Bank and the QIA US$1B fund-of-funds program; growing in fintech, sportstech and AI. Startup Qatar (Invest Qatar) is the one-stop portal.",
    "startup_visa": "none dedicated; Startup Qatar portal facilitates residency for founders, https://startupqatar.qa/en",
    "company_setup": "LLC via Ministry of Commerce or free-zone entity (QFC, QSTP, Qatar Free Zones); 100% foreign ownership in many sectors; 2-4 weeks.",
-   "notes": "QSTP and QDB sites block automated access; XLR8 2026 dates not published.",
+   "notes": "QSTP and QDB sites block automated access; XLR8 2026 dates not published. | 2026-10-20 gap-fill: Added Rasmal Ventures (QFC-licensed, Doha), Doha Tech Angels, Finjan Investments and Shorooq (QIA Fund of Funds manager with Doha presence; QIA FoF expanded to US$3bn in Feb 2026). QSTP XLR8 and Alchemist Doha 2026-27 deadlines still unpublished.",
    "confidence": "medium",
    "sources": [
     "https://startupqatar.qa/en",
     "https://qstp.qa/",
-    "https://www.qdb.qa/en"
+    "https://www.qdb.qa/en",
+    "https://www.rasmalventures.com/",
+    "https://dta.qa",
+    "https://qatar.websummit.com/"
    ],
    "researched": true,
    "grants": [
@@ -26982,6 +27887,50 @@
      "type": "government_fund",
      "url": "https://www.qia.qa/",
      "source": ""
+    },
+    {
+     "name": "Rasmal Ventures",
+     "city": "Doha",
+     "stage": "seed | series A",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "fintech, AI, B2B SaaS, climate tech",
+     "type": "vc",
+     "url": "https://www.rasmalventures.com/",
+     "source": ""
+    },
+    {
+     "name": "Doha Tech Angels",
+     "city": "Doha",
+     "stage": "seed",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "technology",
+     "type": "angel_network",
+     "url": "https://dta.qa",
+     "source": ""
+    },
+    {
+     "name": "Finjan Investments",
+     "city": "Doha",
+     "stage": "multi",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "technology",
+     "type": "vc",
+     "url": "https://finjan.vc",
+     "source": ""
+    },
+    {
+     "name": "Shorooq",
+     "city": "Abu Dhabi / Doha",
+     "stage": "multi",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "generalist, AI, fintech",
+     "type": "vc",
+     "url": "https://www.shorooq.com/",
+     "source": ""
     }
    ],
    "pe": [],
@@ -27003,6 +27952,12 @@
      "type": "other",
      "url": "https://www.qf.org.qa/",
      "note": "education city, research and innovation"
+    },
+    {
+     "name": "Web Summit Qatar",
+     "type": "event",
+     "url": "https://qatar.websummit.com/",
+     "note": "Doha, 31 Jan - 3 Feb 2027; startup programme"
     }
    ]
   },
@@ -31842,12 +32797,13 @@
    "summary": "Small ecosystem centred on Colombo with strong IT/BPO talent; recovering from the 2022 economic crisis. Notable startups include PickMe and Kapruka.",
    "startup_visa": "none",
    "company_setup": "Private limited company via Registrar of Companies eROC online; 100% foreign ownership allowed in most sectors; BOI registration for incentives; about 1-2 weeks.",
-   "notes": "As of 2026-10-20. Lanka Angel Network, Blue Chip Venture Capital and Startup Sri Lanka sites could not be verified and were left out; local VC activity is thin.",
+   "notes": "As of 2026-10-20. Lanka Angel Network, Blue Chip Venture Capital and Startup Sri Lanka sites could not be verified and were left out; local VC activity is thin. | 2026-10-20 gap-fill: added Lankan Angel Network (75+ members, Fund II planned). Government startup Fund of Funds (Rs 1.5bn in 2026 budget) had not launched as of Aug 2026 (Cabinet paper pending), so it is not listed. BOV Capital site shows no activity since 2018 and Venture Engine shows only its 2025 edition; both left out. Hatch publishes no dated calls.",
    "confidence": "low",
    "sources": [
     "https://www.icta.lk/",
     "https://www.hatch.lk/",
-    "https://investsrilanka.com/"
+    "https://investsrilanka.com/",
+    "https://lankanangelnetwork.com/"
    ],
    "researched": true,
    "grants": [
@@ -31875,7 +32831,19 @@
      "url": "https://www.hatch.lk/"
     }
    ],
-   "vcs": [],
+   "vcs": [
+    {
+     "name": "Lankan Angel Network",
+     "city": "Colombo",
+     "stage": "pre-seed",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "generalist",
+     "type": "angel_network",
+     "url": "https://lankanangelnetwork.com/",
+     "source": ""
+    }
+   ],
    "pe": [],
    "resources": [
     {
@@ -34723,12 +35691,15 @@
    "summary": "Pioneer of the 2018 Startup Act (label, salary support, founder leave), with Tunis as hub; strong engineering talent and exits like InstaDeep (BioNTech).",
    "startup_visa": "none dedicated; Startup Act eases hiring foreigners and FX for labelled startups",
    "company_setup": "SARL/SUARL via Registre National des Entreprises; can be done in about a week; Startup Act label gives tax and FX benefits.",
-   "notes": "Last dated label session notice found: Oct 2025.",
+   "notes": "Last dated label session notice found: Oct 2025. | 2026-10-20 gap-fill: Label submissions open 1st-8th of each month (one application per 6 months, 100 TND). Added ANAVA-backed or Tunisia-active VCs (Janngo, Sawari, Rasmal, which got US$4m from ANAVA in Sep 2025), GGJAP and The Dot. Flat6Labs' Tunisia programs (Ignite, Ebda'Y, Green4Youth) show Not Active; only GGJAP active.",
    "confidence": "medium",
    "sources": [
     "https://startup.gov.tn/",
     "https://smartcapital.tn/",
-    "https://216capital.vc/"
+    "https://216capital.vc/",
+    "https://startup.gov.tn/en/startup_act/how_to_obtain_the_label",
+    "https://flat6labs.com/Location/tunisia/",
+    "https://thedot.tn/"
    ],
    "researched": true,
    "grants": [
@@ -34738,7 +35709,7 @@
      "amount": "tax exemption, founder salary grant, FX account",
      "amount_usd_max": "",
      "eligibility": "Tunisian startups under 8 years",
-     "deadline": "periodic label sessions",
+     "deadline": "monthly sessions, 1st-8th of each month",
      "status": "rolling",
      "url": "https://startup.gov.tn/en/startup_act/how_to_obtain_the_label"
     },
@@ -34772,8 +35743,8 @@
      "sectors": "generalist",
      "deadline": "cohort-based",
      "next_cohort": "unknown",
-     "status": "unknown",
-     "url": "https://flat6labs.com/"
+     "status": "closed",
+     "url": "https://flat6labs.com/Location/tunisia/"
     },
     {
      "name": "Wiki Start Up",
@@ -34785,6 +35756,17 @@
      "next_cohort": "unknown",
      "status": "unknown",
      "url": "https://wikistartup.tn/"
+    },
+    {
+     "name": "Green Growth and Jobs Accelerator (GGJAP, Flat6Labs/UNDP)",
+     "city": "Tunis",
+     "type": "accelerator",
+     "investment": "non-financial support",
+     "sectors": "green economy",
+     "deadline": "unknown",
+     "next_cohort": "unknown",
+     "status": "unknown",
+     "url": "https://flat6labs.com/program/ggjap/"
     }
    ],
    "vcs": [
@@ -34809,6 +35791,39 @@
      "type": "government_fund",
      "url": "https://smartcapital.tn/",
      "source": ""
+    },
+    {
+     "name": "Janngo Capital",
+     "city": "Paris / Abidjan",
+     "stage": "seed | series A",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "African tech, women-led",
+     "type": "vc",
+     "url": "https://www.janngo.com/",
+     "source": ""
+    },
+    {
+     "name": "Sawari Ventures",
+     "city": "Cairo",
+     "stage": "series A",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "technology",
+     "type": "vc",
+     "url": "https://www.sawariventures.com/",
+     "source": ""
+    },
+    {
+     "name": "Rasmal Ventures",
+     "city": "Doha",
+     "stage": "seed | series A",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "fintech, B2B SaaS, healthtech, logistics",
+     "type": "vc",
+     "url": "https://www.rasmalventures.com/",
+     "source": ""
     }
    ],
    "pe": [],
@@ -34818,6 +35833,12 @@
      "type": "government_agency",
      "url": "https://startup.gov.tn/",
      "note": "Startup Act portal"
+    },
+    {
+     "name": "The Dot",
+     "type": "coworking_hub",
+     "url": "https://thedot.tn/",
+     "note": "Public-private digital innovation hub in Tunis (Dot Camp, Dot Sprint, AI Rise)"
     }
    ]
   },
@@ -39783,13 +40804,15 @@
    "summary": "Small but high-output ecosystem in Montevideo with strong software exports; dLocal is the main unicorn exit. ANII and Uruguay XXI run permanent startup support and soft-landing programs.",
    "startup_visa": "none (no startup visa; SprintUY by ANII/Uruguay XXI supports foreign startups relocating; residence is straightforward)",
    "company_setup": "Typical entity S.A.S. (since 2019), can be set up quickly online; foreigners can incorporate with a local address and RUT; about 1–3 weeks.",
-   "notes": "ANII lists eight permanent calls as of Oct 2026 but the listing does not state amounts; check each bases document. ~UYU 40/US$.",
+   "notes": "ANII lists eight permanent calls as of Oct 2026 but the listing does not state amounts; check each bases document. ~UYU 40/US$. | 2026-10-20 gap-fill: ANII's emprendimientos page still lists only permanent windows plus closed 2026 calls (SprintUy closed 2026-07-21, Catalizadores 2026-06-30, Uruguay al Mundo 2026-03-26). Local VC funds remain few; IC Ventures and Quasar Ventures (Montevideo) could not be confirmed from their own sites.",
    "confidence": "medium",
    "sources": [
     "https://anii.org.uy/apoyos/emprendimientos/",
     "https://www.anii.org.uy/upcms/files/listado-documentos/documentos/poa-2026.pdf",
     "https://ingenio.org.uy/",
-    "https://www.bigsurventures.vc/"
+    "https://www.bigsurventures.vc/",
+    "https://www.anii.org.uy/apoyos/emprendimientos/",
+    "https://www.urucap.org/"
    ],
    "researched": true,
    "grants": [
@@ -39841,7 +40864,7 @@
      "eligibility": "Foreign innovative startups",
      "deadline": "last: 2026-07-21; annual",
      "status": "closed",
-     "url": "https://anii.org.uy/apoyos/emprendimientos/"
+     "url": "https://anii.org.uy/apoyos/emprendimientos/655/sprintuy-2026"
     },
     {
      "name": "ANDE entrepreneurship and SME programs",
@@ -39852,6 +40875,16 @@
      "deadline": "call-based",
      "status": "unknown",
      "url": "https://ande.org.uy/"
+    },
+    {
+     "name": "Uruguay al Mundo",
+     "agency": "ANDE / Uruguay XXI / ANII / LATU / MIEM (Uruguay Innova)",
+     "amount": "technical and financial support for export/internationalisation",
+     "amount_usd_max": "",
+     "eligibility": "Uruguayan companies of any sector with international potential",
+     "deadline": "last: 2026-03-26",
+     "status": "closed",
+     "url": "https://anii.org.uy/apoyos/emprendimientos/554/uruguay-al-mundo"
     }
    ],
    "accelerators": [
@@ -39909,6 +40942,17 @@
      "next_cohort": "unknown",
      "status": "rolling",
      "url": "https://www.ycombinator.com/apply"
+    },
+    {
+     "name": "LAB+ (Institut Pasteur de Montevideo company builder)",
+     "city": "Montevideo",
+     "type": "venture_studio",
+     "investment": "company building and investment in science startups",
+     "sectors": "life sciences, biotech",
+     "deadline": "call-based; no open call as of 2026-10-20",
+     "next_cohort": "unknown",
+     "status": "closed",
+     "url": "https://labplus.uy/"
     }
    ],
    "vcs": [
@@ -39955,6 +40999,17 @@
      "type": "vc",
      "url": "https://www.kaszek.com/",
      "source": ""
+    },
+    {
+     "name": "iThink VC",
+     "city": "regional",
+     "stage": "pre-seed, seed",
+     "check_size": "US$100k-500k",
+     "aum": "",
+     "sectors": "generalist tech (focus Paraguay, Peru, Ecuador, Bolivia, Uruguay)",
+     "type": "vc",
+     "url": "https://www.ithink.vc/",
+     "source": ""
     }
    ],
    "pe": [],
@@ -39978,12 +41033,6 @@
      "note": "Uruguayan chamber of IT"
     },
     {
-     "name": "Uruguay Innovation Hub",
-     "type": "other",
-     "url": "https://www.uruguayinnovation.com/",
-     "note": "National innovation hub initiative"
-    },
-    {
      "name": "Zonamerica",
      "type": "coworking_hub",
      "url": "https://www.zonamerica.com/",
@@ -39994,6 +41043,12 @@
      "type": "community",
      "url": "https://uruguay.endeavor.org/",
      "note": "High-impact entrepreneur network, scale-up selection and mentoring"
+    },
+    {
+     "name": "Urucap (Asociación Uruguaya de Capital Privado)",
+     "type": "startup_association",
+     "url": "https://www.urucap.org/",
+     "note": "Private equity, VC and seed investor association"
     }
    ]
   },
@@ -40747,7 +41802,7 @@
    "summary": "Lusaka ecosystem anchored by BongoHive, with growing fintech and agritech; government CEEC provides citizen enterprise finance.",
    "startup_visa": "none; investor permits via Zambia Development Agency, https://zda.org.zm/",
    "company_setup": "Private limited company via PACRA online registration; foreigners can incorporate.",
-   "notes": "Checked 2026-10-20.",
+   "notes": "Checked 2026-10-20. | 2026-10-20 gap-fill: added NTBC. No Zambia-based VC with a working site found; Zambia Business Angel Network, Enygma Ventures and Ground Squirrel Ventures sites did not resolve. BongoHive's AI for Business Accelerator 2026 closed 24 Jul 2026; ZICTA ICT Innovation Programme 2026 reportedly closed 20 Apr 2026 (site TLS error).",
    "confidence": "medium",
    "sources": [
     "https://bongohive.co.zm/",
@@ -40887,6 +41942,12 @@
      "type": "community",
      "url": "https://abanangels.org/",
      "note": "Pan-African angel network directory"
+    },
+    {
+     "name": "National Technology Business Centre (NTBC)",
+     "type": "government_agency",
+     "url": "https://ntbc.co.zm/",
+     "note": "Runs the Technology Business Development Fund; 2026 call reportedly closed 30 Jun 2026"
     }
    ]
   },
@@ -40898,11 +41959,12 @@
    "summary": "Harare-centred ecosystem shaped by mobile money (EcoCash) and currency instability; strong technical talent and a large diaspora.",
    "startup_visa": "none; investment licence via ZIDA, https://zidainvest.com/",
    "company_setup": "Private limited company with the Companies Registry (online via ZIDA one-stop shop); currency and FX rules complicate fundraising.",
-   "notes": "Checked 2026-10-20. Currency volatility (ZiG) and FX controls. No local accelerator site could be confirmed live; zida.co.zw is a placeholder, so zidainvest.com is used.",
+   "notes": "Checked 2026-10-20. Currency volatility (ZiG) and FX controls. No local accelerator site could be confirmed live; zida.co.zw is a placeholder, so zidainvest.com is used. | 2026-10-20 gap-fill: added NVCCZ (state venture vehicle, ZiG165.3M 2026 budget allocation, also administers the Industrial Development Fund). Hypercube, Impact Hub Harare and Tech Village sites unreachable or parked.",
    "confidence": "low",
    "sources": [
     "https://zidainvest.com/",
-    "https://www.smedco.co.zw/"
+    "https://www.smedco.co.zw/",
+    "https://nvccz.com/"
    ],
    "researched": true,
    "grants": [
@@ -41004,6 +42066,17 @@
      "sectors": "financial inclusion, impact",
      "type": "vc",
      "url": "https://goodwell.nl/",
+     "source": ""
+    },
+    {
+     "name": "National Venture Capital Company of Zimbabwe (NVCCZ)",
+     "city": "Harare",
+     "stage": "multi",
+     "check_size": "unknown",
+     "aum": "",
+     "sectors": "tech, agriculture, manufacturing, energy, health, fintech",
+     "type": "government_fund",
+     "url": "https://nvccz.com/",
      "source": ""
     }
    ],

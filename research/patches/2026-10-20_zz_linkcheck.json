@@ -1,0 +1,9 @@
+[
+  {
+    "country": "Bangladesh",
+    "set": [
+      {"list": "vcs", "name": "Startup Bangladesh Limited", "fields": {"url": "", "check_size": "unknown (official site offline)"}}
+    ],
+    "notes_append": "2026-10-20 link check: startupbangladesh.vc returns 404 and startupbangladesh.gov.bd refuses connections, so Startup Bangladesh Limited is listed without a link until its site is back."
+  }
+]
