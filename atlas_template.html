@@ -19,7 +19,7 @@
   --nodata: #f2f5f9;
   /* every distinction is a different shade of blue on white */
   --c0: #edf1f7; --c1: #dbe7ff; --c2: #bcd3ff; --c3: #93b8fd; --c4: #6b9bf8; --c5: #4a7ff0; --c6: #2f63e0; --c7: #1d4ac0; --c8: #0f2f86;
-  --k-grant: #0891b2; --k-acc: #1d4ed8; --k-vc: #0b2a6f; --k-res: #6366f1; --k-global: #0ea5e9; --k-pe: #075985;
+  --k-grant: #0891b2; --k-acc: #1d4ed8; --k-vc: #0b2a6f; --k-res: #6366f1; --k-global: #0ea5e9; --k-pe: #075985; --k-uni: #3b82f6;
   --tier-hub: #0b2a6f; --tier-est: #1d4ed8; --tier-emg: #4f8ef7; --tier-nas: #93b8fd;
   --u-now: #0b2a6f; --u-soon: #1d4ed8; --u-mid: #4f8ef7; --u-later: #7aa7f8; --u-roll: #6366f1; --u-none: #94a0b8;
   --cf-high: #1d4ed8; --cf-med: #4f8ef7; --cf-low: #94a0b8;
@@ -133,7 +133,7 @@ tr.row.sel td { background: var(--accent-soft); }
 .d-closed, .d-unknown { --x: var(--u-none); }
 .cf-high { --x: var(--cf-high); } .cf-medium { --x: var(--cf-med); } .cf-low { --x: var(--cf-low); }
 .k-grant, .k-grants { --x: var(--k-grant); } .k-accelerator, .k-accelerators { --x: var(--k-acc); }
-.k-vcs { --x: var(--k-vc); } .k-pe { --x: var(--k-pe); } .k-resources { --x: var(--k-res); } .k-global { --x: var(--k-global); }
+.k-vcs { --x: var(--k-vc); } .k-pe { --x: var(--k-pe); } .k-uni { --x: var(--k-uni); } .k-resources { --x: var(--k-res); } .k-global { --x: var(--k-global); }
 td.num.k-accelerators, td.num.k-vcs, td.num.k-pe, td.num.k-grants { color: color-mix(in srgb, var(--x) 80%, var(--ink)); font-weight: 500; }
 td.num.zero { color: var(--muted); font-weight: 400; }
 th .dot { margin-right: 4px; }
@@ -249,6 +249,7 @@ th .dot { margin-right: 4px; }
                 <option value="accelerators">Accelerators</option>
                 <option value="vcs">VCs &amp; investors</option>
                 <option value="pe">Private equity</option>
+                <option value="uni">University programs</option>
                 <option value="grants">Government grants</option>
                 <option value="open">Upcoming deadlines</option>
                 <option value="visa">Startup visa</option>
@@ -272,6 +273,7 @@ th .dot { margin-right: 4px; }
                 <option value="accelerators">Most accelerators</option>
                 <option value="vcs">Most VCs</option>
                 <option value="pe">Most private equity firms</option>
+                <option value="uni">Most university programs</option>
                 <option value="grants">Most grants</option>
                 <option value="az">A–Z</option>
               </select>
@@ -328,7 +330,7 @@ th .dot { margin-right: 4px; }
         <label class="field grow"><span class="label">Search</span><input id="bq" type="search" placeholder="Name, city, sector…" autocomplete="off"></label>
         <label class="field"><span class="label">Show</span><select id="bkind">
           <option value="accelerators">Accelerators</option><option value="vcs">VCs &amp; investors</option>
-          <option value="pe">Private equity</option><option value="grants">Grants</option></select></label>
+          <option value="pe">Private equity</option><option value="uni">University programs</option><option value="grants">Grants</option></select></label>
         <label class="field"><span class="label">Region</span><select id="bregion"><option value="">All regions</option></select></label>
         <label class="field"><span class="label">Sort</span><select id="bsort"><option value="country">Country</option><option value="name">Name</option><option value="deadline">Deadline</option></select></label>
       </div>
@@ -377,9 +379,9 @@ const TIER_LABEL = { global_hub: "Global hub", established: "Established", emerg
 const REGION_VAR = { "Central Asia & Caucasus": "--rg-cac", "East Asia": "--rg-eas", "Europe": "--rg-eur", "Latin America & Caribbean": "--rg-lac",
   "Middle East & North Africa": "--rg-mena", "North America": "--rg-nam", "Oceania": "--rg-oce", "South Asia": "--rg-sas", "Southeast Asia": "--rg-sea", "Sub-Saharan Africa": "--rg-ssa" };
 const TIER_VAR = { global_hub: "--tier-hub", established: "--tier-est", emerging: "--tier-emg", nascent: "--tier-nas" };
-const HAS_VAR = { visa: "--c3", open: "--u-soon", accelerators: "--k-acc", vcs: "--k-vc", pe: "--k-pe", grants: "--k-grant" };
+const HAS_VAR = { visa: "--c3", open: "--u-soon", accelerators: "--k-acc", vcs: "--k-vc", pe: "--k-pe", uni: "--k-uni", grants: "--k-grant" };
 const rdot = r => `<span class="dot" style="--x:var(${REGION_VAR[r] || "--u-none"})"></span>`;
-const HAS = { visa: "Startup visa", open: "Upcoming deadline", accelerators: "Accelerators", vcs: "Local VCs", pe: "Private equity", grants: "Grants" };
+const HAS = { visa: "Startup visa", open: "Upcoming deadline", accelerators: "Accelerators", vcs: "Local VCs", pe: "Private equity", uni: "University programs", grants: "Grants" };
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : null;
@@ -414,7 +416,8 @@ function dueChip(item) {
 const REGIONS = [...new Set(DATA.map(d => d.region))].sort();
 for (const d of DATA) {
   d.slug = slug(d.country);
-  d.n = { accelerators: d.accelerators.length, vcs: d.vcs.length, pe: d.pe.length, grants: d.grants.length, resources: d.resources.length };
+  d.n = { accelerators: d.accelerators.length, vcs: d.vcs.length, pe: d.pe.length, grants: d.grants.length, resources: d.resources.length,
+    uni: d.accelerators.filter(x => x.type === "university").length };
   d.total = d.n.accelerators + d.n.vcs + d.n.pe + d.n.grants + d.n.resources;
   const dated = [...d.accelerators.map(x => ({ ...x, kind: "accelerator" })), ...d.grants.map(x => ({ ...x, kind: "grant" }))]
     .map(x => ({ ...x, due: parseDue(x.deadline) })).filter(x => x.due && x.due >= TODAY).sort((a, b) => a.due - b.due);
@@ -422,7 +425,7 @@ for (const d of DATA) {
   d.nOpen = dated.length;
   d.next = dated[0] || null;
   d.hasVisa = !!d.startup_visa && !/^(none|no\b|n\/a|not )/i.test(d.startup_visa.trim());
-  d.hay = [d.country, d.summary, ...["grants", "accelerators", "vcs", "pe", "resources"].flatMap(k => d[k].map(x => x.name + " " + (x.sectors || "") + " " + (x.agency || "")))].join(" ").toLowerCase();
+  d.hay = [d.country, d.summary, ...["grants", "accelerators", "vcs", "pe", "resources"].flatMap(k => d[k].map(x => x.name + " " + (x.sectors || "") + " " + (x.agency || "") + " " + (x.university || "")))].join(" ").toLowerCase();
 }
 const byName = new Map(DATA.map(d => [d.country, d]));
 const bySlug = new Map(DATA.map(d => [d.slug, d]));
@@ -440,7 +443,7 @@ function match(d, skip) {
   if (skip !== "has") for (const h of S.has) {
     if (h === "visa" && !d.hasVisa) return false;
     if (h === "open" && !d.nOpen) return false;
-    if (["accelerators", "vcs", "pe", "grants"].includes(h) && !d.n[h]) return false;
+    if (["accelerators", "vcs", "pe", "uni", "grants"].includes(h) && !d.n[h]) return false;
   }
   if (S.q && !d.hay.includes(S.q)) return false;
   return true;
@@ -553,6 +556,7 @@ function ranked() {
     accelerators: (a, b) => b.n.accelerators - a.n.accelerators,
     vcs: (a, b) => b.n.vcs - a.n.vcs,
     pe: (a, b) => b.n.pe - a.n.pe,
+    uni: (a, b) => b.n.uni - a.n.uni,
     grants: (a, b) => b.n.grants - a.n.grants,
     az: () => 0
   }[k];
@@ -580,8 +584,10 @@ function itemHTML(kind, x) {
   const kv = (k, v) => v && v !== "unknown" ? `<span class="kv"><b>${k}</b> ${esc(v)}</span>` : "";
   if (kind === "grants") return `<div class="item k-grants"><div class="ih">${link(x.url, x.name)}${dueChip(x)}</div>
     <span class="sub">${esc(x.agency || "")}</span>${kv("Amount", x.amount)}${kv("Who", x.eligibility)}</div>`;
-  if (kind === "accelerators") return `<div class="item k-accelerators"><div class="ih">${link(x.url, x.name)}${dueChip(x)}</div>
-    <span class="sub">${esc([x.city, (x.type || "").replace(/_/g, " "), x.sectors].filter(Boolean).join(" · "))}</span>${kv("Offer", x.investment)}${kv("Next cohort", x.next_cohort)}</div>`;
+  if (kind === "accelerators") return `<div class="item k-${x.type === "university" ? "uni" : "accelerators"}"><div class="ih">${link(x.url, x.name)}${dueChip(x)}</div>
+    <span class="sub">${esc(x.type === "university"
+      ? [x.university, x.qs_rank ? "QS #" + x.qs_rank : "", (x.kind || "").replace(/_/g, " "), x.city].filter(Boolean).join(" · ")
+      : [x.city, (x.type || "").replace(/_/g, " "), x.sectors].filter(Boolean).join(" · "))}</span>${x.type === "university" ? kv("For", x.who) : ""}${kv("Offer", x.investment)}${kv("Next cohort", x.next_cohort)}</div>`;
   if (kind === "vcs") return `<div class="item k-vcs"><div class="ih">${link(x.url, x.name)}<span class="note">${esc((x.type || "").replace(/_/g, " "))}</span></div>
     <span class="sub">${esc([x.city, x.stage, x.sectors].filter(Boolean).join(" · "))}</span>${kv("Cheque", x.check_size)}${kv("Assets", x.aum)}${x.source ? `<span class="note">Listed on Wikipedia</span>` : ""}</div>`;
   if (kind === "pe") return `<div class="item k-pe"><div class="ih">${link(x.url, x.name)}<span class="note">private equity</span></div>
@@ -725,6 +731,7 @@ function renderStrip() {
   const soon = LEDGER_ROWS.filter(r => r.due && r.due >= TODAY && daysTo(r.due) <= 30).length;
   $("#strip").innerHTML = [[DATA.length, "countries", "countries", "See the country list"], [tot("accelerators"), "accelerators", "accelerators", "List every accelerator"],
     [tot("vcs"), "investors", "investors", "List every VC and investor"], [tot("pe"), "private equity", "private-equity", "List every private equity firm"],
+    [tot("uni"), "university programs", "university-programs", "List every university accelerator and incubator"],
     [tot("grants"), "grants", "grants", "List every grant"], [GLOBAL.accelerators.length, "global programs", "global", "Open global programs"],
     [soon, "deadlines in the next 30 days", "deadlines-30", "Deadlines closing in the next 30 days"]]
     .map(([n, k, go, t]) => `<button type="button" class="stat" data-stat="${go}" title="${t}"><span class="n">${n.toLocaleString("en")}</span><span class="k">${k}</span></button>`).join("") +
@@ -742,6 +749,9 @@ const BROWSE = {
   pe: { title: "Private equity", token: "private-equity", intro: "Every private equity firm in the atlas, from Wikipedia's List of private equity firms.",
     cols: ["Firm", "Country", "City", "Founded", "Assets or capital raised"],
     row: (x, c) => [link(x.url, x.name), cl(c), esc(x.city || ""), esc(x.founded || ""), esc(x.aum || "")] },
+  uni: { title: "University programs", token: "university-programs", intro: "Accelerators, incubators, venture funds and competitions run by universities, ordered by country. QS shows the university's QS World University Rankings 2026 position.",
+    cols: ["Program", "University", "Country", "Offer", "Deadline"],
+    row: (x, c) => [link(x.url, x.university ? x.name.replace(` (${x.university})`, "") : x.name), esc([x.university, x.qs_rank ? "QS #" + x.qs_rank : ""].filter(Boolean).join(" · ")), cl(c), esc(x.investment || ""), dueChip(x)] },
   grants: { title: "Government grants", token: "grants", intro: "Every government grant, loan scheme and innovation program in the atlas, by country.",
     cols: ["Grant", "Country", "Agency", "Amount", "Deadline"],
     row: (x, c) => [link(x.url, x.name), cl(c), esc(x.agency || ""), esc(x.amount || ""), dueChip(x)] },
@@ -752,15 +762,16 @@ $("#bregion").innerHTML += REGIONS.map(r => `<option>${esc(r)}</option>`).join("
 function renderBrowse() {
   const kind = $("#bkind").value, B = BROWSE[kind];
   const q = $("#bq").value.trim().toLowerCase(), reg = $("#bregion").value, sort = $("#bsort").value;
-  let rows = DATA.flatMap(c => c[kind].map(x => ({ x, c })))
+  const itemsOf = c => kind === "uni" ? c.accelerators.filter(x => x.type === "university") : c[kind];
+  let rows = DATA.flatMap(c => itemsOf(c).map(x => ({ x, c })))
     .filter(r => (!reg || r.c.region === reg) && (!q || [r.c.country, ...Object.values(r.x)].join(" ").toLowerCase().includes(q)));
-  const total = DATA.reduce((s, c) => s + c[kind].length, 0);
+  const total = DATA.reduce((s, c) => s + itemsOf(c).length, 0);
   rows.sort(sort === "name" ? (a, b) => a.x.name.localeCompare(b.x.name)
     : sort === "deadline" ? (a, b) => (parseDue(a.x.deadline) || 9e15) - (parseDue(b.x.deadline) || 9e15) || a.x.name.localeCompare(b.x.name)
     : (a, b) => a.c.country.localeCompare(b.c.country) || a.x.name.localeCompare(b.x.name));
   $("#btitle").textContent = B.title;
   $("#bintro").textContent = B.intro;
-  $("#bsort").querySelector('[value="deadline"]').hidden = !(kind === "accelerators" || kind === "grants");
+  $("#bsort").querySelector('[value="deadline"]').hidden = !(kind === "accelerators" || kind === "grants" || kind === "uni");
   if ($("#bsort").value === "deadline" && $("#bsort").querySelector('[value="deadline"]').hidden) $("#bsort").value = "country";
   $("#bhead").innerHTML = `<tr>${B.cols.map((h, i) => `<th${i > 1 && i < 4 ? ' class="hide-sm"' : ""}>${esc(h)}</th>`).join("")}</tr>`;
   $("#blist").innerHTML = rows.map(r => `<tr>${B.row(r.x, r.c).map((v, i) => `<td${i > 1 && i < 4 ? ' class="hide-sm"' : ""}>${v}</td>`).join("")}</tr>`).join("")
@@ -770,7 +781,7 @@ function renderBrowse() {
 ["#bq", "#bkind", "#bregion", "#bsort"].forEach(s => $(s).addEventListener("input", () => { renderBrowse(); markStat(); if (!$("#v-browse").hidden) try { history.replaceState(null, "", "#" + BROWSE[$("#bkind").value].token); } catch {} }));
 function openBrowse(kind) {
   $("#bkind").value = kind; $("#bq").value = ""; $("#bregion").value = "";
-  $("#bsort").value = kind === "accelerators" || kind === "grants" ? "deadline" : "country";
+  $("#bsort").value = kind === "accelerators" || kind === "grants" || kind === "uni" ? "deadline" : "country";
   renderBrowse(); show("browse");
   try { history.replaceState(null, "", "#" + BROWSE[kind].token); } catch {}
 }

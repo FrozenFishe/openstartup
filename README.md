@@ -4,15 +4,16 @@
 
 ### Every startup accelerator, VC, government grant and founder resource, for every country, on one map, with application deadlines.
 
-**202 countries · 786 accelerators · 1,157 VCs · 207 private equity firms · 664 grants · 1,174 local resources · 100 global programs · 77 databases · deadlines checked 20 October 2026**
+**202 countries · 2,029 accelerators (incl. 1,308 university programs) · 1,157 VCs · 207 private equity firms · 664 grants · 1,174 local resources · 100 global programs · 77 databases · deadlines checked 20 October 2026**
 
 [![Live atlas](https://img.shields.io/badge/🗺️_live_atlas-open_the_map-1d4ed8?style=for-the-badge)](https://openstartup-qz7.pages.dev/)
 [![Download Excel](https://img.shields.io/badge/📗_workbook-Excel-217346?style=for-the-badge)](https://openstartup-qz7.pages.dev/data/openstartup.xlsx)
 [![Download JSON](https://img.shields.io/badge/🧾_data-JSON-555?style=for-the-badge)](https://openstartup-qz7.pages.dev/data/openstartup.json)
 
 [![Countries](https://img.shields.io/badge/countries-202-0b2a6f)](#-at-a-glance)
-[![Accelerators](https://img.shields.io/badge/accelerators-786-1d4ed8)](#-at-a-glance)
+[![Accelerators](https://img.shields.io/badge/accelerators-2029-1d4ed8)](#-at-a-glance)
 [![Investors](https://img.shields.io/badge/VCs-1157-2f63e0)](#-at-a-glance)
+[![University programs](https://img.shields.io/badge/university_programs-1308-3b82f6)](#-what-you-can-do)
 [![Private equity](https://img.shields.io/badge/private_equity-207-075985)](#-at-a-glance)
 [![Grants](https://img.shields.io/badge/grants-664-4a7ff0)](#-at-a-glance)
 [![Deadlines in 30 days](https://img.shields.io/badge/deadlines_next_30_days-52-1d4ed8)](#-closing-soon)
@@ -40,6 +41,7 @@
 | 📅 | **Deadline ledger** | Every dated application call in the atlas (country accelerators and grants plus global programs), soonest first, grouped by month. Window: 30 days, 90 days, 12 months, all dated, or rolling only. A program listed for many countries (EIC Accelerator, YC, Techstars) shows once with every country named. |
 | 📄 | **Country dossier** | Ecosystem summary, startup visa, how to set up the company, caveats, upcoming deadlines, then tabs for grants, accelerators, VCs, private equity and resources, each with its deadline badge and official link, plus sources. |
 | 🌍 | **Global programs** | 100 accelerators, fellowships, competitions and perks open to founders anywhere: YC, Techstars, a16z speedrun, Antler, EF, Google for Startups, the EIC Accelerator, Thiel, Emergent Ventures, cloud credits and more. |
+| 🎓 | **University programs** | 1,308 accelerators, incubators, venture funds, fellowships and pitch competitions at 309 universities in 83 countries: every Australian university we could find (UNSW Founders, INCUBATE at the University of Sydney, MAP, UQ Ventures…), the QS top 200 in the US and Canada (MIT, Harvard's i-lab and OTD accelerators, StartX at Stanford, SkyDeck…), and leading universities across Europe, Asia, the Middle East, Africa and Latin America. Each shows the university, its QS World University Rankings 2026 position where verified, who can apply and the next deadline. Click the figure at the top or use [`#university-programs`](https://openstartup-qz7.pages.dev/#university-programs). |
 | 🏦 | **Private equity** | A separate list of 207 private equity firms in 28 countries from Wikipedia's [List of private equity firms](https://en.wikipedia.org/wiki/List_of_private_equity_firms), with headquarters, founding year and assets or five-year fundraising (PEI 300) where Wikipedia gives them. It has its own dossier tab, list column, filter and map view. |
 | 🧰 | **Databases** | 77 cross-border tools: OpenVC, Airtree's open-source lists, Crunchbase, Dealroom, Signal, Grants.gov, the EU Funding & Tenders portal, Stripe Atlas, e-Residency, and others. |
 | 🎛️ | **Stackable filters** | Region, ecosystem tier, and must-haves (startup visa, upcoming deadline, accelerators, local VCs, grants) with live counts, plus free-text search across every program and fund name. |
@@ -128,7 +130,7 @@ All files are in [`data/`](data/) and served from the live site under `/data/`.
 | File | Rows | What it holds |
 |---|---:|---|
 | `countries.csv` | 202 | Region, ecosystem tier, counts, startup visa, company setup, summary, caveats, confidence, sources |
-| `accelerators.csv` | 786 | Name, city, type, investment terms, sectors, **deadline**, next cohort, status, URL |
+| `accelerators.csv` | 2,029 | Name, city, type, investment terms, sectors, **deadline**, next cohort, status, URL; university programs also carry university, kind, who can apply and QS rank |
 | `vcs.csv` | 1,157 | Name, city, stage, cheque size, assets under management, sectors, type (VC, CVC, angel network, government fund, venture debt), URL, source |
 | `pe.csv` | 207 | Private equity firms: name, city, assets or capital raised, founding year, URL, source |
 | `grants.csv` | 664 | Name, agency, amount, max in US$, eligibility, **deadline**, status, URL |
@@ -151,6 +153,7 @@ All files are in [`data/`](data/) and served from the live site under `/data/`.
 | 3️⃣ Global layer | One agent covered cross-border programs and databases (`research/global/`) |
 | 4️⃣ Merge & validate | `build.py` drops entries without names, rejects malformed URLs, removes duplicates, and lists problems in `research/build_problems.txt` |
 | 5️⃣ Wikipedia lists | Firms on Wikipedia's [venture capital](https://en.wikipedia.org/wiki/List_of_venture_capital_firms) and [private equity](https://en.wikipedia.org/wiki/List_of_private_equity_firms) lists that were not already in the atlas were added to their home country (`research/wikipedia/`). Websites come from Wikidata or the article infobox; firms marked defunct, without a website, or whose site failed a live check were left out and are listed under `skipped`. A firm on both lists stays under VCs. |
+| 🎓 University programs | Five agents covered the QS top universities by region (`research/universities/`, schema in its `SCHEMA.md`), opening each program page. QS ranks are kept only where read on a QS page; others are blank. Dates whose page gave no year are marked "year inferred". |
 | 6️⃣ Gap-fill | A second pass on 36 thin emerging ecosystems (Gulf states, Jordan, Lebanon, Tunisia, Morocco, Cyprus, Malta, Hungary, the Baltics, the Caucasus, Bangladesh, Pakistan, Sri Lanka, Peru, Uruguay, Paraguay, Guatemala and others), written as patches in [`research/patches/`](research/patches/) that `build.py` applies on top of the first pass. |
 | 7️⃣ Link check | `check_links.py` opens all 3,000+ URLs; dead links are fixed or removed, and the results are in `research/link_report.json`. |
 | 8️⃣ Spot checks | Conflicts between agents checked against the official page (e.g. a16z speedrun SR008: 1 Nov 2026) |
@@ -202,7 +205,8 @@ openstartup/
     ├── SCHEMA.md · batches.json
     ├── countries/b01…b15_*.json   # per-region research
     ├── global/                    # accelerators.json, resources.json
-    └── wikipedia/                 # vcs.json, pe.json from Wikipedia's firm lists
+    ├── wikipedia/                 # vcs.json, pe.json from Wikipedia's firm lists
+    └── universities/              # university accelerators by region
 ```
 
 ---

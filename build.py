@@ -6,6 +6,7 @@ research/global/accelerators.json, research/global/resources.json
 research/wikipedia/vcs.json  (Wikipedia's List of venture capital firms, extra investors per country)
 research/wikipedia/pe.json   (Wikipedia's List of private equity firms, a separate "pe" list per country)
 research/patches/*.json      (later corrections and additions, see research/patches/README.md)
+research/universities/*.json (university accelerators, incubators and funds, see research/universities/SCHEMA.md)
         |
         v
 data/*.csv, data/openstartup.json, data/openstartup.xlsx
@@ -59,7 +60,8 @@ TIERS = {"global_hub", "established", "emerging", "nascent"}
 LISTS = ("grants", "accelerators", "vcs", "pe", "resources")
 FIELDS = {
     "grants": ["name", "agency", "amount", "amount_usd_max", "eligibility", "deadline", "status", "url"],
-    "accelerators": ["name", "city", "type", "investment", "sectors", "deadline", "next_cohort", "status", "url"],
+    "accelerators": ["name", "city", "type", "investment", "sectors", "deadline", "next_cohort", "status", "url",
+                     "university", "kind", "who", "qs_rank"],
     "vcs": ["name", "city", "stage", "check_size", "aum", "sectors", "type", "url", "source"],
     "pe": ["name", "city", "aum", "founded", "url", "source"],
     "resources": ["name", "type", "url", "note"],
@@ -153,6 +155,30 @@ def apply_patches(got, problems):
             r["sources"] = (r.get("sources") or []) + [u for u in pt.get("sources") or [] if u not in (r.get("sources") or [])]
 
 
+def load_universities(problems, countries):
+    """Country -> university programs, shaped like accelerator entries (type "university")."""
+    out = {}
+    for f in sorted((RESEARCH / "universities").glob("*.json")):
+        try:
+            rows = json.loads(f.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as e:
+            problems.append(f"universities/{f.name}: invalid JSON ({e}); skipped")
+            continue
+        for x in rows:
+            c = clean(x.get("country"))
+            if c not in countries:
+                problems.append(f"universities/{f.name}: unknown country {c!r} for {x.get('name')!r}")
+                continue
+            uni = clean(x.get("university"))
+            name = clean(x.get("name"))
+            out.setdefault(c, []).append({
+                "name": name if uni.lower() in name.lower() else f"{name} ({uni})" if uni else name,
+                "city": x.get("city"), "type": "university", "investment": x.get("investment"), "sectors": x.get("sectors"),
+                "deadline": x.get("deadline"), "next_cohort": x.get("next_cohort"), "status": x.get("status"), "url": x.get("url"),
+                "university": uni, "kind": x.get("kind"), "who": x.get("who"), "qs_rank": x.get("qs_rank")})
+    return out
+
+
 def load_countries(problems):
     wiki = {k: load_wikipedia(k) for k in ("vcs", "pe")}
     batches = json.loads((RESEARCH / "batches.json").read_text(encoding="utf-8"))
@@ -171,6 +197,7 @@ def load_countries(problems):
                 continue
             got[name] = r
     apply_patches(got, problems)
+    unis = load_universities(problems, want)
     out = []
     for name, batch in want.items():
         r = got.get(name)
@@ -192,6 +219,10 @@ def load_countries(problems):
             items = [tidy(x, FIELDS[k], problems, f"{name}/{k}") for x in (r.get(k) or []) if isinstance(x, dict)]
             if k in wiki:  # research entries first, then Wikipedia firms not already listed
                 items += [tidy(x, FIELDS[k], problems, f"{name}/wikipedia-{k}") for x in wiki[k].get(name, [])]
+            if k == "accelerators":  # university programs, skipping any the country research already lists
+                have = {re.sub(r"\W+", "", x["name"].lower()) for x in items if x}
+                items += [u for u in (tidy(x, FIELDS[k], problems, f"{name}/universities") for x in unis.get(name, []))
+                          if u and re.sub(r"\W+", "", u["name"].lower()) not in have]
             d[k] = dedupe([x for x in items if x])
         out.append(d)
     return sorted(out, key=lambda d: d["country"])
