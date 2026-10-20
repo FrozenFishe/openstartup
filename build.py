@@ -7,6 +7,7 @@ research/wikipedia/vcs.json  (Wikipedia's List of venture capital firms, extra i
 research/wikipedia/pe.json   (Wikipedia's List of private equity firms, a separate "pe" list per country)
 research/patches/*.json      (later corrections and additions, see research/patches/README.md)
 research/universities/*.json (university accelerators, incubators and funds, see research/universities/SCHEMA.md)
+research/visas/*.json        (startup and founder visas, see research/visas/SCHEMA.md)
         |
         v
 data/*.csv, data/openstartup.json, data/openstartup.xlsx
@@ -69,6 +70,9 @@ FIELDS = {
 G_ACC = ["name", "organizer", "type", "locations", "countries_eligible", "investment", "equity", "sectors",
          "deadline", "deadline_note", "next_cohort", "status", "url"]
 G_RES = ["name", "category", "coverage", "free", "url", "note"]
+G_VISA = ["country", "name", "type", "status", "for", "endorsement", "min_investment", "duration", "renewal", "pr_path",
+          "family", "processing", "gov_fee", "url", "verified", "notes"]
+VISA_TYPES = {"startup_visa", "entrepreneur_visa", "talent_visa", "investor_visa", "digital_nomad"}
 URL_RE = re.compile(r"^https?://[^\s/$.?#].[^\s]*$", re.I)
 
 
@@ -228,6 +232,28 @@ def load_countries(problems):
     return sorted(out, key=lambda d: d["country"])
 
 
+def load_visas(problems, countries):
+    """All founder visa routes, validated against the country list."""
+    out = []
+    for f in sorted((RESEARCH / "visas").glob("*.json")):
+        try:
+            rows = json.loads(f.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as e:
+            problems.append(f"visas/{f.name}: invalid JSON ({e}); skipped")
+            continue
+        for x in rows:
+            v = tidy(x, G_VISA, problems, f"visas/{f.name}")
+            if not v:
+                continue
+            if v["country"] not in countries:
+                problems.append(f"visas/{f.name}: unknown country {v['country']!r}")
+                continue
+            if v["type"] not in VISA_TYPES:
+                problems.append(f"visas/{f.name}: {v['country']} {v['name']!r}: unknown type {v['type']!r}")
+            out.append(v)
+    return sorted(dedupe(out), key=lambda v: (v["country"], v["name"]))
+
+
 def load_global(problems):
     res = {}
     for key, fields in (("accelerators", G_ACC), ("resources", G_RES)):
@@ -268,7 +294,8 @@ def write_data(countries, glob):
         files.append(f"{k}.csv")
     write_csv(DATA / "global_programs.csv", G_ACC, [[x[f] for f in G_ACC] for x in glob["accelerators"]])
     write_csv(DATA / "global_resources.csv", G_RES, [[x[f] for f in G_RES] for x in glob["resources"]])
-    files += ["global_programs.csv", "global_resources.csv"]
+    write_csv(DATA / "visas.csv", G_VISA, [[x[f] for f in G_VISA] for x in glob["visas"]])
+    files += ["global_programs.csv", "global_resources.csv", "visas.csv"]
     (DATA / "openstartup.json").write_text(json.dumps({"built": TODAY, "countries": countries, "global": glob},
                                                       ensure_ascii=False, indent=1), encoding="utf-8")
     files.append("openstartup.json")
@@ -323,6 +350,7 @@ def write_xlsx(countries, glob):
               [[d["country"], *(x[f] for f in FIELDS[k])] for d in countries for x in d[k]], wide)
     sheet("Global programs", G_ACC, [[x[f] for f in G_ACC] for x in glob["accelerators"]], wide)
     sheet("Databases", G_RES, [[x[f] for f in G_RES] for x in glob["resources"]], wide)
+    sheet("Startup visas", G_VISA, [[x[f] for f in G_VISA] for x in glob["visas"]], {**wide, "for": 40, "notes": 50, "renewal": 30})
     wb.save(DATA / "openstartup.xlsx")
     return True
 
@@ -361,6 +389,7 @@ def main():
     problems = []
     countries = load_countries(problems)
     glob = load_global(problems)
+    glob["visas"] = load_visas(problems, {d["country"] for d in countries})
     files = write_data(countries, glob)
     build_page(countries, glob, files)
     done = sum(d["researched"] for d in countries)

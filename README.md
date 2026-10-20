@@ -41,6 +41,7 @@
 | 📅 | **Deadline ledger** | Every dated application call in the atlas (country accelerators and grants plus global programs), soonest first, grouped by month. Window: 30 days, 90 days, 12 months, all dated, or rolling only. A program listed for many countries (EIC Accelerator, YC, Techstars) shows once with every country named. |
 | 📄 | **Country dossier** | Ecosystem summary, startup visa, how to set up the company, caveats, upcoming deadlines, then tabs for grants, accelerators, VCs, private equity and resources, each with its deadline badge and official link, plus sources. |
 | 🌍 | **Global programs** | 100 accelerators, fellowships, competitions and perks open to founders anywhere: YC, Techstars, a16z speedrun, Antler, EF, Google for Startups, the EIC Accelerator, Thiel, Emergent Ventures, cloud credits and more. |
+| 🛂 | **Startup visas** | A comparison of 87 founder visa routes in 61 countries: 30 countries with an open startup visa and 60 with any open founder route. Dedicated startup visas (UK Innovator Founder, Netherlands, Estonia, Ireland STEP, Japan, Singapore EntrePass, Thailand SMART-S…), entrepreneur and self-employment permits, talent and golden visas, investor visas and digital-nomad permits, each with who it's for, endorsement, money needed, length, path to permanent residence, family, fee, processing time and the government's own page. Filter by type, status, region, no minimum investment, permanent residence or family. Paused and closed routes (Canada's Start-up Visa, Australia's BIIP, New Zealand's Entrepreneur Work Visa) stay listed. The map's **Founder visas** view grades every country. Open it with [`#visas`](https://openstartup-qz7.pages.dev/#visas). |
 | 🎓 | **University programs** | 1,308 accelerators, incubators, venture funds, fellowships and pitch competitions at 309 universities in 83 countries: every Australian university we could find (UNSW Founders, INCUBATE at the University of Sydney, MAP, UQ Ventures…), the QS top 200 in the US and Canada (MIT, Harvard's i-lab and OTD accelerators, StartX at Stanford, SkyDeck…), and leading universities across Europe, Asia, the Middle East, Africa and Latin America. Each shows the university, its QS World University Rankings 2026 position where verified, who can apply and the next deadline. Click the figure at the top or use [`#university-programs`](https://openstartup-qz7.pages.dev/#university-programs). |
 | 🏦 | **Private equity** | A separate list of 207 private equity firms in 28 countries from Wikipedia's [List of private equity firms](https://en.wikipedia.org/wiki/List_of_private_equity_firms), with headquarters, founding year and assets or five-year fundraising (PEI 300) where Wikipedia gives them. It has its own dossier tab, list column, filter and map view. |
 | 🧰 | **Databases** | 77 cross-border tools: OpenVC, Airtree's open-source lists, Crunchbase, Dealroom, Signal, Grants.gov, the EU Funding & Tenders portal, Stripe Atlas, e-Residency, and others. |
@@ -135,6 +136,7 @@ All files are in [`data/`](data/) and served from the live site under `/data/`.
 | `pe.csv` | 207 | Private equity firms: name, city, assets or capital raised, founding year, URL, source |
 | `grants.csv` | 664 | Name, agency, amount, max in US$, eligibility, **deadline**, status, URL |
 | `resources.csv` | 1,174 | Agencies, startup associations, hubs, communities, events, legal and tax help |
+| `visas.csv` | 87 | Founder visa routes: country, name, type, status, who it's for, endorsement, money needed, length, renewal, path to permanent residence, family, processing, fee, URL, verified date, notes |
 | `global_programs.csv` | 100 | Cross-border accelerators, fellowships, competitions and perks with deadlines |
 | `global_resources.csv` | 77 | Cross-border investor databases, grant finders, ecosystem reports, incorporation services |
 | `openstartup.json` | | Everything above in one file |
@@ -154,6 +156,7 @@ All files are in [`data/`](data/) and served from the live site under `/data/`.
 | 4️⃣ Merge & validate | `build.py` drops entries without names, rejects malformed URLs, removes duplicates, and lists problems in `research/build_problems.txt` |
 | 5️⃣ Wikipedia lists | Firms on Wikipedia's [venture capital](https://en.wikipedia.org/wiki/List_of_venture_capital_firms) and [private equity](https://en.wikipedia.org/wiki/List_of_private_equity_firms) lists that were not already in the atlas were added to their home country (`research/wikipedia/`). Websites come from Wikidata or the article infobox; firms marked defunct, without a website, or whose site failed a live check were left out and are listed under `skipped`. A firm on both lists stays under VCs. |
 | 🎓 University programs | Five agents covered the QS top universities by region (`research/universities/`, schema in its `SCHEMA.md`), opening each program page. QS ranks are kept only where read on a QS page; others are blank. Dates whose page gave no year are marked "year inferred". |
+| 🛂 Startup visas | Two agents checked founder visa routes against government immigration pages (`research/visas/`, schema in its `SCHEMA.md`). Where a site blocked automated access, the next most official page was used and the notes say so. Countries with no route recorded were not all researched in depth. |
 | 6️⃣ Gap-fill | A second pass on 36 thin emerging ecosystems (Gulf states, Jordan, Lebanon, Tunisia, Morocco, Cyprus, Malta, Hungary, the Baltics, the Caucasus, Bangladesh, Pakistan, Sri Lanka, Peru, Uruguay, Paraguay, Guatemala and others), written as patches in [`research/patches/`](research/patches/) that `build.py` applies on top of the first pass. |
 | 7️⃣ Link check | `check_links.py` opens all 3,000+ URLs; dead links are fixed or removed, and the results are in `research/link_report.json`. |
 | 8️⃣ Spot checks | Conflicts between agents checked against the official page (e.g. a16z speedrun SR008: 1 Nov 2026) |
@@ -206,7 +209,8 @@ openstartup/
     ├── countries/b01…b15_*.json   # per-region research
     ├── global/                    # accelerators.json, resources.json
     ├── wikipedia/                 # vcs.json, pe.json from Wikipedia's firm lists
-    └── universities/              # university accelerators by region
+    ├── universities/              # university accelerators by region
+    └── visas/                     # startup and founder visa routes
 ```
 
 ---

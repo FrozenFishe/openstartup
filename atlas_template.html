@@ -65,6 +65,14 @@ h1, h2, h3 { font-family: var(--f-display); text-wrap: balance; margin: 0; line-
 .strip button.stat:hover { background: var(--accent-soft); }
 .strip button.stat:hover .n, .strip button.stat[aria-current="true"] .n { color: var(--accent); }
 .strip button.stat[aria-current="true"] { background: var(--accent-soft); }
+.vsum { display: flex; flex-wrap: wrap; gap: 8px 26px; padding: 0 14px 14px; }
+.vsum b { font: 500 20px/1 var(--f-mono); display: block; }
+.vsum span { font-size: 12px; color: var(--muted); }
+.vchips { padding: 0 12px 14px; }
+.vt-startup_visa { --x: var(--c8); } .vt-entrepreneur_visa { --x: var(--c6); } .vt-talent_visa { --x: var(--c5); }
+.vt-investor_visa { --x: var(--c4); } .vt-digital_nomad { --x: var(--c3); }
+.vs-open { --x: var(--c7); } .vs-pilot { --x: var(--c5); } .vs-paused { --x: var(--u-none); } .vs-closed { --x: var(--u-none); }
+td .vname { font-weight: 600; }
 .browse-back { border: 0; background: none; color: var(--accent); cursor: pointer; padding: 0; font-weight: 600; font-size: 13px; }
 .strip .stamp { margin-left: auto; color: var(--muted); font-size: 12px; }
 
@@ -214,6 +222,7 @@ th .dot { margin-right: 4px; }
       <button role="tab" data-view="map" aria-selected="true" id="tab-map">Map</button>
       <button role="tab" data-view="deadlines" aria-selected="false" id="tab-deadlines">Deadlines</button>
       <button role="tab" data-view="global" aria-selected="false" id="tab-global">Global programs</button>
+      <button role="tab" data-view="visas" aria-selected="false" id="tab-visas">Startup visas</button>
       <button role="tab" data-view="databases" aria-selected="false" id="tab-databases">Databases</button>
       <button role="tab" data-view="about" aria-selected="false" id="tab-about">Data &amp; method</button>
     </nav>
@@ -252,7 +261,7 @@ th .dot { margin-right: 4px; }
                 <option value="uni">University programs</option>
                 <option value="grants">Government grants</option>
                 <option value="open">Upcoming deadlines</option>
-                <option value="visa">Startup visa</option>
+                <option value="visa">Founder visas</option>
               </select>
             </label>
             <span class="note" id="matchnote"></span>
@@ -342,6 +351,33 @@ th .dot { margin-right: 4px; }
     </div>
   </section>
 
+  <section id="v-visas" class="view" hidden>
+    <div class="panel">
+      <h2>Startup visas</h2>
+      <p class="intro">Every route a foreign founder can use to build a startup abroad: dedicated startup visas, entrepreneur and self-employment permits, talent and golden visas, investor visas, and digital-nomad permits that let you run your own company. Paused and closed routes stay listed with their status. A country missing here may still have a route we have not confirmed yet. Check the government page before you apply.</p>
+      <div class="vsum" id="vsum"></div>
+      <div class="ledgerbar">
+        <label class="field grow"><span class="label">Search</span><input id="vq" type="search" placeholder="Country, visa, endorsement…" autocomplete="off"></label>
+        <label class="field"><span class="label">Type</span><select id="vtype"><option value="">All types</option>
+          <option value="startup_visa">Startup visa</option><option value="entrepreneur_visa">Entrepreneur / self-employed</option>
+          <option value="talent_visa">Talent / golden visa</option><option value="investor_visa">Investor visa</option>
+          <option value="digital_nomad">Digital nomad</option></select></label>
+        <label class="field"><span class="label">Status</span><select id="vstatus"><option value="">Any status</option><option value="open">Open</option><option value="pilot">Pilot</option><option value="paused">Paused</option><option value="closed">Closed</option></select></label>
+        <label class="field"><span class="label">Region</span><select id="vregion"><option value="">All regions</option></select></label>
+      </div>
+      <div class="chips vchips">
+        <button type="button" class="chip" id="vnoinv" aria-pressed="false">No minimum investment</button>
+        <button type="button" class="chip" id="vpr" aria-pressed="false">Path to permanent residence</button>
+        <button type="button" class="chip" id="vfam" aria-pressed="false">Family can come</button>
+      </div>
+      <div class="tablewrap"><table>
+        <thead><tr><th>Country</th><th>Visa</th><th>Status</th><th class="hide-sm">Who it's for · endorsement</th><th class="hide-sm">Money needed</th><th class="hide-sm">Length · permanent residence</th><th class="hide-sm">Fee · processing</th></tr></thead>
+        <tbody id="vlist"></tbody>
+      </table></div>
+      <p class="intro note" id="vcount" style="padding-top:12px"></p>
+    </div>
+  </section>
+
   <section id="v-databases" class="view" hidden>
     <div class="panel">
       <h2>Databases &amp; tools</h2>
@@ -424,7 +460,11 @@ for (const d of DATA) {
   d.upcoming = dated;
   d.nOpen = dated.length;
   d.next = dated[0] || null;
-  d.hasVisa = !!d.startup_visa && !/^(none|no\b|n\/a|not )/i.test(d.startup_visa.trim());
+  d.visas = (GLOBAL.visas || []).filter(v => v.country === d.country);
+  const live = d.visas.filter(v => v.status === "open" || v.status === "pilot");
+  d.visaLevel = live.some(v => v.type === "startup_visa") ? 4 : live.some(v => v.type === "entrepreneur_visa" || v.type === "talent_visa") ? 3
+    : live.some(v => v.type === "investor_visa") ? 2 : live.some(v => v.type === "digital_nomad") ? 1 : 0;
+  d.hasVisa = d.visas.length ? d.visaLevel >= 2 : !!d.startup_visa && !/^(none|no\b|n\/a|not )/i.test(d.startup_visa.trim());
   d.hay = [d.country, d.summary, ...["grants", "accelerators", "vcs", "pe", "resources"].flatMap(k => d[k].map(x => x.name + " " + (x.sectors || "") + " " + (x.agency || "") + " " + (x.university || "")))].join(" ").toLowerCase();
 }
 const byName = new Map(DATA.map(d => [d.country, d]));
@@ -525,7 +565,10 @@ function scaleFor(mode) {
     const m = Object.fromEntries(REGIONS.map(r => [r, css(REGION_VAR[r])]));
     return { fill: d => m[d.region] || css("--nodata"), legend: REGIONS.map(r => [m[r], r]) };
   }
-  if (mode === "visa") return { fill: d => d.hasVisa ? ramp[6] : ramp[1], legend: [[ramp[6], "Startup or founder visa"], [ramp[1], "None found"]] };
+  if (mode === "visa") {
+    const m = [ramp[0], ramp[2], ramp[4], ramp[6], ramp[8]];
+    return { fill: d => m[d.visaLevel || 0], legend: [[m[4], "Startup visa open"], [m[3], "Entrepreneur or talent visa"], [m[2], "Investor visa only"], [m[1], "Digital nomad only"], [m[0], "No founder route recorded"]] };
+  }
   const val = d => mode === "total" ? d.total : mode === "open" ? d.nOpen : d.n[mode];
   const bins = mode === "open" ? [0, 1, 2, 3, 4, 5, 7, 9, 12] : mode === "total" ? [0, 4, 8, 12, 16, 22, 30, 40, 55] : [0, 1, 2, 3, 4, 6, 9, 13, 18];
   const pick = v => { let i = 0; for (let k = 0; k < bins.length; k++) if (v >= bins[k]) i = k; return ramp[i]; };
@@ -611,7 +654,10 @@ function renderDossier() {
   <div class="dbody">
     ${d.summary ? `<p>${esc(d.summary)}</p>` : ""}
     <div class="facts">
-      <div class="fact"><span class="label">Startup visa</span><div>${esc(d.startup_visa || "Not researched")}</div></div>
+      <div class="fact"><span class="label">Founder visas</span><div>${d.visas.length
+        ? d.visas.map(v => `<div style="margin-bottom:4px">${link(v.url, v.name)} <span class="pill vs-${esc(v.status)}">${esc(v.status)}</span> <span class="note">${esc(VTYPE[v.type] || v.type)}${v.min_investment && v.min_investment !== "unknown" ? " · " + esc(v.min_investment) : ""}</span></div>`).join("")
+          + `<a href="#visas" data-visas="${esc(d.country)}" class="note">Compare with other countries</a>`
+        : esc(d.startup_visa || "Not researched")}</div></div>
       <div class="fact"><span class="label">Setting up the company</span><div>${esc(d.company_setup || "Not researched")}</div></div>
       ${d.notes ? `<div class="fact"><span class="label">Caveats</span><div>${esc(d.notes)}</div></div>` : ""}
     </div>
@@ -695,6 +741,39 @@ function renderGlobal() {
 
 /* databases */
 $("#rcat").innerHTML += [...new Set(GLOBAL.resources.map(x => x.category).filter(Boolean))].sort().map(t => `<option value="${esc(t)}">${esc(t.replace(/_/g, " "))}</option>`).join("");
+const VTYPE = { startup_visa: "Startup visa", entrepreneur_visa: "Entrepreneur / self-employed", talent_visa: "Talent / golden visa", investor_visa: "Investor visa", digital_nomad: "Digital nomad" };
+$("#vregion").innerHTML += REGIONS.map(r => `<option>${esc(r)}</option>`).join("");
+const VREG = new Map(DATA.map(d => [d.country, d.region]));
+const noInvest = v => /^(none|no\b|nil|not required|no minimum)/i.test(v.min_investment || "") || /living|subsistence|maintenance|savings|funds to support/i.test(v.min_investment || "");
+function renderVisas() {
+  const V = GLOBAL.visas || [];
+  const q = $("#vq").value.trim().toLowerCase(), t = $("#vtype").value, st = $("#vstatus").value, reg = $("#vregion").value;
+  const ni = $("#vnoinv").getAttribute("aria-pressed") === "true", pr = $("#vpr").getAttribute("aria-pressed") === "true", fam = $("#vfam").getAttribute("aria-pressed") === "true";
+  const rows = V.filter(v => (!t || v.type === t) && (!st || v.status === st) && (!reg || VREG.get(v.country) === reg)
+      && (!ni || noInvest(v)) && (!pr || /^yes/i.test(v.pr_path || "")) && (!fam || /^yes/i.test(v.family || ""))
+      && (!q || Object.values(v).join(" ").toLowerCase().includes(q)))
+    .sort((a, b) => a.country.localeCompare(b.country) || ["startup_visa", "entrepreneur_visa", "talent_visa", "investor_visa", "digital_nomad"].indexOf(a.type) - ["startup_visa", "entrepreneur_visa", "talent_visa", "investor_visa", "digital_nomad"].indexOf(b.type));
+  const open = V.filter(v => v.status === "open" || v.status === "pilot");
+  $("#vsum").innerHTML = [[new Set(open.filter(v => v.type === "startup_visa").map(v => v.country)).size, "countries with an open startup visa"],
+    [new Set(open.map(v => v.country)).size, "countries with any open founder route"], [open.filter(noInvest).length, "open routes with no investment minimum"],
+    [V.filter(v => v.status === "paused" || v.status === "closed").length, "paused or closed routes"]]
+    .map(([n, k]) => `<div><b>${n}</b><span>${k}</span></div>`).join("");
+  const nd = s => s && s !== "unknown" ? esc(s) : "";
+  $("#vlist").innerHTML = rows.map(v => `<tr>
+    <td><a href="#${slug(v.country)}" data-go="${esc(v.country)}">${esc(v.country)}</a></td>
+    <td>${safeUrl(v.url) ? `<a class="vname" href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.name)}</a>` : `<span class="vname">${esc(v.name)}</span>`}<div><span class="pill vt-${esc(v.type)}">${esc(VTYPE[v.type] || v.type)}</span></div>${v.notes ? `<div class="note">${esc(v.notes)}</div>` : ""}</td>
+    <td><span class="pill vs-${esc(v.status)}">${esc(v.status)}</span></td>
+    <td class="hide-sm">${nd(v.for)}${nd(v.endorsement) ? `<div class="note">Endorsement: ${nd(v.endorsement)}</div>` : ""}</td>
+    <td class="hide-sm">${nd(v.min_investment)}</td>
+    <td class="hide-sm">${nd(v.duration)}${nd(v.pr_path) ? `<div class="note">Permanent residence: ${nd(v.pr_path)}</div>` : ""}${nd(v.renewal) ? `<div class="note">${nd(v.renewal)}</div>` : ""}</td>
+    <td class="hide-sm">${nd(v.gov_fee)}${nd(v.processing) ? `<div class="note">${nd(v.processing)}</div>` : ""}</td></tr>`).join("")
+    || `<tr><td colspan="7" class="empty">${V.length ? "No visa matches. Clear a filter." : "Visa research is still being added."}</td></tr>`;
+  $("#vcount").textContent = `${rows.length} of ${V.length} routes in ${new Set(V.map(v => v.country)).size} countries. Each links to the government's own page.`;
+}
+["#vq", "#vtype", "#vstatus", "#vregion"].forEach(s => $(s).addEventListener("input", renderVisas));
+["#vnoinv", "#vpr", "#vfam"].forEach(s => $(s).addEventListener("click", e => { const b = e.currentTarget; b.setAttribute("aria-pressed", b.getAttribute("aria-pressed") !== "true"); renderVisas(); }));
+document.addEventListener("click", e => { const a = e.target.closest("a[data-visas]"); if (a) { e.preventDefault(); $("#vq").value = a.dataset.visas; $("#vregion").value = ""; $("#vtype").value = ""; $("#vstatus").value = ""; renderVisas(); show("visas"); } });
+
 function renderRes() {
   const q = $("#rq").value.trim().toLowerCase(), c = $("#rcat").value;
   const rows = GLOBAL.resources.filter(x => (!c || x.category === c) && (!q || Object.values(x).join(" ").toLowerCase().includes(q)))
@@ -733,6 +812,7 @@ function renderStrip() {
     [tot("vcs"), "investors", "investors", "List every VC and investor"], [tot("pe"), "private equity", "private-equity", "List every private equity firm"],
     [tot("uni"), "university programs", "university-programs", "List every university accelerator and incubator"],
     [tot("grants"), "grants", "grants", "List every grant"], [GLOBAL.accelerators.length, "global programs", "global", "Open global programs"],
+    [(GLOBAL.visas || []).filter(v => v.status === "open" || v.status === "pilot").length, "open founder visas", "visas", "Compare startup visas worldwide"],
     [soon, "deadlines in the next 30 days", "deadlines-30", "Deadlines closing in the next 30 days"]]
     .map(([n, k, go, t]) => `<button type="button" class="stat" data-stat="${go}" title="${t}"><span class="n">${n.toLocaleString("en")}</span><span class="k">${k}</span></button>`).join("") +
     `<span class="stamp">Deadlines checked ${esc(fmtDate(TODAY))}</span>`;
@@ -787,7 +867,7 @@ function openBrowse(kind) {
 }
 function markStat() {
   const v = VIEWS.find(k => !$("#v-" + k).hidden);
-  const cur = v === "browse" ? BROWSE[$("#bkind").value].token : v === "global" ? "global" : v === "deadlines" && $("#dwin").value === "30" ? "deadlines-30" : "";
+  const cur = v === "browse" ? BROWSE[$("#bkind").value].token : v === "global" ? "global" : v === "visas" ? "visas" : v === "deadlines" && $("#dwin").value === "30" ? "deadlines-30" : "";
   document.querySelectorAll(".strip .stat").forEach(b => b.setAttribute("aria-current", b.dataset.stat === cur));
 }
 $("#strip").addEventListener("click", e => {
@@ -795,13 +875,14 @@ $("#strip").addEventListener("click", e => {
   const go = b.dataset.stat;
   if (go === "countries") { show("map"); $("#list").closest(".panel").scrollIntoView({ behavior: "smooth", block: "start" }); }
   else if (go === "global") show("global");
+  else if (go === "visas") { ["#vq", "#vtype", "#vregion"].forEach(x => $(x).value = ""); $("#vstatus").value = "open"; renderVisas(); show("visas"); }
   else if (go === "deadlines-30") { $("#dwin").value = "30"; $("#dkind").value = "all"; $("#dq").value = ""; $("#dregion").value = ""; renderLedger(); show("deadlines"); }
   else openBrowse(BY_TOKEN[go]);
   markStat();
 });
 
 /* views, theme, hash */
-const VIEWS = ["map", "deadlines", "global", "databases", "about", "browse"];
+const VIEWS = ["map", "deadlines", "global", "visas", "databases", "about", "browse"];
 function show(v) {
   VIEWS.forEach(k => { $("#v-" + k).hidden = k !== v; $("#tab-" + k)?.setAttribute("aria-selected", k === v); });
   if (v === "browse") { /* openBrowse sets the hash */ }
@@ -814,7 +895,7 @@ document.querySelectorAll(".tabs button").forEach(b => b.onclick = () => show(b.
 if (matchMedia("(max-width: 820px)").matches) $("#fdetails").open = false;
 
 function render() { renderFacets(); paintMap(); renderList(); }
-render(); renderDossier(); renderLedger(); renderGlobal(); renderRes(); renderAbout(); renderStrip();
+render(); renderDossier(); renderLedger(); renderGlobal(); renderVisas(); renderRes(); renderAbout(); renderStrip();
 {
   const h = decodeURIComponent(location.hash.slice(1));
   if (BY_TOKEN[h]) openBrowse(BY_TOKEN[h]);
