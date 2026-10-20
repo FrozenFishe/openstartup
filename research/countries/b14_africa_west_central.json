@@ -1,0 +1,3475 @@
+[
+ {
+  "country": "Nigeria",
+  "iso2": "NG",
+  "ecosystem_tier": "established",
+  "summary": "Africa's largest startup ecosystem by deal count, centred on Lagos with Abuja secondary; strengths in fintech (Flutterwave, Moniepoint, Paystack exit to Stripe), logistics and creative tech.",
+  "startup_visa": "none",
+  "company_setup": "Private limited company (Ltd) registered online with the Corporate Affairs Commission (about 1-2 weeks); foreign-owned firms also register with NIPC and must meet minimum share-capital rules. Itana digital free zone (Lagos) offers remote incorporation.",
+  "grants": [
+   {
+    "name": "Startup Investment Seed Fund (Nigeria Startup Act)",
+    "agency": "NITDA / NSIA",
+    "amount": "fund of at least NGN 10bn per year",
+    "amount_usd_max": null,
+    "eligibility": "labelled tech startups under 10 years old",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://startup.gov.ng/"
+   },
+   {
+    "name": "iDICE - Investment in Digital and Creative Enterprises",
+    "agency": "Bank of Industry (AfDB, AFD, IsDB)",
+    "amount": "US$617M programme; equity, grants, skills",
+    "amount_usd_max": null,
+    "eligibility": "Nigerian tech and creative startups and youth",
+    "deadline": "unknown (Startup Bridge Founders Lab last: 2026-07-26)",
+    "status": "closed",
+    "url": "https://www.boi.ng/idice/"
+   },
+   {
+    "name": "LSETF MSME Loan Programme",
+    "agency": "Lagos State Employment Trust Fund",
+    "amount": "low-interest loans (see site)",
+    "amount_usd_max": null,
+    "eligibility": "Lagos-based MSMEs and young entrepreneurs",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://lsetf.ng/"
+   },
+   {
+    "name": "Development Bank of Nigeria on-lending",
+    "agency": "Development Bank of Nigeria",
+    "amount": "wholesale MSME loans via partner banks",
+    "amount_usd_max": null,
+    "eligibility": "Nigerian MSMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.devbankng.com/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "CcHUB",
+    "city": "Lagos",
+    "type": "incubator",
+    "investment": "varies; programmes + CcHUB growth capital",
+    "sectors": "tech generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://cchub.africa/"
+   },
+   {
+    "name": "Wennovation Hub",
+    "city": "Lagos / Ibadan",
+    "type": "incubator",
+    "investment": "no equity (programme-dependent)",
+    "sectors": "agritech, generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://wennovationhub.org/"
+   },
+   {
+    "name": "Orange Corners Nigeria",
+    "city": "Lagos",
+    "type": "incubator",
+    "investment": "no equity; training + OCIF seed grant/loan for alumni",
+    "sectors": "generalist, youth-led",
+    "deadline": "unknown (annual cohorts)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.orangecorners.com/country/nigeria/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "remote / hybrid",
+    "type": "accelerator",
+    "investment": "no equity; Google Cloud credits",
+    "sectors": "AI/ML, growth-stage tech",
+    "deadline": "annual (usually Feb-Mar); last: 2026-03-18",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Y Combinator (Winter 2027)",
+    "city": "San Francisco",
+    "type": "accelerator",
+    "investment": "US$500k standard deal (US$125k for 7% + US$375k MFN SAFE)",
+    "sectors": "generalist",
+    "deadline": "2026-11-02",
+    "next_cohort": "2027-01",
+    "status": "open",
+    "url": "https://www.ycombinator.com/apply"
+   },
+   {
+    "name": "Founders Factory Africa",
+    "city": "Johannesburg / remote",
+    "type": "venture_studio",
+    "investment": "investment + venture-building support",
+    "sectors": "fintech, health, agri, climate",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.foundersfactory.africa/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "remote",
+    "type": "accelerator",
+    "investment": "pre-seed investment + venture building",
+    "sectors": "inclusive fintech, climate",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.catalystfund.org/"
+   },
+   {
+    "name": "Villgro Africa",
+    "city": "Nairobi / remote",
+    "type": "incubator",
+    "investment": "seed funding + incubation",
+    "sectors": "healthcare, life sciences",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://villgroafrica.org/"
+   },
+   {
+    "name": "Village Capital",
+    "city": "remote",
+    "type": "accelerator",
+    "investment": "peer-selected investment (varies by programme)",
+    "sectors": "fintech, agri, climate, health",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://villagecapital.com/"
+   },
+   {
+    "name": "Seedstars programs",
+    "city": "remote / regional",
+    "type": "accelerator",
+    "investment": "varies; acceleration and investment-readiness programs",
+    "sectors": "generalist, emerging markets",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.seedstars.com/programs/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Ventures Platform",
+    "city": "Abuja",
+    "stage": "pre-seed to series A",
+    "check_size": "unknown",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://www.ventures-platform.com/"
+   },
+   {
+    "name": "Microtraction",
+    "city": "Lagos",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://www.microtraction.com/"
+   },
+   {
+    "name": "LoftyInc Capital",
+    "city": "Lagos",
+    "stage": "pre-seed / seed",
+    "check_size": "unknown",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://loftyinc.vc/"
+   },
+   {
+    "name": "Ingressive Capital",
+    "city": "Lagos",
+    "stage": "pre-seed / seed",
+    "check_size": "unknown",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://ingressivecapital.com/"
+   },
+   {
+    "name": "Verod-Kepple Africa Ventures",
+    "city": "Lagos",
+    "stage": "pre-seed / seed",
+    "check_size": "unknown",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://vkav.vc/"
+   },
+   {
+    "name": "Aruwa Capital Management",
+    "city": "Lagos",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "gender-lens SMEs",
+    "type": "vc",
+    "url": "https://aruwacapital.com/"
+   },
+   {
+    "name": "Sahel Capital",
+    "city": "Lagos",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "agribusiness",
+    "type": "vc",
+    "url": "https://sahelcapital.com/"
+   },
+   {
+    "name": "Nigeria Sovereign Investment Authority",
+    "city": "Abuja",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "manages Startup Act seed fund",
+    "type": "government_fund",
+    "url": "https://nsia.com.ng/"
+   },
+   {
+    "name": "Future Africa",
+    "city": "Lagos",
+    "stage": "pre-seed / seed",
+    "check_size": "unknown",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://www.future.africa/"
+   },
+   {
+    "name": "TLcom Capital",
+    "city": "Lagos",
+    "stage": "series A",
+    "check_size": "US$1M-10M",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://www.tlcomcapital.com/"
+   },
+   {
+    "name": "Partech Africa",
+    "city": "Dakar / Lagos",
+    "stage": "seed to series B",
+    "check_size": "US$1M-15M",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://partechpartners.com/funds"
+   },
+   {
+    "name": "4DX Ventures",
+    "city": "remote",
+    "stage": "seed to series A",
+    "check_size": "unknown",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://www.4dxventures.com/"
+   },
+   {
+    "name": "Launch Africa Ventures",
+    "city": "remote",
+    "stage": "pre-seed / seed",
+    "check_size": "unknown",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Norrsken22",
+    "city": "remote",
+    "stage": "series A to growth",
+    "check_size": "unknown",
+    "sectors": "fintech, health, edtech",
+    "type": "vc",
+    "url": "https://www.norrsken22.com/"
+   },
+   {
+    "name": "Flourish Ventures",
+    "city": "remote",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "fintech",
+    "type": "vc",
+    "url": "https://flourishventures.com/"
+   },
+   {
+    "name": "Lightrock",
+    "city": "remote",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "impact tech",
+    "type": "vc",
+    "url": "https://www.lightrock.com/"
+   },
+   {
+    "name": "Novastar Ventures",
+    "city": "remote",
+    "stage": "series A / growth",
+    "check_size": "unknown",
+    "sectors": "impact, mass market",
+    "type": "vc",
+    "url": "https://www.novastarventures.com/"
+   },
+   {
+    "name": "Enza Capital",
+    "city": "Nairobi",
+    "stage": "seed / series A",
+    "check_size": "unknown",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://www.enza.capital/"
+   },
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "NITDA",
+    "type": "government_agency",
+    "url": "https://nitda.gov.ng/",
+    "note": "IT agency; secretariat of the Startup Act council"
+   },
+   {
+    "name": "Startup Nigeria portal",
+    "type": "government_agency",
+    "url": "https://startup.gov.ng/",
+    "note": "Startup Act labelling and incentives"
+   },
+   {
+    "name": "SMEDAN",
+    "type": "government_agency",
+    "url": "https://smedan.gov.ng/",
+    "note": "national SME development agency"
+   },
+   {
+    "name": "Itana",
+    "type": "legal_tax",
+    "url": "https://www.itana.africa/",
+    "note": "digital free zone; remote incorporation"
+   },
+   {
+    "name": "Impact Hub Lagos",
+    "type": "coworking_hub",
+    "url": "https://lagos.impacthub.net/",
+    "note": "coworking and programmes"
+   },
+   {
+    "name": "AfriLabs",
+    "type": "community",
+    "url": "https://www.afrilabs.com/",
+    "note": "pan-African network of innovation hubs"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "directory of angel networks across Africa"
+   },
+   {
+    "name": "Briter",
+    "type": "database",
+    "url": "https://www.briter.co/",
+    "note": "African startup and investment data"
+   }
+  ],
+  "sources": [
+   "https://startup.gov.ng/",
+   "https://www.boi.ng/idice/",
+   "https://nitda.gov.ng/",
+   "https://lsetf.ng/",
+   "https://www.ycombinator.com/apply"
+  ],
+  "confidence": "medium",
+  "notes": "Startup Act 2022 seed-fund disbursement status unconfirmed as of Oct 2026. Several hub/fund sites (e.g. Lagos Innovates, DBN short domain) were unreachable and omitted."
+ },
+ {
+  "country": "Ghana",
+  "iso2": "GH",
+  "ecosystem_tier": "emerging",
+  "summary": "Accra is one of West Africa's top hubs, strong in fintech and agritech; MEST and a dense hub network; notable exits include Hubtel and mPharma growth rounds.",
+  "startup_visa": "none",
+  "company_setup": "Private company limited by shares via the Office of the Registrar of Companies (online, about 1-2 weeks). Foreign-owned firms register with GIPA and may face minimum foreign-capital rules.",
+  "grants": [
+   {
+    "name": "Adwumawura Programme",
+    "agency": "National Entrepreneurship and Innovation Programme (NEIP)",
+    "amount": "start-up grants + training",
+    "amount_usd_max": null,
+    "eligibility": "young Ghanaian entrepreneurs",
+    "deadline": "unknown (2026 cohort portal announced)",
+    "status": "upcoming",
+    "url": "https://neip.gov.gh/"
+   },
+   {
+    "name": "Ghana Enterprises Agency MSME support",
+    "agency": "Ghana Enterprises Agency",
+    "amount": "business support and financing schemes",
+    "amount_usd_max": null,
+    "eligibility": "Ghanaian MSMEs",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://gea.gov.gh/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "MEST Africa",
+    "city": "Accra",
+    "type": "accelerator",
+    "investment": "funded training programme + seed investment",
+    "sectors": "software, tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://meltwater.org/"
+   },
+   {
+    "name": "Kosmos Innovation Center",
+    "city": "Accra",
+    "type": "accelerator",
+    "investment": "grants + incubation",
+    "sectors": "agritech, tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://kosmosinnovationcenter.com/"
+   },
+   {
+    "name": "Kumasi Hive",
+    "city": "Kumasi",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "hardware, tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.kumasihive.com/"
+   },
+   {
+    "name": "Impact Hub Accra",
+    "city": "Accra",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "impact, generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://accra.impacthub.net/"
+   },
+   {
+    "name": "Orange Corners Ghana",
+    "city": "Accra",
+    "type": "incubator",
+    "investment": "no equity; training + OCIF seed grant/loan for alumni",
+    "sectors": "generalist, youth-led",
+    "deadline": "unknown (annual cohorts)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.orangecorners.com/country/ghana/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "remote / hybrid",
+    "type": "accelerator",
+    "investment": "no equity; Google Cloud credits",
+    "sectors": "AI/ML, growth-stage tech",
+    "deadline": "annual (usually Feb-Mar); last: 2026-03-18",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Y Combinator (Winter 2027)",
+    "city": "San Francisco",
+    "type": "accelerator",
+    "investment": "US$500k standard deal (US$125k for 7% + US$375k MFN SAFE)",
+    "sectors": "generalist",
+    "deadline": "2026-11-02",
+    "next_cohort": "2027-01",
+    "status": "open",
+    "url": "https://www.ycombinator.com/apply"
+   },
+   {
+    "name": "Founders Factory Africa",
+    "city": "Johannesburg / remote",
+    "type": "venture_studio",
+    "investment": "investment + venture-building support",
+    "sectors": "fintech, health, agri, climate",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.foundersfactory.africa/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "remote",
+    "type": "accelerator",
+    "investment": "pre-seed investment + venture building",
+    "sectors": "inclusive fintech, climate",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.catalystfund.org/"
+   },
+   {
+    "name": "Village Capital",
+    "city": "remote",
+    "type": "accelerator",
+    "investment": "peer-selected investment (varies by programme)",
+    "sectors": "fintech, agri, climate, health",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://villagecapital.com/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Venture Capital Trust Fund",
+    "city": "Accra",
+    "stage": "multi",
+    "check_size": "funds VC managers",
+    "sectors": "SMEs, priority sectors",
+    "type": "government_fund",
+    "url": "https://venturecapitalghana.com.gh/"
+   },
+   {
+    "name": "Injaro Investments",
+    "city": "Accra",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "agribusiness",
+    "type": "vc",
+    "url": "https://www.injaroinvestments.com/"
+   },
+   {
+    "name": "Partech Africa",
+    "city": "Dakar / Lagos",
+    "stage": "seed to series B",
+    "check_size": "US$1M-15M",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://partechpartners.com/funds"
+   },
+   {
+    "name": "TLcom Capital",
+    "city": "Lagos",
+    "stage": "series A",
+    "check_size": "US$1M-10M",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://www.tlcomcapital.com/"
+   },
+   {
+    "name": "4DX Ventures",
+    "city": "remote",
+    "stage": "seed to series A",
+    "check_size": "unknown",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://www.4dxventures.com/"
+   },
+   {
+    "name": "Future Africa",
+    "city": "Lagos",
+    "stage": "pre-seed / seed",
+    "check_size": "unknown",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://www.future.africa/"
+   },
+   {
+    "name": "Launch Africa Ventures",
+    "city": "remote",
+    "stage": "pre-seed / seed",
+    "check_size": "unknown",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Norrsken22",
+    "city": "remote",
+    "stage": "series A to growth",
+    "check_size": "unknown",
+    "sectors": "fintech, health, edtech",
+    "type": "vc",
+    "url": "https://www.norrsken22.com/"
+   },
+   {
+    "name": "Enza Capital",
+    "city": "Nairobi",
+    "stage": "seed / series A",
+    "check_size": "unknown",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://www.enza.capital/"
+   },
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ghana Investment Promotion Authority",
+    "type": "government_agency",
+    "url": "https://gipa.gov.gh/",
+    "note": "foreign investor registration"
+   },
+   {
+    "name": "NEIP",
+    "type": "government_agency",
+    "url": "https://neip.gov.gh/",
+    "note": "national startup agency (to become Ghana Startup Agency)"
+   },
+   {
+    "name": "Ghana Enterprises Agency",
+    "type": "government_agency",
+    "url": "https://gea.gov.gh/",
+    "note": "MSME agency"
+   },
+   {
+    "name": "Ghana Hubs Network",
+    "type": "startup_association",
+    "url": "https://ghanahubsnetwork.com/",
+    "note": "network of Ghanaian hubs"
+   },
+   {
+    "name": "AfriLabs",
+    "type": "community",
+    "url": "https://www.afrilabs.com/",
+    "note": "pan-African network of innovation hubs"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "directory of angel networks across Africa"
+   },
+   {
+    "name": "World Bank - Ghana",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/ghana",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   }
+  ],
+  "sources": [
+   "https://neip.gov.gh/",
+   "https://gea.gov.gh/",
+   "https://venturecapitalghana.com.gh/",
+   "https://meltwater.org/",
+   "https://www.orangecorners.com/country/ghana/"
+  ],
+  "confidence": "medium",
+  "notes": "Oct 2026: NEIP CEO announced transition to a Ghana Startup Agency; a Ghana startup bill is still in progress."
+ },
+ {
+  "country": "Côte d'Ivoire",
+  "iso2": "CI",
+  "ecosystem_tier": "emerging",
+  "summary": "Abidjan is francophone West Africa's main hub with startups raising about US$33M in 2024 (Partech); strengths in fintech, e-commerce and agritech; Startup Act (Law 2023-901) in force since 2024.",
+  "startup_visa": "none",
+  "company_setup": "OHADA SARL or SAS via CEPICI one-stop shop (often within 24-48 hours, low fees); foreigners may own 100%. Startup Act label gives tax exemptions to majority-Ivorian startups.",
+  "grants": [
+   {
+    "name": "Choose Africa 2 credit lines (EUR 80M CI line)",
+    "agency": "AFD Group / Bpifrance",
+    "amount": "loans and guarantees via local banks",
+    "amount_usd_max": null,
+    "eligibility": "MSMEs and startups; on-lent through partner banks and funds in Côte d'Ivoire",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.afd.fr/fr/actualites/choose-africa-2-le-soutien-lentrepreneuriat-africain-monte-en-regime"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Orange Digital Center / Orange Fab Côte d'Ivoire",
+    "city": "Abidjan",
+    "type": "corporate",
+    "investment": "no equity; free acceleration, Orange Ventures access",
+    "sectors": "digital, generalist",
+    "deadline": "annual call (usually Q1)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://www.orange.ci/"
+   },
+   {
+    "name": "Orange Corners Côte d'Ivoire",
+    "city": "Abidjan",
+    "type": "incubator",
+    "investment": "no equity; training + OCIF seed grant/loan for alumni",
+    "sectors": "generalist, youth-led",
+    "deadline": "unknown (annual cohorts)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.orangecorners.com/country/cote-divoire/"
+   },
+   {
+    "name": "Impact Hub Abidjan",
+    "city": "Abidjan",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "impact, generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://abidjan.impacthub.net/"
+   },
+   {
+    "name": "Seedstars programs",
+    "city": "remote / regional",
+    "type": "accelerator",
+    "investment": "varies; acceleration and investment-readiness programs",
+    "sectors": "generalist, emerging markets",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.seedstars.com/programs/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "remote / hybrid",
+    "type": "accelerator",
+    "investment": "no equity; Google Cloud credits",
+    "sectors": "AI/ML, growth-stage tech",
+    "deadline": "annual (usually Feb-Mar); last: 2026-03-18",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Y Combinator (Winter 2027)",
+    "city": "San Francisco",
+    "type": "accelerator",
+    "investment": "US$500k standard deal (US$125k for 7% + US$375k MFN SAFE)",
+    "sectors": "generalist",
+    "deadline": "2026-11-02",
+    "next_cohort": "2027-01",
+    "status": "open",
+    "url": "https://www.ycombinator.com/apply"
+   },
+   {
+    "name": "MEST Africa",
+    "city": "Accra",
+    "type": "accelerator",
+    "investment": "funded training programme + seed investment",
+    "sectors": "software, tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://meltwater.org/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Comoe Capital",
+    "city": "Abidjan",
+    "stage": "seed (SMEs)",
+    "check_size": "unknown",
+    "sectors": "SMEs, generalist",
+    "type": "vc",
+    "url": "https://comoecapital.com/"
+   },
+   {
+    "name": "Janngo Capital",
+    "city": "Abidjan / Paris",
+    "stage": "seed / series A",
+    "check_size": "unknown",
+    "sectors": "tech, gender-lens",
+    "type": "vc",
+    "url": "https://www.janngo.com/"
+   },
+   {
+    "name": "Adiwale Partners",
+    "city": "Abidjan",
+    "stage": "growth (SMEs)",
+    "check_size": "unknown",
+    "sectors": "generalist, West Africa",
+    "type": "vc",
+    "url": "https://www.adiwale.com/"
+   },
+   {
+    "name": "Saviu Ventures",
+    "city": "Paris / Abidjan",
+    "stage": "seed / series A",
+    "check_size": "unknown",
+    "sectors": "tech, francophone Africa",
+    "type": "vc",
+    "url": "https://www.saviu.vc/"
+   },
+   {
+    "name": "Investisseurs & Partenaires (I&P)",
+    "city": "Paris / regional",
+    "stage": "seed to growth (SMEs)",
+    "check_size": "unknown",
+    "sectors": "impact SMEs",
+    "type": "vc",
+    "url": "https://www.ietp.com/en"
+   },
+   {
+    "name": "Partech Africa",
+    "city": "Dakar / Lagos",
+    "stage": "seed to series B",
+    "check_size": "US$1M-15M",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://partechpartners.com/funds"
+   },
+   {
+    "name": "AfricInvest",
+    "city": "regional",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "fintech, health, consumer",
+    "type": "vc",
+    "url": "https://www.africinvest.com/"
+   },
+   {
+    "name": "Launch Africa Ventures",
+    "city": "remote",
+    "stage": "pre-seed / seed",
+    "check_size": "unknown",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "4DX Ventures",
+    "city": "remote",
+    "stage": "seed to series A",
+    "check_size": "unknown",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://www.4dxventures.com/"
+   },
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "CEPICI",
+    "type": "government_agency",
+    "url": "https://cepici.ci/",
+    "note": "investment promotion and company-creation one-stop shop"
+   },
+   {
+    "name": "Impact Hub Abidjan",
+    "type": "coworking_hub",
+    "url": "https://abidjan.impacthub.net/",
+    "note": "coworking"
+   },
+   {
+    "name": "Digital Africa",
+    "type": "other",
+    "url": "https://digital-africa.co/",
+    "note": "French-backed startup support and funding"
+   },
+   {
+    "name": "World Bank - Côte d'Ivoire",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/cotedivoire",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "BOAD / UEMOA",
+    "type": "other",
+    "url": "https://www.boad.org/fr",
+    "note": "West African (UEMOA) development bank"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   }
+  ],
+  "sources": [
+   "https://cepici.ci/",
+   "https://comoecapital.com/",
+   "https://www.orangecorners.com/country/cote-divoire/",
+   "https://www.afd.fr/fr/actualites/choose-africa-2-le-soutien-lentrepreneuriat-africain-monte-en-regime"
+  ],
+  "confidence": "medium",
+  "notes": "Startup label committee created Mar 2025 (Ministry of Digital Transition); no official label portal URL verified. Orange Fab CI season 10 demo day held 2026-10-08; next call expected. Agence CI PME site unreachable."
+ },
+ {
+  "country": "Senegal",
+  "iso2": "SN",
+  "ecosystem_tier": "emerging",
+  "summary": "Dakar is a leading francophone hub (Wave, InTouch); Startup Act (2020) relaunched in Nov 2025 with a national label portal; DER/FJ announced a US$50M pre-seed/seed fund in June 2026.",
+  "startup_visa": "none",
+  "company_setup": "OHADA SARL or SAS via APIX one-stop shop (fast, low cost). Labelled startups get a 3-year tax exemption and 5% public-tender preference.",
+  "grants": [
+   {
+    "name": "DER/FJ financing",
+    "agency": "Délégation générale à l'Entrepreneuriat rapide des Femmes et des Jeunes",
+    "amount": "subsidised loans, roughly XOF 1M to several million",
+    "amount_usd_max": null,
+    "eligibility": "Senegalese women and youth entrepreneurs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.der.sn/"
+   },
+   {
+    "name": "FONGIP guarantees",
+    "agency": "FONGIP",
+    "amount": "credit guarantees for bank loans",
+    "amount_usd_max": null,
+    "eligibility": "Senegalese SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.fongip.sn/"
+   },
+   {
+    "name": "Choose Africa 2 credit lines",
+    "agency": "AFD Group / Bpifrance",
+    "amount": "loans and guarantees via local banks",
+    "amount_usd_max": null,
+    "eligibility": "MSMEs and startups; on-lent through partner banks and funds in Senegal",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.afd.fr/fr/actualites/choose-africa-2-le-soutien-lentrepreneuriat-africain-monte-en-regime"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "CTIC Dakar",
+    "city": "Dakar",
+    "type": "incubator",
+    "investment": "no equity; incubation + acceleration",
+    "sectors": "ICT, tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.cticdakar.com/"
+   },
+   {
+    "name": "Jokkolabs",
+    "city": "Dakar",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.jokkolabs.net/"
+   },
+   {
+    "name": "Impact Hub Dakar",
+    "city": "Dakar",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "impact, generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://dakar.impacthub.net/"
+   },
+   {
+    "name": "Orange Digital Center / Orange Fab Senegal",
+    "city": "Dakar",
+    "type": "corporate",
+    "investment": "no equity; free acceleration, Orange Ventures access",
+    "sectors": "digital, generalist",
+    "deadline": "annual call (usually Q1)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://www.orange.sn/"
+   },
+   {
+    "name": "Orange Corners Senegal",
+    "city": "Dakar",
+    "type": "incubator",
+    "investment": "no equity; training + OCIF seed grant/loan for alumni",
+    "sectors": "generalist, youth-led",
+    "deadline": "unknown (annual cohorts)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.orangecorners.com/country/senegal/"
+   },
+   {
+    "name": "Seedstars programs",
+    "city": "remote / regional",
+    "type": "accelerator",
+    "investment": "varies; acceleration and investment-readiness programs",
+    "sectors": "generalist, emerging markets",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.seedstars.com/programs/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "remote / hybrid",
+    "type": "accelerator",
+    "investment": "no equity; Google Cloud credits",
+    "sectors": "AI/ML, growth-stage tech",
+    "deadline": "annual (usually Feb-Mar); last: 2026-03-18",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Y Combinator (Winter 2027)",
+    "city": "San Francisco",
+    "type": "accelerator",
+    "investment": "US$500k standard deal (US$125k for 7% + US$375k MFN SAFE)",
+    "sectors": "generalist",
+    "deadline": "2026-11-02",
+    "next_cohort": "2027-01",
+    "status": "open",
+    "url": "https://www.ycombinator.com/apply"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Catalyst DER/FJ startup fund",
+    "city": "Dakar",
+    "stage": "pre-seed / seed",
+    "check_size": "US$50M fund",
+    "sectors": "tech",
+    "type": "government_fund",
+    "url": "https://www.der.sn/"
+   },
+   {
+    "name": "FONSIS",
+    "city": "Dakar",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "strategic sectors",
+    "type": "government_fund",
+    "url": "https://www.fonsis.org/fr/"
+   },
+   {
+    "name": "Teranga Capital",
+    "city": "Dakar",
+    "stage": "seed (SMEs)",
+    "check_size": "unknown",
+    "sectors": "SMEs, generalist",
+    "type": "vc",
+    "url": "https://terangacapitalpartners.com/"
+   },
+   {
+    "name": "Partech Africa",
+    "city": "Dakar / Lagos",
+    "stage": "seed to series B",
+    "check_size": "US$1M-15M",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://partechpartners.com/funds"
+   },
+   {
+    "name": "Janngo Capital",
+    "city": "Abidjan / Paris",
+    "stage": "seed / series A",
+    "check_size": "unknown",
+    "sectors": "tech, gender-lens",
+    "type": "vc",
+    "url": "https://www.janngo.com/"
+   },
+   {
+    "name": "Saviu Ventures",
+    "city": "Paris / Abidjan",
+    "stage": "seed / series A",
+    "check_size": "unknown",
+    "sectors": "tech, francophone Africa",
+    "type": "vc",
+    "url": "https://www.saviu.vc/"
+   },
+   {
+    "name": "Investisseurs & Partenaires (I&P)",
+    "city": "Paris / regional",
+    "stage": "seed to growth (SMEs)",
+    "check_size": "unknown",
+    "sectors": "impact SMEs",
+    "type": "vc",
+    "url": "https://www.ietp.com/en"
+   },
+   {
+    "name": "Launch Africa Ventures",
+    "city": "remote",
+    "stage": "pre-seed / seed",
+    "check_size": "unknown",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ecosystème Startup (Startup Act portal)",
+    "type": "government_agency",
+    "url": "https://ecosystemestartup.sn/",
+    "note": "startup label applications"
+   },
+   {
+    "name": "ADEPME",
+    "type": "government_agency",
+    "url": "https://adepme.sn/",
+    "note": "SME development agency"
+   },
+   {
+    "name": "3FPT",
+    "type": "government_agency",
+    "url": "https://www.3fpt.sn/",
+    "note": "vocational training fund"
+   },
+   {
+    "name": "Impact Hub Dakar",
+    "type": "coworking_hub",
+    "url": "https://dakar.impacthub.net/",
+    "note": "coworking"
+   },
+   {
+    "name": "World Bank - Senegal",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/senegal",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "BOAD / UEMOA",
+    "type": "other",
+    "url": "https://www.boad.org/fr",
+    "note": "West African (UEMOA) development bank"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   }
+  ],
+  "sources": [
+   "https://www.der.sn/",
+   "https://ecosystemestartup.sn/",
+   "https://www.fongip.sn/",
+   "https://www.fonsis.org/fr/",
+   "https://www.orangecorners.com/country/senegal/"
+  ],
+  "confidence": "medium",
+  "notes": "Catalyst DER/FJ fund (US$50M) announced 2026-06-20 at VivaTech; application process not yet published. APIX site unreachable at time of check."
+ },
+ {
+  "country": "Benin",
+  "iso2": "BJ",
+  "ecosystem_tier": "nascent",
+  "summary": "Small but government-driven ecosystem around Cotonou and Sèmè City innovation campus; World Bank-funded SME and youth programmes (RISE, Next Impact).",
+  "startup_visa": "none",
+  "company_setup": "OHADA SARL/SAS via APIEx one-stop shop, largely online (within days, low fees). ADPME runs a digital SME platform.",
+  "grants": [
+   {
+    "name": "RISE 2 SME acceleration",
+    "agency": "Sèmè City / ADPME (World Bank, EU, AFD)",
+    "amount": "technical assistance + access to finance",
+    "amount_usd_max": null,
+    "eligibility": "high-potential Beninese SMEs",
+    "deadline": "last: 2026-06-07",
+    "status": "closed",
+    "url": "https://vc4a.com/rise/rise-2026/?lang=fr"
+   },
+   {
+    "name": "Next Impact",
+    "agency": "Sèmè City Development Agency (World Bank)",
+    "amount": "strategic grant + 6 months coaching",
+    "amount_usd_max": null,
+    "eligibility": "young innovators: digital, creative, deeptech, transport",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://semecity.bj/fr/"
+   },
+   {
+    "name": "Choose Africa 2 credit lines",
+    "agency": "AFD Group / Bpifrance",
+    "amount": "loans and guarantees via local banks",
+    "amount_usd_max": null,
+    "eligibility": "MSMEs and startups; on-lent through partner banks and funds in Benin",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.afd.fr/fr/actualites/choose-africa-2-le-soutien-lentrepreneuriat-africain-monte-en-regime"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Sèmè City",
+    "city": "Cotonou",
+    "type": "government",
+    "investment": "no equity; incubation + grants",
+    "sectors": "generalist, deeptech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://semecity.bj/fr/"
+   },
+   {
+    "name": "EtriLabs",
+    "city": "Cotonou",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://etrilabs.com/"
+   },
+   {
+    "name": "BloLab",
+    "city": "Cotonou",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "digital, maker",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://blolab.bj/"
+   },
+   {
+    "name": "Orange Corners Benin",
+    "city": "Cotonou",
+    "type": "incubator",
+    "investment": "no equity; training + OCIF seed grant/loan for alumni",
+    "sectors": "generalist, youth-led",
+    "deadline": "unknown (annual cohorts)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.orangecorners.com/country/benin/"
+   },
+   {
+    "name": "Seedstars programs",
+    "city": "remote / regional",
+    "type": "accelerator",
+    "investment": "varies; acceleration and investment-readiness programs",
+    "sectors": "generalist, emerging markets",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.seedstars.com/programs/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Investisseurs & Partenaires (I&P)",
+    "city": "Paris / regional",
+    "stage": "seed to growth (SMEs)",
+    "check_size": "unknown",
+    "sectors": "impact SMEs",
+    "type": "vc",
+    "url": "https://www.ietp.com/en"
+   },
+   {
+    "name": "Saviu Ventures",
+    "city": "Paris / Abidjan",
+    "stage": "seed / series A",
+    "check_size": "unknown",
+    "sectors": "tech, francophone Africa",
+    "type": "vc",
+    "url": "https://www.saviu.vc/"
+   },
+   {
+    "name": "Janngo Capital",
+    "city": "Abidjan / Paris",
+    "stage": "seed / series A",
+    "check_size": "unknown",
+    "sectors": "tech, gender-lens",
+    "type": "vc",
+    "url": "https://www.janngo.com/"
+   },
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "ADPME",
+    "type": "government_agency",
+    "url": "https://epme.adpme.bj/",
+    "note": "SME development agency platform"
+   },
+   {
+    "name": "Sèmè City",
+    "type": "government_agency",
+    "url": "https://semecity.bj/fr/",
+    "note": "innovation city development agency"
+   },
+   {
+    "name": "World Bank - Benin",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/benin",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "BOAD / UEMOA",
+    "type": "other",
+    "url": "https://www.boad.org/fr",
+    "note": "West African (UEMOA) development bank"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   }
+  ],
+  "sources": [
+   "https://semecity.bj/fr/",
+   "https://vc4a.com/rise/rise-2026/?lang=fr",
+   "https://epme.adpme.bj/",
+   "https://www.orangecorners.com/country/benin/"
+  ],
+  "confidence": "medium",
+  "notes": "Fem'IMA 2026 (women entrepreneurs, Sèmè City) closed 2026-04-12. Benin is in Choose Africa 2 priority countries."
+ },
+ {
+  "country": "Togo",
+  "iso2": "TG",
+  "ecosystem_tier": "nascent",
+  "summary": "Lomé ecosystem of about 300 startups led by mobility/fintech super-app Gozem; government digital agenda via Agence Togo Digital; early-stage capital scarce.",
+  "startup_visa": "none",
+  "company_setup": "OHADA SARL/SAS via CFE one-stop shop (fast, online options). Diaspora founders often incorporate abroad with a local subsidiary.",
+  "grants": [
+   {
+    "name": "FAIEJ youth loans",
+    "agency": "Fonds d'Appui aux Initiatives Économiques des Jeunes",
+    "amount": "youth and honour loans, guarantees",
+    "amount_usd_max": null,
+    "eligibility": "young Togolese entrepreneurs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://faiej.tg/"
+   },
+   {
+    "name": "FNFI inclusive finance products",
+    "agency": "Fonds National de la Finance Inclusive",
+    "amount": "micro-loans",
+    "amount_usd_max": null,
+    "eligibility": "micro-entrepreneurs, youth, women",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://fnfi.tg/"
+   },
+   {
+    "name": "Choose Africa 2 credit lines",
+    "agency": "AFD Group / Bpifrance",
+    "amount": "loans and guarantees via local banks",
+    "amount_usd_max": null,
+    "eligibility": "MSMEs and startups; on-lent through partner banks and funds in Togo",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.afd.fr/fr/actualites/choose-africa-2-le-soutien-lentrepreneuriat-africain-monte-en-regime"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Tech startup support programme",
+    "city": "Lomé",
+    "type": "government",
+    "investment": "free 6-month programme",
+    "sectors": "tech",
+    "deadline": "last: 2026-07-12",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://numerique.gouv.tg/"
+   },
+   {
+    "name": "Woelab",
+    "city": "Lomé",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech, maker",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://woelab.com/"
+   },
+   {
+    "name": "Seedstars programs",
+    "city": "remote / regional",
+    "type": "accelerator",
+    "investment": "varies; acceleration and investment-readiness programs",
+    "sectors": "generalist, emerging markets",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.seedstars.com/programs/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Investisseurs & Partenaires (I&P)",
+    "city": "Paris / regional",
+    "stage": "seed to growth (SMEs)",
+    "check_size": "unknown",
+    "sectors": "impact SMEs",
+    "type": "vc",
+    "url": "https://www.ietp.com/en"
+   },
+   {
+    "name": "Saviu Ventures",
+    "city": "Paris / Abidjan",
+    "stage": "seed / series A",
+    "check_size": "unknown",
+    "sectors": "tech, francophone Africa",
+    "type": "vc",
+    "url": "https://www.saviu.vc/"
+   },
+   {
+    "name": "Janngo Capital",
+    "city": "Abidjan / Paris",
+    "stage": "seed / series A",
+    "check_size": "unknown",
+    "sectors": "tech, gender-lens",
+    "type": "vc",
+    "url": "https://www.janngo.com/"
+   },
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ministry of Digital Economy",
+    "type": "government_agency",
+    "url": "https://numerique.gouv.tg/",
+    "note": "digital policy; startup programmes"
+   },
+   {
+    "name": "CCI-Togo",
+    "type": "other",
+    "url": "https://www.ccit.tg/",
+    "note": "chamber of commerce; startup fund planned 2026"
+   },
+   {
+    "name": "World Bank - Togo",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/togo",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "BOAD / UEMOA",
+    "type": "other",
+    "url": "https://www.boad.org/fr",
+    "note": "West African (UEMOA) development bank"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   }
+  ],
+  "sources": [
+   "https://faiej.tg/",
+   "https://fnfi.tg/",
+   "https://numerique.gouv.tg/",
+   "https://www.ccit.tg/"
+  ],
+  "confidence": "medium",
+  "notes": "CCI-Togo startup investment fund planned for 2026; launch not confirmed. Agence Togo Digital site unreachable."
+ },
+ {
+  "country": "Burkina Faso",
+  "iso2": "BF",
+  "ecosystem_tier": "nascent",
+  "summary": "Small Ouagadougou ecosystem with Orange Digital Centers (three by 2026) and BeoogoLab startup studio; insecurity limits investment.",
+  "startup_visa": "none",
+  "company_setup": "OHADA SARL/SAS via Maison de l'Entreprise (CEFORE one-stop shop), typically within days. Diaspora/remote: incorporate abroad.",
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Orange Digital Center / Orange Fab Burkina Faso",
+    "city": "Ouagadougou",
+    "type": "corporate",
+    "investment": "no equity; free acceleration, Orange Ventures access",
+    "sectors": "digital, generalist",
+    "deadline": "annual call (usually Q1)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://www.orange.bf/"
+   },
+   {
+    "name": "BeoogoLAB",
+    "city": "Ouagadougou",
+    "type": "venture_studio",
+    "investment": "startup studio support",
+    "sectors": "tech generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.beoogolab.org/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Néré Capital (ex-Sinergi Burkina)",
+    "city": "Ouagadougou",
+    "stage": "seed (SMEs)",
+    "check_size": "unknown",
+    "sectors": "SMEs, generalist",
+    "type": "vc",
+    "url": "https://nerecapital.com/"
+   },
+   {
+    "name": "Investisseurs & Partenaires (I&P)",
+    "city": "Paris / regional",
+    "stage": "seed to growth (SMEs)",
+    "check_size": "unknown",
+    "sectors": "impact SMEs",
+    "type": "vc",
+    "url": "https://www.ietp.com/en"
+   },
+   {
+    "name": "Saviu Ventures",
+    "city": "Paris / Abidjan",
+    "stage": "seed / series A",
+    "check_size": "unknown",
+    "sectors": "tech, francophone Africa",
+    "type": "vc",
+    "url": "https://www.saviu.vc/"
+   },
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Maison de l'Entreprise du Burkina Faso",
+    "type": "government_agency",
+    "url": "https://www.me.bf/",
+    "note": "company creation and SME support"
+   },
+   {
+    "name": "World Bank - Burkina Faso",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/burkinafaso",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "BOAD / UEMOA",
+    "type": "other",
+    "url": "https://www.boad.org/fr",
+    "note": "West African (UEMOA) development bank"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "directory of angel networks across Africa"
+   }
+  ],
+  "sources": [
+   "https://www.me.bf/",
+   "https://nerecapital.com/",
+   "https://www.beoogolab.org/",
+   "https://www.orange.bf/"
+  ],
+  "confidence": "low",
+  "notes": "Military government; left ECOWAS (AES) in Jan 2025 but remains in UEMOA/CFA. Security risk deters foreign VC. La Fabrique site unreachable and omitted."
+ },
+ {
+  "country": "Mali",
+  "iso2": "ML",
+  "ecosystem_tier": "nascent",
+  "summary": "Bamako ecosystem with Donilab, Orange Digital Center and Orange Corners; young population, agritech/fintech/edtech focus; capital very limited.",
+  "startup_visa": "none",
+  "company_setup": "OHADA SARL/SAS via API-Mali one-stop shop. Diaspora route: incorporate abroad with local subsidiary.",
+  "grants": [
+   {
+    "name": "APEJ youth entrepreneurship loans",
+    "agency": "Agence pour la Promotion de l'Emploi des Jeunes",
+    "amount": "XOF 500k-10M loans",
+    "amount_usd_max": 17000,
+    "eligibility": "Malian entrepreneurs aged 18-40",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://apej.ml/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Orange Corners Mali",
+    "city": "Bamako (run by Donilab)",
+    "type": "incubator",
+    "investment": "no equity; training + OCIF seed grant/loan for alumni",
+    "sectors": "generalist, youth-led",
+    "deadline": "unknown (annual cohorts)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.orangecorners.com/country/mali/"
+   },
+   {
+    "name": "Orange Digital Center / Orange Fab Mali",
+    "city": "Bamako",
+    "type": "corporate",
+    "investment": "no equity; free acceleration, Orange Ventures access",
+    "sectors": "digital, generalist",
+    "deadline": "annual call (usually Q1)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://www.orangemali.com/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Investisseurs & Partenaires (I&P)",
+    "city": "Paris / regional",
+    "stage": "seed to growth (SMEs)",
+    "check_size": "unknown",
+    "sectors": "impact SMEs",
+    "type": "vc",
+    "url": "https://www.ietp.com/en"
+   },
+   {
+    "name": "Saviu Ventures",
+    "city": "Paris / Abidjan",
+    "stage": "seed / series A",
+    "check_size": "unknown",
+    "sectors": "tech, francophone Africa",
+    "type": "vc",
+    "url": "https://www.saviu.vc/"
+   },
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "APEJ",
+    "type": "government_agency",
+    "url": "https://apej.ml/",
+    "note": "youth employment and entrepreneurship agency"
+   },
+   {
+    "name": "World Bank - Mali",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/mali",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "BOAD / UEMOA",
+    "type": "other",
+    "url": "https://www.boad.org/fr",
+    "note": "West African (UEMOA) development bank"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   }
+  ],
+  "sources": [
+   "https://apej.ml/",
+   "https://www.orangecorners.com/country/mali/",
+   "https://www.orangemali.com/"
+  ],
+  "confidence": "low",
+  "notes": "Military government; left ECOWAS (AES) in Jan 2025; security and sanctions risk. APEJ loan range from a secondary guide. Donilab and API-Mali sites unreachable."
+ },
+ {
+  "country": "Guinea",
+  "iso2": "GN",
+  "ecosystem_tier": "nascent",
+  "summary": "Conakry hosts most of the country's startups; mining-sponsored programmes (Rio Tinto Future Champions) and Saboutech incubator; little VC.",
+  "startup_visa": "none",
+  "company_setup": "OHADA SARL/SAS via APIP one-stop shop (quick, low cost).",
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Saboutech",
+    "city": "Conakry",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "IT, renewable energy",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://saboutech.org/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Investisseurs & Partenaires (I&P)",
+    "city": "Paris / regional",
+    "stage": "seed to growth (SMEs)",
+    "check_size": "unknown",
+    "sectors": "impact SMEs",
+    "type": "vc",
+    "url": "https://www.ietp.com/en"
+   },
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "APIP Guinée",
+    "type": "government_agency",
+    "url": "https://apip.gov.gn/",
+    "note": "investment promotion and company registration"
+   },
+   {
+    "name": "World Bank - Guinea",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/guinea",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   },
+   {
+    "name": "ECOWAS Bank for Investment and Development",
+    "type": "other",
+    "url": "https://www.bidc-ebid.org/en/",
+    "note": "regional SME and private-sector lending"
+   }
+  ],
+  "sources": [
+   "https://apip.gov.gn/",
+   "https://saboutech.org/",
+   "https://www.ietp.com/en"
+  ],
+  "confidence": "low",
+  "notes": "Transitional military government. Future Champions Hackathon 2026 (Rio Tinto/Ecobank/TotalEnergies) launched 2026-10-15; no official URL verified. Orange Fab Guinée exists but its site was unreachable."
+ },
+ {
+  "country": "Guinea-Bissau",
+  "iso2": "GW",
+  "ecosystem_tier": "nascent",
+  "summary": "Very nascent ecosystem; no dedicated accelerators or VCs verified; support comes mainly from pan-African and donor programmes.",
+  "startup_visa": "none",
+  "company_setup": "OHADA company via the Centro de Formalização de Empresas (one-stop shop). Diaspora founders typically incorporate in Portugal or elsewhere.",
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "World Bank - Guinea-Bissau",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/guineabissau",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "BOAD / UEMOA",
+    "type": "other",
+    "url": "https://www.boad.org/fr",
+    "note": "West African (UEMOA) development bank"
+   },
+   {
+    "name": "ECOWAS Bank for Investment and Development",
+    "type": "other",
+    "url": "https://www.bidc-ebid.org/en/",
+    "note": "regional SME and private-sector lending"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   }
+  ],
+  "sources": [
+   "https://www.worldbank.org/en/country/guineabissau",
+   "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+  ],
+  "confidence": "low",
+  "notes": "Political instability. No national startup agency website verified."
+ },
+ {
+  "country": "Gambia",
+  "iso2": "GM",
+  "ecosystem_tier": "nascent",
+  "summary": "Small Banjul ecosystem; donor-backed (EU/ITC/Enabel) support for business support organisations; Gambia Angel Network for seed funding.",
+  "startup_visa": "none",
+  "company_setup": "Company limited by shares via the Single Window Business Registry (MoTIE); GIEPA supports foreign investors.",
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Startup Incubator Gambia",
+    "city": "Banjul",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist, youth",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://vc4a.com/ventures/startup-incubator-gambia/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Gambia Angel Network (GAIN)",
+    "city": "Banjul",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://vc4a.com/gambia-angel-network/"
+   },
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "GIEPA",
+    "type": "government_agency",
+    "url": "https://www.giepa.gm/",
+    "note": "investment and export promotion agency"
+   },
+   {
+    "name": "World Bank - The Gambia",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/gambia",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "ECOWAS Bank for Investment and Development",
+    "type": "other",
+    "url": "https://www.bidc-ebid.org/en/",
+    "note": "regional SME and private-sector lending"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   }
+  ],
+  "sources": [
+   "https://www.giepa.gm/",
+   "https://vc4a.com/gambia-angel-network/",
+   "https://vc4a.com/ventures/startup-incubator-gambia/"
+  ],
+  "confidence": "low",
+  "notes": "Youth Empowerment Project (YEP) site unreachable; omitted."
+ },
+ {
+  "country": "Sierra Leone",
+  "iso2": "SL",
+  "ecosystem_tier": "nascent",
+  "summary": "Freetown ecosystem driven by DSTI and Freetown Innovation Week; Startup Act enacted per government (2026); Redsalt angel network launched Dec 2025.",
+  "startup_visa": "none",
+  "company_setup": "Company limited by shares via the Corporate Affairs Commission (online); SLIEPA assists foreign investors.",
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Orange Digital Center / Orange Fab Sierra Leone",
+    "city": "Freetown",
+    "type": "corporate",
+    "investment": "no equity; free acceleration, Orange Ventures access",
+    "sectors": "digital, generalist",
+    "deadline": "annual call (usually Q1)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://www.orange.sl/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Redsalt Angel Investment Network",
+    "city": "Freetown",
+    "stage": "pre-seed / seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.redsalt.org/"
+   },
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "DSTI",
+    "type": "government_agency",
+    "url": "https://dsti.gov.sl/",
+    "note": "Directorate of Science, Technology and Innovation"
+   },
+   {
+    "name": "SLIEPA",
+    "type": "government_agency",
+    "url": "https://www.sliepa.gov.sl/",
+    "note": "investment and export promotion agency"
+   },
+   {
+    "name": "SMEDA",
+    "type": "government_agency",
+    "url": "https://smeda.gov.sl/",
+    "note": "SME development agency"
+   },
+   {
+    "name": "World Bank - Sierra Leone",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/sierraleone",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "ECOWAS Bank for Investment and Development",
+    "type": "other",
+    "url": "https://www.bidc-ebid.org/en/",
+    "note": "regional SME and private-sector lending"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   }
+  ],
+  "sources": [
+   "https://dsti.gov.sl/",
+   "https://www.redsalt.org/",
+   "https://www.sliepa.gov.sl/",
+   "https://smeda.gov.sl/"
+  ],
+  "confidence": "low",
+  "notes": "Sierra Leone Innovation Investment Fund (blended finance) in preparation; no URL verified."
+ },
+ {
+  "country": "Liberia",
+  "iso2": "LR",
+  "ecosystem_tier": "nascent",
+  "summary": "Very small Monrovia ecosystem with iLab Liberia and Orange Digital Center; donor-funded SME support dominates.",
+  "startup_visa": "none",
+  "company_setup": "Company registration at the Liberia Business Registry (one-stop shop); NIC supports investors.",
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Orange Digital Center / Orange Fab Liberia",
+    "city": "Monrovia",
+    "type": "corporate",
+    "investment": "no equity; free acceleration, Orange Ventures access",
+    "sectors": "digital, generalist",
+    "deadline": "annual call (usually Q1)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://www.orange.com.lr/"
+   },
+   {
+    "name": "iLab Liberia",
+    "city": "Monrovia",
+    "type": "incubator",
+    "investment": "no equity; tech training and hub",
+    "sectors": "tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://ilabliberia.org/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "National Investment Commission",
+    "type": "government_agency",
+    "url": "https://nic.gov.lr/",
+    "note": "investment promotion"
+   },
+   {
+    "name": "World Bank - Liberia",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/liberia",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "ECOWAS Bank for Investment and Development",
+    "type": "other",
+    "url": "https://www.bidc-ebid.org/en/",
+    "note": "regional SME and private-sector lending"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   }
+  ],
+  "sources": [
+   "https://nic.gov.lr/",
+   "https://www.orange.com.lr/",
+   "https://ilabliberia.org/"
+  ],
+  "confidence": "low",
+  "notes": "Few verifiable startup-specific programmes."
+ },
+ {
+  "country": "Niger",
+  "iso2": "NE",
+  "ecosystem_tier": "nascent",
+  "summary": "Very nascent Niamey ecosystem (CIPMEN incubator historically); agri financing via FISAN; capital extremely scarce.",
+  "startup_visa": "none",
+  "company_setup": "OHADA SARL/SAS via Maison de l'Entreprise one-stop shop. Diaspora route: incorporate abroad.",
+  "grants": [
+   {
+    "name": "FISAN financing facilities",
+    "agency": "Fonds d'Investissement pour la Sécurité Alimentaire et Nutritionnelle",
+    "amount": "matching grants and credit for agri projects",
+    "amount_usd_max": null,
+    "eligibility": "agri producers and agribusiness",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://fisan.ne/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "ANSI",
+    "type": "government_agency",
+    "url": "https://ansi.ne/",
+    "note": "national information society (digital) agency"
+   },
+   {
+    "name": "World Bank - Niger",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/niger",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "BOAD / UEMOA",
+    "type": "other",
+    "url": "https://www.boad.org/fr",
+    "note": "West African (UEMOA) development bank"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   }
+  ],
+  "sources": [
+   "https://fisan.ne/",
+   "https://ansi.ne/",
+   "https://www.worldbank.org/en/country/niger"
+  ],
+  "confidence": "low",
+  "notes": "Military government since 2023; left ECOWAS (AES) Jan 2025; donor programmes partly suspended. CIPMEN site unreachable; omitted."
+ },
+ {
+  "country": "Cabo Verde",
+  "iso2": "CV",
+  "ecosystem_tier": "nascent",
+  "summary": "Small, stable island economy positioning as a digital hub (TechPark CV in Praia) with public SME agency, venture-capital and guarantee companies.",
+  "startup_visa": "none (Remote Working Cabo Verde digital-nomad visa exists)",
+  "company_setup": "Company via Casa do Cidadão / Empresa no Dia (same-day registration possible); foreigners may own 100%.",
+  "grants": [
+   {
+    "name": "Pró Garante credit guarantees",
+    "agency": "Pró Garante",
+    "amount": "loan guarantees",
+    "amount_usd_max": null,
+    "eligibility": "Cabo Verdean micro/small firms",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.progarante.cv/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "TechPark CV",
+    "city": "Praia",
+    "type": "government",
+    "investment": "no equity; incubation",
+    "sectors": "ICT",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.techpark.cv/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Pró Capital",
+    "city": "Praia",
+    "stage": "seed / growth",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.procapital.cv/"
+   },
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Pró Empresa",
+    "type": "government_agency",
+    "url": "https://www.proempresa.cv/",
+    "note": "SME and entrepreneurship agency"
+   },
+   {
+    "name": "Cabo Verde TradeInvest",
+    "type": "government_agency",
+    "url": "https://www.cvtradeinvest.com/",
+    "note": "investment promotion"
+   },
+   {
+    "name": "World Bank - Cabo Verde",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/caboverde",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "ECOWAS Bank for Investment and Development",
+    "type": "other",
+    "url": "https://www.bidc-ebid.org/en/",
+    "note": "regional SME and private-sector lending"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   }
+  ],
+  "sources": [
+   "https://www.proempresa.cv/",
+   "https://www.procapital.cv/",
+   "https://www.progarante.cv/",
+   "https://www.techpark.cv/"
+  ],
+  "confidence": "medium",
+  "notes": "Digital-nomad visa site not verified."
+ },
+ {
+  "country": "Cameroon",
+  "iso2": "CM",
+  "ecosystem_tier": "emerging",
+  "summary": "Bilingual ecosystem across Douala, Yaoundé and Buea (Silicon Mountain); strengths in fintech and edtech; CEMAC/CFA zone.",
+  "startup_visa": "none",
+  "company_setup": "OHADA SARL/SAS via CFCE one-stop shop (online, about 72 hours).",
+  "grants": [
+   {
+    "name": "BC-PME SME lending",
+    "agency": "Banque Camerounaise des PME",
+    "amount": "SME loans",
+    "amount_usd_max": null,
+    "eligibility": "Cameroonian SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://bc-pme.com/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Orange Digital Center / Orange Fab Cameroon",
+    "city": "Douala / Yaoundé",
+    "type": "corporate",
+    "investment": "no equity; free acceleration, Orange Ventures access",
+    "sectors": "digital, generalist",
+    "deadline": "annual call (usually Q1)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://www.orange.cm/"
+   },
+   {
+    "name": "Seedstars programs",
+    "city": "remote / regional",
+    "type": "accelerator",
+    "investment": "varies; acceleration and investment-readiness programs",
+    "sectors": "generalist, emerging markets",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.seedstars.com/programs/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "remote / hybrid",
+    "type": "accelerator",
+    "investment": "no equity; Google Cloud credits",
+    "sectors": "AI/ML, growth-stage tech",
+    "deadline": "annual (usually Feb-Mar); last: 2026-03-18",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Partech Africa",
+    "city": "Dakar / Lagos",
+    "stage": "seed to series B",
+    "check_size": "US$1M-15M",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://partechpartners.com/funds"
+   },
+   {
+    "name": "Janngo Capital",
+    "city": "Abidjan / Paris",
+    "stage": "seed / series A",
+    "check_size": "unknown",
+    "sectors": "tech, gender-lens",
+    "type": "vc",
+    "url": "https://www.janngo.com/"
+   },
+   {
+    "name": "Saviu Ventures",
+    "city": "Paris / Abidjan",
+    "stage": "seed / series A",
+    "check_size": "unknown",
+    "sectors": "tech, francophone Africa",
+    "type": "vc",
+    "url": "https://www.saviu.vc/"
+   },
+   {
+    "name": "Investisseurs & Partenaires (I&P)",
+    "city": "Paris / regional",
+    "stage": "seed to growth (SMEs)",
+    "check_size": "unknown",
+    "sectors": "impact SMEs",
+    "type": "vc",
+    "url": "https://www.ietp.com/en"
+   },
+   {
+    "name": "AfricInvest",
+    "city": "regional",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "fintech, health, consumer",
+    "type": "vc",
+    "url": "https://www.africinvest.com/"
+   },
+   {
+    "name": "Launch Africa Ventures",
+    "city": "remote",
+    "stage": "pre-seed / seed",
+    "check_size": "unknown",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "MINPMEESA",
+    "type": "government_agency",
+    "url": "https://www.minpmeesa.cm/",
+    "note": "ministry of SMEs and social economy"
+   },
+   {
+    "name": "APME",
+    "type": "government_agency",
+    "url": "https://apme.cm/",
+    "note": "SME promotion agency"
+   },
+   {
+    "name": "Invest in Cameroon (API)",
+    "type": "government_agency",
+    "url": "https://www.investincameroon.net/",
+    "note": "investment promotion"
+   },
+   {
+    "name": "World Bank - Cameroon",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/cameroon",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "BDEAC (CEMAC development bank)",
+    "type": "other",
+    "url": "https://www.bdeac.org/",
+    "note": "Central African regional development bank"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   }
+  ],
+  "sources": [
+   "https://www.minpmeesa.cm/",
+   "https://apme.cm/",
+   "https://bc-pme.com/",
+   "https://www.orange.cm/"
+  ],
+  "confidence": "low",
+  "notes": "ActivSpaces site under construction at time of check; omitted. Anglophone-region conflict affects Buea."
+ },
+ {
+  "country": "Central African Republic",
+  "iso2": "CF",
+  "ecosystem_tier": "nascent",
+  "summary": "Fragile state with almost no formal startup ecosystem; activity limited to donor and pan-African programmes.",
+  "startup_visa": "none",
+  "company_setup": "OHADA company via the Guichet Unique de Formalités des Entreprises in Bangui. Diaspora route: incorporate abroad.",
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "World Bank - Central African Republic",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/centralafricanrepublic",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "BDEAC (CEMAC development bank)",
+    "type": "other",
+    "url": "https://www.bdeac.org/",
+    "note": "Central African regional development bank"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   }
+  ],
+  "sources": [
+   "https://www.worldbank.org/en/country/centralafricanrepublic",
+   "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+  ],
+  "confidence": "low",
+  "notes": "Ongoing conflict; no national startup agency or Orange Digital Center site verified."
+ },
+ {
+  "country": "Chad",
+  "iso2": "TD",
+  "ecosystem_tier": "nascent",
+  "summary": "Nascent N'Djamena ecosystem anchored by WenakLabs; government digital agency ADETIC; very limited capital.",
+  "startup_visa": "none",
+  "company_setup": "OHADA company via ANIE one-stop shop in N'Djamena.",
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "WenakLabs",
+    "city": "N'Djamena",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech, civic",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://wenaklabs.org/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "ANIE Tchad",
+    "type": "government_agency",
+    "url": "https://anie-tchad.com/",
+    "note": "investment and export agency"
+   },
+   {
+    "name": "ADETIC",
+    "type": "government_agency",
+    "url": "https://adetic.td/",
+    "note": "ICT development agency"
+   },
+   {
+    "name": "FONAP",
+    "type": "government_agency",
+    "url": "https://www.fonap.td/",
+    "note": "vocational training fund"
+   },
+   {
+    "name": "World Bank - Chad",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/chad",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "BDEAC (CEMAC development bank)",
+    "type": "other",
+    "url": "https://www.bdeac.org/",
+    "note": "Central African regional development bank"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   }
+  ],
+  "sources": [
+   "https://wenaklabs.org/",
+   "https://anie-tchad.com/",
+   "https://adetic.td/"
+  ],
+  "confidence": "low",
+  "notes": "Political transition and regional insecurity."
+ },
+ {
+  "country": "Republic of the Congo",
+  "iso2": "CG",
+  "ecosystem_tier": "nascent",
+  "summary": "Small Brazzaville/Pointe-Noire ecosystem with BantuHub; oil-dependent economy, little venture capital.",
+  "startup_visa": "none",
+  "company_setup": "OHADA company via the Agence pour la Création des Entreprises (ACPCE) one-stop shop.",
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "BantuHub",
+    "city": "Brazzaville",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech, generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://bantuhub.com/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "World Bank - Republic of the Congo",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/congo",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "BDEAC (CEMAC development bank)",
+    "type": "other",
+    "url": "https://www.bdeac.org/",
+    "note": "Central African regional development bank"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   }
+  ],
+  "sources": [
+   "https://bantuhub.com/",
+   "https://www.worldbank.org/en/country/congo"
+  ],
+  "confidence": "low",
+  "notes": "FIGA guarantee fund site returned server error; omitted."
+ },
+ {
+  "country": "Congo (DRC)",
+  "iso2": "CD",
+  "ecosystem_tier": "nascent",
+  "summary": "Large, fast-growing Kinshasa scene (plus Goma, Lubumbashi) with hubs like Silikin Village and Ingenious City; 2022 startup law; fintech and edtech lead.",
+  "startup_visa": "none",
+  "company_setup": "OHADA SARL/SAS via the Guichet Unique de Création d'Entreprise (online, few days); ANAPI supports investors.",
+  "grants": [
+   {
+    "name": "FOGEC guarantees and financing",
+    "agency": "Fonds de Garantie de l'Entrepreneuriat au Congo",
+    "amount": "credit guarantees / financing",
+    "amount_usd_max": null,
+    "eligibility": "Congolese entrepreneurs and SMEs",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://fogec.cd/portal/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Silikin Village",
+    "city": "Kinshasa",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.silikinvillage.com/"
+   },
+   {
+    "name": "Ingenious City",
+    "city": "Kinshasa",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ingeniouscity.com/"
+   },
+   {
+    "name": "Orange Corners DRC",
+    "city": "Kinshasa",
+    "type": "incubator",
+    "investment": "no equity; training + OCIF seed grant/loan for alumni",
+    "sectors": "generalist, youth-led",
+    "deadline": "unknown (annual cohorts)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+   },
+   {
+    "name": "Orange Digital Center / Orange Fab DRC",
+    "city": "Kinshasa",
+    "type": "corporate",
+    "investment": "no equity; free acceleration, Orange Ventures access",
+    "sectors": "digital, generalist",
+    "deadline": "annual call (usually Q1)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://www.orange.cd/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Partech Africa",
+    "city": "Dakar / Lagos",
+    "stage": "seed to series B",
+    "check_size": "US$1M-15M",
+    "sectors": "tech generalist",
+    "type": "vc",
+    "url": "https://partechpartners.com/funds"
+   },
+   {
+    "name": "Saviu Ventures",
+    "city": "Paris / Abidjan",
+    "stage": "seed / series A",
+    "check_size": "unknown",
+    "sectors": "tech, francophone Africa",
+    "type": "vc",
+    "url": "https://www.saviu.vc/"
+   },
+   {
+    "name": "Investisseurs & Partenaires (I&P)",
+    "city": "Paris / regional",
+    "stage": "seed to growth (SMEs)",
+    "check_size": "unknown",
+    "sectors": "impact SMEs",
+    "type": "vc",
+    "url": "https://www.ietp.com/en"
+   },
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "ANAPI",
+    "type": "government_agency",
+    "url": "https://anapi.cd/",
+    "note": "investment promotion agency"
+   },
+   {
+    "name": "ANADEC",
+    "type": "government_agency",
+    "url": "https://www.anadec.cd/",
+    "note": "entrepreneurship development agency"
+   },
+   {
+    "name": "Kadea Academy",
+    "type": "other",
+    "url": "https://www.kadea.academy/",
+    "note": "coding school / talent"
+   },
+   {
+    "name": "World Bank - DRC",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/drc",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "BDEAC (CEMAC development bank)",
+    "type": "other",
+    "url": "https://www.bdeac.org/",
+    "note": "Central African regional development bank"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   }
+  ],
+  "sources": [
+   "https://anapi.cd/",
+   "https://fogec.cd/portal/",
+   "https://www.silikinvillage.com/",
+   "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+  ],
+  "confidence": "low",
+  "notes": "Conflict in the east (North/South Kivu). Startup ordinance-law of 2022 provides label and tax incentives; official portal not verified."
+ },
+ {
+  "country": "Gabon",
+  "iso2": "GA",
+  "ecosystem_tier": "nascent",
+  "summary": "Small Libreville ecosystem; sovereign fund FGIS is the main domestic investor; startup support mostly via donors and pan-African programmes.",
+  "startup_visa": "none",
+  "company_setup": "OHADA company via ANPI-Gabon one-stop shop (site not verified).",
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "Fonds Gabonais d'Investissements Stratégiques (FGIS)",
+    "city": "Libreville",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "strategic sectors, SMEs",
+    "type": "government_fund",
+    "url": "https://www.fgis-gabon.com/"
+   },
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "World Bank - Gabon",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/gabon",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "BDEAC (CEMAC development bank)",
+    "type": "other",
+    "url": "https://www.bdeac.org/",
+    "note": "Central African regional development bank"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   }
+  ],
+  "sources": [
+   "https://www.fgis-gabon.com/",
+   "https://www.worldbank.org/en/country/gabon"
+  ],
+  "confidence": "low",
+  "notes": "Transition government since 2023 coup, elections held 2025. ANPI-Gabon and Ogooué Labs sites unreachable."
+ },
+ {
+  "country": "Equatorial Guinea",
+  "iso2": "GQ",
+  "ecosystem_tier": "nascent",
+  "summary": "Essentially no formal startup ecosystem; oil-dependent economy; only pan-African and regional programmes apply.",
+  "startup_visa": "none",
+  "company_setup": "OHADA company via the Ventanilla Única Empresarial in Malabo; local partner often needed. Diaspora route: incorporate abroad.",
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "World Bank - Equatorial Guinea",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/equatorialguinea",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "BDEAC (CEMAC development bank)",
+    "type": "other",
+    "url": "https://www.bdeac.org/",
+    "note": "Central African regional development bank"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   }
+  ],
+  "sources": [
+   "https://www.worldbank.org/en/country/equatorialguinea",
+   "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+  ],
+  "confidence": "low",
+  "notes": "No national startup programmes verified."
+ },
+ {
+  "country": "Sao Tome & Principe",
+  "iso2": "ST",
+  "ecosystem_tier": "nascent",
+  "summary": "Micro-state with no formal startup ecosystem; Portuguese-speaking; relies on donor and pan-African programmes.",
+  "startup_visa": "none",
+  "company_setup": "OHADA company via the Guiché Único para Empresas (fast, low cost). Diaspora route: incorporate in Portugal.",
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 seed grant + training",
+    "amount_usd_max": 5000,
+    "eligibility": "African citizens/residents with a business under 5 years old",
+    "deadline": "annual (usually 1 Jan - 1 Mar); last: 2026-03-01",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M pool; top prize up to US$300,000",
+    "amount_usd_max": 300000,
+    "eligibility": "African founders, business 3+ years operating with revenue",
+    "deadline": "annual (usually opens Mar); last: 2026-05-07",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "Digital Africa Fuze",
+    "city": "Paris (French public)",
+    "stage": "pre-seed / seed",
+    "check_size": "up to EUR 100k (~US$115k)",
+    "sectors": "tech, any sector",
+    "type": "government_fund",
+    "url": "https://digital-africa.co/fuze"
+   }
+  ],
+  "resources": [
+   {
+    "name": "World Bank - Sao Tome and Principe",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/saotome",
+    "note": "SME, digital and youth-entrepreneurship projects"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/en",
+    "note": "Boost Africa, AFAWA and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP Timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and hubs"
+   }
+  ],
+  "sources": [
+   "https://www.worldbank.org/en/country/saotome",
+   "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+  ],
+  "confidence": "low",
+  "notes": "No national startup programmes verified."
+ }
+]

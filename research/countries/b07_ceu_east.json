@@ -1,0 +1,3613 @@
+[
+ {
+  "country": "Poland",
+  "iso2": "PL",
+  "ecosystem_tier": "established",
+  "summary": "Largest CEE startup market, centred on Warsaw, Krakow and Wroclaw, with deep software and deeptech talent. Public money via PFR Ventures fund-of-funds and PARP/NCBR grants dominates early-stage capital; notable exits include Booksy, DocPlanner and ElevenLabs roots.",
+  "startup_visa": "none (no dedicated startup visa; founders use standard business residence permits)",
+  "company_setup": "sp. z o.o. (LLC), min capital PLN 5,000; online S24 registration in about a day (needs Polish e-ID/PESEL), otherwise via notary in 1-2 weeks. Non-residents can incorporate.",
+  "grants": [
+   {
+    "name": "Platformy startowe dla nowych pomyslow",
+    "agency": "PARP (FEPW)",
+    "amount": "incubation + development grant (roughly up to PLN 1M)",
+    "amount_usd_max": 270000,
+    "eligibility": "early-stage founders in Eastern Poland via startup platforms",
+    "deadline": "rolling (periodic recruitment by platform operators)",
+    "status": "rolling",
+    "url": "https://www.parp.gov.pl"
+   },
+   {
+    "name": "Sciezka SMART (FENG)",
+    "agency": "PARP / NCBR",
+    "amount": "multi-million PLN R&D and innovation grants",
+    "amount_usd_max": null,
+    "eligibility": "SMEs with R&D and implementation projects",
+    "deadline": "annual calls (check PARP schedule)",
+    "status": "unknown",
+    "url": "https://www.parp.gov.pl"
+   },
+   {
+    "name": "NCBR R&D competitions (incl. STARTER)",
+    "agency": "National Centre for Research and Development",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "companies and consortia with R&D projects",
+    "deadline": "see NCBR 2026 call schedule",
+    "status": "unknown",
+    "url": "https://www.gov.pl/web/ncbr"
+   },
+   {
+    "name": "ESA BIC Poland incentive",
+    "agency": "ARP S.A. / European Space Agency",
+    "amount": "up to EUR 50k (Boost up to EUR 100k)",
+    "amount_usd_max": 58000,
+    "eligibility": "space-related startups incubated in Poland",
+    "deadline": "2026-10-23",
+    "status": "open",
+    "url": "https://esabic.pl"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M + equity EUR 1-10M",
+    "amount_usd_max": 13500000,
+    "eligibility": "EU SMEs/startups, TRL 6-8; short proposals any time",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "KPT ScaleUp",
+    "city": "Krakow",
+    "type": "government",
+    "investment": "about PLN 300k grant, no equity stated",
+    "sectors": "industry 4.0",
+    "deadline": "rolling (technology-recipient track recruiting)",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://scaleup.kpt.krakow.pl/"
+   },
+   {
+    "name": "ESA BIC Poland",
+    "city": "Warsaw",
+    "type": "incubator",
+    "investment": "up to EUR 50k incentive, no equity",
+    "sectors": "space tech",
+    "deadline": "2026-10-23",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://esabic.pl"
+   },
+   {
+    "name": "MIT Enterprise Forum CEE (Rethink / Pilot Ready cohorts)",
+    "city": "Warsaw",
+    "type": "accelerator",
+    "investment": "equity-free",
+    "sectors": "generalist, corporate pilots",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.mitefcee.org"
+   },
+   {
+    "name": "Huge Thing",
+    "city": "Poznan",
+    "type": "accelerator",
+    "investment": "acceleration programs, terms vary",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://hugething.vc"
+   },
+   {
+    "name": "Krakow Technology Park incubator",
+    "city": "Krakow",
+    "type": "incubator",
+    "investment": "office space and support",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.kpt.krakow.pl"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "PFR Ventures",
+    "city": "Warsaw",
+    "stage": "multi",
+    "check_size": "fund-of-funds (via private VCs)",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://pfrventures.pl"
+   },
+   {
+    "name": "Inovo Venture Partners",
+    "city": "Warsaw",
+    "stage": "seed",
+    "check_size": "EUR 0.5-4M",
+    "sectors": "B2B software, AI, devtools, health",
+    "type": "vc",
+    "url": "https://inovo.vc"
+   },
+   {
+    "name": "OTB Ventures",
+    "city": "Warsaw",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "deeptech, AI, spacetech",
+    "type": "vc",
+    "url": "https://otb.vc"
+   },
+   {
+    "name": "SMOK Ventures",
+    "city": "Warsaw",
+    "stage": "pre-seed",
+    "check_size": "EUR 100k-1M",
+    "sectors": "devtools, AI",
+    "type": "vc",
+    "url": "https://smok.vc"
+   },
+   {
+    "name": "Movens Capital",
+    "city": "Warsaw",
+    "stage": "multi",
+    "check_size": "EUR 0.25-3M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://movenscapital.com"
+   },
+   {
+    "name": "Sunfish Partners",
+    "city": "Warsaw",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deeptech",
+    "type": "vc",
+    "url": "https://sunfish.vc"
+   },
+   {
+    "name": "Innovation Nest",
+    "city": "Krakow",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B software",
+    "type": "vc",
+    "url": "https://innovationnest.com/"
+   },
+   {
+    "name": "Bitspiration VC",
+    "city": "Krakow",
+    "stage": "pre-seed",
+    "check_size": "US$50k-1M",
+    "sectors": "AI, biotech, defense, robotics",
+    "type": "vc",
+    "url": "https://bitspiration.vc/"
+   },
+   {
+    "name": "Simpact Ventures",
+    "city": "Warsaw",
+    "stage": "seed",
+    "check_size": "up to EUR 2M",
+    "sectors": "impact, medtech, edtech",
+    "type": "vc",
+    "url": "https://www.simpact.vc/"
+   },
+   {
+    "name": "KAYA",
+    "city": "Warsaw",
+    "stage": "seed",
+    "check_size": "US$1-3M",
+    "sectors": "digital, physical, consumer",
+    "type": "vc",
+    "url": "https://kaya.vc"
+   },
+   {
+    "name": "Unfold.vc",
+    "city": "Wroclaw",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://unfold.vc"
+   },
+   {
+    "name": "RKKVC",
+    "city": "Warsaw",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://rkkvc.com"
+   },
+   {
+    "name": "Black Pearls VC",
+    "city": "Wroclaw",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://blackpearls.vc"
+   },
+   {
+    "name": "SpeedUp Venture Capital Group",
+    "city": "Poznan",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://speedupgroup.com"
+   },
+   {
+    "name": "EEC Ventures",
+    "city": "Warsaw",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "industrial and energy tech",
+    "type": "vc",
+    "url": "https://eecventures.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "PARP (Polish Agency for Enterprise Development)",
+    "type": "government_agency",
+    "url": "https://www.parp.gov.pl",
+    "note": "main SME and startup grant agency"
+   },
+   {
+    "name": "NCBR",
+    "type": "government_agency",
+    "url": "https://www.gov.pl/web/ncbr",
+    "note": "national R&D funding agency"
+   },
+   {
+    "name": "Polish Investment and Trade Agency (PAIH)",
+    "type": "government_agency",
+    "url": "https://www.paih.gov.pl/en/",
+    "note": "investment and export support"
+   },
+   {
+    "name": "Startup Poland",
+    "type": "startup_association",
+    "url": "https://startuppoland.org",
+    "note": "policy foundation, annual Polskie Startupy report"
+   },
+   {
+    "name": "ARP S.A.",
+    "type": "government_agency",
+    "url": "https://arp.pl/pl/",
+    "note": "industrial development agency, runs ESA BIC Poland"
+   }
+  ],
+  "sources": [
+   "https://inovo.vc",
+   "https://esabic.pl",
+   "https://scaleup.kpt.krakow.pl/",
+   "https://startuppoland.org",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "medium",
+  "notes": "PARP and PFR Ventures sites block automated access; program names confirmed but current PARP call dates not verified (Oct 2026). EIC next full-proposal cut-off 2026-11-04."
+ },
+ {
+  "country": "Czechia",
+  "iso2": "CZ",
+  "ecosystem_tier": "established",
+  "summary": "Prague and Brno hubs with strong engineering talent; exits and unicorns include Avast, Productboard, Rohlik and Mews. Active local VCs (Credo, Rockaway, Reflex, Presto) plus government support via CzechInvest, TACR and NRB.",
+  "startup_visa": "Key and Scientific Personnel Programme for startups (CzechInvest), https://czechstartups.gov.cz/startup-viza/",
+  "company_setup": "s.r.o. with CZK 1 minimum capital; requires notarial deed and trade licence, typically 1-3 weeks; foreigners can incorporate, often via proxy/notary.",
+  "grants": [
+   {
+    "name": "TACR SIGMA programme (18th competition, sub-goal 1 commercialisation)",
+    "agency": "Technology Agency of the Czech Republic",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "research organisations and companies commercialising R&D",
+    "deadline": "open (closing date on call page)",
+    "status": "open",
+    "url": "https://tacr.gov.cz/soutez/program-sigma/osmnacta-verejna-soutez-dilci-cil-1-podpora-komercializace-vavai/"
+   },
+   {
+    "name": "ESA BIC Czech Republic",
+    "agency": "CzechInvest / ESA",
+    "amount": "up to EUR 180k non-equity",
+    "amount_usd_max": 195000,
+    "eligibility": "space-tech startups",
+    "deadline": "around turn of 2026/2027 (date TBC)",
+    "status": "upcoming",
+    "url": "https://www.esa-bic.cz/"
+   },
+   {
+    "name": "OP TAK SME calls (Inovace, Aplikace, Proof of Concept etc.)",
+    "agency": "API - Agency for Enterprise and Innovation",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "SMEs",
+    "deadline": "per call",
+    "status": "unknown",
+    "url": "https://apiagentura.gov.cz/"
+   },
+   {
+    "name": "NRB Expanze OP TAK loans and guarantees",
+    "agency": "National Development Bank (NRB)",
+    "amount": "soft loans and guarantees",
+    "amount_usd_max": null,
+    "eligibility": "SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.nrb.cz/en/"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M + equity EUR 1-10M",
+    "amount_usd_max": 13500000,
+    "eligibility": "EU SMEs/startups, TRL 6-8; short proposals any time",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "StartupYard",
+    "city": "Prague",
+    "type": "accelerator",
+    "investment": "seed investment (backed by Credo, Rockaway)",
+    "sectors": "fintech track (with DEPO Ventures, Mastercard); deeptech",
+    "deadline": "rolling (FinTech track open; Deep-Tech closed)",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://startupyard.com/apply-to-startupyard-remote-lab/"
+   },
+   {
+    "name": "JICbooster",
+    "city": "Brno",
+    "type": "incubator",
+    "investment": "incubation, possible seed funding",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.jic.cz/en/"
+   },
+   {
+    "name": "ESA BIC Czech Republic",
+    "city": "Prague",
+    "type": "government",
+    "investment": "up to EUR 180k, no equity",
+    "sectors": "space tech",
+    "deadline": "around turn of 2026/2027",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://www.esa-bic.cz/"
+   },
+   {
+    "name": "Impact Hub Czech Republic",
+    "city": "Prague",
+    "type": "incubator",
+    "investment": "programs, no equity",
+    "sectors": "impact",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://impacthub.cz/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Credo Ventures",
+    "city": "Prague",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://credoventures.com"
+   },
+   {
+    "name": "Rockaway Ventures",
+    "city": "Prague",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "e-commerce, travel, logistics, cyber, defence, cleantech",
+    "type": "vc",
+    "url": "https://www.rockawayventures.com"
+   },
+   {
+    "name": "Reflex Capital",
+    "city": "Prague",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "software, data, health, consumer",
+    "type": "vc",
+    "url": "https://www.reflexcapital.com/"
+   },
+   {
+    "name": "Presto Ventures",
+    "city": "Prague",
+    "stage": "seed",
+    "check_size": "EUR 0.5-5M",
+    "sectors": "security, defence, aerospace, dual-use",
+    "type": "vc",
+    "url": "https://prestoventures.com/"
+   },
+   {
+    "name": "Purple Ventures",
+    "city": "Brno",
+    "stage": "pre-seed",
+    "check_size": "EUR 250-400k",
+    "sectors": "AI, fintech, health, energy",
+    "type": "vc",
+    "url": "https://purple-ventures.com/"
+   },
+   {
+    "name": "J&T Ventures",
+    "city": "Prague",
+    "stage": "multi",
+    "check_size": "EUR 0.3-3M",
+    "sectors": "generalist B2B/B2C",
+    "type": "vc",
+    "url": "https://www.jtventures.cz"
+   },
+   {
+    "name": "Tilia Impact Ventures",
+    "city": "Prague",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "impact",
+    "type": "vc",
+    "url": "https://www.tilia.vc"
+   },
+   {
+    "name": "DEPO Ventures",
+    "city": "Prague",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "fintech, generalist",
+    "type": "vc",
+    "url": "https://depoventures.com/"
+   },
+   {
+    "name": "Miton",
+    "city": "Prague",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech venture builder",
+    "type": "vc",
+    "url": "https://www.miton.cz/"
+   },
+   {
+    "name": "KAYA",
+    "city": "Prague",
+    "stage": "seed",
+    "check_size": "US$1-3M",
+    "sectors": "digital, physical, consumer",
+    "type": "vc",
+    "url": "https://kaya.vc"
+   }
+  ],
+  "resources": [
+   {
+    "name": "CzechInvest",
+    "type": "government_agency",
+    "url": "https://czechinvest.gov.cz/en",
+    "note": "startup, incubation and investment agency"
+   },
+   {
+    "name": "CzechStartups.gov.cz",
+    "type": "database",
+    "url": "https://czechstartups.gov.cz/",
+    "note": "official startup portal, Czech Startup Week, visas"
+   },
+   {
+    "name": "TACR",
+    "type": "government_agency",
+    "url": "https://tacr.gov.cz",
+    "note": "applied R&D funding agency"
+   },
+   {
+    "name": "National Development Bank (NRB)",
+    "type": "government_agency",
+    "url": "https://www.nrb.cz/en/",
+    "note": "soft loans, guarantees, IPO Fund 2025+"
+   },
+   {
+    "name": "JIC Innovation Agency",
+    "type": "government_agency",
+    "url": "https://www.jic.cz/en/",
+    "note": "South Moravian innovation agency, Brno"
+   }
+  ],
+  "sources": [
+   "https://czechinvest.gov.cz/en",
+   "https://tacr.gov.cz",
+   "https://czechstartups.gov.cz/startup-viza/",
+   "https://www.esa-bic.cz/",
+   "https://prestoventures.com/"
+  ],
+  "confidence": "medium",
+  "notes": "API agency site has moved (apiagentura.gov.cz); OP TAK call dates not verified. StartupYard investment terms not published on site."
+ },
+ {
+  "country": "Slovakia",
+  "iso2": "SK",
+  "ecosystem_tier": "emerging",
+  "summary": "Small ecosystem centred on Bratislava and Kosice; known names include Sygic, Pixel Federation and InoBat. Slovak Investment Holding is the main public co-investor, now making direct convertible-loan investments.",
+  "startup_visa": "No dedicated startup visa verified; temporary residence for business purposes applies.",
+  "company_setup": "s.r.o., EUR 5,000 minimum capital; online registration possible with Slovak eID, otherwise via notary or lawyer, about 1-2 weeks.",
+  "grants": [
+   {
+    "name": "Innovation and digital vouchers (Recovery and Resilience Plan)",
+    "agency": "SIEA",
+    "amount": "voucher-based",
+    "amount_usd_max": null,
+    "eligibility": "Slovak SMEs",
+    "deadline": "per call (check SIEA)",
+    "status": "unknown",
+    "url": "https://www.siea.sk/inovacie/inovacne-a-digitalne-vouchery/"
+   },
+   {
+    "name": "SIH direct startup investments",
+    "agency": "Slovak Investment Holding",
+    "amount": "EUR 250k-2M convertible loans/equity",
+    "amount_usd_max": 2300000,
+    "eligibility": "Slovak startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.sih.sk/"
+   },
+   {
+    "name": "APVV research grants",
+    "agency": "Slovak Research and Development Agency",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "research organisations and firms",
+    "deadline": "annual calls",
+    "status": "unknown",
+    "url": "https://www.apvv.sk"
+   },
+   {
+    "name": "NPC startup support (consulting, internships)",
+    "agency": "Slovak Business Agency / NPC",
+    "amount": "in-kind support",
+    "amount_usd_max": null,
+    "eligibility": "future and current startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.npc.sk/"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M + equity EUR 1-10M",
+    "amount_usd_max": 13500000,
+    "eligibility": "EU SMEs/startups, TRL 6-8; short proposals any time",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "inQb (STU technology incubator)",
+    "city": "Bratislava",
+    "type": "university",
+    "investment": "free, no equity",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.inqb.sk"
+   },
+   {
+    "name": "Startup centrum TUKE",
+    "city": "Kosice",
+    "type": "university",
+    "investment": "free support",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.startupcentrum.sk"
+   },
+   {
+    "name": "SAPIE Open Challenge",
+    "city": "Bratislava",
+    "type": "accelerator",
+    "investment": "programme, no equity stated",
+    "sectors": "innovation",
+    "deadline": "programme runs Sep 2026-May 2027",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.sapie.sk"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Vision Ventures",
+    "city": "Bratislava",
+    "stage": "pre-seed",
+    "check_size": "EUR 100-800k",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://visionventures.vc/"
+   },
+   {
+    "name": "CB Investment Management",
+    "city": "Bratislava",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "startups, SMEs, impact",
+    "type": "vc",
+    "url": "https://www.cbim.sk/"
+   },
+   {
+    "name": "Neulogy Ventures",
+    "city": "Bratislava",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deeptech, medtech, SaaS, cleantech",
+    "type": "vc",
+    "url": "https://www.neulogy.vc"
+   },
+   {
+    "name": "Limerock",
+    "city": "Bratislava",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.limerock.sk"
+   },
+   {
+    "name": "Slovak Investment Holding",
+    "city": "Bratislava",
+    "stage": "seed",
+    "check_size": "EUR 0.25-2M",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.sih.sk/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "SIEA",
+    "type": "government_agency",
+    "url": "https://www.siea.sk",
+    "note": "innovation and energy agency, vouchers"
+   },
+   {
+    "name": "Slovak Business Agency",
+    "type": "government_agency",
+    "url": "https://www.sbagency.sk",
+    "note": "SME agency; reported cyber incident, services limited"
+   },
+   {
+    "name": "National Business Centre (NPC)",
+    "type": "government_agency",
+    "url": "https://www.npc.sk/",
+    "note": "startup consulting and events"
+   },
+   {
+    "name": "SARIO",
+    "type": "government_agency",
+    "url": "https://www.sario.sk/sk",
+    "note": "investment and trade agency"
+   },
+   {
+    "name": "SAPIE",
+    "type": "startup_association",
+    "url": "https://www.sapie.sk",
+    "note": "innovation ecosystem platform, Hackathon Tatry 13-15 Nov 2026"
+   }
+  ],
+  "sources": [
+   "https://www.sih.sk/",
+   "https://www.siea.sk",
+   "https://www.inqb.sk",
+   "https://visionventures.vc/",
+   "https://www.sapie.sk"
+  ],
+  "confidence": "medium",
+  "notes": "SIH-backed VC funds (Vision Ventures, CBIM, Zero Gravity, Neulogy) have ended investment periods and are divesting per SIH; new fund status unconfirmed. SBA services partly down after cyber incident (Oct 2026)."
+ },
+ {
+  "country": "Hungary",
+  "iso2": "HU",
+  "ecosystem_tier": "emerging",
+  "summary": "Budapest-centred ecosystem with notable successes Prezi, LogMeIn, Ustream and Bitrise. State-backed Hiventures is the largest early-stage investor; private VCs include Day One and Portfolion.",
+  "startup_visa": "none",
+  "company_setup": "Kft. (LLC), HUF 3M minimum capital; e-registration through a lawyer typically within 1-2 business days; foreigners can incorporate remotely via attorney.",
+  "grants": [
+   {
+    "name": "IPARJOG IP protection support (2025-1.1.1-IPARJOG)",
+    "agency": "NKFIH",
+    "amount": "HUF 0.01-7.5M",
+    "amount_usd_max": 21000,
+    "eligibility": "firms protecting IP domestically and abroad",
+    "deadline": "2026-10-30",
+    "status": "open",
+    "url": "https://nkfih.gov.hu/palyazoknak/nkfi-alap/szellemi-alkotasok-szellemi-tulajdon-vedelme-2025-111-iparjog/palyazati-felhivas"
+   },
+   {
+    "name": "KDT Horizon Europe partnership support",
+    "agency": "NKFIH",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Hungarian participants in Chips JU/KDT projects",
+    "deadline": "2026-10-30",
+    "status": "open",
+    "url": "https://nkfih.gov.hu/palyazoknak/nkfi-alap/horizont-europa-digitalis-kulcstechnologiak-partnersegbe-bekapcsolodas-2024-124-kdt/palyazati-felhivas"
+   },
+   {
+    "name": "Hiventures equity programmes",
+    "agency": "Hiventures (state VC)",
+    "amount": "equity investments",
+    "amount_usd_max": null,
+    "eligibility": "Hungarian startups and innovative SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.hiventures.hu/en"
+   },
+   {
+    "name": "Szechenyi Card Program",
+    "agency": "KAVOSZ",
+    "amount": "subsidised SME loans",
+    "amount_usd_max": null,
+    "eligibility": "Hungarian SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.kavosz.hu/"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M + equity EUR 1-10M",
+    "amount_usd_max": 13500000,
+    "eligibility": "EU SMEs/startups, TRL 6-8; short proposals any time",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Startup Campus (HUMDA, TokajTech, HFDA programs)",
+    "city": "Budapest",
+    "type": "incubator",
+    "investment": "incubation and investment, terms not published",
+    "sectors": "automotive, tourism, fashion",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.startupcampus.hu/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Hiventures",
+    "city": "Budapest",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "AI, deeptech, medtech, fintech, greentech",
+    "type": "government_fund",
+    "url": "https://www.hiventures.hu/en"
+   },
+   {
+    "name": "Day One Capital",
+    "city": "Budapest",
+    "stage": "pre-seed",
+    "check_size": "EUR 300k-2M",
+    "sectors": "AI, robotics, cyber, defence",
+    "type": "vc",
+    "url": "https://www.dayonecapital.com"
+   },
+   {
+    "name": "Portfolion",
+    "city": "Budapest",
+    "stage": "multi",
+    "check_size": "EUR 0.5-3M (VC)",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.portfolion.com/"
+   },
+   {
+    "name": "OXO Labs",
+    "city": "Budapest",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://oxolabs.eu/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "NKFIH (National Research, Development and Innovation Office)",
+    "type": "government_agency",
+    "url": "https://nkfih.gov.hu/english",
+    "note": "R&D&I funding calls"
+   },
+   {
+    "name": "HIPA (Hungarian Investment Promotion Agency)",
+    "type": "government_agency",
+    "url": "https://hipa.hu",
+    "note": "investment promotion"
+   },
+   {
+    "name": "Hungarian Development Bank (MFB)",
+    "type": "government_agency",
+    "url": "https://www.mfb.hu",
+    "note": "state development bank, backs Hiventures"
+   },
+   {
+    "name": "Startup Hungary",
+    "type": "community",
+    "url": "https://www.startuphungary.io",
+    "note": "community, research, First Monday events"
+   },
+   {
+    "name": "Bridge Budapest",
+    "type": "community",
+    "url": "https://bridgebudapest.org/",
+    "note": "nonprofit by Hungarian entrepreneurs"
+   }
+  ],
+  "sources": [
+   "https://www.hiventures.hu/en",
+   "https://nkfih.gov.hu/english",
+   "https://www.dayonecapital.com",
+   "https://www.portfolion.com/",
+   "https://www.startupcampus.hu/"
+  ],
+  "confidence": "medium",
+  "notes": "Few verifiable accelerators with open calls in Oct 2026. Hiventures ticket sizes not stated on site."
+ },
+ {
+  "country": "Slovenia",
+  "iso2": "SI",
+  "ecosystem_tier": "emerging",
+  "summary": "Small but well-organised ecosystem centred on Ljubljana and Maribor, anchored by the Slovene Enterprise Fund's P2/SK75/SI-SK ladder and the Start:up Slovenia initiative. Known exits and success stories include Outfit7, Celtra, Bitstamp and Chipolo; PODIM in Maribor is the region's main startup conference.",
+  "startup_visa": "none (no dedicated startup visa; non-EU founders apply for a single residence and work permit as company owners/representatives via the administrative units, https://e-uprava.gov.si/en)",
+  "company_setup": "d.o.o. (LLC) with minimum capital EUR 7,500, registered free of charge through the SPOT/e-VEM portal or a SPOT point, typically 1-3 days. Non-residents need a Slovenian tax number and usually a notary or SPOT point visit; no full remote-incorporation route.",
+  "grants": [
+   {
+    "name": "P2 startup incentive",
+    "agency": "Slovene Enterprise Fund (SEF)",
+    "amount": "up to EUR 54,000 grant in 3 tranches (2026 call reported at up to EUR 72,000)",
+    "amount_usd_max": 79000,
+    "eligibility": "innovative startups registered in Slovenia, young companies; Start:up Slovenia pre-selection/DEMO Day scoring",
+    "deadline": "annual (usually Feb-Mar)",
+    "status": "upcoming",
+    "url": "https://www.startup.si/en-us/for-startups/p-2"
+   },
+   {
+    "name": "SK75 convertible loan",
+    "agency": "Slovene Enterprise Fund (SEF)",
+    "amount": "EUR 75,000 convertible loan",
+    "amount_usd_max": 82000,
+    "eligibility": "micro/small d.o.o. registered 12 months to 5 years",
+    "deadline": "annual (usually spring)",
+    "status": "unknown",
+    "url": "https://www.startup.si/en-us/for-startups/sk75"
+   },
+   {
+    "name": "SI-SK co-investment",
+    "agency": "Slovene Enterprise Fund (SEF)",
+    "amount": "EUR 100,000-600,000 matching equity (up to EUR 1.2M SEF share in exceptional cases)",
+    "amount_usd_max": 1320000,
+    "eligibility": "early-stage growth companies with a private co-investor (angel, VC or corporate)",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.startup.si/en-us/for-startups/si-sk"
+   },
+   {
+    "name": "SEF vouchers and Razvojni Plus support",
+    "agency": "Slovene Enterprise Fund (SEF)",
+    "amount": "small-value vouchers for support services",
+    "amount_usd_max": null,
+    "eligibility": "Slovenian SMEs and startups",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.startup.si/en-us/for-startups/vouchers"
+   },
+   {
+    "name": "SID Bank SME and innovation financing",
+    "agency": "SID Bank (SID banka)",
+    "amount": "loans and guarantees, amounts case by case",
+    "amount_usd_max": null,
+    "eligibility": "Slovenian SMEs; equity activities moved to subsidiary SID Kapital (Sep 2025)",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.sid.si/en/financing/"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs/startups in EU member states and associated countries, TRL 6-8",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Start:up Slovenia / SEF Startup Plus accelerators (Push2Start, SK Growth Camp, HardwareSTART, ScaleUPgrade)",
+    "city": "Ljubljana",
+    "type": "government",
+    "investment": "no equity; content support tied to P2/SK75/SI-SK",
+    "sectors": "generalist",
+    "deadline": "annual, tied to SEF tenders",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.startup.si/en-us/for-startups/startup-plus-programme"
+   },
+   {
+    "name": "ABC Accelerator",
+    "city": "Ljubljana",
+    "type": "accelerator",
+    "investment": "convertible loans and equity (terms on application)",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://abc-accelerator.com"
+   },
+   {
+    "name": "Ljubljana University Incubator (LUI)",
+    "city": "Ljubljana",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "generalist, research spin-offs",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.lui.si"
+   },
+   {
+    "name": "Technology Park Ljubljana (BALI Accelerator)",
+    "city": "Ljubljana",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist, digital health, AI",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.tp-lj.si/en"
+   },
+   {
+    "name": "Impact Launchpad (Impact Hub Slovenia)",
+    "city": "Ljubljana",
+    "type": "incubator",
+    "investment": "free, no equity",
+    "sectors": "social and environmental impact",
+    "deadline": "2026-10-26",
+    "next_cohort": "2026-11",
+    "status": "open",
+    "url": "https://slovenia.impacthub.net/en/impact-launchpad/"
+   },
+   {
+    "name": "GoStartup incubator (Primorski Technology Park)",
+    "city": "Nova Gorica",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.primorski-tp.si/en/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Silicon Gardens",
+    "city": "Ljubljana",
+    "stage": "seed",
+    "check_size": "EUR 300k-1.5M initial",
+    "sectors": "marketplaces, B2B SaaS, consumer digital, D2C",
+    "type": "vc",
+    "url": "https://silicongardens.com"
+   },
+   {
+    "name": "AlpVent",
+    "city": "Ziri",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.alpvent.com"
+   },
+   {
+    "name": "South Central Ventures",
+    "city": "Ljubljana",
+    "stage": "seed",
+    "check_size": "EUR 500k initial, up to EUR 5M per company",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://sc-ventures.com"
+   },
+   {
+    "name": "Vesna VC (Vesna Deep Tech Venture Fund)",
+    "city": "Ljubljana",
+    "stage": "pre-seed",
+    "check_size": "up to EUR 80k for projects; EUR 200k-700k for companies",
+    "sectors": "deep tech: climate, advanced materials, AI/ICT",
+    "type": "vc",
+    "url": "https://vesnavc.com"
+   },
+   {
+    "name": "Fil Rouge Capital",
+    "city": "Zagreb",
+    "stage": "multi",
+    "check_size": "EUR 10k-2M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.filrougecapital.com"
+   },
+   {
+    "name": "Business Angels of Slovenia (Poslovni angeli Slovenije)",
+    "city": "Ljubljana",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.poslovniangeli.si"
+   },
+   {
+    "name": "Slovene Enterprise Fund (SI-SK co-investment)",
+    "city": "Maribor",
+    "stage": "seed",
+    "check_size": "EUR 100k-600k matching",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://podjetniskisklad.si/en/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Start:up Slovenia",
+    "type": "startup_association",
+    "url": "https://www.startup.si/en-us",
+    "note": "National startup initiative; startup register, news, Demo Days, Forum 100% Start:up (2026-11-26)."
+   },
+   {
+    "name": "Slovene Enterprise Fund (Podjetniski sklad)",
+    "type": "government_agency",
+    "url": "https://podjetniskisklad.si/en/",
+    "note": "Runs P2, SK75, SI-SK, microloans and guarantees."
+   },
+   {
+    "name": "SPIRIT Slovenia",
+    "type": "government_agency",
+    "url": "https://www.sloveniabusiness.eu/",
+    "note": "Public agency for entrepreneurship, internationalisation and foreign investment."
+   },
+   {
+    "name": "SID Bank",
+    "type": "government_agency",
+    "url": "https://www.sid.si/en",
+    "note": "Slovenian export and development bank; equity arm spun off to SID Kapital in 2025."
+   },
+   {
+    "name": "PODIM Conference",
+    "type": "event",
+    "url": "https://www.podim.org",
+    "note": "Regional startup conference, Maribor, 17-19 May 2027; startup applications usually close mid-March."
+   },
+   {
+    "name": "SPOT / e-VEM portal",
+    "type": "legal_tax",
+    "url": "https://evem.gov.si",
+    "note": "Government portal for company registration."
+   }
+  ],
+  "sources": [
+   "https://www.startup.si/en-us/for-startups/public-funding-sources",
+   "https://www.startup.si/en-us/startup-map/investors",
+   "https://www.sid.si/en/news/general/entry-of-spin-off-in-the-court-register/",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+   "https://www.podim.org"
+  ],
+  "confidence": "medium",
+  "notes": "As of 2026-10-20: SEF site (podjetniskisklad.si) is behind bot verification, so exact 2027 tender dates for P2/SK75 could not be read; P2 2026 call was announced for February 2026. Slovenian Technology Fund (extra EUR 10M, managed by Silicon Gardens and Tivoli Partners) reported Dec 2025. Silverline Capital and RSG Capital excluded (placeholder or repurposed domains)."
+ },
+ {
+  "country": "Croatia",
+  "iso2": "HR",
+  "ecosystem_tier": "emerging",
+  "summary": "Fast-growing ecosystem led by Zagreb, with Rijeka, Split and Osijek as secondary hubs. Home to unicorns Infobip and Rimac and gaming studio Nanobit (sold to Stillfront); funding is driven by HAMAG-BICRO grants, HBOR-backed VC funds and regional VCs.",
+  "startup_visa": "none (no dedicated startup visa; Croatia offers a temporary stay permit for digital nomads, https://mup.gov.hr/aliens-281621/temporary-stay-of-digital-nomads-286853/286853)",
+  "company_setup": "d.o.o. (min capital EUR 2,500) or simple j.d.o.o. (min EUR 1), registered via notary or the START/e-Tvrtka online system at the court register, typically a few days. Foreigners need a Croatian OIB tax number; online founding requires a qualified e-signature/eID.",
+  "grants": [
+   {
+    "name": "Proof of Innovative Concept (Dokazivanje inovativnog koncepta) - first call",
+    "agency": "HAMAG-BICRO",
+    "amount": "unknown for 2026 call",
+    "amount_usd_max": null,
+    "eligibility": "Croatian SMEs/startups validating pre-commercial innovation",
+    "deadline": "unknown",
+    "status": "open",
+    "url": "https://hamagbicro.hr/otvoreni-natjecaji/"
+   },
+   {
+    "name": "Process innovation in S3 areas",
+    "agency": "HAMAG-BICRO / EU funds",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "SMEs in Smart Specialisation Strategy areas",
+    "deadline": "unknown",
+    "status": "open",
+    "url": "https://eufondovi.gov.hr/poziv/?id=9781e871-c264-423a-b706-dc2f1cdb407f"
+   },
+   {
+    "name": "Microloans for growth and inclusion (ESF+)",
+    "agency": "HAMAG-BICRO",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "micro and small enterprises, including new businesses",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://hamagbicro.hr/otvoreni-natjecaji/"
+   },
+   {
+    "name": "Youth, Female, Start-Up and Other Special Segments Entrepreneurship loans",
+    "agency": "HBOR (Croatian Bank for Reconstruction and Development)",
+    "amount": "up to EUR 400,000 at 3-3.9% fixed",
+    "amount_usd_max": 440000,
+    "eligibility": "micro, small and medium enterprises including startups and young/female entrepreneurs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://hbor.hr/youth-female-start-up-and-other-special-segments-entrepreneurship/405"
+   },
+   {
+    "name": "Eurostars expert vouchers (Eurostars 3 Call 11)",
+    "agency": "HAMAG-BICRO",
+    "amount": "up to EUR 3,350",
+    "amount_usd_max": 3700,
+    "eligibility": "Croatian SMEs preparing a Eurostars application",
+    "deadline": "unknown",
+    "status": "open",
+    "url": "https://hamagbicro.hr/produzen-rok-za-prijavu-vaucer-program-strucnjaci-eurostars-3-call-11/"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs/startups in EU member states and associated countries, TRL 6-8",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "ZICER accelerator (Startup Factory, Growth, Global, Deep Tech)",
+    "city": "Zagreb",
+    "type": "government",
+    "investment": "EUR 5k at start, up to EUR 50k per startup, no equity",
+    "sectors": "generalist tech",
+    "deadline": "annual (programme runs Jun-Dec)",
+    "next_cohort": "2027-06",
+    "status": "closed",
+    "url": "https://www.zicer.hr/akcelerator/"
+   },
+   {
+    "name": "Fil Rouge Capital accelerator",
+    "city": "Zagreb",
+    "type": "accelerator",
+    "investment": "up to EUR 300k",
+    "sectors": "generalist tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.filrougecapital.com/accelerate"
+   },
+   {
+    "name": "Step Ri Science and Technology Park",
+    "city": "Rijeka",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "generalist, research-based",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.step.uniri.hr"
+   },
+   {
+    "name": "BIOS Business Incubator",
+    "city": "Osijek",
+    "type": "incubator",
+    "investment": "subsidised space, no equity",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.inkubator.hr"
+   },
+   {
+    "name": "HAMAG-BICRO Most Innovative Startup of Croatia",
+    "city": "Zagreb",
+    "type": "government",
+    "investment": "awards and investor exposure",
+    "sectors": "generalist, S3 areas",
+    "deadline": "last: 2026-09-01",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://hamagbicro.hr/hamag-bicro-bira-najinovativniji-startup-hrvatske-za-2026-godinu/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Fil Rouge Capital",
+    "city": "Zagreb",
+    "stage": "multi",
+    "check_size": "EUR 10k-2M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.filrougecapital.com"
+   },
+   {
+    "name": "AYMO Ventures",
+    "city": "Zagreb",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://aymoventures.com"
+   },
+   {
+    "name": "Feelsgood Capital",
+    "city": "Zagreb",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "social impact",
+    "type": "vc",
+    "url": "https://www.feelsgoodcapital.com"
+   },
+   {
+    "name": "Vesna VC (Vesna Deep Tech Venture Fund)",
+    "city": "Zagreb",
+    "stage": "pre-seed",
+    "check_size": "EUR 200k-700k",
+    "sectors": "deep tech",
+    "type": "vc",
+    "url": "https://vesnavc.com"
+   },
+   {
+    "name": "South Central Ventures",
+    "city": "Zagreb",
+    "stage": "seed",
+    "check_size": "EUR 500k initial, up to EUR 5M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://sc-ventures.com"
+   },
+   {
+    "name": "Silicon Gardens",
+    "city": "Ljubljana",
+    "stage": "seed",
+    "check_size": "EUR 300k-1.5M",
+    "sectors": "marketplaces, SaaS, consumer",
+    "type": "vc",
+    "url": "https://silicongardens.com"
+   },
+   {
+    "name": "CRANE - Croatian Business Angels Network",
+    "city": "Zagreb",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.crane.hr"
+   }
+  ],
+  "resources": [
+   {
+    "name": "HAMAG-BICRO",
+    "type": "government_agency",
+    "url": "https://hamagbicro.hr",
+    "note": "Croatian agency for SMEs, innovation and investment; grants, microloans, guarantees."
+   },
+   {
+    "name": "HBOR",
+    "type": "government_agency",
+    "url": "https://www.hbor.hr/en",
+    "note": "Development bank; loans and anchor LP in AYMO, Vesna and FRC2 funds."
+   },
+   {
+    "name": "CVCA - Croatian Private Equity and Venture Capital Association",
+    "type": "startup_association",
+    "url": "https://www.cvca.hr",
+    "note": "Directory of Croatian VC/PE fund managers."
+   },
+   {
+    "name": "EU funds portal (eufondovi.gov.hr)",
+    "type": "database",
+    "url": "https://eufondovi.gov.hr",
+    "note": "Central portal for EU-funded calls."
+   },
+   {
+    "name": "ZICER - Zagreb Innovation Centre",
+    "type": "coworking_hub",
+    "url": "https://www.zicer.hr",
+    "note": "City of Zagreb incubator and accelerator."
+   },
+   {
+    "name": "Ministry of Economy",
+    "type": "government_agency",
+    "url": "https://mingo.gov.hr",
+    "note": "Policy owner for entrepreneurship programmes."
+   }
+  ],
+  "sources": [
+   "https://hamagbicro.hr/otvoreni-natjecaji/",
+   "https://www.hbor.hr/en",
+   "https://www.cvca.hr",
+   "https://www.zicer.hr/akcelerator/",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "medium",
+  "notes": "As of 2026-10-20: HAMAG-BICRO listed the PoC first call and S3 process-innovation call (both posted 3 Aug 2026) as open, but amounts and closing dates were not readable. ZICER applications for the current cycle are closed."
+ },
+ {
+  "country": "Bosnia & Herzegovina",
+  "iso2": "BA",
+  "ecosystem_tier": "nascent",
+  "summary": "Small ecosystem concentrated in Sarajevo, Banja Luka, Tuzla and Mostar, built around IT outsourcing and a few technology parks. Local VC is very thin; startups rely on regional Western Balkans funds, EBRD and donor programmes, and diaspora networks.",
+  "startup_visa": "none",
+  "company_setup": "d.o.o. registered separately in the Federation of BiH, Republika Srpska or Brcko District; minimum capital about BAM 1,000 in FBiH and BAM 1 in RS, typically 1-4 weeks with notary and court registration. Foreigners can be sole owners; no remote incorporation. FIPA assists foreign investors.",
+  "grants": [
+   {
+    "name": "Credit incentive for development, entrepreneurship and crafts 2026",
+    "agency": "Federal Ministry of Development, Entrepreneurship and Crafts (FMRPO)",
+    "amount": "subsidised loans, amount per call",
+    "amount_usd_max": null,
+    "eligibility": "SMEs and crafts in the Federation of BiH",
+    "deadline": "unknown",
+    "status": "open",
+    "url": "https://fmrpo.gov.ba/javni-konkurs-za-odabir-korisnika-kreditnih-sredstava-po-programu-kreditni-poticaj-razvoja-poduzetnistva-i-obrta-za-2026-godinu/"
+   },
+   {
+    "name": "EBRD Star Venture",
+    "agency": "EBRD",
+    "amount": "24-month programme of mentoring, advisory and investor access (non-cash)",
+    "amount_usd_max": null,
+    "eligibility": "pre-Series A startups with traction in EBRD regions incl. Western Balkans",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs in EU member states and Horizon Europe associated countries (incl. BiH), TRL 6-8",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Networks (pre-accelerator and accelerator)",
+    "city": "Sarajevo",
+    "type": "accelerator",
+    "investment": "unknown",
+    "sectors": "generalist tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://networks.ba"
+   },
+   {
+    "name": "HUB387",
+    "city": "Sarajevo",
+    "type": "incubator",
+    "investment": "no equity; coworking and startup support",
+    "sectors": "IT",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.hub387.com"
+   },
+   {
+    "name": "BIT Centar (Science and Technology Park Tuzla)",
+    "city": "Tuzla",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "IT, engineering",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.bitcentar.com"
+   },
+   {
+    "name": "Innovation Centre Banja Luka (ICBL)",
+    "city": "Banja Luka",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "knowledge-based, IT",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://icbl.ba"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "South Central Ventures",
+    "city": "Zagreb",
+    "stage": "seed",
+    "check_size": "EUR 500k initial, up to EUR 5M",
+    "sectors": "generalist tech, Western Balkans",
+    "type": "vc",
+    "url": "https://sc-ventures.com"
+   },
+   {
+    "name": "Fifth Quarter Ventures (5Q)",
+    "city": "Belgrade",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "AI, dev tools, open source, Industry 5.0, crypto",
+    "type": "vc",
+    "url": "https://fifthquarter.vc"
+   },
+   {
+    "name": "StartLabs",
+    "city": "Belgrade",
+    "stage": "pre-seed",
+    "check_size": "up to US$50k",
+    "sectors": "generalist tech, Southeast Europe",
+    "type": "vc",
+    "url": "https://startlabs.co"
+   },
+   {
+    "name": "Silicon Gardens",
+    "city": "Ljubljana",
+    "stage": "seed",
+    "check_size": "EUR 300k-1.5M",
+    "sectors": "marketplaces, SaaS, consumer, Adria region",
+    "type": "vc",
+    "url": "https://silicongardens.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "FIPA - Foreign Investment Promotion Agency of BiH",
+    "type": "government_agency",
+    "url": "https://fipa.gov.ba/en",
+    "note": "Investor information and company set-up guidance."
+   },
+   {
+    "name": "Development Bank of the Federation of BiH",
+    "type": "government_agency",
+    "url": "https://www.rbfbih.ba",
+    "note": "State development lender in FBiH."
+   },
+   {
+    "name": "Investment-Development Bank of Republika Srpska (IRBRS)",
+    "type": "government_agency",
+    "url": "https://www.irbrs.org",
+    "note": "Development lender in Republika Srpska."
+   },
+   {
+    "name": "Bit Alliance",
+    "type": "startup_association",
+    "url": "https://www.bitalliance.ba",
+    "note": "IT industry association."
+   },
+   {
+    "name": "Mozaik Foundation",
+    "type": "other",
+    "url": "https://mozaik.ba",
+    "note": "Impact investor in micro-businesses and startups; youth programmes."
+   }
+  ],
+  "sources": [
+   "https://fmrpo.gov.ba",
+   "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html",
+   "https://fipa.gov.ba/en",
+   "https://icbl.ba",
+   "https://www.hub387.com"
+  ],
+  "confidence": "low",
+  "notes": "As of 2026-10-20: no domestic VC fund confirmed active; regional funds (SCV, 5Q, StartLabs, Silicon Gardens) cover BiH. Star Venture showed no open Western Balkans call. FMRPO 2026 credit call deadline not readable. Diaspora route: many founders incorporate in Croatia, Slovenia or the US."
+ },
+ {
+  "country": "Serbia",
+  "iso2": "RS",
+  "ecosystem_tier": "emerging",
+  "summary": "Largest startup ecosystem in the Western Balkans, centred on Belgrade and Novi Sad with strong engineering talent and gaming/AI strengths. Exits include Nordeus (Take-Two), 3Lateral (Epic Games) and Frame (Microsoft); the Innovation Fund of Serbia is the main public funder.",
+  "startup_visa": "none (no dedicated startup visa; foreign company owners use the type D visa for foreign company owners and a temporary residence/work permit, https://welcometoserbia.gov.rs)",
+  "company_setup": "d.o.o. with minimum capital RSD 100, registered with the Business Registers Agency (APR), typically about 5 working days; electronic registration available with a qualified e-signature. Foreigners can fully own a company and register via a local proxy.",
+  "grants": [
+   {
+    "name": "Smart Start (6th call)",
+    "agency": "Innovation Fund of Serbia",
+    "amount": "up to RSD 5.4M (90% of budget) plus RSD 600,000 mentoring",
+    "amount_usd_max": 51000,
+    "eligibility": "teams of 2-5 building a prototype/MVP; must found a company in Serbia",
+    "deadline": "2026-11-16",
+    "status": "open",
+    "url": "https://www.inovacionifond.rs/cir/info/od-poslovne-ideje-do-prvog-koraka-ka-trzistu"
+   },
+   {
+    "name": "Mini Grants (Early Development Programme)",
+    "agency": "Innovation Fund of Serbia",
+    "amount": "up to EUR 120,000 (70% of budget)",
+    "amount_usd_max": 132000,
+    "eligibility": "private micro/small companies up to 10 years old",
+    "deadline": "unknown",
+    "status": "closed",
+    "url": "https://www.inovacionifond.rs/cir/program/mini-grants"
+   },
+   {
+    "name": "Matching Grants",
+    "agency": "Innovation Fund of Serbia",
+    "amount": "up to EUR 500,000 (70% for micro/small)",
+    "amount_usd_max": 550000,
+    "eligibility": "private Serbian SMEs",
+    "deadline": "unknown",
+    "status": "closed",
+    "url": "https://www.inovacionifond.rs/cir/program/matching-grants"
+   },
+   {
+    "name": "AI vouchers",
+    "agency": "Innovation Fund of Serbia",
+    "amount": "RSD 600,000 per voucher, up to RSD 3.6M per company",
+    "amount_usd_max": 34000,
+    "eligibility": "Serbian SMEs up to 15 years old, majority domestic private ownership",
+    "deadline": "2027-03-31",
+    "status": "closed",
+    "url": "https://www.inovacionifond.rs/cir/program/ai-vauceri"
+   },
+   {
+    "name": "Innovation vouchers",
+    "agency": "Innovation Fund of Serbia",
+    "amount": "up to RSD 800,000 per voucher (60% of cost), max RSD 2.4M",
+    "amount_usd_max": 23000,
+    "eligibility": "Serbian SMEs buying services from research organisations",
+    "deadline": "unknown",
+    "status": "closed",
+    "url": "https://www.inovacionifond.rs/cir/program/inovacioni-vauceri"
+   },
+   {
+    "name": "Young Create Serbia (Mladi stvaraju Srbiju) 2026",
+    "agency": "Development Fund of the Republic of Serbia",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "young entrepreneurs",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://fondzarazvoj.co.rs/"
+   },
+   {
+    "name": "EBRD Star Venture",
+    "agency": "EBRD",
+    "amount": "24-month mentoring and investor-access programme (non-cash)",
+    "amount_usd_max": null,
+    "eligibility": "pre-Series A startups in EBRD regions incl. Western Balkans",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs in EU member states and Horizon Europe associated countries (incl. Serbia), TRL 6-8",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Katapult accelerator",
+    "city": "Belgrade",
+    "type": "government",
+    "investment": "entry grant RSD 2.4-6M plus co-investment grant, up to RSD 36M total; no equity",
+    "sectors": "generalist tech",
+    "deadline": "last: 6th call closed Oct 2026",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.inovacionifond.rs/cir/program/katapult"
+   },
+   {
+    "name": "Raising Starts (Science Technology Park Belgrade)",
+    "city": "Belgrade",
+    "type": "accelerator",
+    "investment": "up to CHF 30,000, no equity",
+    "sectors": "generalist tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://ntpark.rs/raising-starts/"
+   },
+   {
+    "name": "Science Technology Park Belgrade incubator",
+    "city": "Belgrade",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://ntpark.rs/programi/"
+   },
+   {
+    "name": "Science Technology Park Novi Sad",
+    "city": "Novi Sad",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.ntpns.rs"
+   },
+   {
+    "name": "StartLabs",
+    "city": "Belgrade",
+    "type": "accelerator",
+    "investment": "up to US$50k",
+    "sectors": "generalist tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://startlabs.co"
+   },
+   {
+    "name": "ICT Hub",
+    "city": "Belgrade",
+    "type": "incubator",
+    "investment": "occasional investments",
+    "sectors": "IT",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://icthub.rs"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "South Central Ventures",
+    "city": "Belgrade",
+    "stage": "seed",
+    "check_size": "EUR 500k initial, up to EUR 5M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://sc-ventures.com"
+   },
+   {
+    "name": "Fifth Quarter Ventures (5Q)",
+    "city": "Belgrade",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "AI, dev tools, open source, Industry 5.0, crypto",
+    "type": "vc",
+    "url": "https://fifthquarter.vc"
+   },
+   {
+    "name": "StartLabs",
+    "city": "Belgrade",
+    "stage": "pre-seed",
+    "check_size": "up to US$50k",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://startlabs.co"
+   },
+   {
+    "name": "Silicon Gardens",
+    "city": "Ljubljana",
+    "stage": "seed",
+    "check_size": "EUR 300k-1.5M",
+    "sectors": "marketplaces, SaaS, consumer",
+    "type": "vc",
+    "url": "https://silicongardens.com"
+   },
+   {
+    "name": "ABAS - Association of Business Angels of Serbia",
+    "city": "Belgrade",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.serbianbusinessangels.com"
+   },
+   {
+    "name": "Serbia Ventures / Serbia Ventures AI (fund-of-funds)",
+    "city": "Belgrade",
+    "stage": "multi",
+    "check_size": "up to EUR 5M per VC fund (LP)",
+    "sectors": "generalist; AI track",
+    "type": "government_fund",
+    "url": "https://www.inovacionifond.rs/cir/program/serbia-ventures"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Innovation Fund of Serbia",
+    "type": "government_agency",
+    "url": "https://www.inovacionifond.rs",
+    "note": "Main public funder of startups and R&D; application portal secure.inovacionifond.rs."
+   },
+   {
+    "name": "Development Agency of Serbia (RAS)",
+    "type": "government_agency",
+    "url": "https://www.ras.gov.rs",
+    "note": "SME and export support agency."
+   },
+   {
+    "name": "Development Fund of the Republic of Serbia",
+    "type": "government_agency",
+    "url": "https://fondzarazvoj.co.rs/",
+    "note": "Low-interest loans and youth/returnee entrepreneurship grants."
+   },
+   {
+    "name": "Startit",
+    "type": "community",
+    "url": "https://startit.rs",
+    "note": "Tech community media and Startit Centers."
+   },
+   {
+    "name": "Digital Serbia Initiative",
+    "type": "startup_association",
+    "url": "https://www.dsi.rs",
+    "note": "Industry initiative for the digital economy and startups."
+   },
+   {
+    "name": "Vojvodina ICT Cluster",
+    "type": "startup_association",
+    "url": "https://www.vojvodinaictcluster.org",
+    "note": "ICT cluster in Novi Sad."
+   },
+   {
+    "name": "Business Registers Agency (APR)",
+    "type": "legal_tax",
+    "url": "https://www.apr.gov.rs",
+    "note": "Company registration."
+   },
+   {
+    "name": "Welcome to Serbia",
+    "type": "government_agency",
+    "url": "https://welcometoserbia.gov.rs",
+    "note": "Official portal on visas, residence and starting a business for foreigners."
+   }
+  ],
+  "sources": [
+   "https://www.inovacionifond.rs",
+   "https://www.inovacionifond.rs/cir/info/od-poslovne-ideje-do-prvog-koraka-ka-trzistu",
+   "https://ntpark.rs/raising-starts/",
+   "https://fondzarazvoj.co.rs/",
+   "https://welcometoserbia.gov.rs"
+  ],
+  "confidence": "medium",
+  "notes": "As of 2026-10-20: Smart Start 6th call open until 2026-11-16 12:00 (portal registration closes 2026-11-13). AI voucher intake temporarily paused since 2026-09-10 due to demand (call nominally runs to 2027-03-31). Katapult 6th call closed 2026-10-14. Mini Grants, Matching Grants and Serbia Ventures calls are closed."
+ },
+ {
+  "country": "Montenegro",
+  "iso2": "ME",
+  "ecosystem_tier": "nascent",
+  "summary": "Small ecosystem centred on Podgorica and Niksic, driven mainly by the public Innovation Fund of Montenegro (Fond za inovacije) and the Tehnopolis innovation centre. Euro-based economy; few local investors, so most startups rely on grants, regional VCs and EU programmes.",
+  "startup_visa": "none",
+  "company_setup": "DOO (LLC) registered with the Central Register of Business Entities (CRPS); foreigners may own 100%, usually in person or via power of attorney; registration takes a few days at low cost.",
+  "grants": [
+   {
+    "name": "Program provjere inovativnog koncepta (Proof of Concept) 2026",
+    "agency": "Fond za inovacije Crne Gore",
+    "amount": "EUR 20,000-40,000 per project (60-90% co-financing)",
+    "amount_usd_max": 44000,
+    "eligibility": "Montenegrin MSMEs and research organisations, TRL 3-4",
+    "deadline": "2026-10-30",
+    "status": "open",
+    "url": "https://fondzainovacije.me/programi/investicioni-ciklus-2026-program-provjere-inovativnog-koncepta-poc/"
+   },
+   {
+    "name": "Program podrske ranoj fazi razvoja startapova (early-stage startup grants)",
+    "agency": "Fond za inovacije Crne Gore",
+    "amount": "up to EUR 35,000 per startup (EUR 400,000 total in 2026)",
+    "amount_usd_max": 38500,
+    "eligibility": "Early-stage innovative startups registered in Montenegro",
+    "deadline": "last: 2026-06-03",
+    "status": "closed",
+    "url": "https://fondzainovacije.me/programi/investicioni-ciklus-2026-program-podrske-ranoj-fazi-razvoja-startapova/"
+   },
+   {
+    "name": "Program za jacanje inovativnosti MMSP",
+    "agency": "Fond za inovacije Crne Gore",
+    "amount": "EUR 50,000-200,000 per project",
+    "amount_usd_max": 220000,
+    "eligibility": "Montenegrin micro, small and medium enterprises",
+    "deadline": "last: 2026-06-26",
+    "status": "closed",
+    "url": "https://fondzainovacije.me/programi/investicioni-ciklus-2026-program-za-jacanje-inovativnosti-mikro-malih-i-srednjih-preduzeca/"
+   },
+   {
+    "name": "Program za podsticanje inovacija u funkciji energetske efikasnosti u industriji",
+    "agency": "Fond za inovacije Crne Gore",
+    "amount": "EUR 50,000-100,000 (up to 80%)",
+    "amount_usd_max": 110000,
+    "eligibility": "MSMEs in metallurgy and metal processing",
+    "deadline": "last: 2026-10-19",
+    "status": "closed",
+    "url": "https://fondzainovacije.me/programi/investicioni-ciklus-2026-program-za-podsticanje-inovacija-u-funkciji-energetske-efikasnosti-u-industriji/"
+   },
+   {
+    "name": "Investicioni krediti za pocetnike u biznisu",
+    "agency": "Razvojna banka Crne Gore (formerly IRF)",
+    "amount": "loans up to EUR 50,000",
+    "amount_usd_max": 55000,
+    "eligibility": "New businesses and first-time entrepreneurs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.rb.me/kreditna-linija/investicioni-krediti-za-pocetnike-u-biznisu"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (Montenegro is Horizon Europe associated)",
+    "amount": "grant up to EUR 2.5M plus EUR 1-10M equity",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs in EU or associated countries",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Tehnopolis Biznis inkubator",
+    "city": "Niksic",
+    "type": "government",
+    "investment": "no equity; space and support",
+    "sectors": "generalist, tech, agri",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://tehnopolis.me/biznis-inkubator/"
+   },
+   {
+    "name": "EBRD Star Venture",
+    "city": "regional",
+    "type": "government",
+    "investment": "no equity; 24-month advisory and investor access",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+   },
+   {
+    "name": "RISE Regional Incubator for Social Entrepreneurs",
+    "city": "regional (Western Balkans)",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "social enterprise",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.risewb.org/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "South Central Ventures",
+    "city": "Belgrade / regional",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://sc-ventures.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Fond za inovacije Crne Gore",
+    "type": "government_agency",
+    "url": "https://fondzainovacije.me/",
+    "note": "Main public innovation funder; applications via programifonda.me"
+   },
+   {
+    "name": "Tehnopolis",
+    "type": "coworking_hub",
+    "url": "https://tehnopolis.me/",
+    "note": "Innovation-entrepreneurship centre in Niksic with incubator, TechLab, BioLab"
+   },
+   {
+    "name": "Razvojna banka Crne Gore",
+    "type": "government_agency",
+    "url": "https://www.rb.me/",
+    "note": "State development bank (ex-IRF), SME and starter loans"
+   },
+   {
+    "name": "CODE HUB",
+    "type": "coworking_hub",
+    "url": "https://code-hub.eu/",
+    "note": "Coworking space linked to Tehnopolis"
+   }
+  ],
+  "sources": [
+   "https://fondzainovacije.me/programi/",
+   "https://fondzainovacije.me/novosti/milion-eura-podrske-kroz-dvije-programske-linije-1/",
+   "https://fondzainovacije.me/novosti/dva-miliona-eura-za-razvoj-inovacija-otvoreni-javni-pozivi-fonda-za-inovacije-crne-gore/",
+   "https://www.rb.me/",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "medium",
+  "notes": "Innovation Fund runs annual cycles; most 2026 calls opened in May and closed in June. As of 2026-10-20 only the POC call is open. No Montenegrin VC fund verified; Science and Technology Park site could not be verified."
+ },
+ {
+  "country": "North Macedonia",
+  "iso2": "MK",
+  "ecosystem_tier": "emerging",
+  "summary": "Small but active ecosystem concentrated in Skopje, with outsourcing-heavy IT sector and growing startup scene. Main public funder is the Fund for Innovation and Technology Development (FITD), backed by the World Bank; regional VC South Central Ventures has a local presence.",
+  "startup_visa": "none",
+  "company_setup": "DOOEL/DOO (LLC) via Central Registry of North Macedonia, one-stop registration typically within days; foreigners can own 100%.",
+  "grants": [
+   {
+    "name": "Co-financed grants for start-up and spin-off companies",
+    "agency": "Fund for Innovation and Technology Development (FITD)",
+    "amount": "up to around EUR 30,000 per company (85% co-financing in past calls)",
+    "amount_usd_max": 33000,
+    "eligibility": "Newly founded innovative micro/small companies up to 6 years old",
+    "deadline": "last: 2024-04-15",
+    "status": "unknown",
+    "url": "https://fitr.mk/"
+   },
+   {
+    "name": "Co-financed grants and conditional loans for commercialisation of innovation",
+    "agency": "Fund for Innovation and Technology Development (FITD)",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "Micro, small and medium enterprises",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://fitr.mk/"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (North Macedonia is Horizon Europe associated)",
+    "amount": "grant up to EUR 2.5M plus EUR 1-10M equity",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs in EU or associated countries",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   },
+   {
+    "name": "EIT Jumpstarter",
+    "agency": "EIT (European Institute of Innovation and Technology)",
+    "amount": "EUR 2,500-10,000 prizes",
+    "amount_usd_max": 11000,
+    "eligibility": "Early-stage teams from EU and Horizon associated countries",
+    "deadline": "annual (spring); last: 2026-05-17",
+    "status": "closed",
+    "url": "https://eitjumpstarter.eu/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Startup Wise Guys Western Balkans Accelerator",
+    "city": "Skopje / Pristina (hybrid)",
+    "type": "accelerator",
+    "investment": "up to EUR 50k initial, follow-on up to EUR 250k",
+    "sectors": "B2B",
+    "deadline": "last: 2026-05-18",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.startupwiseguys.com/"
+   },
+   {
+    "name": "CEED Hub Skopje",
+    "city": "Skopje",
+    "type": "incubator",
+    "investment": "no equity; investment readiness, CEED Business Angels Club access",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://ceedhub.mk/"
+   },
+   {
+    "name": "SEEUTechPark",
+    "city": "Tetovo",
+    "type": "university",
+    "investment": "no equity; incubation",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://techpark.seeu.edu.mk/"
+   },
+   {
+    "name": "X Factor Accelerator",
+    "city": "Veles",
+    "type": "accelerator",
+    "investment": "seed investment (FITD/World Bank co-funded)",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://xfactor.mk/en/za-nas/"
+   },
+   {
+    "name": "EBRD Star Venture",
+    "city": "regional",
+    "type": "government",
+    "investment": "no equity; 24-month advisory and investor access",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+   },
+   {
+    "name": "RISE Regional Incubator for Social Entrepreneurs",
+    "city": "regional (Western Balkans)",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "social enterprise",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.risewb.org/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "South Central Ventures",
+    "city": "Skopje / Belgrade / Zagreb",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://sc-ventures.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Fund for Innovation and Technology Development (FITD)",
+    "type": "government_agency",
+    "url": "https://fitr.mk/",
+    "note": "Main public innovation funder; grants, accelerator co-financing"
+   },
+   {
+    "name": "Invest North Macedonia",
+    "type": "government_agency",
+    "url": "https://investnorthmacedonia.gov.mk/",
+    "note": "Official investment and export promotion agency"
+   },
+   {
+    "name": "CEED Hub Skopje",
+    "type": "community",
+    "url": "https://ceedhub.mk/",
+    "note": "Entrepreneurship hub, Business Angels Club, Access to Finance tool"
+   },
+   {
+    "name": "SEEUTechPark",
+    "type": "coworking_hub",
+    "url": "https://techpark.seeu.edu.mk/",
+    "note": "University incubator in Tetovo"
+   }
+  ],
+  "sources": [
+   "https://fitr.mk/",
+   "https://vlada.mk/node/10182?ln=en-gb",
+   "https://stikk.org/call-for-applications-western-balkan-accelerator-program-opens-for-startups-in-kosovo-and-north-macedonia/",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+   "https://eitjumpstarter.eu/"
+  ],
+  "confidence": "low",
+  "notes": "FITD website (fitr.mk) is JavaScript-rendered and could not be read; latest confirmed FITD startup call was 2024, so 2025-2026 calls are unverified. BAU Accelerator site had an expired certificate and was excluded."
+ },
+ {
+  "country": "Albania",
+  "iso2": "AL",
+  "ecosystem_tier": "nascent",
+  "summary": "Young ecosystem centred on Tirana, supported by the 2022 startup law and a state startup grant scheme (Startup Albania). Strong diaspora and outsourcing links; private VC is scarce and mostly regional.",
+  "startup_visa": "none (startup grant is open to foreign individuals and digital nomads, but no dedicated startup visa verified)",
+  "company_setup": "SHPK (LLC) registered with the National Business Center (QKB) online via e-Albania; foreigners can own 100%; registration typically within a day at minimal fee.",
+  "grants": [
+   {
+    "name": "Startup Grant 2026",
+    "agency": "Government of Albania (Startup Albania)",
+    "amount": "ALL 1.5M (early stage) to ALL 9M (growth); ALL 13M for support structures; ALL 300M total",
+    "amount_usd_max": 146000,
+    "eligibility": "Early-stage startups incl. foreign individuals; support structures; priority green and digital",
+    "deadline": "two calls in 2026; first opened 2026-02-17",
+    "status": "unknown",
+    "url": "https://startupalbania.gov.al/grant"
+   },
+   {
+    "name": "Access to Finance platform (listed calls)",
+    "agency": "AIDA (Albanian Investment Development Agency)",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Albanian SMEs and startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://aida-smefinance.gov.al/"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (Albania is Horizon Europe associated)",
+    "amount": "grant up to EUR 2.5M plus EUR 1-10M equity",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs in EU or associated countries",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   },
+   {
+    "name": "EIT Urban Mobility Financial Support to Startups",
+    "agency": "EIT Urban Mobility (listed on AIDA platform)",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "Urban mobility startups",
+    "deadline": "2026-11-16",
+    "status": "open",
+    "url": "https://aida-smefinance.gov.al/financial-schemes/financial-support-to-startups-open-call"
+   },
+   {
+    "name": "EIT Jumpstarter",
+    "agency": "EIT",
+    "amount": "EUR 2,500-10,000 prizes",
+    "amount_usd_max": 11000,
+    "eligibility": "Early-stage teams from EU and Horizon associated countries",
+    "deadline": "annual (spring); last: 2026-05-17",
+    "status": "closed",
+    "url": "https://eitjumpstarter.eu/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "EBRD Star Venture",
+    "city": "regional",
+    "type": "government",
+    "investment": "no equity; 24-month advisory and investor access",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+   },
+   {
+    "name": "RISE Regional Incubator for Social Entrepreneurs",
+    "city": "regional (Western Balkans)",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "social enterprise",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.risewb.org/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "South Central Ventures",
+    "city": "regional (Western Balkans)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://sc-ventures.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "AIDA - Albanian Investment Development Agency",
+    "type": "government_agency",
+    "url": "https://aida.gov.al/en/",
+    "note": "Investment and SME agency"
+   },
+   {
+    "name": "AIDA Access to Finance platform",
+    "type": "database",
+    "url": "https://aida-smefinance.gov.al/",
+    "note": "Aggregated grants, loans and EU calls for Albanian SMEs"
+   },
+   {
+    "name": "Startup Albania",
+    "type": "government_agency",
+    "url": "https://startupalbania.gov.al/",
+    "note": "State startup grant portal; applications via e-Albania"
+   },
+   {
+    "name": "National Business Center (QKB)",
+    "type": "legal_tax",
+    "url": "https://qkb.gov.al/",
+    "note": "Company registration"
+   },
+   {
+    "name": "Albanian-American Development Foundation",
+    "type": "other",
+    "url": "https://www.aadf.org/",
+    "note": "Funds entrepreneurship, digital skills and Protik ICT centre"
+   }
+  ],
+  "sources": [
+   "https://albaniatech.org/e3-million-for-startups-grant-2026-call-officially-launched/",
+   "https://aida-smefinance.gov.al/",
+   "https://aida.gov.al/en/",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "low",
+  "notes": "Startup Albania portal is JavaScript-rendered; second 2026 call dates unconfirmed. Few local accelerators/VCs could be verified with available tools."
+ },
+ {
+  "country": "Kosovo",
+  "iso2": "XK",
+  "ecosystem_tier": "nascent",
+  "summary": "Youngest population in Europe and a strong IT outsourcing base around Pristina and Prizren, supported by the ICT association STIKK and donor-backed hubs. Euro-based; public support comes via the Ministry of Industry, Entrepreneurship, Trade and Innovation (MINTI) and KIESA.",
+  "startup_visa": "none",
+  "company_setup": "SH.P.K. (LLC) registered with the Kosovo Business Registration Agency (ARBK); foreigners can own 100%; registration is fast and low cost.",
+  "grants": [
+   {
+    "name": "Innovation Grant Scheme in ICT",
+    "agency": "MINTI / KIESA",
+    "amount": "up to 80% of costs; startups up to EUR 15,000 (2024 terms)",
+    "amount_usd_max": 16500,
+    "eligibility": "Kosovo-citizen-owned MSMEs and startups",
+    "deadline": "last: 2026-07-23",
+    "status": "closed",
+    "url": "https://minti.rks-gov.net/wp-content/uploads/2026/07/Public-Call-for-Supporting-Enterprises-under-the-Innovation-Grant-Scheme-in-Information-and-Communication-Technology-ICT.pdf"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (Kosovo is Horizon Europe associated)",
+    "amount": "grant up to EUR 2.5M plus EUR 1-10M equity",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs in EU or associated countries",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Startup Wise Guys Western Balkans Accelerator",
+    "city": "Pristina / Skopje (hybrid)",
+    "type": "accelerator",
+    "investment": "up to EUR 50k initial, follow-on up to EUR 250k",
+    "sectors": "B2B",
+    "deadline": "last: 2026-05-18",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.startupwiseguys.com/"
+   },
+   {
+    "name": "Innovation and Training Park Prizren",
+    "city": "Prizren",
+    "type": "incubator",
+    "investment": "no equity; start-up offices, coworking",
+    "sectors": "ICT, green energy, creative",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://itp-prizren.com/"
+   },
+   {
+    "name": "EBRD Star Venture",
+    "city": "regional",
+    "type": "government",
+    "investment": "no equity; 24-month advisory and investor access",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+   },
+   {
+    "name": "RISE Regional Incubator for Social Entrepreneurs",
+    "city": "regional (Western Balkans)",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "social enterprise",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.risewb.org/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "South Central Ventures",
+    "city": "regional (Western Balkans)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://sc-ventures.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "KIESA - Kosovo Investment and Enterprise Support Agency",
+    "type": "government_agency",
+    "url": "https://kiesa.rks-gov.net/",
+    "note": "Runs MSME and innovation grant calls"
+   },
+   {
+    "name": "Ministry of Industry, Entrepreneurship, Trade and Innovation (MINTI)",
+    "type": "government_agency",
+    "url": "https://minti.rks-gov.net/",
+    "note": "Publishes innovation grant calls"
+   },
+   {
+    "name": "STIKK - Kosovo ICT Association",
+    "type": "startup_association",
+    "url": "https://stikk.org/",
+    "note": "Runs Tech Park Prishtina, KosICT, UK-Kosovo Tech Hub"
+   },
+   {
+    "name": "Innovation and Training Park Prizren",
+    "type": "coworking_hub",
+    "url": "https://itp-prizren.com/",
+    "note": "Coworking, Digital Transformation Center, Ready4EIC training"
+   }
+  ],
+  "sources": [
+   "https://minti.rks-gov.net/wp-content/uploads/2026/07/Public-Call-for-Supporting-Enterprises-under-the-Innovation-Grant-Scheme-in-Information-and-Communication-Technology-ICT.pdf",
+   "https://stikk.org/",
+   "https://stikk.org/call-for-applications-western-balkan-accelerator-program-opens-for-startups-in-kosovo-and-north-macedonia/",
+   "https://itp-prizren.com/"
+  ],
+  "confidence": "low",
+  "notes": "Innovation Centre Kosovo (ickk.org) refused connections and Zephyr Angels had a certificate error, so both were excluded. Kosovo is Horizon Europe associated, but some international platforms do not list it as a country."
+ },
+ {
+  "country": "Moldova",
+  "iso2": "MD",
+  "ecosystem_tier": "emerging",
+  "summary": "Fast-growing small ecosystem in Chisinau with 300+ startups that raised about US$17M in 2025, anchored by the Moldova IT Park 7% single-tax regime, Tekwill and the Startup Moldova foundation. EU candidate status opens EU programmes; local VC is still thin.",
+  "startup_visa": "none (Moldova IT Park IT Visa for foreign IT specialists, https://mitp.md/why-mitp/it-visa/)",
+  "company_setup": "SRL (LLC) registered with the Public Services Agency, usually within a day; foreigners can own 100%; tech firms can join Moldova IT Park for a 7% single tax on turnover.",
+  "grants": [
+   {
+    "name": "Inovatii digitale si start-upuri tehnologice",
+    "agency": "ODA (Organization for Entrepreneurship Development)",
+    "amount": "up to MDL 500,000 (Measure 1) or MDL 2M (Measure 2, 50% VC/crowdfunding match)",
+    "amount_usd_max": 117000,
+    "eligibility": "Tech startups; turnover under MDL 5M / 25M",
+    "deadline": "2026-11-02 to 2026-11-06 (monthly windows)",
+    "status": "upcoming",
+    "url": "https://www.oda.md/ro/granturi/start-uri-tehnologice"
+   },
+   {
+    "name": "CRESTEM IMM (digital transition, modernisation, migrant business launch)",
+    "agency": "ODA",
+    "amount": "varies by window",
+    "amount_usd_max": null,
+    "eligibility": "Moldovan SMEs and migrant entrepreneurs",
+    "deadline": "2026-11-02 to 2026-11-06 (monthly windows)",
+    "status": "upcoming",
+    "url": "https://www.oda.md/ro/granturi/crestem-imm-main"
+   },
+   {
+    "name": "FACEM Impact",
+    "agency": "ODA with KfW/BMZ",
+    "amount": "loans MDL 200,000-5,000,000 at 4.5-6% fixed",
+    "amount_usd_max": 294000,
+    "eligibility": "Moldovan SMEs with 2+ years of financial statements",
+    "deadline": "rolling (until 2027-03-31)",
+    "status": "rolling",
+    "url": "https://www.oda.md/ro/acces-la-finantare/facem-impact"
+   },
+   {
+    "name": "EBRD Star Venture (Moldova and Ukraine call)",
+    "agency": "EBRD, co-financed by EU",
+    "amount": "advisory support (Ukrainian start-ups up to EUR 50,000 under SME Recovery)",
+    "amount_usd_max": null,
+    "eligibility": "Pre-Series A startups majority-owned by Moldovan or Ukrainian citizens with live product",
+    "deadline": "2026-10-30",
+    "status": "open",
+    "url": "https://ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture/Start-up-applications.html"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (Moldova is Horizon Europe associated)",
+    "amount": "grant up to EUR 2.5M plus EUR 1-10M equity",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs in EU or associated countries",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "EBRD Star Venture",
+    "city": "Chisinau",
+    "type": "government",
+    "investment": "no equity; 24-month advisory and investor access",
+    "sectors": "generalist",
+    "deadline": "2026-10-30",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture/Start-up-applications.html"
+   },
+   {
+    "name": "UpNext (Dreamups)",
+    "city": "Chisinau",
+    "type": "accelerator",
+    "investment": "EUR 10k for 1-5%, up to EUR 25k",
+    "sectors": "generalist tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://upnext.md/"
+   },
+   {
+    "name": "Upcelerator (Dreamups)",
+    "city": "online",
+    "type": "accelerator",
+    "investment": "no equity; grant for top startup",
+    "sectors": "generalist",
+    "deadline": "annual (usually Mar); last: 2026-03-13",
+    "next_cohort": "2027-03",
+    "status": "closed",
+    "url": "https://upcelerator.md/"
+   },
+   {
+    "name": "Tekwill",
+    "city": "Chisinau",
+    "type": "incubator",
+    "investment": "no equity; pre-acceleration, hub",
+    "sectors": "ICT",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://tekwill.md/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "u.ventures (UMAEF)",
+    "city": "Chisinau / Kyiv",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://umaef.org/"
+   },
+   {
+    "name": "Horizon Capital",
+    "city": "Kyiv / Chisinau",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "tech, export-focused (private equity)",
+    "type": "vc",
+    "url": "https://horizoncapital.com.ua/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "ODA - Organization for Entrepreneurship Development",
+    "type": "government_agency",
+    "url": "https://www.oda.md/",
+    "note": "National SME agency; grants, guarantees, Fund of Funds (partners being selected 2026-27)"
+   },
+   {
+    "name": "Moldova IT Park",
+    "type": "legal_tax",
+    "url": "https://mitp.md/",
+    "note": "Virtual IT park, 7% single tax, IT Visa"
+   },
+   {
+    "name": "Startup Moldova",
+    "type": "startup_association",
+    "url": "https://startupmoldova.digital/",
+    "note": "Ecosystem foundation, Startup Moldova Summit"
+   },
+   {
+    "name": "Tekwill",
+    "type": "coworking_hub",
+    "url": "https://tekwill.md/",
+    "note": "ICT innovation hub and community"
+   },
+   {
+    "name": "ODA Grant Calendar",
+    "type": "database",
+    "url": "https://www.oda.md/ro/granturi/calendar-granturi",
+    "note": "Monthly windows, first 5 working days of each month"
+   }
+  ],
+  "sources": [
+   "https://www.oda.md/ro/granturi/start-uri-tehnologice",
+   "https://www.oda.md/ro/granturi/calendar-granturi",
+   "https://www.oda.md/ro/acces-la-finantare/fondul-de-fonduri",
+   "https://ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture/Start-up-applications.html",
+   "https://mitp.md/",
+   "https://umaef.org/"
+  ],
+  "confidence": "medium",
+  "notes": "ODA monthly windows close early when the budget is spent. ODA Fund of Funds (first-loss tranche, MDL 180M) has no selected managers yet as of Oct 2026. Mozaic angel community (EUR 25-100k tickets) and Business Angels Moldova exist but their websites could not be verified (DNS/certificate errors), so they were left out."
+ },
+ {
+  "country": "Ukraine",
+  "iso2": "UA",
+  "ecosystem_tier": "established",
+  "summary": "Large engineering talent base centred on Kyiv, Lviv, Kharkiv and Dnipro; known for Grammarly, GitLab (co-founded), MacPaw and Preply. Since 2022 the ecosystem has pivoted strongly to defence tech, supported by the state Brave1 cluster and a wave of defence-focused funds.",
+  "startup_visa": "none",
+  "company_setup": "LLC (TOV) or sole proprietor (FOP); online registration via Diia for residents, foreigners usually register via a notary or representative. IT firms can join the Diia.City special regime (9% tax on withdrawn capital or 18% CIT, 5% PIT for staff). Many founders also use a Delaware, UK, Polish or Estonian parent.",
+  "grants": [
+   {
+    "name": "Brave1 defence-tech grants",
+    "agency": "Brave1 (Ministry of Defence / Ministry of Digital Transformation)",
+    "amount": "UAH 500k-8M depending on TRL, non-dilutive",
+    "amount_usd_max": 190000,
+    "eligibility": "Ukrainian defence-tech developers; no equity or IP transfer",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://brave1.gov.ua/en/"
+   },
+   {
+    "name": "Innovative Prosthetics grant programme",
+    "agency": "Ukrainian Startup Fund and Brave1",
+    "amount": "up to UAH 8M (2M idea, 4M lab model, 8M prototype)",
+    "amount_usd_max": 190000,
+    "eligibility": "Ukrainian developers of prosthetics and components",
+    "deadline": "unknown",
+    "status": "open",
+    "url": "https://brave1.gov.ua/en/news/brave1-launches-innovative-prosthetic-program"
+   },
+   {
+    "name": "Startup EDGE grants",
+    "agency": "Ukrainian Startup Fund (with EU4Innovation East)",
+    "amount": "up to EUR 20k pre-seed, EUR 40k seed",
+    "amount_usd_max": 46000,
+    "eligibility": "Early-stage Ukrainian DeepTech, GreenTech, EdTech startups",
+    "deadline": "last: 2026-03-20",
+    "status": "upcoming",
+    "url": "https://usf.com.ua/en/programs/startup-edge"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU); Ukraine is associated to Horizon Europe",
+    "amount": "grant up to EUR 2.5M plus EUR 1-10M equity",
+    "amount_usd_max": 14000000,
+    "eligibility": "SMEs/startups in EU or Horizon Europe associated countries; short proposal any time, full proposal at cut-offs",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   },
+   {
+    "name": "Star Venture (Ukraine SME Recovery intake)",
+    "agency": "EBRD, financed by the EU",
+    "amount": "tailored advisory support up to EUR 50k, no equity",
+    "amount_usd_max": 58000,
+    "eligibility": "Tech startups with live product, full-time team, majority Ukrainian or Moldovan owned",
+    "deadline": "2026-10-30",
+    "status": "open",
+    "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "EBRD Star Venture",
+    "city": "Kyiv / remote",
+    "type": "accelerator",
+    "investment": "no equity; advisory worth up to EUR 50k over 24 months",
+    "sectors": "generalist tech",
+    "deadline": "2026-10-30",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+   },
+   {
+    "name": "Bridge to Scale (1991 Accelerator x EBRD)",
+    "city": "Warsaw / online",
+    "type": "accelerator",
+    "investment": "equity-free; follow-on from 1991 Ventures possible",
+    "sectors": "AI, IoT, fintech, cybersecurity, cleantech, robotics",
+    "deadline": "last: 2026-10-02",
+    "next_cohort": "2026-11",
+    "status": "closed",
+    "url": "https://www.1991.vc/accelerator/en/bridgetoscale"
+   },
+   {
+    "name": "MITS Accelerator",
+    "city": "Kyiv",
+    "type": "accelerator",
+    "investment": "from US$100k direct investment plus US$100k in services",
+    "sectors": "defence tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://mits.capital/mits-accelerator/"
+   },
+   {
+    "name": "17Tech Defence Accelerator",
+    "city": "Helsinki / Kyiv",
+    "type": "accelerator",
+    "investment": "EUR 20-60k for 6%",
+    "sectors": "defence tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://17tech.fi"
+   },
+   {
+    "name": "USF Startup Schools network",
+    "city": "nationwide",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://usf.com.ua/en/programs/startups-schools"
+   },
+   {
+    "name": "UNIT.City",
+    "city": "Kyiv",
+    "type": "incubator",
+    "investment": "no equity; innovation park and programmes",
+    "sectors": "generalist tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://unit.city/en"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Flyer One Ventures",
+    "city": "Kyiv",
+    "stage": "seed",
+    "check_size": "up to US$1.5M",
+    "sectors": "software",
+    "type": "vc",
+    "url": "https://flyerone.vc"
+   },
+   {
+    "name": "SMRK",
+    "city": "Kyiv",
+    "stage": "seed",
+    "check_size": "US$0.5-1.5M",
+    "sectors": "IT products",
+    "type": "vc",
+    "url": "https://smrk.vc"
+   },
+   {
+    "name": "u.ventures",
+    "city": "Kyiv",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://u.ventures"
+   },
+   {
+    "name": "TA Ventures",
+    "city": "Kyiv",
+    "stage": "seed",
+    "check_size": "US$300k-1.5M",
+    "sectors": "tech, health",
+    "type": "vc",
+    "url": "https://www.taventures.vc"
+   },
+   {
+    "name": "Angel One Fund",
+    "city": "Lviv",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "civilian and defence tech",
+    "type": "vc",
+    "url": "https://angelone.fund"
+   },
+   {
+    "name": "AVentures Capital",
+    "city": "Kyiv",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.aventurescapital.com"
+   },
+   {
+    "name": "Roosh Ventures",
+    "city": "Kyiv",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "AI, generalist tech",
+    "type": "vc",
+    "url": "https://roosh.vc"
+   },
+   {
+    "name": "Horizon Capital",
+    "city": "Kyiv",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "tech, generalist",
+    "type": "vc",
+    "url": "https://horizoncapital.com.ua"
+   },
+   {
+    "name": "MITS Capital",
+    "city": "Kyiv",
+    "stage": "seed",
+    "check_size": "from US$100k",
+    "sectors": "defence and security tech",
+    "type": "vc",
+    "url": "https://mits.capital"
+   },
+   {
+    "name": "Resist.UA",
+    "city": "Kyiv",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "defence and dual-use",
+    "type": "vc",
+    "url": "https://resist.ua"
+   },
+   {
+    "name": "D3 (Dare to Defend Democracy)",
+    "city": "unknown",
+    "stage": "seed",
+    "check_size": "US$500k-1.5M",
+    "sectors": "drones, EW, autonomy, AI, demining",
+    "type": "vc",
+    "url": "https://d3.vc"
+   },
+   {
+    "name": "1991 Ventures",
+    "city": "Kyiv / London",
+    "stage": "seed",
+    "check_size": "up to GBP 400k",
+    "sectors": "defence, AI, fintech, energy, health",
+    "type": "vc",
+    "url": "https://www.1991.vc"
+   },
+   {
+    "name": "UMAEF (Ukraine-Moldova American Enterprise Fund, ex-WNISEF)",
+    "city": "Kyiv",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist SMEs and tech",
+    "type": "government_fund",
+    "url": "https://www.wnisef.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ukrainian Startup Fund",
+    "type": "government_agency",
+    "url": "https://usf.com.ua/en",
+    "note": "State grant fund; applications via portal.usf.com.ua"
+   },
+   {
+    "name": "Diia.City",
+    "type": "legal_tax",
+    "url": "https://city.diia.gov.ua/en",
+    "note": "Special tax and legal regime for IT companies"
+   },
+   {
+    "name": "Ministry of Digital Transformation",
+    "type": "government_agency",
+    "url": "https://thedigital.gov.ua",
+    "note": "Runs Diia, Diia.City, Brave1 co-owner"
+   },
+   {
+    "name": "UkraineInvest",
+    "type": "government_agency",
+    "url": "https://ukraineinvest.gov.ua/en/",
+    "note": "National investment promotion office"
+   },
+   {
+    "name": "UVCA",
+    "type": "startup_association",
+    "url": "https://www.uvca.eu",
+    "note": "Ukrainian Venture Capital and Private Equity Association"
+   },
+   {
+    "name": "Horizon Europe Office in Ukraine",
+    "type": "government_agency",
+    "url": "https://horizon-europe.org.ua/en",
+    "note": "National contact point for EIC and Horizon Europe calls"
+   },
+   {
+    "name": "Brave1 Market",
+    "type": "other",
+    "url": "https://brave1.market",
+    "note": "Defence-tech marketplace"
+   },
+   {
+    "name": "TechUkraine",
+    "type": "database",
+    "url": "https://techukraine.org",
+    "note": "Ecosystem directory and news"
+   }
+  ],
+  "sources": [
+   "https://usf.com.ua/en/about-usf",
+   "https://brave1.gov.ua/en/",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+   "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html",
+   "https://www.1991.vc/accelerator/en/bridgetoscale",
+   "https://city.diia.gov.ua/en"
+  ],
+  "confidence": "medium",
+  "notes": "Wartime context (since Feb 2022): martial law, power and security risks; defence tech dominates new funding. Seeds of Bravery (EIC-funded) has concluded. Star Venture Ukraine intake deadline 2026-10-30 per EU Neighbours East notice. USF Startup EDGE page says next call coming soon. EIC 2027 cut-offs to be published 2026-11-19. Several VC check sizes come from secondary sources."
+ },
+ {
+  "country": "Belarus",
+  "iso2": "BY",
+  "ecosystem_tier": "emerging",
+  "summary": "Historically strong IT outsourcing and product hub in Minsk (EPAM, Wargaming, Viber, MSQRD/Flo founders), but since 2020-2022 large parts of the tech workforce and many startups have relocated to Poland, Lithuania, Georgia and elsewhere. Remaining activity is concentrated around the Hi-Tech Park.",
+  "startup_visa": "none",
+  "company_setup": "LLC (OOO); IT companies can apply for Hi-Tech Park residency (0% profit tax and VAT, 9% salary income tax, 13% in 2023-2027). Foreign founders face sanctions, banking and payment restrictions; relocated founders typically incorporate in Poland, Lithuania or the US.",
+  "grants": [
+   {
+    "name": "Innovation voucher / grant",
+    "agency": "Belarusian Innovation Fund",
+    "amount": "voucher up to US$25k or grant up to US$100k",
+    "amount_usd_max": 100000,
+    "eligibility": "Belarusian innovation projects",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://belinfund.by"
+   },
+   {
+    "name": "Repayable innovation and venture financing",
+    "agency": "Belarusian Innovation Fund",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "Belarusian organisations with innovation projects",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://belinfund.by"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "HTP Startup Hub incubation",
+    "city": "Minsk",
+    "type": "government",
+    "investment": "no equity stated; one-year incubation, mentoring, coworking",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://park.by/en/startup/about/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "RBF Ventures",
+    "city": "Minsk",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "government_fund",
+    "url": "https://belinfund.by"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Hi-Tech Park Belarus",
+    "type": "government_agency",
+    "url": "https://park.by/en/",
+    "note": "Special tax regime for IT residents"
+   },
+   {
+    "name": "National Agency of Investment and Privatization",
+    "type": "government_agency",
+    "url": "https://investinbelarus.by",
+    "note": "Investment promotion agency"
+   },
+   {
+    "name": "Ministry of Economy",
+    "type": "government_agency",
+    "url": "https://economy.gov.by",
+    "note": "SME policy"
+   },
+   {
+    "name": "dev.by",
+    "type": "community",
+    "url": "https://devby.io",
+    "note": "Main Belarusian IT media"
+   }
+  ],
+  "sources": [
+   "https://park.by/en/membership/benefits/",
+   "https://park.by/en/startup/about/",
+   "https://belinfund.by",
+   "https://devby.io"
+  ],
+  "confidence": "low",
+  "notes": "Sanctions: Belarus is under extensive EU, UK and US sanctions (since 2020-2022, tightened after its role in the invasion of Ukraine). Western VCs, accelerators and most international payment rails are effectively unavailable; Belarusian nationals are excluded from some EU programmes (e.g. EBRD-backed Bridge to Scale). Not eligible for EIC/Horizon Europe. RBF Ventures was set up in 2016 with Russia's RVC. Many well-known Belarusian startups now operate from abroad; include them under their new countries."
+ },
+ {
+  "country": "Romania",
+  "iso2": "RO",
+  "ecosystem_tier": "established",
+  "summary": "One of the largest tech talent pools in CEE, with hubs in Bucharest, Cluj-Napoca, Iasi and Timisoara. UiPath is the flagship exit-scale success; VC supply grew sharply via the PNRR Recovery Equity Fund of Funds (EUR 380M allocated to 20 funds by mid-2026).",
+  "startup_visa": "none (no dedicated startup visa; non-EU founders use the standard long-stay D/AC business visa and residence permit)",
+  "company_setup": "SRL (limited liability) registered with ONRC (Trade Register), typically a few days; foreigners can incorporate remotely via notarised power of attorney; low minimum share capital; micro-enterprise tax regime available.",
+  "grants": [
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 2900000,
+    "eligibility": "SMEs/startups in EU member states with deep-tech innovation TRL 6-8",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   },
+   {
+    "name": "PED2026 Experimental-Demonstrative Projects (PNCDI IV)",
+    "agency": "UEFISCDI",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "Research organisations with company partners, demonstrating technology prototypes",
+    "deadline": "unknown",
+    "status": "open",
+    "url": "https://uefiscdi.gov.ro/"
+   },
+   {
+    "name": "PTE2026 Technology Transfer to Business Projects (PNCDI IV)",
+    "agency": "UEFISCDI",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "Companies partnering with research organisations to commercialise R&D results",
+    "deadline": "unknown",
+    "status": "open",
+    "url": "https://uefiscdi.gov.ro/"
+   },
+   {
+    "name": "Start-Up Nation",
+    "agency": "Ministry of Economy (Granturi IMM platform)",
+    "amount": "non-refundable grant, cap varies by edition",
+    "amount_usd_max": null,
+    "eligibility": "New Romanian SMEs founded by young or unemployed entrepreneurs (recent editions under the Education and Employment Programme 2021-2027)",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://granturi.imm.gov.ro/"
+   },
+   {
+    "name": "EUREKA / Digital Europe national co-funding (SP 5.8.2)",
+    "agency": "UEFISCDI",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "Romanian partners in EUREKA or Digital Europe projects",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://uefiscdi.gov.ro/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Romania ClimAccelerator 2026-2027",
+    "city": "Bucharest (online)",
+    "type": "accelerator",
+    "investment": "no equity",
+    "sectors": "climate, sustainability, deep tech, AI",
+    "deadline": "2026-11-22",
+    "next_cohort": "2027-01",
+    "status": "open",
+    "url": "https://impacthub.ro/"
+   },
+   {
+    "name": "Techcelerator (Advancing AI, GTM Reaktor, Investment Readiness)",
+    "city": "Bucharest / Cluj-Napoca",
+    "type": "accelerator",
+    "investment": "unknown (backed by GapMinder VC)",
+    "sectors": "AI, SaaS, cleantech, defence",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://techcelerator.co/"
+   },
+   {
+    "name": "Innovation Labs",
+    "city": "Bucharest, Cluj-Napoca, Iasi, Timisoara",
+    "type": "accelerator",
+    "investment": "no equity",
+    "sectors": "generalist (student and early teams)",
+    "deadline": "annual",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://innovationlabs.ro/"
+   },
+   {
+    "name": "Orange Fab Romania",
+    "city": "Bucharest",
+    "type": "corporate",
+    "investment": "no equity stated; paid proof-of-concept up to EUR 20k",
+    "sectors": "telecom, 5G, AI, B2B tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.orangefab.ro/"
+   },
+   {
+    "name": "Founder Institute Romania",
+    "city": "Bucharest",
+    "type": "accelerator",
+    "investment": "equity warrant pool (FI standard)",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://fi.co/join/romania"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "GapMinder VC",
+    "city": "Bucharest / Amsterdam",
+    "stage": "seed",
+    "check_size": "EUR 0.5M-5M",
+    "sectors": "B2B AI, deep tech, SaaS",
+    "type": "vc",
+    "url": "https://gapminder.vc/"
+   },
+   {
+    "name": "Early Game Ventures",
+    "city": "Bucharest",
+    "stage": "multi",
+    "check_size": "EUR 0.5M-2M first ticket, up to EUR 6M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://earlygame.vc/"
+   },
+   {
+    "name": "Sparking Capital",
+    "city": "Bucharest",
+    "stage": "pre-seed",
+    "check_size": "EUR 300k-1.5M",
+    "sectors": "AI-native B2B, cybersecurity, fintech",
+    "type": "vc",
+    "url": "https://www.sparkingcapital.com/"
+   },
+   {
+    "name": "Underline Ventures",
+    "city": "Bucharest",
+    "stage": "seed",
+    "check_size": "about US$500k average",
+    "sectors": "agentic AI, industrial, space, defence tech",
+    "type": "vc",
+    "url": "https://underline.vc/"
+   },
+   {
+    "name": "Catalyst Romania",
+    "city": "Bucharest",
+    "stage": "series A",
+    "check_size": "EUR 1M-3M",
+    "sectors": "enterprise IT, e-commerce, platforms",
+    "type": "vc",
+    "url": "https://catalystromania.com/"
+   },
+   {
+    "name": "Cleverage VC",
+    "city": "Bucharest",
+    "stage": "seed",
+    "check_size": "EUR 50k-500k",
+    "sectors": "healthtech",
+    "type": "vc",
+    "url": "https://cleverage.vc/"
+   },
+   {
+    "name": "BrightCap Ventures",
+    "city": "Sofia / Bucharest",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "future of work, fintech, health",
+    "type": "vc",
+    "url": "https://www.brightcap.vc/"
+   },
+   {
+    "name": "TechAngels Romania",
+    "city": "Bucharest",
+    "stage": "pre-seed",
+    "check_size": "EUR 10k-200k",
+    "sectors": "tech",
+    "type": "angel_network",
+    "url": "https://techangels.ro/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "ROTSA (Romanian Tech Startups Association)",
+    "type": "startup_association",
+    "url": "https://rotsa.ro/",
+    "note": "Umbrella association; Startup Monitor map, Startup Awards (2027-02-25)"
+   },
+   {
+    "name": "How to Web",
+    "type": "event",
+    "url": "https://www.howtoweb.co/",
+    "note": "Main CEE tech conference; next edition 2027-10-05 to 07, Bucharest"
+   },
+   {
+    "name": "SeedBlink",
+    "type": "other",
+    "url": "https://seedblink.com/",
+    "note": "EU-regulated equity investment and syndicate platform, Bucharest-founded"
+   },
+   {
+    "name": "Growceanu",
+    "type": "other",
+    "url": "https://growceanu.com/",
+    "note": "ASF-authorised ECSP crowdfunding platform"
+   },
+   {
+    "name": "ROPEA",
+    "type": "startup_association",
+    "url": "https://ropea.ro/",
+    "note": "Romanian Private Equity Association"
+   },
+   {
+    "name": "Impact Hub Bucharest",
+    "type": "coworking_hub",
+    "url": "https://impacthub.ro/",
+    "note": "Coworking and programmes incl. ClimAccelerator"
+   },
+   {
+    "name": "Cluj Innovation Park",
+    "type": "coworking_hub",
+    "url": "https://clujinnovationpark.ro/",
+    "note": "Public innovation park with coworking and labs"
+   },
+   {
+    "name": "StartupCafe.ro",
+    "type": "database",
+    "url": "https://startupcafe.ro/",
+    "note": "Startup news and funding-call tracker (Romanian)"
+   }
+  ],
+  "sources": [
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+   "https://uefiscdi.gov.ro/",
+   "https://www.romania-insider.com/romania-climaccelerator-opens-applications-15-sustainability-startups",
+   "https://rotsa.ro/",
+   "https://techcelerator.co/"
+  ],
+  "confidence": "medium",
+  "notes": "As of 2026-10-20 no 2026 Start-Up Nation call was confirmed (industry groups were lobbying for one). PNRR Recovery Equity Fund of Funds (EIF) finished allocating EUR 380M to 20 VC/PE funds in June 2026; a successor EIF/BID fund of funds is planned from 2027. EBRD Star Venture coverage of Romania not confirmed, so omitted."
+ },
+ {
+  "country": "Bulgaria",
+  "iso2": "BG",
+  "ecosystem_tier": "established",
+  "summary": "Sofia-centred ecosystem with strong software outsourcing roots and an active local VC scene seeded by EU-backed fund-of-funds programmes (about EUR 500M managed by local VC funds per BVCA). Bulgaria joined the euro area in January 2026.",
+  "startup_visa": "Bulgaria Startup Visa: certificate for a high-tech/innovative project issued free by the Ministry of Innovation and Growth (30 days, via eNIMS), then D visa and residence permit, https://www.mig.government.bg/3263-issuance-of-a-sertificate-for-a-high-tech-and-or-innovative-project-startup-visa/?lang=en",
+  "company_setup": "EOOD/OOD limited company in the Commercial Register; nominal minimum capital; foreigners can incorporate remotely via notarised power of attorney; about 1 week; 10% corporate tax.",
+  "grants": [
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 2900000,
+    "eligibility": "SMEs/startups in EU member states with deep-tech innovation TRL 6-8",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   },
+   {
+    "name": "Entrepreneurship Fund (Early Stage / Venture Capital / Growth)",
+    "agency": "Fund Manager of Financial Instruments in Bulgaria (Fund of Funds)",
+    "amount": "equity via selected private fund managers",
+    "amount_usd_max": null,
+    "eligibility": "Bulgarian SMEs and startups; apply to the appointed fund managers",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://fmfib.bg/"
+   },
+   {
+    "name": "Innovation in Enterprises Fund",
+    "agency": "Fund Manager of Financial Instruments in Bulgaria (Fund of Funds)",
+    "amount": "EUR 32M fund, about 40 deals",
+    "amount_usd_max": null,
+    "eligibility": "Innovative companies with at least a prototype",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://fmfib.bg/"
+   },
+   {
+    "name": "Fund for Student and PhD Start-ups",
+    "agency": "Fund Manager of Financial Instruments in Bulgaria (Fund of Funds)",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "Startups founded by students and PhD candidates",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://fmfib.bg/"
+   },
+   {
+    "name": "National Innovation Fund",
+    "agency": "Bulgarian Small and Medium Enterprises Promotion Agency (BSMEPA)",
+    "amount": "unknown for next session",
+    "amount_usd_max": null,
+    "eligibility": "Bulgarian enterprises with applied research or innovation projects",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://sme.government.bg/"
+   },
+   {
+    "name": "Sofia Tech Labs research voucher",
+    "agency": "Sofia Tech Park",
+    "amount": "up to BGN 3,500 per year (30% co-financing)",
+    "amount_usd_max": 2100,
+    "eligibility": "Early-stage companies incubated at Sofia Tech Park",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://seeip.eu/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "South-East European Innovators Program (SEEIP)",
+    "city": "Sofia",
+    "type": "incubator",
+    "investment": "no equity; subsidised office, mentoring, investor intros",
+    "sectors": "generalist tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://seeip.eu/"
+   },
+   {
+    "name": "Founder Institute Bulgaria",
+    "city": "Sofia",
+    "type": "accelerator",
+    "investment": "equity warrant pool (FI standard)",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://fi.co/join/sofia"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "LAUNCHub Ventures",
+    "city": "Sofia",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech, CEE",
+    "type": "vc",
+    "url": "https://launchub.com/"
+   },
+   {
+    "name": "Vitosha Venture Partners",
+    "city": "Sofia",
+    "stage": "multi",
+    "check_size": "EUR 100k-1M",
+    "sectors": "B2B: AI, automation, commerce, defence, energy, fintech",
+    "type": "vc",
+    "url": "https://vitosha.vc/"
+   },
+   {
+    "name": "BrightCap Ventures",
+    "city": "Sofia",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "future of work, fintech, health",
+    "type": "vc",
+    "url": "https://www.brightcap.vc/"
+   },
+   {
+    "name": "Morningside Hill Capital Management",
+    "city": "Sofia",
+    "stage": "seed",
+    "check_size": "unknown (EUR 38.5M fund, 25-30 companies)",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.morningsidehill.com/"
+   },
+   {
+    "name": "Eleven Ventures",
+    "city": "Sofia",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.11.me/"
+   },
+   {
+    "name": "Fund Manager of Financial Instruments in Bulgaria (Fund of Funds)",
+    "city": "Sofia",
+    "stage": "multi",
+    "check_size": "via appointed managers",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://fmfib.bg/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ministry of Innovation and Growth",
+    "type": "government_agency",
+    "url": "https://www.mig.government.bg/",
+    "note": "Issues startup visa certificates; innovation policy"
+   },
+   {
+    "name": "BSMEPA",
+    "type": "government_agency",
+    "url": "https://sme.government.bg/",
+    "note": "SME promotion agency; administers National Innovation Fund"
+   },
+   {
+    "name": "InvestBulgaria Agency",
+    "type": "government_agency",
+    "url": "https://investbg.government.bg/",
+    "note": "Foreign investment promotion"
+   },
+   {
+    "name": "BESCO (Bulgarian Entrepreneurial Association)",
+    "type": "startup_association",
+    "url": "https://www.besco.bg/en",
+    "note": "Startup advocacy, events, office hours"
+   },
+   {
+    "name": "BVCA (Bulgarian Venture Capital Association)",
+    "type": "startup_association",
+    "url": "https://bvca.bg/",
+    "note": "VC association, investment data, RE:TURN diaspora initiative"
+   },
+   {
+    "name": "Sofia Tech Park",
+    "type": "coworking_hub",
+    "url": "https://sofiatech.bg/en/",
+    "note": "Science and technology park, labs, incubator"
+   },
+   {
+    "name": "Webit",
+    "type": "event",
+    "url": "https://www.webit.org/",
+    "note": "Webit 2027 summit in Sofia on 2027-05-27; Founders Games"
+   },
+   {
+    "name": "Puzl CowOrKing",
+    "type": "coworking_hub",
+    "url": "https://www.puzl.com/",
+    "note": "Sofia coworking and community"
+   }
+  ],
+  "sources": [
+   "https://fmfib.bg/",
+   "https://www.mig.government.bg/3263-issuance-of-a-sertificate-for-a-high-tech-and-or-innovative-project-startup-visa/?lang=en",
+   "https://bvca.bg/",
+   "https://seeip.eu/",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "medium",
+  "notes": "Fund of Funds Entrepreneurship Fund manager agreements were delayed by appeals in 2025; check which managers are investing. National Innovation Fund session timing for 2026/27 not confirmed. Eleven Ventures site (eleven.bg redirects to 11.me) blocked automated checks. EBRD Star Venture coverage of Bulgaria not confirmed, so omitted."
+ },
+ {
+  "country": "Russia",
+  "iso2": "RU",
+  "ecosystem_tier": "established",
+  "summary": "Large domestic market with big tech groups (Yandex, VK, Sber, MTS, Ozon) and state-led innovation infrastructure (Skolkovo, Moscow Innovation Cluster, Innopolis, Kazan IT Park). Since 2022 the ecosystem has become largely domestic and state- or corporate-funded, after foreign VCs exited.",
+  "startup_visa": "none",
+  "company_setup": "LLC (OOO) registered with the Federal Tax Service, typically in days; foreigners can incorporate but face sanctions, capital controls and banking restrictions. Skolkovo participant status gives tax benefits for tech companies.",
+  "grants": [
+   {
+    "name": "Skolkovo microgrants",
+    "agency": "Skolkovo Foundation",
+    "amount": "RUB 180k-1.5M",
+    "amount_usd_max": 19000,
+    "eligibility": "Skolkovo participants, under 50 staff, revenue under RUB 100M",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://sk.ru/grant-financial-support/microgrants/"
+   },
+   {
+    "name": "Skolkovo minigrants",
+    "agency": "Skolkovo Foundation",
+    "amount": "up to RUB 10M",
+    "amount_usd_max": 125000,
+    "eligibility": "Skolkovo participants, often accelerator graduates, with registered IP",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://sk.ru/grant-financial-support/minigrants/"
+   },
+   {
+    "name": "Skolkovo convertible grants",
+    "agency": "Skolkovo Foundation",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "Russian organisations doing R&D in technology-leadership areas",
+    "deadline": "last: 2025-11-29",
+    "status": "closed",
+    "url": "https://convertiblegrants.sk.ru/"
+   },
+   {
+    "name": "Investor compensation (PIT refund)",
+    "agency": "Skolkovo Foundation",
+    "amount": "up to RUB 20M per investor per startup",
+    "amount_usd_max": 250000,
+    "eligibility": "Investors of at least RUB 1M in Skolkovo startups under 5 years old",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://sk.ru/grant-financial-support/investor-compensation/"
+   },
+   {
+    "name": "Innovation Promotion Fund (FASIE) grants (Start, UMNIK, etc.)",
+    "agency": "Foundation for Assistance to Small Innovative Enterprises",
+    "amount": "varies by programme",
+    "amount_usd_max": null,
+    "eligibility": "Russian small innovative companies and young researchers",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://fasie.ru"
+   },
+   {
+    "name": "Moscow Innovation Cluster preferential loans and subsidies",
+    "agency": "Moscow Innovation Cluster",
+    "amount": "loans up to RUB 50-100M; export grant up to RUB 10M",
+    "amount_usd_max": 1250000,
+    "eligibility": "Moscow tech companies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://i.moscow"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Skolkovo Technopark Open Pre-accelerator",
+    "city": "Moscow",
+    "type": "government",
+    "investment": "paid programme, no equity stated",
+    "sectors": "AI, robotics, biomed, IT, industrial tech",
+    "deadline": "annual (applications until Jan 2027)",
+    "next_cohort": "2027-04",
+    "status": "upcoming",
+    "url": "https://preaccelerator.sk.ru/"
+   },
+   {
+    "name": "IIDF Accelerator (Sprint 2.0)",
+    "city": "Moscow",
+    "type": "accelerator",
+    "investment": "Sprint free; IIDF invests up to RUB 35M",
+    "sectors": "IT, B2B software",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://www.iidf.ru"
+   },
+   {
+    "name": "Moscow Innovation Cluster Academy of Innovators",
+    "city": "Moscow",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://i.moscow"
+   },
+   {
+    "name": "IT Park Kazan",
+    "city": "Kazan",
+    "type": "incubator",
+    "investment": "no equity stated",
+    "sectors": "IT",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://itpark.tech"
+   },
+   {
+    "name": "Academpark",
+    "city": "Novosibirsk",
+    "type": "incubator",
+    "investment": "no equity stated",
+    "sectors": "deep tech, IT",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://academpark.com"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "IIDF (Internet Initiatives Development Fund)",
+    "city": "Moscow",
+    "stage": "pre-seed",
+    "check_size": "up to RUB 35M",
+    "sectors": "IT",
+    "type": "government_fund",
+    "url": "https://www.iidf.ru"
+   },
+   {
+    "name": "RVC (Russian Venture Company)",
+    "city": "Moscow",
+    "stage": "multi",
+    "check_size": "fund of funds",
+    "sectors": "tech",
+    "type": "government_fund",
+    "url": "https://www.rvc.ru"
+   },
+   {
+    "name": "Voskhod Fund",
+    "city": "Moscow",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "deep tech, microelectronics, biotech, robotics",
+    "type": "vc",
+    "url": "https://voskhod.vc"
+   },
+   {
+    "name": "Kama Flow",
+    "city": "Moscow",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "IT, industrial tech, life sciences",
+    "type": "family_office",
+    "url": "https://kamaflow.com"
+   },
+   {
+    "name": "Rusnano",
+    "city": "Moscow",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "nanotech, materials, energy",
+    "type": "government_fund",
+    "url": "https://www.rusnano.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Skolkovo Foundation",
+    "type": "government_agency",
+    "url": "https://sk.ru",
+    "note": "Participant status, grants, technopark"
+   },
+   {
+    "name": "Moscow Innovation Cluster",
+    "type": "government_agency",
+    "url": "https://i.moscow",
+    "note": "City support measures, loans, programmes"
+   },
+   {
+    "name": "Corporation for SME Development",
+    "type": "government_agency",
+    "url": "https://corpmsp.ru",
+    "note": "Federal SME support"
+   },
+   {
+    "name": "National Technology Initiative",
+    "type": "government_agency",
+    "url": "https://nti2035.ru",
+    "note": "State tech development programme"
+   },
+   {
+    "name": "Innopolis",
+    "type": "coworking_hub",
+    "url": "https://innopolis.com",
+    "note": "IT city and special economic zone, Tatarstan"
+   },
+   {
+    "name": "Startup Village",
+    "type": "event",
+    "url": "https://www.startupvillage.ru",
+    "note": "Skolkovo startup conference; 2027 edition announced"
+   }
+  ],
+  "sources": [
+   "https://sk.ru/grant-financial-support/microgrants/",
+   "https://sk.ru/grant-financial-support/minigrants/",
+   "https://i.moscow",
+   "https://www.iidf.ru",
+   "https://www.rvc.ru",
+   "https://preaccelerator.sk.ru/"
+  ],
+  "confidence": "low",
+  "notes": "Sanctions: Russia is under extensive US, EU, UK and other sanctions since 2014 and especially since February 2022; RDIF (RVC's parent since 2021), Skolkovo Foundation and Rusnano are on Western sanctions lists, and dealings with them may be prohibited for Western persons. International VCs, accelerators (YC, Techstars) and EU/EBRD programmes are unavailable; many founders relocated abroad. Several official sites (e.g. fasie.ru, sber500) block foreign access, so FASIE programme details could not be verified. Amounts converted at about RUB 80 per USD."
+ }
+]

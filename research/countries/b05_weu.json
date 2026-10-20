@@ -1,0 +1,3151 @@
+[
+ {
+  "country": "Germany",
+  "iso2": "DE",
+  "ecosystem_tier": "established",
+  "summary": "Europe's second-largest ecosystem by VC raised, led by Berlin and Munich with strong hubs in Hamburg, Cologne and Leipzig. Strengths in deep tech, AI, mobility, industrial tech and fintech; notable successes include Celonis, N26, Delivery Hero and Personio.",
+  "startup_visa": "No dedicated startup visa; non-EU founders use the residence permit for self-employment (Sec. 21 AufenthG), https://www.make-it-in-germany.com/en/visa-residence/types/self-employment",
+  "company_setup": "GmbH (€25k share capital, €12.5k paid in) or UG (from €1); notarised deed required, online notarisation possible since 2022; typically 1–4 weeks.",
+  "grants": [
+   {
+    "name": "EXIST Gründungsstipendium",
+    "agency": "BMWE / Projektträger Jülich",
+    "amount": "€1,000–3,000/month for 12 months + up to €30k material + €5k coaching",
+    "amount_usd_max": 34500,
+    "eligibility": "Students, graduates and researchers founding from a university or research institute",
+    "deadline": "rolling",
+    "status": "open",
+    "url": "https://exist.de/programm/gruendungsstipendium/"
+   },
+   {
+    "name": "EXIST Forschungstransfer",
+    "agency": "BMWE",
+    "amount": "Personnel and material costs in two funding phases",
+    "amount_usd_max": null,
+    "eligibility": "Research teams with development-intensive, science-based spin-offs",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://exist.de/programm/forschungstransfer/"
+   },
+   {
+    "name": "EXIST Women",
+    "agency": "BMWE",
+    "amount": "Stipend, coaching and material budget for pre-founding phase",
+    "amount_usd_max": null,
+    "eligibility": "Women with a first business idea, via a university",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://exist.de/programm/women/"
+   },
+   {
+    "name": "Forschungszulage (R&D tax allowance)",
+    "agency": "BMF / BSFZ",
+    "amount": "Refundable allowance on eligible R&D costs (higher rate for SMEs)",
+    "amount_usd_max": null,
+    "eligibility": "Any taxable company in Germany doing R&D; certificate from BSFZ first",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.bescheinigung-forschungszulage.de/"
+   },
+   {
+    "name": "ZIM – Central Innovation Programme for SMEs",
+    "agency": "BMWE",
+    "amount": "Grant share of R&D project costs",
+    "amount_usd_max": null,
+    "eligibility": "SMEs with R&D projects, solo or cooperative",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.zim.de/ZIM/Navigation/DE/Home/home.html"
+   },
+   {
+    "name": "SPRIND Challenges and funding",
+    "agency": "Federal Agency for Breakthrough Innovation",
+    "amount": "Multi-million € challenge funding",
+    "amount_usd_max": null,
+    "eligibility": "Breakthrough innovation teams; challenge-based calls",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.sprind.org/en"
+   },
+   {
+    "name": "GO-Bio initial",
+    "agency": "BMFTR",
+    "amount": "Grant for life-science validation and spin-off preparation",
+    "amount_usd_max": null,
+    "eligibility": "Life-science research teams in Germany",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.go-bio.de/"
+   },
+   {
+    "name": "Pro FIT (Berlin)",
+    "agency": "Investitionsbank Berlin",
+    "amount": "Grants and loans for R&D projects",
+    "amount_usd_max": null,
+    "eligibility": "Berlin-based companies with technology projects",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.ibb.de/de/foerderprogramme/pro-fit-projektfinanzierung.html"
+   },
+   {
+    "name": "EIC Accelerator (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grant up to €2.5M + equity €1–10M",
+    "amount_usd_max": 14400000,
+    "eligibility": "Single SMEs/startups in EU or Horizon Europe associated countries; deep tech",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   },
+   {
+    "name": "EIC Pathfinder (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grants up to €4M; booster grants €50k",
+    "amount_usd_max": 4600000,
+    "eligibility": "Research consortia (Open) or single applicants (Challenges); early-stage breakthrough tech",
+    "deadline": "last: 2026-05-12",
+    "status": "upcoming",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "UnternehmerTUM (XPRENEURS, TechFounders)",
+    "city": "Munich",
+    "type": "university",
+    "investment": "no equity (programs) / UVC co-investment",
+    "sectors": "deep tech, B2B",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.unternehmertum.de/en"
+   },
+   {
+    "name": "TechFounders",
+    "city": "Munich",
+    "type": "accelerator",
+    "investment": "corporate pilots, no equity",
+    "sectors": "B2B tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.techfounders.com/"
+   },
+   {
+    "name": "TUM Venture Labs",
+    "city": "Munich",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "deep tech, life science",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.tum-venture-labs.de/"
+   },
+   {
+    "name": "German Accelerator",
+    "city": "Munich",
+    "type": "government",
+    "investment": "no equity (BMWE-funded)",
+    "sectors": "tech scaleups going to US/Asia",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.germanaccelerator.com/"
+   },
+   {
+    "name": "APX (Axel Springer x Porsche)",
+    "city": "Berlin",
+    "type": "accelerator",
+    "investment": "pre-seed ticket for equity",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://apx.vc/"
+   },
+   {
+    "name": "Antler ONE Residency",
+    "city": "Berlin / Munich",
+    "type": "venture_studio",
+    "investment": "up to €500k",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "2027-03",
+    "status": "rolling",
+    "url": "https://www.antler.co/continental-europe"
+   },
+   {
+    "name": "EXIST Startup Factories",
+    "city": "multiple",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "science-based startups",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://exist.de/exist-startup-factories/"
+   },
+   {
+    "name": "SpinLab – The HHL Accelerator",
+    "city": "Leipzig",
+    "type": "accelerator",
+    "investment": "no equity, grant-funded",
+    "sectors": "generalist, energy, health",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.spinlab.co/"
+   },
+   {
+    "name": "STARTUP AUTOBAHN (Plug and Play)",
+    "city": "Stuttgart",
+    "type": "corporate",
+    "investment": "no equity, corporate pilots",
+    "sectors": "mobility, industrial",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.startup-autobahn.com/"
+   },
+   {
+    "name": "Merantix AI Campus",
+    "city": "Berlin",
+    "type": "venture_studio",
+    "investment": "venture building / co-working",
+    "sectors": "AI",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.merantix.com/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "High-Tech Gründerfonds (HTGF)",
+    "city": "Bonn",
+    "stage": "seed",
+    "check_size": "€800k+ initial, up to €30M over lifetime",
+    "sectors": "deep tech, industrial, life sciences, digital",
+    "type": "government_fund",
+    "url": "https://www.htgf.de/en/"
+   },
+   {
+    "name": "KfW Capital",
+    "city": "Frankfurt",
+    "stage": "multi",
+    "check_size": "fund-of-funds (via VC funds)",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.kfw-capital.de/"
+   },
+   {
+    "name": "Earlybird",
+    "city": "Berlin",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "deep tech, digital, health",
+    "type": "vc",
+    "url": "https://earlybird.com/"
+   },
+   {
+    "name": "Point Nine",
+    "city": "Berlin",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "B2B SaaS, marketplaces",
+    "type": "vc",
+    "url": "https://www.pointnine.com/"
+   },
+   {
+    "name": "Cherry Ventures",
+    "city": "Berlin",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.cherry.vc/"
+   },
+   {
+    "name": "HV Capital",
+    "city": "Munich",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.hvcapital.com/"
+   },
+   {
+    "name": "Project A",
+    "city": "Berlin",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B software, fintech, defence",
+    "type": "vc",
+    "url": "https://www.project-a.vc/"
+   },
+   {
+    "name": "Lakestar",
+    "city": "Munich",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, defence, deep tech",
+    "type": "vc",
+    "url": "https://www.lakestar.com/"
+   },
+   {
+    "name": "UVC Partners",
+    "city": "Munich",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B tech, deep tech",
+    "type": "vc",
+    "url": "https://www.uvcpartners.com/"
+   },
+   {
+    "name": "La Famiglia",
+    "city": "Berlin",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B, industrial",
+    "type": "vc",
+    "url": "https://www.lafamiglia.vc/"
+   },
+   {
+    "name": "Picus Capital",
+    "city": "Munich",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.picuscap.com/"
+   },
+   {
+    "name": "Capnamic",
+    "city": "Cologne",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B software",
+    "type": "vc",
+    "url": "https://capnamic.com/"
+   },
+   {
+    "name": "coparion",
+    "city": "Cologne",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist (co-invest with private VCs)",
+    "type": "government_fund",
+    "url": "https://www.coparion.vc/"
+   },
+   {
+    "name": "Visionaries Club",
+    "city": "Berlin",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "B2B, industrial tech",
+    "type": "vc",
+    "url": "https://www.visionaries.vc/"
+   },
+   {
+    "name": "468 Capital",
+    "city": "Berlin",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "AI, software",
+    "type": "vc",
+    "url": "https://468cap.com/"
+   },
+   {
+    "name": "IBB Ventures",
+    "city": "Berlin",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "Berlin tech and creative",
+    "type": "government_fund",
+    "url": "https://www.ibbventures.de/en"
+   },
+   {
+    "name": "Bayern Kapital",
+    "city": "Landshut",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "Bavarian tech",
+    "type": "government_fund",
+    "url": "https://bayernkapital.de/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Startup-Verband",
+    "type": "startup_association",
+    "url": "https://startupverband.de/",
+    "note": "German Startups Association; policy and Startup Monitor"
+   },
+   {
+    "name": "Gründerplattform",
+    "type": "government_agency",
+    "url": "https://gruenderplattform.de/",
+    "note": "BMWE/KfW founder portal with business-plan tools"
+   },
+   {
+    "name": "KfW start-up financing",
+    "type": "government_agency",
+    "url": "https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCnden-Nachfolgen/",
+    "note": "State development bank loans for founders"
+   },
+   {
+    "name": "Make it in Germany",
+    "type": "government_agency",
+    "url": "https://www.make-it-in-germany.com/en/",
+    "note": "Official portal for visas and residence"
+   },
+   {
+    "name": "de:hub",
+    "type": "community",
+    "url": "https://www.de-hub.de/en/",
+    "note": "Network of 12 regional digital hubs"
+   },
+   {
+    "name": "Berlin Partner",
+    "type": "government_agency",
+    "url": "https://www.berlin-partner.de/",
+    "note": "Berlin economic development agency"
+   },
+   {
+    "name": "Factory Berlin",
+    "type": "coworking_hub",
+    "url": "https://www.factoryberlin.com/",
+    "note": "Tech community and campus"
+   },
+   {
+    "name": "betahaus",
+    "type": "coworking_hub",
+    "url": "https://www.betahaus.com/",
+    "note": "Coworking in Berlin and Hamburg"
+   }
+  ],
+  "sources": [
+   "https://exist.de/programm/gruendungsstipendium/",
+   "https://www.htgf.de/en/",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+   "https://www.make-it-in-germany.com/en/visa-residence/types/self-employment",
+   "https://www.antler.co/continental-europe"
+  ],
+  "confidence": "medium",
+  "notes": "EXIST and other federal programmes are now under BMWE (renamed ministry). Most accelerator deadlines not published on official pages as of 2026-10-20. EIC Accelerator: remaining 2026 full-proposal cut-off is 4 Nov 2026; short proposals accepted any time; 2027 cut-offs not yet published (2027 info day 19 Nov 2026). EIC Pathfinder Open 2027 deadline awaits the 2027 Work Programme."
+ },
+ {
+  "country": "France",
+  "iso2": "FR",
+  "ecosystem_tier": "established",
+  "summary": "One of Europe's top two or three ecosystems, centred on Paris (Station F) with strong regional hubs in Lyon, Lille, Grenoble and Toulouse. Heavy public support via Bpifrance and France 2030; strengths in AI, deep tech, fintech and health; notable companies include Mistral AI, Doctolib, BlaBlaCar and Contentsquare.",
+  "startup_visa": "French Tech Visa for Founders (Passeport Talent, 4-year renewable; requires recognition by a partner incubator or public body), https://welcome.businessfrance.fr/simplanter-en-france/recruter-des-talents-internationaux/visas-et-titres-de-sejour/les-statuts-des-dirigeants-etrangers/french-tech-visa-for-founders/",
+  "company_setup": "SAS is standard (from €1 capital); register online via the guichet unique (formalites.entreprises.gouv.fr); typically 1–2 weeks; foreigners can incorporate remotely but need a French address and bank account.",
+  "grants": [
+   {
+    "name": "Bourse French Tech",
+    "agency": "Bpifrance",
+    "amount": "Grant up to €30,000",
+    "amount_usd_max": 34500,
+    "eligibility": "Startups under 1 year old with an innovative project",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.bpifrance.fr/catalogue-offres/bourse-french-tech"
+   },
+   {
+    "name": "Bourse French Tech Emergence",
+    "agency": "Bpifrance",
+    "amount": "Grant up to €90,000",
+    "amount_usd_max": 103500,
+    "eligibility": "Deep-tech startups from research labs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.bpifrance.fr/catalogue-offres/bourse-french-tech-emergence"
+   },
+   {
+    "name": "Aide pour le développement de l'innovation",
+    "agency": "Bpifrance",
+    "amount": "Grant + repayable advance up to €2M",
+    "amount_usd_max": 2300000,
+    "eligibility": "SMEs with innovation projects",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.bpifrance.fr/catalogue-offres/aide-pour-le-developpement-de-linnovation"
+   },
+   {
+    "name": "Concours d'innovation i-Nov",
+    "agency": "Bpifrance / France 2030",
+    "amount": "Co-funding of projects (historically ~€0.6–5M)",
+    "amount_usd_max": null,
+    "eligibility": "SMEs and startups with innovation projects on thematic waves",
+    "deadline": "closed (Bpifrance: offre plus disponible, Oct 2026)",
+    "status": "closed",
+    "url": "https://www.bpifrance.fr/catalogue-offres/concours-dinnovation-i-nov"
+   },
+   {
+    "name": "French Tech Tremplin",
+    "agency": "Mission French Tech / Bpifrance",
+    "amount": "Grant plus support programme",
+    "amount_usd_max": null,
+    "eligibility": "Under-represented founders (QPV, scholarship holders, refugees)",
+    "deadline": "annual (laureates announced Jun)",
+    "status": "closed",
+    "url": "https://lafrenchtech.gouv.fr/fr/programme/french-tech-tremplin/"
+   },
+   {
+    "name": "Crédit d'impôt recherche (CIR)",
+    "agency": "DGFiP / MESR",
+    "amount": "30% of eligible R&D costs; cash refund for SMEs and JEI",
+    "amount_usd_max": null,
+    "eligibility": "Companies doing R&D in France",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F23533"
+   },
+   {
+    "name": "Jeune Entreprise Innovante (JEI)",
+    "agency": "French government",
+    "amount": "Social-charge and tax exemptions",
+    "amount_usd_max": null,
+    "eligibility": "SMEs under 11 years old with significant R&D spend",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F31188"
+   },
+   {
+    "name": "EIC Accelerator (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grant up to €2.5M + equity €1–10M",
+    "amount_usd_max": 14400000,
+    "eligibility": "Single SMEs/startups in EU or Horizon Europe associated countries; deep tech",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   },
+   {
+    "name": "EIC Pathfinder (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grants up to €4M; booster grants €50k",
+    "amount_usd_max": 4600000,
+    "eligibility": "Research consortia (Open) or single applicants (Challenges); early-stage breakthrough tech",
+    "deadline": "last: 2026-05-12",
+    "status": "upcoming",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "STATION F Founders Program",
+    "city": "Paris",
+    "type": "incubator",
+    "investment": "no equity; desk fee",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://stationf.co/programs"
+   },
+   {
+    "name": "STATION F Fighters Program",
+    "city": "Paris",
+    "type": "incubator",
+    "investment": "no equity; free",
+    "sectors": "generalist (under-represented founders)",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://stationf.co/programs"
+   },
+   {
+    "name": "Incubateur HEC Paris (Station F)",
+    "city": "Paris",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://builders.hec.fr/incubateur"
+   },
+   {
+    "name": "LVMH La Maison des Startups",
+    "city": "Paris",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "luxury, retail tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.lvmh.com/en/startups-tech-partners"
+   },
+   {
+    "name": "Entrepreneur First",
+    "city": "Paris",
+    "type": "venture_studio",
+    "investment": "pre-seed investment for equity",
+    "sectors": "deep tech, AI",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.joinef.com/"
+   },
+   {
+    "name": "Antler ONE Residency",
+    "city": "Paris",
+    "type": "venture_studio",
+    "investment": "up to €500k",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "2027-03",
+    "status": "rolling",
+    "url": "https://www.antler.co/continental-europe"
+   },
+   {
+    "name": "WILCO",
+    "city": "Paris",
+    "type": "accelerator",
+    "investment": "no equity; honour loans",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.wilco.com/"
+   },
+   {
+    "name": "Agoranov",
+    "city": "Paris",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "deep tech, science-based",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.agoranov.com/"
+   },
+   {
+    "name": "50 Partners",
+    "city": "Paris",
+    "type": "accelerator",
+    "investment": "equity-for-support",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.50partners.fr/"
+   },
+   {
+    "name": "EuraTechnologies",
+    "city": "Lille",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.euratechnologies.com/"
+   },
+   {
+    "name": "Genopole",
+    "city": "Évry",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "biotech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.genopole.com/"
+   },
+   {
+    "name": "Plug and Play France",
+    "city": "Paris",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "corporate innovation",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.plugandplaytechcenter.com/france/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Bpifrance (Large Venture, Digital Venture, Deeptech)",
+    "city": "Paris",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.bpifrance.fr/"
+   },
+   {
+    "name": "Partech",
+    "city": "Paris",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://partechpartners.com/"
+   },
+   {
+    "name": "Elaia",
+    "city": "Paris",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech, B2B",
+    "type": "vc",
+    "url": "https://elaia.com/"
+   },
+   {
+    "name": "Kima Ventures",
+    "city": "Paris",
+    "stage": "pre-seed",
+    "check_size": "~€150k",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.kima.vc/"
+   },
+   {
+    "name": "Serena",
+    "city": "Paris",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B, AI, climate",
+    "type": "vc",
+    "url": "https://www.serena.vc/"
+   },
+   {
+    "name": "Alven",
+    "city": "Paris",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://alven.co/"
+   },
+   {
+    "name": "ISAI",
+    "city": "Paris",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "digital, generalist",
+    "type": "vc",
+    "url": "https://www.isai.vc/"
+   },
+   {
+    "name": "Daphni",
+    "city": "Paris",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.daphni.com/"
+   },
+   {
+    "name": "Newfund",
+    "city": "Paris",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.newfund.com/"
+   },
+   {
+    "name": "Frst",
+    "city": "Paris",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.frst.vc/"
+   },
+   {
+    "name": "Headline",
+    "city": "Paris",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://headline.com/"
+   },
+   {
+    "name": "Eurazeo (venture)",
+    "city": "Paris",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "digital, health, climate",
+    "type": "vc",
+    "url": "https://www.eurazeo.com/fr"
+   },
+   {
+    "name": "Otium Capital",
+    "city": "Paris",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "family_office",
+    "url": "https://www.otium.vc/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "La Mission French Tech",
+    "type": "government_agency",
+    "url": "https://lafrenchtech.gouv.fr/",
+    "note": "National startup programme (French Tech 2030, Tremplin, Visa)"
+   },
+   {
+    "name": "Bpifrance Création",
+    "type": "government_agency",
+    "url": "https://bpifrance-creation.fr/",
+    "note": "Guides for creating a company"
+   },
+   {
+    "name": "Guichet unique des formalités",
+    "type": "legal_tax",
+    "url": "https://formalites.entreprises.gouv.fr/",
+    "note": "Online company registration"
+   },
+   {
+    "name": "France Digitale",
+    "type": "startup_association",
+    "url": "https://francedigitale.org/",
+    "note": "Startup and VC association"
+   },
+   {
+    "name": "Welcome to France (Business France)",
+    "type": "government_agency",
+    "url": "https://welcome.businessfrance.fr/",
+    "note": "Relocation and talent visas"
+   },
+   {
+    "name": "VivaTech",
+    "type": "event",
+    "url": "https://vivatech.com/",
+    "note": "Annual Paris tech conference"
+   },
+   {
+    "name": "Maddyness",
+    "type": "database",
+    "url": "https://www.maddyness.com/",
+    "note": "Startup news and funding rounds"
+   },
+   {
+    "name": "STATION F",
+    "type": "coworking_hub",
+    "url": "https://stationf.co/",
+    "note": "World's largest startup campus"
+   }
+  ],
+  "sources": [
+   "https://www.bpifrance.fr/catalogue-offres/bourse-french-tech",
+   "https://welcome.businessfrance.fr/simplanter-en-france/recruter-des-talents-internationaux/visas-et-titres-de-sejour/les-statuts-des-dirigeants-etrangers/french-tech-visa-for-founders/",
+   "https://stationf.co/programs",
+   "https://lafrenchtech.gouv.fr/fr/programme/french-tech-tremplin/",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "medium",
+  "notes": "As of 2026-10-20 Bpifrance's i-Nov catalogue page says the offer is no longer available; next wave unconfirmed. Bpifrance Prêt d'amorçage also shows as no longer available. Station F programme pages list no fixed deadlines. EIC Accelerator: remaining 2026 full-proposal cut-off is 4 Nov 2026; short proposals accepted any time; 2027 cut-offs not yet published (2027 info day 19 Nov 2026). EIC Pathfinder Open 2027 deadline awaits the 2027 Work Programme."
+ },
+ {
+  "country": "Netherlands",
+  "iso2": "NL",
+  "ecosystem_tier": "established",
+  "summary": "Dense, internationally oriented ecosystem around Amsterdam, Delft, Eindhoven and Utrecht. Strengths in fintech, deep tech (photonics, semiconductors), agrifood and health; notable companies include Adyen, Mollie, Bunq and Booking.com.",
+  "startup_visa": "Start-up residence permit (1 year, requires an RVO-approved facilitator), https://ind.nl/en/residence-permits/work/start-up",
+  "company_setup": "BV with €0.01 minimum capital via notarial deed and KVK registration; can be done remotely via notary with power of attorney; around 1 week.",
+  "grants": [
+   {
+    "name": "WBSO R&D tax credit",
+    "agency": "RVO",
+    "amount": "36% of R&D wage costs up to €391,020 (50% for starters), 16% above",
+    "amount_usd_max": null,
+    "eligibility": "Companies and self-employed doing R&D; apply in advance",
+    "deadline": "rolling (2027 applications open mid-Nov 2026)",
+    "status": "upcoming",
+    "url": "https://english.rvo.nl/subsidies-financing/wbso"
+   },
+   {
+    "name": "Vroegefasefinanciering (VFF, early-phase loan)",
+    "agency": "RVO",
+    "amount": "Loan up to €450,000",
+    "amount_usd_max": 517500,
+    "eligibility": "Startups with a technically innovative idea too early for investors",
+    "deadline": "2026-12-31",
+    "status": "open",
+    "url": "https://www.rvo.nl/subsidies-financiering/vroegefasefinanciering"
+   },
+   {
+    "name": "MIT – SME innovation stimulus (regions and top sectors)",
+    "agency": "RVO / provinces",
+    "amount": "Grants for feasibility and R&D projects",
+    "amount_usd_max": null,
+    "eligibility": "Dutch SMEs with innovation projects",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.rvo.nl/subsidies-financiering/mit"
+   },
+   {
+    "name": "Innovation Credit (Innovatiekrediet)",
+    "agency": "RVO",
+    "amount": "Loan up to 45% of project costs (small firms)",
+    "amount_usd_max": null,
+    "eligibility": "Innovative technical or clinical development projects",
+    "deadline": "2026-12-31",
+    "status": "open",
+    "url": "https://english.rvo.nl/subsidies-financing/innovation-credit"
+   },
+   {
+    "name": "EIC Accelerator (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grant up to €2.5M + equity €1–10M",
+    "amount_usd_max": 14400000,
+    "eligibility": "Single SMEs/startups in EU or Horizon Europe associated countries; deep tech",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   },
+   {
+    "name": "EIC Pathfinder (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grants up to €4M; booster grants €50k",
+    "amount_usd_max": 4600000,
+    "eligibility": "Research consortia (Open) or single applicants (Challenges); early-stage breakthrough tech",
+    "deadline": "last: 2026-05-12",
+    "status": "upcoming",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "YES!Delft",
+    "city": "Delft",
+    "type": "incubator",
+    "investment": "no equity (programme fee)",
+    "sectors": "deep tech, hardware",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.yesdelft.com/"
+   },
+   {
+    "name": "Rockstart",
+    "city": "Amsterdam",
+    "type": "accelerator",
+    "investment": "equity investment",
+    "sectors": "energy, agrifood, emerging tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.rockstart.com/"
+   },
+   {
+    "name": "Startupbootcamp",
+    "city": "Amsterdam",
+    "type": "accelerator",
+    "investment": "varies by programme",
+    "sectors": "multiple verticals",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://startupbootcamp.org/"
+   },
+   {
+    "name": "Antler ONE Residency",
+    "city": "Amsterdam",
+    "type": "venture_studio",
+    "investment": "up to €500k",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "2027-03",
+    "status": "rolling",
+    "url": "https://www.antler.co/continental-europe"
+   },
+   {
+    "name": "StartLife",
+    "city": "Wageningen",
+    "type": "accelerator",
+    "investment": "no equity; pre-seed loans",
+    "sectors": "agrifood tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://startlife.nl/"
+   },
+   {
+    "name": "UtrechtInc",
+    "city": "Utrecht",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "health, sustainability, digital",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.utrechtinc.nl/"
+   },
+   {
+    "name": "ACE Incubator",
+    "city": "Amsterdam",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ace.nl/"
+   },
+   {
+    "name": "HighTechXL",
+    "city": "Eindhoven",
+    "type": "venture_studio",
+    "investment": "venture building",
+    "sectors": "deep tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.hightechxl.com/"
+   },
+   {
+    "name": "TU/e innovation Space",
+    "city": "Eindhoven",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "student tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.tue.nl/en/education/tue-innovation-space"
+   },
+   {
+    "name": "Plug and Play Netherlands",
+    "city": "Amsterdam",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "corporate innovation",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.plugandplaytechcenter.com/netherlands/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Invest-NL",
+    "city": "Amsterdam",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "deep tech, energy transition",
+    "type": "government_fund",
+    "url": "https://www.investnl.nl/"
+   },
+   {
+    "name": "Peak",
+    "city": "Amsterdam",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "SaaS, marketplaces",
+    "type": "vc",
+    "url": "https://peak.capital/"
+   },
+   {
+    "name": "henQ",
+    "city": "Amsterdam",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B software",
+    "type": "vc",
+    "url": "https://www.henq.vc/"
+   },
+   {
+    "name": "Inkef",
+    "city": "Amsterdam",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech, software",
+    "type": "vc",
+    "url": "https://www.inkef.com/"
+   },
+   {
+    "name": "Newion",
+    "city": "Amsterdam",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B software",
+    "type": "vc",
+    "url": "https://www.newion.com/"
+   },
+   {
+    "name": "Endeit Capital",
+    "city": "Amsterdam",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.endeit.com/"
+   },
+   {
+    "name": "Keadyn",
+    "city": "Amsterdam",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "software, marketplaces",
+    "type": "vc",
+    "url": "https://www.keadyn.com/"
+   },
+   {
+    "name": "Prime Ventures",
+    "city": "Amsterdam",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.primeventures.com/"
+   },
+   {
+    "name": "Forbion",
+    "city": "Naarden",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "life sciences",
+    "type": "vc",
+    "url": "https://forbion.com/"
+   },
+   {
+    "name": "SHIFT Invest",
+    "city": "Amsterdam",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "food, sustainability, health",
+    "type": "vc",
+    "url": "https://shiftinvest.com/"
+   },
+   {
+    "name": "Borski Fund",
+    "city": "Amsterdam",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "female-led startups",
+    "type": "vc",
+    "url": "https://borskifund.com/"
+   },
+   {
+    "name": "SET Ventures",
+    "city": "Amsterdam",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "digital energy",
+    "type": "vc",
+    "url": "https://setventures.com/"
+   },
+   {
+    "name": "Curiosity VC",
+    "city": "Amsterdam",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B software",
+    "type": "vc",
+    "url": "https://www.curiosityvc.com/"
+   },
+   {
+    "name": "UNIIQ",
+    "city": "Delft",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "South Holland tech",
+    "type": "government_fund",
+    "url": "https://www.uniiq.nl/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "RVO – Netherlands Enterprise Agency",
+    "type": "government_agency",
+    "url": "https://english.rvo.nl/topics/startups",
+    "note": "Grants, WBSO and startup support"
+   },
+   {
+    "name": "Techleap",
+    "type": "startup_association",
+    "url": "https://techleap.nl/",
+    "note": "National scaleup programme and data"
+   },
+   {
+    "name": "Dutch Startup Association",
+    "type": "startup_association",
+    "url": "https://www.dutchstartupassociation.nl/",
+    "note": "Founder advocacy group"
+   },
+   {
+    "name": "KVK (Chamber of Commerce)",
+    "type": "legal_tax",
+    "url": "https://www.kvk.nl/",
+    "note": "Company registration"
+   },
+   {
+    "name": "Business.gov.nl",
+    "type": "government_agency",
+    "url": "https://business.gov.nl/",
+    "note": "Government info for entrepreneurs"
+   },
+   {
+    "name": "InnovationQuarter",
+    "type": "government_agency",
+    "url": "https://www.innovationquarter.nl/",
+    "note": "South Holland regional development agency"
+   },
+   {
+    "name": "High Tech Campus Eindhoven",
+    "type": "coworking_hub",
+    "url": "https://www.hightechcampus.com/",
+    "note": "Deep-tech campus"
+   },
+   {
+    "name": "I amsterdam Business",
+    "type": "government_agency",
+    "url": "https://www.iamsterdam.com/en/business",
+    "note": "Amsterdam business setup info"
+   }
+  ],
+  "sources": [
+   "https://www.rvo.nl/subsidies-financiering/wbso",
+   "https://english.rvo.nl/subsidies-financing/innovation-credit",
+   "https://ind.nl/en/residence-permits/work/start-up",
+   "https://www.antler.co/continental-europe",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "medium",
+  "notes": "WBSO 2027 changes announced 15 Sep 2026; Invest-NL site was not reachable from our checker (connection error) but is the known official domain. EIC Accelerator: remaining 2026 full-proposal cut-off is 4 Nov 2026; short proposals accepted any time; 2027 cut-offs not yet published (2027 info day 19 Nov 2026). EIC Pathfinder Open 2027 deadline awaits the 2027 Work Programme."
+ },
+ {
+  "country": "Belgium",
+  "iso2": "BE",
+  "ecosystem_tier": "established",
+  "summary": "Mid-sized ecosystem split across Flanders (Ghent, Leuven, Antwerp), Brussels and Wallonia, with regional funding agencies. Strengths in biotech, semiconductors (imec), B2B SaaS and fintech; notable companies include Collibra, Odoo, Showpad and Deliverect.",
+  "startup_visa": "none (non-EU founders need a regional professional card / self-employed permit)",
+  "company_setup": "SRL/BV with no minimum capital but a mandatory financial plan; notarial deed and KBO/BCE registration; about 1–2 weeks.",
+  "grants": [
+   {
+    "name": "VLAIO innovation and development projects",
+    "agency": "Flanders Innovation & Entrepreneurship (VLAIO)",
+    "amount": "Grants for R&D and development projects",
+    "amount_usd_max": null,
+    "eligibility": "Companies with operations in Flanders",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.vlaio.be/"
+   },
+   {
+    "name": "Innoviris R&D funding",
+    "agency": "Innoviris",
+    "amount": "Grants for R&D and innovation",
+    "amount_usd_max": null,
+    "eligibility": "Brussels-based companies and researchers",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://innoviris.brussels/"
+   },
+   {
+    "name": "Wallonie Entreprendre startup financing",
+    "agency": "Wallonie Entreprendre",
+    "amount": "Loans and equity for startups",
+    "amount_usd_max": null,
+    "eligibility": "Companies based in Wallonia",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.wallonie-entreprendre.be/"
+   },
+   {
+    "name": "finance&invest.brussels",
+    "agency": "Brussels Region",
+    "amount": "Loans and equity for Brussels firms",
+    "amount_usd_max": null,
+    "eligibility": "Brussels-based companies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://finance.brussels/"
+   },
+   {
+    "name": "EIC Accelerator (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grant up to €2.5M + equity €1–10M",
+    "amount_usd_max": 14400000,
+    "eligibility": "Single SMEs/startups in EU or Horizon Europe associated countries; deep tech",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   },
+   {
+    "name": "EIC Pathfinder (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grants up to €4M; booster grants €50k",
+    "amount_usd_max": 4600000,
+    "eligibility": "Research consortia (Open) or single applicants (Challenges); early-stage breakthrough tech",
+    "deadline": "last: 2026-05-12",
+    "status": "upcoming",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "imec.istart",
+    "city": "Leuven / Ghent",
+    "type": "accelerator",
+    "investment": "€50k–€500k investment",
+    "sectors": "tech, deep tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://imecistart.com/"
+   },
+   {
+    "name": "Start it @KBC",
+    "city": "Brussels / Antwerp / Ghent",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "last: 2026-09-14",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startit-x.com/en/accelerate/start-it-kbc"
+   },
+   {
+    "name": "hub.brussels",
+    "city": "Brussels",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://hub.brussels/"
+   },
+   {
+    "name": "IGNITY",
+    "city": "Wallonia",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ignity.be/en"
+   },
+   {
+    "name": "LeanSquare",
+    "city": "Liège",
+    "type": "accelerator",
+    "investment": "pre-seed investment",
+    "sectors": "digital",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.leansquare.be/"
+   },
+   {
+    "name": "Plug and Play Belgium",
+    "city": "Brussels",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "corporate innovation",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.plugandplaytechcenter.com/belgium/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "PMV",
+    "city": "Brussels",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "Flemish companies",
+    "type": "government_fund",
+    "url": "https://www.pmv.eu/"
+   },
+   {
+    "name": "Smartfin",
+    "city": "Brussels",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://smartfinvc.com/"
+   },
+   {
+    "name": "Hummingbird",
+    "city": "Antwerp",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.hummingbird.vc/"
+   },
+   {
+    "name": "Volta Ventures",
+    "city": "Leuven",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B software",
+    "type": "vc",
+    "url": "https://www.volta.ventures/"
+   },
+   {
+    "name": "Fortino Capital",
+    "city": "Antwerp",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "B2B software",
+    "type": "vc",
+    "url": "https://www.fortino.be/"
+   },
+   {
+    "name": "imec.xpand",
+    "city": "Leuven",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "semiconductor-enabled deep tech",
+    "type": "vc",
+    "url": "https://www.imecxpand.com/"
+   },
+   {
+    "name": "Qbic",
+    "city": "Ghent",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "university spin-offs",
+    "type": "vc",
+    "url": "https://www.qbic.be/"
+   },
+   {
+    "name": "Capricorn Partners",
+    "city": "Leuven",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "health, cleantech, digital",
+    "type": "vc",
+    "url": "https://www.capricorn.be/"
+   },
+   {
+    "name": "BeAngels",
+    "city": "Brussels",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.beangels.eu/"
+   },
+   {
+    "name": "Wallonie Entreprendre",
+    "city": "Liège",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "Walloon companies",
+    "type": "government_fund",
+    "url": "https://www.wallonie-entreprendre.be/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "VLAIO",
+    "type": "government_agency",
+    "url": "https://www.vlaio.be/",
+    "note": "Flemish innovation and entrepreneurship agency"
+   },
+   {
+    "name": "hub.brussels",
+    "type": "government_agency",
+    "url": "https://hub.brussels/",
+    "note": "Brussels agency for entrepreneurship"
+   },
+   {
+    "name": "Innoviris",
+    "type": "government_agency",
+    "url": "https://innoviris.brussels/",
+    "note": "Brussels research and innovation agency"
+   },
+   {
+    "name": "BECI",
+    "type": "community",
+    "url": "https://www.beci.be/",
+    "note": "Brussels chamber of commerce"
+   },
+   {
+    "name": "Start it X",
+    "type": "community",
+    "url": "https://startit-x.com/en/accelerate/start-it-kbc",
+    "note": "Startup community and programmes"
+   }
+  ],
+  "sources": [
+   "https://startit-x.com/en/accelerate/start-it-kbc",
+   "https://imecistart.com/",
+   "https://innoviris.brussels/",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "medium",
+  "notes": "Funding is regional (Flanders/Brussels/Wallonia). Start it @KBC fall 2026 cohort deadline was 14 Sep 2026; next intake date not yet published. VLAIO and PMV sites block automated checks but are the official domains. EIC Accelerator: remaining 2026 full-proposal cut-off is 4 Nov 2026; short proposals accepted any time; 2027 cut-offs not yet published (2027 info day 19 Nov 2026). EIC Pathfinder Open 2027 deadline awaits the 2027 Work Programme."
+ },
+ {
+  "country": "Luxembourg",
+  "iso2": "LU",
+  "ecosystem_tier": "emerging",
+  "summary": "Small but well-funded ecosystem in Luxembourg City, built on its financial centre and EU institutions. Strengths in fintech, space resources, cybersecurity and fund tech; government support via Luxinnovation and Fit 4 Start.",
+  "startup_visa": "none (non-EU founders apply for a self-employed residence permit)",
+  "company_setup": "SARL (€12k capital, notarised) or simplified SARL-S (from €1); business permit from the Ministry of the Economy; guidance via Guichet.lu; about 2–4 weeks.",
+  "grants": [
+   {
+    "name": "Fit 4 Start",
+    "agency": "Luxinnovation / Ministry of the Economy",
+    "amount": "Up to €150,000 pre-seed capital + 6 months coaching",
+    "amount_usd_max": 172500,
+    "eligibility": "Early-stage digital, health, space and ICT startups willing to base in Luxembourg",
+    "deadline": "unknown (calls usually twice a year)",
+    "status": "unknown",
+    "url": "https://startupluxembourg.com/start-your-business/join-our-startup-programmes"
+   },
+   {
+    "name": "SNCI financing",
+    "agency": "Société Nationale de Crédit et d'Investissement",
+    "amount": "Loans and equity",
+    "amount_usd_max": null,
+    "eligibility": "Luxembourg-based companies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.snci.lu/"
+   },
+   {
+    "name": "EIC Accelerator (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grant up to €2.5M + equity €1–10M",
+    "amount_usd_max": 14400000,
+    "eligibility": "Single SMEs/startups in EU or Horizon Europe associated countries; deep tech",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   },
+   {
+    "name": "EIC Pathfinder (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grants up to €4M; booster grants €50k",
+    "amount_usd_max": 4600000,
+    "eligibility": "Research consortia (Open) or single applicants (Challenges); early-stage breakthrough tech",
+    "deadline": "last: 2026-05-12",
+    "status": "upcoming",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Fit 4 Start",
+    "city": "Luxembourg City",
+    "type": "government",
+    "investment": "up to €150k (convertible)",
+    "sectors": "ICT, health, space, sustainability",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://startupluxembourg.com/start-your-business/join-our-startup-programmes"
+   },
+   {
+    "name": "LHoFT Catapult",
+    "city": "Luxembourg City",
+    "type": "accelerator",
+    "investment": "no equity",
+    "sectors": "fintech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.lhoft.com/en/catapult"
+   },
+   {
+    "name": "Technoport",
+    "city": "Esch-sur-Alzette",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://technoport.lu/"
+   },
+   {
+    "name": "ESRIC Start-up Support Programme",
+    "city": "Luxembourg City",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "space resources",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.esric.lu/"
+   },
+   {
+    "name": "nyuko",
+    "city": "Luxembourg City",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://nyuko.lu/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Expon Capital",
+    "city": "Luxembourg City",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "digital tech",
+    "type": "vc",
+    "url": "https://expon.capital/"
+   },
+   {
+    "name": "Mangrove Capital Partners",
+    "city": "Luxembourg City",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.mangrove.vc/"
+   },
+   {
+    "name": "LBAN",
+    "city": "Luxembourg City",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.lban.lu/"
+   },
+   {
+    "name": "SNCI",
+    "city": "Luxembourg City",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "Luxembourg companies",
+    "type": "government_fund",
+    "url": "https://www.snci.lu/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Luxinnovation",
+    "type": "government_agency",
+    "url": "https://www.luxinnovation.lu/",
+    "note": "National innovation agency"
+   },
+   {
+    "name": "Startup Luxembourg",
+    "type": "government_agency",
+    "url": "https://startupluxembourg.com/",
+    "note": "Ecosystem portal and directory"
+   },
+   {
+    "name": "Guichet.lu (businesses)",
+    "type": "legal_tax",
+    "url": "https://guichet.public.lu/en/entreprises.html",
+    "note": "Business permits and company setup"
+   },
+   {
+    "name": "The LHoFT",
+    "type": "coworking_hub",
+    "url": "https://www.lhoft.com/",
+    "note": "Luxembourg House of Financial Technology"
+   },
+   {
+    "name": "Ministry of the Economy",
+    "type": "government_agency",
+    "url": "https://meco.gouvernement.lu/",
+    "note": "Business permits and innovation policy"
+   }
+  ],
+  "sources": [
+   "https://startupluxembourg.com/start-your-business/join-our-startup-programmes",
+   "https://www.lhoft.com/en/catapult",
+   "https://luxinnovation.lu/news/24-startups-selected-for-fit-4-start-17",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "medium",
+  "notes": "Fit 4 Start #17 cohort has been selected; next call date not found. LHoFT Catapult 2026 editions (Green Fintech, FundTech, Kickstarter) all listed as closed. Luxembourg Future Fund site not reachable, so left out. EIC Accelerator: remaining 2026 full-proposal cut-off is 4 Nov 2026; short proposals accepted any time; 2027 cut-offs not yet published (2027 info day 19 Nov 2026). EIC Pathfinder Open 2027 deadline awaits the 2027 Work Programme."
+ },
+ {
+  "country": "Switzerland",
+  "iso2": "CH",
+  "ecosystem_tier": "established",
+  "summary": "Highly research-driven ecosystem anchored by ETH Zurich and EPFL, with hubs in Zurich, Lausanne, Geneva, Basel and Zug. Strengths in deep tech, medtech, biotech, robotics, fintech and crypto; notable companies include On, Scandit, GetYourGuide and Climeworks.",
+  "startup_visa": "none (non-EU founders need a cantonal permit for self-employment, granted case by case)",
+  "company_setup": "GmbH (CHF 20k capital) or AG (CHF 100k, CHF 50k paid in); notarised deed and commercial register entry; a Swiss-resident signatory is required; via EasyGov; 1–3 weeks.",
+  "grants": [
+   {
+    "name": "Innosuisse innovation projects without implementation partner",
+    "agency": "Innosuisse",
+    "amount": "Project funding for start-ups and SMEs",
+    "amount_usd_max": null,
+    "eligibility": "Swiss start-ups and SMEs with science-based innovation",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.innosuisse.admin.ch/en/innovation-projects-without-implementation-partner"
+   },
+   {
+    "name": "Innosuisse innovation cheque",
+    "agency": "Innosuisse",
+    "amount": "Voucher for a preliminary study with a research partner",
+    "amount_usd_max": null,
+    "eligibility": "Swiss SMEs and start-ups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.innosuisse.admin.ch/en/innovation-cheque"
+   },
+   {
+    "name": "Innosuisse Start-up Coaching",
+    "agency": "Innosuisse",
+    "amount": "Subsidised coaching",
+    "amount_usd_max": null,
+    "eligibility": "Swiss science-based start-ups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.innosuisse.admin.ch/en/start-up-coaching-for-start-up"
+   },
+   {
+    "name": "Venture Kick",
+    "agency": "Venture Kick foundation",
+    "amount": "Up to CHF 150,000 in three stages",
+    "amount_usd_max": 187500,
+    "eligibility": "Swiss university-linked start-ups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.venturekick.ch/"
+   },
+   {
+    "name": "Technology Fund loan guarantees",
+    "agency": "Swiss Federal Office for the Environment",
+    "amount": "Loan guarantees up to CHF 3M",
+    "amount_usd_max": 3750000,
+    "eligibility": "Companies with climate and resource-saving technologies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.technologyfund.ch/"
+   },
+   {
+    "name": "EIC Accelerator (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grant up to €2.5M + equity €1–10M",
+    "amount_usd_max": 14400000,
+    "eligibility": "Swiss eligibility depends on Horizon Europe association status; check before applying. Single SMEs/startups in EU or Horizon Europe associated countries; deep tech",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   },
+   {
+    "name": "EIC Pathfinder (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grants up to €4M; booster grants €50k",
+    "amount_usd_max": 4600000,
+    "eligibility": "Swiss eligibility depends on Horizon Europe association status; check before applying. Research consortia (Open) or single applicants (Challenges); early-stage breakthrough tech",
+    "deadline": "last: 2026-05-12",
+    "status": "upcoming",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Venturelab",
+    "city": "Zurich / Lausanne",
+    "type": "accelerator",
+    "investment": "no equity",
+    "sectors": "deep tech, generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.venturelab.swiss/"
+   },
+   {
+    "name": "Kickstart Innovation",
+    "city": "Zurich",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "fintech, health, sustainability, smart cities",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.kickstart-innovation.com/"
+   },
+   {
+    "name": "MassChallenge Switzerland",
+    "city": "Lausanne",
+    "type": "accelerator",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://masschallenge.org/programs-switzerland/"
+   },
+   {
+    "name": "Tenity",
+    "city": "Zurich",
+    "type": "accelerator",
+    "investment": "equity investment",
+    "sectors": "fintech, insurtech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.tenity.com/"
+   },
+   {
+    "name": "EPFL Innovation Park",
+    "city": "Lausanne",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "deep tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.epfl-innovationpark.ch/"
+   },
+   {
+    "name": "Technopark Zürich",
+    "city": "Zurich",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.technopark.ch/"
+   },
+   {
+    "name": "Plug and Play Switzerland",
+    "city": "Zurich",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "corporate innovation",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.plugandplaytechcenter.com/switzerland/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Redalpine",
+    "city": "Zurich",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech, health, fintech",
+    "type": "vc",
+    "url": "https://www.redalpine.com/"
+   },
+   {
+    "name": "Founderful (formerly Wingman)",
+    "city": "Zurich",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.founderful.com/"
+   },
+   {
+    "name": "Verve Ventures",
+    "city": "Zurich",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech",
+    "type": "vc",
+    "url": "https://www.verve.vc/"
+   },
+   {
+    "name": "b2venture",
+    "city": "St. Gallen",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.b2venture.vc/"
+   },
+   {
+    "name": "Swisscom Ventures",
+    "city": "Zurich",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "ICT, deep tech",
+    "type": "cvc",
+    "url": "https://ventures.swisscom.com/"
+   },
+   {
+    "name": "Swiss Founders Fund",
+    "city": "Zurich",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://sff.vc/"
+   },
+   {
+    "name": "Emerald Technology Ventures",
+    "city": "Zurich",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "industrial, energy",
+    "type": "vc",
+    "url": "https://www.emerald.vc/"
+   },
+   {
+    "name": "Kickfund",
+    "city": "Zurich",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "deep tech",
+    "type": "vc",
+    "url": "https://www.kickfund.ch/"
+   },
+   {
+    "name": "Tomahawk.VC",
+    "city": "Zurich",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "software, deep tech",
+    "type": "vc",
+    "url": "https://www.tomahawk.vc/"
+   },
+   {
+    "name": "Lakestar (Zurich office)",
+    "city": "Zurich",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.lakestar.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Innosuisse",
+    "type": "government_agency",
+    "url": "https://www.innosuisse.admin.ch/en",
+    "note": "Swiss Innovation Agency"
+   },
+   {
+    "name": "EasyGov.swiss",
+    "type": "legal_tax",
+    "url": "https://www.easygov.swiss/",
+    "note": "Online company registration"
+   },
+   {
+    "name": "SME Portal (SECO)",
+    "type": "government_agency",
+    "url": "https://www.kmu.admin.ch/kmu/en/home.html",
+    "note": "Federal SME information"
+   },
+   {
+    "name": "Startupticker.ch",
+    "type": "database",
+    "url": "https://www.startupticker.ch/",
+    "note": "Swiss startup news and funding data"
+   },
+   {
+    "name": "Swiss Startup Association",
+    "type": "startup_association",
+    "url": "https://swissstartupassociation.ch/",
+    "note": "Founder advocacy"
+   },
+   {
+    "name": "Switzerland Innovation Parks",
+    "type": "coworking_hub",
+    "url": "https://www.switzerland-innovation.com/",
+    "note": "National innovation park network"
+   },
+   {
+    "name": "Swissparks",
+    "type": "coworking_hub",
+    "url": "https://www.swissparks.ch/",
+    "note": "Technology parks and incubators association"
+   }
+  ],
+  "sources": [
+   "https://www.innosuisse.admin.ch/en/support-for-start-ups",
+   "https://www.venturekick.ch/",
+   "https://www.technologyfund.ch/",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "medium",
+  "notes": "Venture Kick amount from established programme structure (CHF 10k/40k/100k); official page could not be read due to a cookie wall. MassChallenge Switzerland page blocks automated reads; deadline unknown. EIC Accelerator: remaining 2026 full-proposal cut-off is 4 Nov 2026; short proposals accepted any time; 2027 cut-offs not yet published (2027 info day 19 Nov 2026). EIC Pathfinder Open 2027 deadline awaits the 2027 Work Programme."
+ },
+ {
+  "country": "Austria",
+  "iso2": "AT",
+  "ecosystem_tier": "established",
+  "summary": "Compact ecosystem centred on Vienna, with Graz, Linz and Innsbruck as secondary hubs. Strong public funding via aws and FFG; strengths in deep tech, fintech, crypto and B2B software; notable companies include Bitpanda, GoStudent and Tricentis.",
+  "startup_visa": "Red-White-Red Card for start-up founders (min. €30k capital, 50% equity share, points test), https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/start-up-founders/",
+  "company_setup": "GmbH (€10k minimum capital) or FlexCo (flexible company, since 2024); founding via notary or online via USP; 1–3 weeks.",
+  "grants": [
+   {
+    "name": "aws Preseed | Seedfinancing",
+    "agency": "Austria Wirtschaftsservice (aws)",
+    "amount": "Grants and seed financing from idea to market launch",
+    "amount_usd_max": null,
+    "eligibility": "Innovative and deep-tech start-ups in Austria",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://aws.at/aws-preseed-seedfinancing/"
+   },
+   {
+    "name": "aws Eigenkapital (Gründungsfonds)",
+    "agency": "aws",
+    "amount": "Equity alongside co-investors",
+    "amount_usd_max": null,
+    "eligibility": "Austrian start-ups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://aws.at/aws-eigenkapital/"
+   },
+   {
+    "name": "FFG Basisprogramm",
+    "agency": "Austrian Research Promotion Agency (FFG)",
+    "amount": "Grants and loans for R&D projects",
+    "amount_usd_max": null,
+    "eligibility": "Companies including start-ups doing R&D",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.ffg.at/basisprogramm"
+   },
+   {
+    "name": "FFG Spin-off Fellowship",
+    "agency": "FFG",
+    "amount": "Funding for researchers preparing a spin-off",
+    "amount_usd_max": null,
+    "eligibility": "Researchers at Austrian universities",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.ffg.at/spinoff-fellowships"
+   },
+   {
+    "name": "Vienna Business Agency funding",
+    "agency": "Wirtschaftsagentur Wien",
+    "amount": "Grants for innovation and start-ups",
+    "amount_usd_max": null,
+    "eligibility": "Vienna-based companies",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://wirtschaftsagentur.at/"
+   },
+   {
+    "name": "EIC Accelerator (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grant up to €2.5M + equity €1–10M",
+    "amount_usd_max": 14400000,
+    "eligibility": "Single SMEs/startups in EU or Horizon Europe associated countries; deep tech",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   },
+   {
+    "name": "EIC Pathfinder (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grants up to €4M; booster grants €50k",
+    "amount_usd_max": 4600000,
+    "eligibility": "Research consortia (Open) or single applicants (Challenges); early-stage breakthrough tech",
+    "deadline": "last: 2026-05-12",
+    "status": "upcoming",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "INiTS",
+    "city": "Vienna",
+    "type": "university",
+    "investment": "no equity / small investments",
+    "sectors": "high tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.inits.at/en/viennas-high-tech-incubator/"
+   },
+   {
+    "name": "Science Park Graz",
+    "city": "Graz",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "high tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.sciencepark.at/"
+   },
+   {
+    "name": "weXelerate",
+    "city": "Vienna",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "corporate innovation",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://wexelerate.com/en/"
+   },
+   {
+    "name": "tech2b",
+    "city": "Linz",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.tech2b.at/"
+   },
+   {
+    "name": "build! Gründungszentrum",
+    "city": "Klagenfurt",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.build.or.at/"
+   },
+   {
+    "name": "accent Gründerservice",
+    "city": "Lower Austria",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://accent.at/"
+   },
+   {
+    "name": "Plug and Play Austria",
+    "city": "Vienna",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "corporate innovation",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.plugandplaytechcenter.com/austria/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Speedinvest",
+    "city": "Vienna",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.speedinvest.com/"
+   },
+   {
+    "name": "Apex Ventures",
+    "city": "Vienna",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech, AI",
+    "type": "vc",
+    "url": "https://www.apex.ventures/"
+   },
+   {
+    "name": "Calm/Storm Ventures",
+    "city": "Vienna",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "health, digital",
+    "type": "vc",
+    "url": "https://www.calmstorm.vc/"
+   },
+   {
+    "name": "Xista Science Ventures",
+    "city": "Vienna",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "science-based deep tech",
+    "type": "vc",
+    "url": "https://xista.vc/"
+   },
+   {
+    "name": "eQventure",
+    "city": "Vienna",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.eqventure.com/"
+   },
+   {
+    "name": "Elevator Ventures (Raiffeisen)",
+    "city": "Vienna",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "fintech",
+    "type": "cvc",
+    "url": "https://www.elevator-ventures.com/"
+   },
+   {
+    "name": "aws Gründungsfonds",
+    "city": "Vienna",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "Austrian start-ups",
+    "type": "government_fund",
+    "url": "https://aws.at/aws-eigenkapital/"
+   },
+   {
+    "name": "aws i2 Business Angels",
+    "city": "Vienna",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.aws.at/aws-i2-business-angels/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "aws",
+    "type": "government_agency",
+    "url": "https://www.aws.at/",
+    "note": "Federal promotional bank"
+   },
+   {
+    "name": "FFG",
+    "type": "government_agency",
+    "url": "https://www.ffg.at/",
+    "note": "Research promotion agency"
+   },
+   {
+    "name": "AustrianStartups",
+    "type": "startup_association",
+    "url": "https://austrianstartups.com/",
+    "note": "Non-profit startup community"
+   },
+   {
+    "name": "Unternehmensserviceportal (USP)",
+    "type": "legal_tax",
+    "url": "https://www.usp.gv.at/",
+    "note": "Online company formation"
+   },
+   {
+    "name": "Invest in Austria (ABA)",
+    "type": "government_agency",
+    "url": "https://investinaustria.at/",
+    "note": "Investment and relocation agency"
+   },
+   {
+    "name": "Vienna Business Agency",
+    "type": "government_agency",
+    "url": "https://viennabusinessagency.at/",
+    "note": "Vienna funding and support"
+   }
+  ],
+  "sources": [
+   "https://aws.at/unternehmen-gruenden/",
+   "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/start-up-founders/",
+   "https://www.inits.at/en/viennas-high-tech-incubator/",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "medium",
+  "notes": "aws Preseed amounts/call windows not shown on the overview page; FFG pages block automated reads (Cloudflare). EIC Accelerator: remaining 2026 full-proposal cut-off is 4 Nov 2026; short proposals accepted any time; 2027 cut-offs not yet published (2027 info day 19 Nov 2026). EIC Pathfinder Open 2027 deadline awaits the 2027 Work Programme."
+ },
+ {
+  "country": "Spain",
+  "iso2": "ES",
+  "ecosystem_tier": "established",
+  "summary": "Fast-growing ecosystem led by Madrid and Barcelona, with Valencia and Málaga rising. The 2022 Startups Law added tax breaks and a digital nomad/entrepreneur visa; strengths in fintech, mobility, travel tech and health; notable companies include Glovo, Cabify, Wallapop and TravelPerk.",
+  "startup_visa": "International entrepreneur residence under Ley 14/2013 and the Startups Law (Ley 28/2022), with ENISA certification for emerging companies, https://www.enisa.es/servicios/certificacion/",
+  "company_setup": "SL with €1 minimum capital; NIE required for foreign founders; online formation via CIRCE/PAE in about 1–3 weeks; ENISA-certified startups get reduced corporate tax.",
+  "grants": [
+   {
+    "name": "ENISA Startups y pymes",
+    "agency": "ENISA",
+    "amount": "Participative loans €25k–€1.5M, no guarantees",
+    "amount_usd_max": 1725000,
+    "eligibility": "Spanish SMEs with innovative business models",
+    "deadline": "rolling",
+    "status": "open",
+    "url": "https://www.enisa.es/servicios/financiacion/startups-y-pymes"
+   },
+   {
+    "name": "ENISA Emprendedoras Digitales",
+    "agency": "ENISA",
+    "amount": "Participative loans €25k–€1.5M",
+    "amount_usd_max": 1725000,
+    "eligibility": "Women-led tech SMEs",
+    "deadline": "rolling",
+    "status": "open",
+    "url": "https://www.enisa.es/servicios/financiacion/emprendedoras-digitales"
+   },
+   {
+    "name": "NEOTEC",
+    "agency": "CDTI",
+    "amount": "Grants for tech-based startups (2026 budget €20.4M)",
+    "amount_usd_max": null,
+    "eligibility": "Innovative companies under 3 years old, min. €20k share capital",
+    "deadline": "last: 2026-05-14",
+    "status": "upcoming",
+    "url": "https://www.cdti.es/ayudas/proyectos-de-i-d-neotec"
+   },
+   {
+    "name": "CDTI Innvierte",
+    "agency": "CDTI",
+    "amount": "Co-investment in tech companies",
+    "amount_usd_max": null,
+    "eligibility": "Spanish tech companies with private co-investors",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.cdti.es/innvierte"
+   },
+   {
+    "name": "EIC Accelerator (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grant up to €2.5M + equity €1–10M",
+    "amount_usd_max": 14400000,
+    "eligibility": "Single SMEs/startups in EU or Horizon Europe associated countries; deep tech",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   },
+   {
+    "name": "EIC Pathfinder (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grants up to €4M; booster grants €50k",
+    "amount_usd_max": 4600000,
+    "eligibility": "Research consortia (Open) or single applicants (Challenges); early-stage breakthrough tech",
+    "deadline": "last: 2026-05-12",
+    "status": "upcoming",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Lanzadera",
+    "city": "Valencia",
+    "type": "accelerator",
+    "investment": "loans/investment, no fee",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://lanzadera.es/"
+   },
+   {
+    "name": "Wayra (Telefónica)",
+    "city": "Madrid / Barcelona",
+    "type": "corporate",
+    "investment": "equity investment",
+    "sectors": "B2B tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://wayra.com/es/"
+   },
+   {
+    "name": "SeedRocket",
+    "city": "Barcelona",
+    "type": "accelerator",
+    "investment": "seed investment",
+    "sectors": "digital",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.seedrocket.com/"
+   },
+   {
+    "name": "Plug and Play Spain",
+    "city": "Valencia",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "corporate innovation",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.plugandplaytechcenter.com/spain/"
+   },
+   {
+    "name": "BerriUp",
+    "city": "Madrid",
+    "type": "accelerator",
+    "investment": "equity investment",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://berriup.com/"
+   },
+   {
+    "name": "Ship2B",
+    "city": "Barcelona",
+    "type": "accelerator",
+    "investment": "no equity",
+    "sectors": "impact",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ship2b.org/"
+   },
+   {
+    "name": "Swanlaab Venture Factory",
+    "city": "Madrid",
+    "type": "venture_studio",
+    "investment": "equity investment",
+    "sectors": "B2B tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://swanlaab.com/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "K Fund",
+    "city": "Madrid",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.kfund.vc/"
+   },
+   {
+    "name": "Seaya",
+    "city": "Madrid",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, climate",
+    "type": "vc",
+    "url": "https://www.seaya.vc/"
+   },
+   {
+    "name": "Kibo Ventures",
+    "city": "Madrid",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.kiboventures.com/"
+   },
+   {
+    "name": "JME Ventures",
+    "city": "Madrid",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.jme.vc/"
+   },
+   {
+    "name": "Adara Ventures",
+    "city": "Madrid",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "deep tech, B2B",
+    "type": "vc",
+    "url": "https://www.adaraventures.com/"
+   },
+   {
+    "name": "Big Sur Ventures",
+    "city": "Madrid",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "internet, SaaS",
+    "type": "vc",
+    "url": "https://www.bigsurventures.vc/"
+   },
+   {
+    "name": "Encomenda",
+    "city": "Barcelona",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://encomenda.com/"
+   },
+   {
+    "name": "Bonsai Partners",
+    "city": "Madrid",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "digital",
+    "type": "vc",
+    "url": "https://www.bonsaipartners.com/"
+   },
+   {
+    "name": "Inveready",
+    "city": "Barcelona",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, biotech",
+    "type": "vc",
+    "url": "https://inveready.com/"
+   },
+   {
+    "name": "Ysios Capital",
+    "city": "Barcelona",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "life sciences",
+    "type": "vc",
+    "url": "https://ysioscapital.com/"
+   },
+   {
+    "name": "Axis (ICO)",
+    "city": "Madrid",
+    "stage": "multi",
+    "check_size": "fund-of-funds and direct",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.axispart.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "ENISA",
+    "type": "government_agency",
+    "url": "https://www.enisa.es/",
+    "note": "Startup certification and participative loans"
+   },
+   {
+    "name": "CDTI",
+    "type": "government_agency",
+    "url": "https://www.cdti.es/",
+    "note": "Centre for Technological Development and Innovation"
+   },
+   {
+    "name": "ACCIÓ",
+    "type": "government_agency",
+    "url": "https://www.accio.gencat.cat/",
+    "note": "Catalan business competitiveness agency"
+   },
+   {
+    "name": "South Summit",
+    "type": "event",
+    "url": "https://www.southsummit.io/",
+    "note": "Annual Madrid startup conference"
+   },
+   {
+    "name": "Mobile World Capital Barcelona",
+    "type": "community",
+    "url": "https://mobileworldcapital.com/en/",
+    "note": "Digital innovation foundation (4YFN)"
+   },
+   {
+    "name": "Startup Valencia",
+    "type": "community",
+    "url": "https://startupvalencia.org/",
+    "note": "Valencia startup ecosystem association"
+   },
+   {
+    "name": "InnoEnergy",
+    "type": "other",
+    "url": "https://innoenergy.com/",
+    "note": "EU cleantech innovation engine with Spanish hub"
+   }
+  ],
+  "sources": [
+   "https://www.enisa.es/servicios/financiacion/startups-y-pymes",
+   "https://www.ciencia.gob.es/en/Convocatorias/2026/NEOTEC2026.html",
+   "https://www.cdti.es/sites/default/files/2026-04/convocatoria_neotec_2026.pdf",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "medium",
+  "notes": "NEOTEC 2026 window ran 14 Apr–14 May 2026 (annual, usually spring). ENISA's former Jóvenes Emprendedores line is no longer listed. Some sites (Barcelona Activa, Demium, Tetuan Valley, Samaipartners) were unreachable and left out. EIC Accelerator: remaining 2026 full-proposal cut-off is 4 Nov 2026; short proposals accepted any time; 2027 cut-offs not yet published (2027 info day 19 Nov 2026). EIC Pathfinder Open 2027 deadline awaits the 2027 Work Programme."
+ },
+ {
+  "country": "Portugal",
+  "iso2": "PT",
+  "ecosystem_tier": "emerging",
+  "summary": "Growing ecosystem around Lisbon (Unicorn Factory Lisboa, Web Summit) and Porto, attracting international founders with visas and lower costs. Strengths in SaaS, fintech and AI; notable companies include Feedzai, OutSystems, Talkdesk and Sword Health.",
+  "startup_visa": "Startup Visa (IAPMEI; requires contract with a certified incubator), https://startupportugal.com/programs/startup-visa/",
+  "company_setup": "Lda with €1 minimum capital; 'Empresa na Hora' same-day formation; NIF required for foreigners; info on gov.pt.",
+  "grants": [
+   {
+    "name": "Vouchers for Startups – digital/technological products",
+    "agency": "Startup Portugal / IAPMEI (PRR)",
+    "amount": "€30,000 per startup",
+    "amount_usd_max": 34500,
+    "eligibility": "Digital startups with scalable products",
+    "deadline": "closed",
+    "status": "closed",
+    "url": "https://startupportugal.com/programs/vouchers-for-startups-new-digital-technological-products/"
+   },
+   {
+    "name": "Vouchers for Incubators and Accelerators",
+    "agency": "Startup Portugal (PRR)",
+    "amount": "Incubation vouchers",
+    "amount_usd_max": null,
+    "eligibility": "Startups joining certified incubators",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://startupportugal.com/programs/vouchers-for-incubators-and-accelerators/"
+   },
+   {
+    "name": "Empreende XXI",
+    "agency": "IEFP / Startup Portugal",
+    "amount": "Grants for new businesses",
+    "amount_usd_max": null,
+    "eligibility": "New founders, especially young or unemployed",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://startupportugal.com/programs/empreende-xxi/"
+   },
+   {
+    "name": "Portugal 2030 incentives",
+    "agency": "Portugal 2030 / AD&C",
+    "amount": "EU cohesion-funded business incentives",
+    "amount_usd_max": null,
+    "eligibility": "Portuguese companies (calls vary)",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://portugal2030.pt/"
+   },
+   {
+    "name": "EIC Accelerator (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grant up to €2.5M + equity €1–10M",
+    "amount_usd_max": 14400000,
+    "eligibility": "Single SMEs/startups in EU or Horizon Europe associated countries; deep tech",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   },
+   {
+    "name": "EIC Pathfinder (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grants up to €4M; booster grants €50k",
+    "amount_usd_max": 4600000,
+    "eligibility": "Research consortia (Open) or single applicants (Challenges); early-stage breakthrough tech",
+    "deadline": "last: 2026-05-12",
+    "status": "upcoming",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Unicorn Factory Lisboa",
+    "city": "Lisbon",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://unicornfactorylisboa.com/"
+   },
+   {
+    "name": "Tech Foundry Portugal – Deep Tech Edition",
+    "city": "Lisbon",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "deep tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://startupportugal.com/programs/tech-foundry-portugal-deep-tech-edition/"
+   },
+   {
+    "name": "UPTEC",
+    "city": "Porto",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "tech, creative, sea",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://uptec.up.pt/"
+   },
+   {
+    "name": "Instituto Pedro Nunes (IPN)",
+    "city": "Coimbra",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ipn.pt/"
+   },
+   {
+    "name": "Fábrica de Startups",
+    "city": "Lisbon",
+    "type": "accelerator",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.fabricadestartups.com/"
+   },
+   {
+    "name": "Beta-i",
+    "city": "Lisbon",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "open innovation",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://beta-i.com/"
+   },
+   {
+    "name": "Startup Braga",
+    "city": "Braga",
+    "type": "accelerator",
+    "investment": "no equity",
+    "sectors": "digital, health",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.startupbraga.com/"
+   },
+   {
+    "name": "Startup Leiria",
+    "city": "Leiria",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://startupleiria.com/"
+   },
+   {
+    "name": "Lispolis",
+    "city": "Lisbon",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.lispolis.pt/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Portugal Ventures",
+    "city": "Porto",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech, tourism, life sciences",
+    "type": "government_fund",
+    "url": "https://www.portugalventures.pt/"
+   },
+   {
+    "name": "Indico Capital Partners",
+    "city": "Lisbon",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech, sustainability",
+    "type": "vc",
+    "url": "https://www.indicocapital.com/"
+   },
+   {
+    "name": "Shilling",
+    "city": "Lisbon",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.shilling.vc/"
+   },
+   {
+    "name": "Faber",
+    "city": "Lisbon",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "AI, data, deep tech",
+    "type": "vc",
+    "url": "https://www.faber.vc/"
+   },
+   {
+    "name": "Armilar Venture Partners",
+    "city": "Lisbon",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.armilar.com/"
+   },
+   {
+    "name": "Bynd Venture Capital",
+    "city": "Lisbon",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.bynd.vc/"
+   },
+   {
+    "name": "Iberis Capital",
+    "city": "Lisbon",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://iberiscapital.com/"
+   },
+   {
+    "name": "Banco Português de Fomento",
+    "city": "Porto",
+    "stage": "multi",
+    "check_size": "fund-of-funds and co-investment",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.bpfomento.pt/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Startup Portugal",
+    "type": "government_agency",
+    "url": "https://startupportugal.com/",
+    "note": "National startup agency; one-stop shop and programmes"
+   },
+   {
+    "name": "IAPMEI",
+    "type": "government_agency",
+    "url": "https://www.iapmei.pt/",
+    "note": "SME and innovation agency (Startup Visa)"
+   },
+   {
+    "name": "ANI",
+    "type": "government_agency",
+    "url": "https://ani.pt/",
+    "note": "National innovation agency"
+   },
+   {
+    "name": "Startup and Scale-up status",
+    "type": "legal_tax",
+    "url": "https://startupportugal.com/startup-status/",
+    "note": "Official startup recognition"
+   },
+   {
+    "name": "gov.pt (Empresa na Hora)",
+    "type": "legal_tax",
+    "url": "https://eportugal.gov.pt/",
+    "note": "Government services portal"
+   },
+   {
+    "name": "Web Summit",
+    "type": "event",
+    "url": "https://websummit.com/",
+    "note": "Lisbon, 9–12 Nov 2026"
+   },
+   {
+    "name": "Tech Visa",
+    "type": "government_agency",
+    "url": "https://startupportugal.com/programs/tech-visa/",
+    "note": "Certification to hire non-EU talent"
+   }
+  ],
+  "sources": [
+   "https://startupportugal.com/programs/startup-visa/",
+   "https://startupportugal.com/programs/vouchers-for-startups-new-digital-technological-products/",
+   "https://startupportugal.com/programs/",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "medium",
+  "notes": "Startup Lisboa website has expired (Squarespace), so it is excluded. PRR startup voucher calls are closed. Lince Capital site unreachable during checks. EIC Accelerator: remaining 2026 full-proposal cut-off is 4 Nov 2026; short proposals accepted any time; 2027 cut-offs not yet published (2027 info day 19 Nov 2026). EIC Pathfinder Open 2027 deadline awaits the 2027 Work Programme."
+ },
+ {
+  "country": "Italy",
+  "iso2": "IT",
+  "ecosystem_tier": "established",
+  "summary": "Mid-sized ecosystem led by Milan, with Turin, Rome and Bologna as secondary hubs; public capital via CDP Venture Capital (National Innovation Fund) and the innovative-startup regime. Strengths in fintech, deep tech, food and industrial tech; notable companies include Satispay, Scalapay and Bending Spoons.",
+  "startup_visa": "Italia Startup Visa (MIMIT fast-track for non-EU founders of innovative startups); official portal was unreachable during verification",
+  "company_setup": "SRL (from €1 capital; simplified SRLS) via notary; innovative startups register in the special section of the Companies Register (startup.registroimprese.it); 1–3 weeks.",
+  "grants": [
+   {
+    "name": "Smart&Start Italia",
+    "agency": "Invitalia / MIMIT",
+    "amount": "Interest-free loan of 80–90% on business plans of €100k–€1.5M; 30% non-repayable in the South",
+    "amount_usd_max": 1380000,
+    "eligibility": "Innovative startups under 60 months old, or teams incl. foreign founders with Startup Visa",
+    "deadline": "rolling",
+    "status": "open",
+    "url": "https://www.invitalia.it/en/incentives-and-tools/smartstart-italia"
+   },
+   {
+    "name": "Resto al Sud 2.0",
+    "agency": "Invitalia",
+    "amount": "Grants and loans for new businesses",
+    "amount_usd_max": null,
+    "eligibility": "Young founders in Southern Italy",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud-20"
+   },
+   {
+    "name": "EIC Accelerator (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grant up to €2.5M + equity €1–10M",
+    "amount_usd_max": 14400000,
+    "eligibility": "Single SMEs/startups in EU or Horizon Europe associated countries; deep tech",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   },
+   {
+    "name": "EIC Pathfinder (EU)",
+    "agency": "European Innovation Council",
+    "amount": "Grants up to €4M; booster grants €50k",
+    "amount_usd_max": 4600000,
+    "eligibility": "Research consortia (Open) or single applicants (Challenges); early-stage breakthrough tech",
+    "deadline": "last: 2026-05-12",
+    "status": "upcoming",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Zest (ex LVenture Group / Digital Magics)",
+    "city": "Rome / Milan",
+    "type": "accelerator",
+    "investment": "seed investment for equity",
+    "sectors": "digital",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://zestgroup.vc/en"
+   },
+   {
+    "name": "H-FARM",
+    "city": "Treviso",
+    "type": "accelerator",
+    "investment": "seed investment",
+    "sectors": "digital",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.h-farm.com/en"
+   },
+   {
+    "name": "PoliHub",
+    "city": "Milan",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "deep tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.polihub.it/"
+   },
+   {
+    "name": "I3P",
+    "city": "Turin",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "deep tech, space",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.i3p.it/"
+   },
+   {
+    "name": "B4i – Bocconi for Innovation",
+    "city": "Milan",
+    "type": "university",
+    "investment": "pre-seed investment",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.b4i.unibocconi.it/"
+   },
+   {
+    "name": "Nana Bianca",
+    "city": "Florence",
+    "type": "accelerator",
+    "investment": "equity investment",
+    "sectors": "digital",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.nanabianca.it/"
+   },
+   {
+    "name": "Plug and Play Italy",
+    "city": "Milan",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "corporate innovation",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.plugandplaytechcenter.com/italy/"
+   },
+   {
+    "name": "Talent Garden",
+    "city": "Milan",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "digital",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://talentgarden.com/en/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "CDP Venture Capital",
+    "city": "Rome",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist (National Innovation Fund)",
+    "type": "government_fund",
+    "url": "https://www.cdpventurecapital.it/en/cdp_venture_homepage.page"
+   },
+   {
+    "name": "United Ventures",
+    "city": "Milan",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "software, deep tech",
+    "type": "vc",
+    "url": "https://unitedventures.com/"
+   },
+   {
+    "name": "P101",
+    "city": "Milan",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "digital",
+    "type": "vc",
+    "url": "https://p101.it/"
+   },
+   {
+    "name": "360 Capital",
+    "city": "Milan",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "deep tech, digital",
+    "type": "vc",
+    "url": "https://www.360cap.vc/"
+   },
+   {
+    "name": "Primo Capital",
+    "city": "Milan",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "space, tech",
+    "type": "vc",
+    "url": "https://www.primo.capital/"
+   },
+   {
+    "name": "Indaco Venture Partners",
+    "city": "Milan",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "deep tech",
+    "type": "vc",
+    "url": "https://www.indacosgr.com/"
+   },
+   {
+    "name": "Panakès Partners",
+    "city": "Milan",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "life sciences",
+    "type": "vc",
+    "url": "https://www.panakes.it/"
+   },
+   {
+    "name": "Vertis SGR",
+    "city": "Naples",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.vertis.it/"
+   },
+   {
+    "name": "Innogest Capital",
+    "city": "Turin",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "digital, life sciences",
+    "type": "vc",
+    "url": "https://www.innogestcapital.com/"
+   },
+   {
+    "name": "Italian Angels for Growth",
+    "city": "Milan",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.italianangels.net/"
+   },
+   {
+    "name": "Club degli Investitori",
+    "city": "Turin",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://clubdeglinvestitori.it/"
+   },
+   {
+    "name": "Zest",
+    "city": "Rome",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "digital",
+    "type": "vc",
+    "url": "https://zestgroup.vc/en"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Innovative startups register",
+    "type": "legal_tax",
+    "url": "https://startup.registroimprese.it/",
+    "note": "Special section for innovative startups"
+   },
+   {
+    "name": "InnovUp",
+    "type": "startup_association",
+    "url": "https://innovup.net/",
+    "note": "Italian innovation and startup association"
+   },
+   {
+    "name": "Invitalia",
+    "type": "government_agency",
+    "url": "https://www.invitalia.it/",
+    "note": "National development agency (Smart&Start)"
+   },
+   {
+    "name": "Invest in Italy",
+    "type": "government_agency",
+    "url": "https://www.investinitaly.gov.it/",
+    "note": "Foreign investment portal"
+   },
+   {
+    "name": "Agenzia ICE",
+    "type": "government_agency",
+    "url": "https://www.ice.it/",
+    "note": "Trade agency with startup internationalisation programmes"
+   },
+   {
+    "name": "SIMEST",
+    "type": "government_agency",
+    "url": "https://www.simest.it/",
+    "note": "Internationalisation finance"
+   }
+  ],
+  "sources": [
+   "https://www.invitalia.it/en/incentives-and-tools/smartstart-italia",
+   "https://www.cdpventurecapital.it/en/cdp_venture_homepage.page",
+   "https://startup.registroimprese.it/",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "medium",
+  "notes": "MIMIT and Italia Startup Visa portals were unreachable during checks. LUISS EnLabs and LVenture now operate as Zest. EIC Accelerator: remaining 2026 full-proposal cut-off is 4 Nov 2026; short proposals accepted any time; 2027 cut-offs not yet published (2027 info day 19 Nov 2026). EIC Pathfinder Open 2027 deadline awaits the 2027 Work Programme."
+ }
+]

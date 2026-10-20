@@ -1,0 +1,2190 @@
+[
+ {
+  "country": "Singapore",
+  "iso2": "SG",
+  "ecosystem_tier": "global_hub",
+  "summary": "Southeast Asia's main startup and VC hub, home to most regional fund HQs and many unicorns (Grab, Sea, Carousell, Ninja Van). Strong government co-investment via Startup SG, EDB, SEEDS Capital and SGInnovate, plus deep-tech spinouts from NUS, NTU and A*STAR.",
+  "startup_visa": "EntrePass (Ministry of Manpower) for venture-backed or innovative founders, https://www.mom.gov.sg/passes-and-permits/entrepass ; ONE Pass for top talent",
+  "company_setup": "Private limited (Pte Ltd) registered online with ACRA via BizFile+ in about a day, roughly S$315 in fees; foreigners need a locally resident director, usually via a corporate secretary or nominee service, so remote incorporation is possible.",
+  "grants": [
+   {
+    "name": "Startup SG Founder",
+    "agency": "Enterprise Singapore",
+    "amount": "up to S$50,000 startup capital grant plus mentorship via Accredited Mentor Partners",
+    "amount_usd_max": 38000,
+    "eligibility": "First-time founders, Singaporean/PR majority, company under 6 months old at application",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.enterprisesg.gov.sg/financial-support/startup-sg-founder"
+   },
+   {
+    "name": "Startup SG Tech",
+    "agency": "Enterprise Singapore",
+    "amount": "Proof-of-Concept and Proof-of-Value grants (caps per current guidelines, roughly S$250k to S$500k+)",
+    "amount_usd_max": 390000,
+    "eligibility": "Singapore-registered tech startups with 30%+ local shareholding developing proprietary tech",
+    "deadline": "rolling (periodic grant calls)",
+    "status": "rolling",
+    "url": "https://www.enterprisesg.gov.sg/financial-support/startup-sg-tech"
+   },
+   {
+    "name": "Startup SG Equity",
+    "agency": "Enterprise Singapore / SEEDS Capital",
+    "amount": "government co-investment alongside qualified third-party investors",
+    "amount_usd_max": null,
+    "eligibility": "Innovative Singapore-based tech startups raising from approved investors",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.enterprisesg.gov.sg/financial-support/startup-sg-equity"
+   },
+   {
+    "name": "Startup SG Loan",
+    "agency": "Enterprise Singapore (via participating banks)",
+    "amount": "government risk-shared loans for working capital and equipment",
+    "amount_usd_max": null,
+    "eligibility": "Startups and young SMEs with 30% local shareholding",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.startupsg.gov.sg/programmes/4898/startup-sg-loan/"
+   },
+   {
+    "name": "Startup SG Talent",
+    "agency": "Enterprise Singapore",
+    "amount": "talent and internship support schemes for startups",
+    "amount_usd_max": null,
+    "eligibility": "Singapore startups hiring local talent",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.startupsg.gov.sg/programmes/4899/startup-sg-talent/"
+   },
+   {
+    "name": "Enterprise Development Grant (EDG)",
+    "agency": "Enterprise Singapore",
+    "amount": "up to 50% of qualifying project costs",
+    "amount_usd_max": null,
+    "eligibility": "Singapore-registered companies with 30% local shareholding, financially viable",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.enterprisesg.gov.sg/financial-support/enterprise-development-grant"
+   },
+   {
+    "name": "SEEDS Capital co-investment",
+    "agency": "SEEDS Capital (Enterprise Singapore)",
+    "amount": "co-investment in deep-tech startups alongside co-investment partners",
+    "amount_usd_max": null,
+    "eligibility": "Singapore-based deep-tech startups (agrifood, advanced manufacturing, health, sustainability)",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.seedscapital.sg/"
+   },
+   {
+    "name": "SGInnovate deep-tech investment",
+    "agency": "SGInnovate",
+    "amount": "pre-seed to Series A equity",
+    "amount_usd_max": null,
+    "eligibility": "Deep-tech startups with Singapore nexus",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.sginnovate.com/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Antler Singapore Residency",
+    "city": "Singapore",
+    "type": "venture_studio",
+    "investment": "US$150k for 10% (+ up to US$250k matching at next round)",
+    "sectors": "generalist",
+    "deadline": "rolling (SG21 started 2026-10-05)",
+    "next_cohort": "2027 (date unknown)",
+    "status": "rolling",
+    "url": "https://www.antler.co/location/singapore"
+   },
+   {
+    "name": "Iterative",
+    "city": "Singapore",
+    "type": "accelerator",
+    "investment": "US$150k–500k, full amount on admission, no fee",
+    "sectors": "generalist",
+    "deadline": "batches twice yearly; the site shows an Apply for Winter 2027 button but no date",
+    "next_cohort": "2027-01 (approx)",
+    "status": "open",
+    "url": "https://www.iterative.vc/"
+   },
+   {
+    "name": "Surge (Peak XV)",
+    "city": "Singapore / Bangalore",
+    "type": "accelerator",
+    "investment": "US$500k–5M seed",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://surge.peakxv.com/"
+   },
+   {
+    "name": "Startup SG Accelerator partners",
+    "city": "Singapore",
+    "type": "government",
+    "investment": "varies by appointed accelerator",
+    "sectors": "generalist, deep tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.startupsg.gov.sg/programmes/4897/startup-sg-accelerator/"
+   },
+   {
+    "name": "Plug and Play Singapore",
+    "city": "Singapore",
+    "type": "corporate",
+    "investment": "no equity by default; corporate matching",
+    "sectors": "fintech, mobility, sustainability, generalist",
+    "deadline": "cohort-based (varies by vertical)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.plugandplaytechcenter.com/locations/singapore"
+   },
+   {
+    "name": "NUS Enterprise / BLK71",
+    "city": "Singapore",
+    "type": "university",
+    "investment": "incubation; NUS GRIP pre-seed for NUS teams",
+    "sectors": "deep tech, generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://nusx.edu.sg/"
+   },
+   {
+    "name": "NTUitive / NTU Innovates",
+    "city": "Singapore",
+    "type": "university",
+    "investment": "incubation and gap funding for NTU teams",
+    "sectors": "deep tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.ntu.edu.sg/innovates"
+   },
+   {
+    "name": "SMU Institute of Innovation and Entrepreneurship",
+    "city": "Singapore",
+    "type": "university",
+    "investment": "incubation, no equity",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://iie.smu.edu.sg/"
+   },
+   {
+    "name": "Hatcher+",
+    "city": "Singapore",
+    "type": "accelerator",
+    "investment": "pre-seed investment via data-driven fund",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://hq.hatcher.com/"
+   },
+   {
+    "name": "REAPRA",
+    "city": "Singapore",
+    "type": "venture_studio",
+    "investment": "co-founding with long-term capital",
+    "sectors": "B2B, generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.reapra.com/"
+   },
+   {
+    "name": "GIA Jakarta Acceleration Programme",
+    "city": "Singapore / Jakarta",
+    "type": "government",
+    "investment": "no equity; Enterprise Singapore with Plug and Play",
+    "sectors": "generalist (Singapore startups expanding to Indonesia)",
+    "deadline": "last: 2026-08-07",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.enterprisesg.gov.sg/grow-your-business/innovate-with-us/market-access-and-networks/global-innovation-alliance/gia/gia-jakarta"
+   },
+   {
+    "name": "Google for Startups Accelerator: Southeast Asia",
+    "city": "Singapore (hybrid)",
+    "type": "corporate",
+    "investment": "no equity; cloud credits and mentoring",
+    "sectors": "AI",
+    "deadline": "annual (last closed 2026-06-12)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://startup.google.com/programs/accelerator/southeast-asia/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Jungle Ventures",
+    "city": "Singapore",
+    "stage": "series A",
+    "check_size": "US$1M–10M",
+    "sectors": "generalist, B2B, consumer",
+    "type": "vc",
+    "url": "https://www.jungle.vc/"
+   },
+   {
+    "name": "Vertex Ventures Southeast Asia & India",
+    "city": "Singapore",
+    "stage": "multi",
+    "check_size": "US$1M–10M",
+    "sectors": "generalist",
+    "type": "cvc",
+    "url": "https://www.vertexventures.sg/"
+   },
+   {
+    "name": "East Ventures",
+    "city": "Singapore / Jakarta",
+    "stage": "multi",
+    "check_size": "US$100k–10M+",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://east.vc/"
+   },
+   {
+    "name": "Antler",
+    "city": "Singapore",
+    "stage": "pre-seed",
+    "check_size": "US$150k+",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.antler.co/location/singapore"
+   },
+   {
+    "name": "Iterative",
+    "city": "Singapore",
+    "stage": "pre-seed",
+    "check_size": "US$150k–500k",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.iterative.vc/"
+   },
+   {
+    "name": "Golden Gate Ventures",
+    "city": "Singapore",
+    "stage": "seed",
+    "check_size": "US$500k–3M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.goldengate.vc/"
+   },
+   {
+    "name": "Monk's Hill Ventures",
+    "city": "Singapore",
+    "stage": "series A",
+    "check_size": "US$1M–5M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.monkshill.com/"
+   },
+   {
+    "name": "Wavemaker Partners",
+    "city": "Singapore",
+    "stage": "seed",
+    "check_size": "US$250k–2M",
+    "sectors": "B2B, deep tech, sustainability",
+    "type": "vc",
+    "url": "https://wavemaker.vc/"
+   },
+   {
+    "name": "Openspace",
+    "city": "Singapore",
+    "stage": "multi",
+    "check_size": "US$1M–10M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.openspacecapital.com/"
+   },
+   {
+    "name": "Insignia Ventures Partners",
+    "city": "Singapore",
+    "stage": "seed",
+    "check_size": "US$1M–10M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.insignia.vc/"
+   },
+   {
+    "name": "Peak XV Partners",
+    "city": "Singapore",
+    "stage": "multi",
+    "check_size": "US$500k–50M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.peakxv.com/"
+   },
+   {
+    "name": "Qualgro",
+    "city": "Singapore",
+    "stage": "series A",
+    "check_size": "US$2M–8M",
+    "sectors": "B2B, SaaS",
+    "type": "vc",
+    "url": "https://qualgro.com/"
+   },
+   {
+    "name": "Saison Capital",
+    "city": "Singapore",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "fintech, web3",
+    "type": "cvc",
+    "url": "https://www.saisoncapital.com/"
+   },
+   {
+    "name": "SEEDS Capital",
+    "city": "Singapore",
+    "stage": "seed",
+    "check_size": "co-investment",
+    "sectors": "deep tech",
+    "type": "government_fund",
+    "url": "https://www.seedscapital.sg/"
+   },
+   {
+    "name": "SGInnovate",
+    "city": "Singapore",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech",
+    "type": "government_fund",
+    "url": "https://www.sginnovate.com/"
+   },
+   {
+    "name": "Vertex Holdings",
+    "city": "Singapore",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist (Temasek-backed platform)",
+    "type": "government_fund",
+    "url": "https://vertexholdings.com/"
+   },
+   {
+    "name": "BEENEXT",
+    "city": "Singapore",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.beenext.com/"
+   },
+   {
+    "name": "Cocoon Capital",
+    "city": "Singapore",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B, deep tech",
+    "type": "vc",
+    "url": "https://cocoon-capital.com/"
+   },
+   {
+    "name": "Hustle Fund",
+    "city": "Singapore / US",
+    "stage": "pre-seed",
+    "check_size": "US$50k–150k",
+    "sectors": "software, generalist",
+    "type": "vc",
+    "url": "https://www.hustlefund.vc/"
+   },
+   {
+    "name": "TNB Aura",
+    "city": "Singapore",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.tnbaura.vc/"
+   },
+   {
+    "name": "KK Fund",
+    "city": "Singapore",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://kkfund.co/"
+   },
+   {
+    "name": "500 Global",
+    "city": "Singapore",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://500.co/"
+   },
+   {
+    "name": "Circulate Capital",
+    "city": "Singapore",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "circular economy, climate",
+    "type": "vc",
+    "url": "https://www.circulatecapital.com/"
+   },
+   {
+    "name": "AngelCentral",
+    "city": "Singapore",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.angelcentral.co/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Startup SG",
+    "type": "government_agency",
+    "url": "https://www.startupsg.gov.sg/",
+    "note": "National startup portal for Startup SG schemes"
+   },
+   {
+    "name": "Enterprise Singapore",
+    "type": "government_agency",
+    "url": "https://www.enterprisesg.gov.sg/",
+    "note": "SME and startup agency running grants and Startup SG"
+   },
+   {
+    "name": "Economic Development Board (EDB)",
+    "type": "government_agency",
+    "url": "https://www.edb.gov.sg/",
+    "note": "Investment promotion, HQ and deep-tech incentives"
+   },
+   {
+    "name": "ACRA",
+    "type": "legal_tax",
+    "url": "https://www.acra.gov.sg/",
+    "note": "Company registration via BizFile+"
+   },
+   {
+    "name": "IMDA Accreditation",
+    "type": "government_agency",
+    "url": "https://www.imda.gov.sg/accreditation",
+    "note": "Accreditation for tech startups selling to government and enterprises"
+   },
+   {
+    "name": "ACE (Action Community for Entrepreneurship)",
+    "type": "startup_association",
+    "url": "https://ace.sg/",
+    "note": "National startup association"
+   },
+   {
+    "name": "SVCA",
+    "type": "startup_association",
+    "url": "https://www.svca.org.sg/",
+    "note": "Singapore Venture and Private Capital Association"
+   },
+   {
+    "name": "SWITCH",
+    "type": "event",
+    "url": "https://www.switchsg.org/",
+    "note": "Singapore Week of Innovation and Technology"
+   },
+   {
+    "name": "BLK71",
+    "type": "coworking_hub",
+    "url": "https://blk71.com/",
+    "note": "NUS-run startup hub in one-north"
+   },
+   {
+    "name": "A*STAR",
+    "type": "other",
+    "url": "https://www.a-star.edu.sg/",
+    "note": "Public research agency, tech licensing and spinouts"
+   }
+  ],
+  "sources": [
+   "https://www.enterprisesg.gov.sg/financial-support/startup-sg-founder",
+   "https://www.mom.gov.sg/passes-and-permits/entrepass",
+   "https://www.antler.co/location/singapore",
+   "https://www.iterative.vc/",
+   "https://www.startupsg.gov.sg/"
+  ],
+  "confidence": "medium",
+  "notes": "Startup SG Tech caps were reported differently by secondary sources in 2026 (S$250k/500k vs S$400k/800k); confirm on Enterprise Singapore. Entrepreneur First no longer lists a Singapore office as of Oct 2026. WebSearch budget ran out mid-research, so some deadlines are patterns, not dates."
+ },
+ {
+  "country": "Malaysia",
+  "iso2": "MY",
+  "ecosystem_tier": "established",
+  "summary": "Kuala Lumpur and Penang host a growing ecosystem led by MDEC, Cradle and MRANTI, with notable companies such as Grab (founded in Malaysia), Carsome, Aerodyne and Funding Societies Malaysia. Strong government grant and fund-of-funds support, with equity crowdfunding regulated by the Securities Commission.",
+  "startup_visa": "Malaysia Tech Entrepreneur Programme (MTEP, MDEC): 1-year pass for new founders, 5-year for established entrepreneurs/investors, https://www.mdec.my/programmes/mtep",
+  "company_setup": "Sdn Bhd registered with SSM online (MyCoID), around RM1,000 in fees and a few days; at least one resident director is required, and foreign-owned firms face higher paid-up capital rules for some licences.",
+  "grants": [
+   {
+    "name": "Cradle Investment Programme (CIP) Spark",
+    "agency": "Cradle Fund (MOSTI)",
+    "amount": "up to RM150,000 conditional grant over 18 months",
+    "amount_usd_max": 35000,
+    "eligibility": "Teams with a Malaysian member, or companies under 5 years with revenue below RM3M, owning IP",
+    "deadline": "rolling (via Cradle Grant Management System)",
+    "status": "rolling",
+    "url": "https://www.cradle.com.my/cip-spark/"
+   },
+   {
+    "name": "Cradle Investment Programme (CIP) Sprint",
+    "agency": "Cradle Fund (MOSTI)",
+    "amount": "up to RM600,000 conditional grant over 18 months",
+    "amount_usd_max": 140000,
+    "eligibility": "Sdn Bhd companies with a commercialisable product, revenue caps apply",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.cradle.com.my/cip-sprint/"
+   },
+   {
+    "name": "MRANTI Dana Pengkomersialan",
+    "agency": "MRANTI",
+    "amount": "commercialisation funding (amounts per call)",
+    "amount_usd_max": null,
+    "eligibility": "Malaysian tech companies commercialising R&D",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://mranti.my/"
+   },
+   {
+    "name": "MTDC technology funds",
+    "agency": "Malaysian Technology Development Corporation",
+    "amount": "commercialisation and technology acquisition grants",
+    "amount_usd_max": null,
+    "eligibility": "Malaysian-owned tech SMEs",
+    "deadline": "periodic calls",
+    "status": "unknown",
+    "url": "https://www.mtdc.com.my/"
+   },
+   {
+    "name": "Malaysia Debt Ventures financing",
+    "agency": "Malaysia Debt Ventures (MDV)",
+    "amount": "government-backed tech financing (soft loans)",
+    "amount_usd_max": null,
+    "eligibility": "Malaysian tech and digital companies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.mdv.com.my/v3/"
+   },
+   {
+    "name": "MDEC Malaysia Digital programmes",
+    "agency": "MDEC",
+    "amount": "grants, Malaysia Digital status incentives and market access",
+    "amount_usd_max": null,
+    "eligibility": "Digital tech companies with Malaysia Digital status",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.mdec.my/malaysia-digital"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "MYStartup Accelerator / Pre-Accelerator",
+    "city": "Kuala Lumpur",
+    "type": "government",
+    "investment": "no equity (Cradle / MOSTI)",
+    "sectors": "generalist, tech",
+    "deadline": "periodic intakes",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.mystartup.gov.my/"
+   },
+   {
+    "name": "MRANTI Global Accelerator Programme (GAP)",
+    "city": "Kuala Lumpur",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "deep tech, generalist",
+    "deadline": "periodic intakes",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://mranti.my/"
+   },
+   {
+    "name": "Antler Malaysia",
+    "city": "Kuala Lumpur",
+    "type": "venture_studio",
+    "investment": "pre-seed investment for equity",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.antler.co/location/malaysia"
+   },
+   {
+    "name": "1337 Ventures (Pre-Accelerator / Ignite)",
+    "city": "Kuala Lumpur",
+    "type": "accelerator",
+    "investment": "pre-seed equity investment",
+    "sectors": "generalist",
+    "deadline": "cohort-based",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://1337.ventures/"
+   },
+   {
+    "name": "NEXEA Accelerator",
+    "city": "Kuala Lumpur",
+    "type": "accelerator",
+    "investment": "seed investment plus angel network",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.nexea.co/"
+   },
+   {
+    "name": "Digital Penang programmes",
+    "city": "George Town",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "digital, generalist",
+    "deadline": "periodic",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://digitalpenang.my/"
+   },
+   {
+    "name": "SDEC Sarawak digital programmes",
+    "city": "Kuching",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "digital",
+    "deadline": "periodic",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://sdec.com.my/web/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Southeast Asia",
+    "city": "Singapore (hybrid)",
+    "type": "corporate",
+    "investment": "no equity; cloud credits and mentoring",
+    "sectors": "AI",
+    "deadline": "annual (last closed 2026-06-12)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://startup.google.com/programs/accelerator/southeast-asia/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Gobi Partners",
+    "city": "Kuala Lumpur",
+    "stage": "multi",
+    "check_size": "US$500k–10M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.gobi.vc/"
+   },
+   {
+    "name": "1337 Ventures",
+    "city": "Kuala Lumpur",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://1337.ventures/"
+   },
+   {
+    "name": "NEXEA",
+    "city": "Kuala Lumpur",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.nexea.co/"
+   },
+   {
+    "name": "Cradle Fund",
+    "city": "Kuala Lumpur",
+    "stage": "pre-seed",
+    "check_size": "grant / co-investment",
+    "sectors": "tech",
+    "type": "government_fund",
+    "url": "https://www.cradle.com.my/"
+   },
+   {
+    "name": "Khazanah Nasional (Dana Impak, Dana Pemacu)",
+    "city": "Kuala Lumpur",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "strategic, tech",
+    "type": "government_fund",
+    "url": "https://www.khazanah.com.my/"
+   },
+   {
+    "name": "Malaysia Debt Ventures",
+    "city": "Kuala Lumpur",
+    "stage": "multi",
+    "check_size": "venture debt",
+    "sectors": "tech",
+    "type": "venture_debt",
+    "url": "https://www.mdv.com.my/v3/"
+   },
+   {
+    "name": "Vynn Capital",
+    "city": "Kuala Lumpur",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "mobility, logistics, generalist",
+    "type": "vc",
+    "url": "https://vynncapital.com/"
+   },
+   {
+    "name": "Antler Malaysia",
+    "city": "Kuala Lumpur",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.antler.co/location/malaysia"
+   }
+  ],
+  "resources": [
+   {
+    "name": "MDEC",
+    "type": "government_agency",
+    "url": "https://www.mdec.my/",
+    "note": "Digital economy agency; MTEP and Malaysia Digital status"
+   },
+   {
+    "name": "MYStartup",
+    "type": "database",
+    "url": "https://www.mystartup.gov.my/",
+    "note": "MOSTI/Cradle startup directory and single window"
+   },
+   {
+    "name": "Cradle Fund",
+    "type": "government_agency",
+    "url": "https://www.cradle.com.my/",
+    "note": "MOSTI agency for early-stage grants"
+   },
+   {
+    "name": "MRANTI",
+    "type": "government_agency",
+    "url": "https://mranti.my/",
+    "note": "Research commercialisation agency"
+   },
+   {
+    "name": "SSM",
+    "type": "legal_tax",
+    "url": "https://www.ssm.com.my/Pages/Home.aspx",
+    "note": "Companies Commission of Malaysia"
+   },
+   {
+    "name": "MIDA",
+    "type": "government_agency",
+    "url": "https://www.mida.gov.my/",
+    "note": "Investment incentives"
+   },
+   {
+    "name": "Securities Commission Malaysia",
+    "type": "government_agency",
+    "url": "https://www.sc.com.my/",
+    "note": "Regulates equity crowdfunding and P2P"
+   },
+   {
+    "name": "MOSTI",
+    "type": "government_agency",
+    "url": "https://www.mosti.gov.my/",
+    "note": "Science and technology ministry"
+   }
+  ],
+  "sources": [
+   "https://www.cradle.com.my/cip-spark/",
+   "https://www.mdec.my/programmes/mtep",
+   "https://www.mystartup.gov.my/",
+   "https://mranti.my/"
+  ],
+  "confidence": "medium",
+  "notes": "MaGIC and Technology Park Malaysia were merged into MRANTI in 2022, and mymagic.my is offline. MAVCAP's old domain now redirects elsewhere, so it is omitted. Cradle had published no CIP call dates as of Oct 2026."
+ },
+ {
+  "country": "Indonesia",
+  "iso2": "ID",
+  "ecosystem_tier": "established",
+  "summary": "Largest startup market in Southeast Asia, centred on Jakarta, with unicorns such as GoTo, Traveloka, Bukalapak and Xendit. Active local VCs and corporate VCs from state banks and telcos; funding cooled after 2022 but early-stage activity continues.",
+  "startup_visa": "none (no dedicated startup visa; investor KITAS and Golden Visa via Immigration), https://evisa.imigrasi.go.id/",
+  "company_setup": "Foreign-owned companies must be a PT PMA, with an investment plan over IDR 10bn per business line; the minimum paid-up capital was cut to IDR 2.5bn in 2025. Licensing is done online through OSS. A local PT is cheaper but needs Indonesian shareholders, so many founders use a Singapore holding company.",
+  "grants": [
+   {
+    "name": "BRIN research and innovation funding",
+    "agency": "National Research and Innovation Agency (BRIN)",
+    "amount": "research and startup-innovation funding calls",
+    "amount_usd_max": null,
+    "eligibility": "Indonesian researchers and tech startups",
+    "deadline": "periodic calls",
+    "status": "unknown",
+    "url": "https://www.brin.go.id/"
+   },
+   {
+    "name": "Startup Indonesia programmes",
+    "agency": "Ministry of Communication and Digital Affairs (Komdigi)",
+    "amount": "incubation and acceleration support, no equity",
+    "amount_usd_max": null,
+    "eligibility": "Indonesian digital startups",
+    "deadline": "periodic",
+    "status": "unknown",
+    "url": "https://www.startupindonesia.co/"
+   },
+   {
+    "name": "Ekraf creative economy support",
+    "agency": "Ministry of Creative Economy (Ekraf)",
+    "amount": "creative startup support and grants",
+    "amount_usd_max": null,
+    "eligibility": "Indonesian creative-economy businesses",
+    "deadline": "periodic",
+    "status": "unknown",
+    "url": "https://www.ekraf.go.id/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Antler Indonesia",
+    "city": "Jakarta",
+    "type": "venture_studio",
+    "investment": "pre-seed investment for equity",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.antler.co/location/indonesia"
+   },
+   {
+    "name": "Plug and Play Indonesia",
+    "city": "Jakarta",
+    "type": "corporate",
+    "investment": "no equity by default",
+    "sectors": "fintech, generalist",
+    "deadline": "cohort-based",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.plugandplaytechcenter.com/locations/jakarta"
+   },
+   {
+    "name": "Indigo (Telkom Indonesia)",
+    "city": "Jakarta",
+    "type": "corporate",
+    "investment": "seed investment from Telkom",
+    "sectors": "digital, telco",
+    "deadline": "periodic batches",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://indigo.id/"
+   },
+   {
+    "name": "Founder Institute Jakarta",
+    "city": "Jakarta",
+    "type": "accelerator",
+    "investment": "equity pool shared by participants",
+    "sectors": "generalist",
+    "deadline": "semester-based (last early deadline 2026-06-30)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://fi.co/"
+   },
+   {
+    "name": "Startup Indonesia (Komdigi)",
+    "city": "Jakarta",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "digital",
+    "deadline": "periodic",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.startupindonesia.co/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Southeast Asia",
+    "city": "Singapore (hybrid)",
+    "type": "corporate",
+    "investment": "no equity; cloud credits and mentoring",
+    "sectors": "AI",
+    "deadline": "annual (last closed 2026-06-12)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://startup.google.com/programs/accelerator/southeast-asia/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "East Ventures",
+    "city": "Jakarta",
+    "stage": "multi",
+    "check_size": "US$100k–10M+",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://east.vc/"
+   },
+   {
+    "name": "AC Ventures",
+    "city": "Jakarta",
+    "stage": "seed",
+    "check_size": "US$100k–3M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://acv.vc/"
+   },
+   {
+    "name": "Alpha JWC Ventures",
+    "city": "Jakarta",
+    "stage": "series A",
+    "check_size": "US$1M–10M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.alphajwc.com/"
+   },
+   {
+    "name": "MDI Ventures",
+    "city": "Jakarta",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "digital, enterprise",
+    "type": "cvc",
+    "url": "https://mdi.vc/"
+   },
+   {
+    "name": "BRI Ventures",
+    "city": "Jakarta",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "fintech, generalist",
+    "type": "cvc",
+    "url": "https://www.briventures.id/"
+   },
+   {
+    "name": "Mandiri Capital Indonesia",
+    "city": "Jakarta",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "fintech",
+    "type": "cvc",
+    "url": "https://www.mandiri-capital.co.id/"
+   },
+   {
+    "name": "Kejora Capital",
+    "city": "Jakarta",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.kejora.com/"
+   },
+   {
+    "name": "Skystar Capital",
+    "city": "Jakarta",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://skystarventures.com/"
+   },
+   {
+    "name": "Sinar Mas Digital Ventures",
+    "city": "Jakarta",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "cvc",
+    "url": "https://www.smdv.com/"
+   },
+   {
+    "name": "Openspace",
+    "city": "Jakarta / Singapore",
+    "stage": "multi",
+    "check_size": "US$1M–10M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.openspacecapital.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ministry of Investment / BKPM",
+    "type": "government_agency",
+    "url": "https://www.bkpm.go.id/",
+    "note": "Investment coordination and PT PMA guidance"
+   },
+   {
+    "name": "OSS (Online Single Submission)",
+    "type": "legal_tax",
+    "url": "https://oss.go.id/id",
+    "note": "Business licensing portal"
+   },
+   {
+    "name": "Directorate General of Immigration e-Visa",
+    "type": "government_agency",
+    "url": "https://evisa.imigrasi.go.id/",
+    "note": "Investor KITAS and Golden Visa"
+   },
+   {
+    "name": "Amvesindo",
+    "type": "startup_association",
+    "url": "https://amvesindo.org/",
+    "note": "Indonesian Venture Capital and Startup Association"
+   },
+   {
+    "name": "Startup Indonesia",
+    "type": "database",
+    "url": "https://www.startupindonesia.co/",
+    "note": "Government startup portal"
+   },
+   {
+    "name": "BRIN",
+    "type": "government_agency",
+    "url": "https://www.brin.go.id/",
+    "note": "National research and innovation agency"
+   }
+  ],
+  "sources": [
+   "https://www.startupindonesia.co/",
+   "https://www.bkpm.go.id/",
+   "https://east.vc/",
+   "https://acv.vc/"
+  ],
+  "confidence": "medium",
+  "notes": "Komdigi replaced Kominfo in late 2024. 1000 Startup Digital and the ANGIN site could not be confirmed online in Oct 2026 and are omitted. Few published accelerator deadlines found."
+ },
+ {
+  "country": "Thailand",
+  "iso2": "TH",
+  "ecosystem_tier": "established",
+  "summary": "Bangkok-centred ecosystem with strong corporate venture activity from banks and conglomerates (SCB, Kasikorn, Krungsri, PTT) and agencies NIA and depa. Notable companies include Flash Express, Ascend Money and LINE MAN Wongnai.",
+  "startup_visa": "SMART Visa (S category for startup founders, endorsed by NIA/depa/other agencies), https://smart-visa.boi.go.th/ ; Long-Term Resident (LTR) visa also available",
+  "company_setup": "Private limited company registered with DBD; foreign majority ownership is limited by the Foreign Business Act unless BOI promotion or a Foreign Business Licence is obtained. Takes about 1–3 weeks; a local lawyer is usually needed.",
+  "grants": [
+   {
+    "name": "NIA innovation funding (incl. Market Expansion)",
+    "agency": "National Innovation Agency (NIA)",
+    "amount": "up to THB 2M per project for Market Expansion; other open-innovation grants",
+    "amount_usd_max": 60000,
+    "eligibility": "Thai-registered innovation businesses and startups",
+    "deadline": "periodic calls (Market Expansion opened Jul 2026)",
+    "status": "unknown",
+    "url": "https://www.nia.or.th/"
+   },
+   {
+    "name": "depa Digital Startup Fund",
+    "agency": "Digital Economy Promotion Agency (depa)",
+    "amount": "up to THB 1M per startup (2024 round)",
+    "amount_usd_max": 30000,
+    "eligibility": "Thai digital startups registered 3 years or less",
+    "deadline": "annual (last closed 30 Jun)",
+    "status": "upcoming",
+    "url": "https://www.depa.or.th/en/"
+   },
+   {
+    "name": "BOI investment promotion",
+    "agency": "Board of Investment",
+    "amount": "tax holidays and foreign-ownership exemptions for promoted activities",
+    "amount_usd_max": null,
+    "eligibility": "Companies in promoted sectors including digital and deep tech",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.boi.go.th/"
+   },
+   {
+    "name": "NSTDA programmes",
+    "agency": "National Science and Technology Development Agency",
+    "amount": "R&D support and tech licensing",
+    "amount_usd_max": null,
+    "eligibility": "Thai tech companies and researchers",
+    "deadline": "periodic",
+    "status": "unknown",
+    "url": "https://www.nstda.or.th/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Startup Thailand (NIA) programmes",
+    "city": "Bangkok",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "generalist, deep tech",
+    "deadline": "periodic (Global Startup Hub last closed 2026-03-15)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startupthailand.nia.or.th/"
+   },
+   {
+    "name": "depa accelerator programmes",
+    "city": "Bangkok",
+    "type": "government",
+    "investment": "no equity; prize funding",
+    "sectors": "digital, smart city",
+    "deadline": "periodic",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.depa.or.th/en/"
+   },
+   {
+    "name": "True Digital Park",
+    "city": "Bangkok",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.truedigitalpark.com/"
+   },
+   {
+    "name": "Techsauce programmes",
+    "city": "Bangkok",
+    "type": "accelerator",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "periodic",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://techsauce.co/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Southeast Asia",
+    "city": "Singapore (hybrid)",
+    "type": "corporate",
+    "investment": "no equity; cloud credits and mentoring",
+    "sectors": "AI",
+    "deadline": "annual (last closed 2026-06-12)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://startup.google.com/programs/accelerator/southeast-asia/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "SCB 10X",
+    "city": "Bangkok",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "fintech, AI, web3",
+    "type": "cvc",
+    "url": "https://www.scb10x.com/"
+   },
+   {
+    "name": "Beacon Venture Capital (Kasikornbank)",
+    "city": "Bangkok",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "fintech, generalist",
+    "type": "cvc",
+    "url": "https://www.beaconvc.fund/"
+   },
+   {
+    "name": "Krungsri Finnovate",
+    "city": "Bangkok",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "fintech",
+    "type": "cvc",
+    "url": "https://www.krungsrifinnovate.com/en"
+   },
+   {
+    "name": "AddVentures by SCG",
+    "city": "Bangkok",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "industrial, climate, generalist",
+    "type": "cvc",
+    "url": "https://www.addventures.co.th/"
+   },
+   {
+    "name": "STV (Siam Technology Ventures)",
+    "city": "Bangkok",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.stv.vc/"
+   },
+   {
+    "name": "KBTG",
+    "city": "Bangkok",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "AI, fintech",
+    "type": "cvc",
+    "url": "https://www.kbtg.tech/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "National Innovation Agency (NIA)",
+    "type": "government_agency",
+    "url": "https://www.nia.or.th/",
+    "note": "Innovation funding and Startup Thailand"
+   },
+   {
+    "name": "depa",
+    "type": "government_agency",
+    "url": "https://www.depa.or.th/en/",
+    "note": "Digital economy promotion agency"
+   },
+   {
+    "name": "BOI",
+    "type": "government_agency",
+    "url": "https://www.boi.go.th/",
+    "note": "Investment incentives and SMART/LTR visas"
+   },
+   {
+    "name": "SMART Visa portal",
+    "type": "government_agency",
+    "url": "https://smart-visa.boi.go.th/",
+    "note": "Startup founder visa"
+   },
+   {
+    "name": "NXPO",
+    "type": "government_agency",
+    "url": "https://www.nxpo.or.th/th/",
+    "note": "Policy office for higher education, science and innovation"
+   },
+   {
+    "name": "Thai Startup community",
+    "type": "community",
+    "url": "https://www.thaistartup.org/",
+    "note": "Startup community network"
+   },
+   {
+    "name": "Techsauce",
+    "type": "event",
+    "url": "https://techsauce.co/",
+    "note": "Techsauce Global Summit and media"
+   }
+  ],
+  "sources": [
+   "https://www.nia.or.th/",
+   "https://startupthailand.nia.or.th/",
+   "https://smart-visa.boi.go.th/",
+   "https://www.depa.or.th/en/"
+  ],
+  "confidence": "medium",
+  "notes": "depa site blocks automated checks; 2026 Digital Startup Fund round details not confirmed. Thai Venture Capital Association site could not be resolved and is omitted."
+ },
+ {
+  "country": "Vietnam",
+  "iso2": "VN",
+  "ecosystem_tier": "emerging",
+  "summary": "Fast-growing ecosystem in Ho Chi Minh City and Hanoi with strong engineering talent; notable companies include VNG, MoMo, Sky Mavis and VNLife. Government backing via the National Innovation Center (NIC) and the National Technology Innovation Fund.",
+  "startup_visa": "none",
+  "company_setup": "Foreign founders typically set up a single-member LLC with an Investment Registration Certificate then Enterprise Registration Certificate; takes about 1–2 months. Many startups use a Singapore holding company for fundraising.",
+  "grants": [
+   {
+    "name": "National Technology Innovation Fund (NATIF)",
+    "agency": "Ministry of Science and Technology",
+    "amount": "grants, soft loans and loan guarantees for tech innovation",
+    "amount_usd_max": null,
+    "eligibility": "Vietnamese enterprises with tech innovation projects",
+    "deadline": "periodic calls",
+    "status": "unknown",
+    "url": "https://natif.gov.vn/"
+   },
+   {
+    "name": "NAFOSTED research funding",
+    "agency": "National Foundation for Science and Technology Development",
+    "amount": "research grants",
+    "amount_usd_max": null,
+    "eligibility": "Vietnamese researchers and institutions",
+    "deadline": "annual calls",
+    "status": "unknown",
+    "url": "https://nafosted.gov.vn/"
+   },
+   {
+    "name": "NIC startup support programmes",
+    "agency": "National Innovation Center (NIC)",
+    "amount": "non-dilutive acceleration support with partners",
+    "amount_usd_max": null,
+    "eligibility": "Vietnamese tech startups",
+    "deadline": "periodic",
+    "status": "unknown",
+    "url": "https://nic.gov.vn/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "NIC Scale X",
+    "city": "Hanoi",
+    "type": "government",
+    "investment": "no equity (NIC, Embassy of Japan, UNDP, Plug and Play)",
+    "sectors": "deep tech",
+    "deadline": "annual (last closed 2026-02-27)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://vnic.nic.gov.vn/"
+   },
+   {
+    "name": "VIISA",
+    "city": "Ho Chi Minh City",
+    "type": "accelerator",
+    "investment": "seed investment for equity",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.viisa.vn/"
+   },
+   {
+    "name": "VSV Capital accelerator",
+    "city": "Hanoi",
+    "type": "accelerator",
+    "investment": "pre-seed investment",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.vsvcapital.com.vn/"
+   },
+   {
+    "name": "Antler Vietnam",
+    "city": "Ho Chi Minh City",
+    "type": "venture_studio",
+    "investment": "pre-seed investment for equity",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.antler.co/location/vietnam"
+   },
+   {
+    "name": "80Startups",
+    "city": "Ho Chi Minh City",
+    "type": "accelerator",
+    "investment": "unknown",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.80startups.com/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Southeast Asia",
+    "city": "Singapore (hybrid)",
+    "type": "corporate",
+    "investment": "no equity; cloud credits and mentoring",
+    "sectors": "AI",
+    "deadline": "annual (last closed 2026-06-12)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://startup.google.com/programs/accelerator/southeast-asia/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Do Ventures",
+    "city": "Ho Chi Minh City",
+    "stage": "seed",
+    "check_size": "US$500k–3M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://doventures.vc/"
+   },
+   {
+    "name": "Ascend Vietnam Ventures (AVV)",
+    "city": "Ho Chi Minh City",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://avv.co/"
+   },
+   {
+    "name": "ThinkZone Ventures",
+    "city": "Hanoi",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.thinkzone.vn/"
+   },
+   {
+    "name": "Genesia Ventures",
+    "city": "Tokyo / Ho Chi Minh City",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.genesiaventures.com/"
+   },
+   {
+    "name": "CyberAgent Capital",
+    "city": "Tokyo / Ho Chi Minh City",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "cvc",
+    "url": "https://www.cyberagentcapital.com/"
+   },
+   {
+    "name": "VSV Capital",
+    "city": "Hanoi",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.vsvcapital.com.vn/"
+   },
+   {
+    "name": "VinaCapital Ventures",
+    "city": "Ho Chi Minh City",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.vinacapital.com/"
+   },
+   {
+    "name": "Mekong Capital",
+    "city": "Ho Chi Minh City",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "consumer",
+    "type": "vc",
+    "url": "https://www.mekongcapital.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "National Innovation Center (NIC)",
+    "type": "government_agency",
+    "url": "https://nic.gov.vn/",
+    "note": "Ministry-level innovation centre"
+   },
+   {
+    "name": "Ministry of Science and Technology",
+    "type": "government_agency",
+    "url": "https://mst.gov.vn/",
+    "note": "Startup and innovation policy (merged with MIC in 2025)"
+   },
+   {
+    "name": "Techfest Vietnam",
+    "type": "event",
+    "url": "https://techfest.vn/",
+    "note": "National startup festival"
+   },
+   {
+    "name": "NATIF",
+    "type": "government_agency",
+    "url": "https://natif.gov.vn/",
+    "note": "National Technology Innovation Fund"
+   }
+  ],
+  "sources": [
+   "https://vnic.nic.gov.vn/",
+   "https://natif.gov.vn/",
+   "https://doventures.vc/",
+   "https://www.vsvcapital.com.vn/"
+  ],
+  "confidence": "medium",
+  "notes": "SIHUB (Ho Chi Minh City) and Nextrans sites could not be resolved in Oct 2026 and are omitted. No startup visa; foreign-owned company setup is slow."
+ },
+ {
+  "country": "Philippines",
+  "iso2": "PH",
+  "ecosystem_tier": "emerging",
+  "summary": "Manila-centred ecosystem with fintech leaders (GCash/Mynt, Maya, PayMongo) and a legal framework under the Innovative Startup Act (RA 11337). Government grants via DOST, DTI and DICT; corporate VCs from Globe, Ayala, JG Summit and UnionBank.",
+  "startup_visa": "none confirmed (Innovative Startup Act provides for a startup visa, but no dedicated programme page verified)",
+  "company_setup": "Domestic or foreign stock corporation registered with the SEC (eSPARC online), plus BIR and LGU permits; foreign ownership limits apply in some sectors. Takes about 2–4 weeks.",
+  "grants": [
+   {
+    "name": "DOST Startup Grant Fund (PCIEERD)",
+    "agency": "DOST-PCIEERD",
+    "amount": "grant-in-aid (reported up to PHP 10M per startup)",
+    "amount_usd_max": 170000,
+    "eligibility": "Filipino-owned tech startups registered with the Startup Philippines portal",
+    "deadline": "periodic calls",
+    "status": "unknown",
+    "url": "https://pcieerd.dost.gov.ph/"
+   },
+   {
+    "name": "DOST Startup Grant Fund (PCAARRD)",
+    "agency": "DOST-PCAARRD",
+    "amount": "grant-in-aid",
+    "amount_usd_max": null,
+    "eligibility": "Agri, aquatic and natural-resources startups",
+    "deadline": "annual (last: 2026-04-15)",
+    "status": "closed",
+    "url": "https://www.pcaarrd.dost.gov.ph/"
+   },
+   {
+    "name": "DOST Startup Research Grant (PCHRD)",
+    "agency": "DOST-PCHRD",
+    "amount": "grant-in-aid",
+    "amount_usd_max": null,
+    "eligibility": "Filipino-owned health startups",
+    "deadline": "periodic",
+    "status": "unknown",
+    "url": "https://www.pchrd.dost.gov.ph/"
+   },
+   {
+    "name": "DTI startup and MSME programmes",
+    "agency": "Department of Trade and Industry",
+    "amount": "grants, mentoring and market access under RA 11337",
+    "amount_usd_max": null,
+    "eligibility": "Registered Philippine startups",
+    "deadline": "periodic",
+    "status": "unknown",
+    "url": "https://www.dti.gov.ph/"
+   },
+   {
+    "name": "SB Corporation startup financing",
+    "agency": "Small Business Corporation",
+    "amount": "loans and startup venture financing",
+    "amount_usd_max": null,
+    "eligibility": "Philippine MSMEs and startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://sbcorp.gov.ph/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "QBO Innovation Hub",
+    "city": "Manila",
+    "type": "incubator",
+    "investment": "no equity; free membership",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.qboinnovation.com/"
+   },
+   {
+    "name": "Brainsparks",
+    "city": "Manila",
+    "type": "accelerator",
+    "investment": "pre-seed investment",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://brainsparks.ph/"
+   },
+   {
+    "name": "Launchgarage",
+    "city": "Manila",
+    "type": "accelerator",
+    "investment": "pre-seed investment",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://launchgarage.ph/"
+   },
+   {
+    "name": "917Ventures",
+    "city": "Manila",
+    "type": "venture_studio",
+    "investment": "corporate venture builder (Globe)",
+    "sectors": "consumer, fintech, health",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.917ventures.com/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Southeast Asia",
+    "city": "Singapore (hybrid)",
+    "type": "corporate",
+    "investment": "no equity; cloud credits and mentoring",
+    "sectors": "AI",
+    "deadline": "annual (last closed 2026-06-12)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://startup.google.com/programs/accelerator/southeast-asia/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Kickstart Ventures",
+    "city": "Manila",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "cvc",
+    "url": "https://kickstart.ph/"
+   },
+   {
+    "name": "Foxmont Capital Partners",
+    "city": "Manila",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://foxmontcapital.com/"
+   },
+   {
+    "name": "Brainsparks",
+    "city": "Manila",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://brainsparks.ph/"
+   },
+   {
+    "name": "917Ventures",
+    "city": "Manila",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "cvc",
+    "url": "https://www.917ventures.com/"
+   },
+   {
+    "name": "Wavemaker Partners",
+    "city": "Manila / Singapore",
+    "stage": "seed",
+    "check_size": "US$250k–2M",
+    "sectors": "B2B, generalist",
+    "type": "vc",
+    "url": "https://wavemaker.vc/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Startup Philippines",
+    "type": "database",
+    "url": "https://startup.gov.ph/",
+    "note": "Government startup portal (DTI, DOST, DICT)"
+   },
+   {
+    "name": "DOST",
+    "type": "government_agency",
+    "url": "https://www.dost.gov.ph/",
+    "note": "Science and technology department"
+   },
+   {
+    "name": "DTI",
+    "type": "government_agency",
+    "url": "https://www.dti.gov.ph/",
+    "note": "Trade and industry department"
+   },
+   {
+    "name": "DICT",
+    "type": "government_agency",
+    "url": "https://www.dict.gov.ph/",
+    "note": "ICT department and digital startup programmes"
+   },
+   {
+    "name": "Board of Investments",
+    "type": "government_agency",
+    "url": "https://boi.gov.ph/",
+    "note": "Investment incentives"
+   },
+   {
+    "name": "SEC Philippines",
+    "type": "legal_tax",
+    "url": "https://www.sec.gov.ph/",
+    "note": "Company registration"
+   }
+  ],
+  "sources": [
+   "https://startup.gov.ph/",
+   "https://www.pcaarrd.dost.gov.ph/",
+   "https://www.qboinnovation.com/",
+   "https://foxmontcapital.com/"
+  ],
+  "confidence": "medium",
+  "notes": "IdeaSpace site had certificate errors during verification and is omitted. PCIEERD SGF amount is as reported; check the current call."
+ },
+ {
+  "country": "Cambodia",
+  "iso2": "KH",
+  "ecosystem_tier": "nascent",
+  "summary": "Small but growing ecosystem in Phnom Penh, with 235 startups recorded in 2025 and a National Strategy on Startup Development 2026–2030. Government support via Khmer Enterprise (MEF) and Techo Startup Center; corporate VC from Smart Axiata and Canadia.",
+  "startup_visa": "none",
+  "company_setup": "Private limited company registered online with the Ministry of Commerce (100% foreign ownership allowed in most sectors); takes about 1–3 weeks. Many founders use a Singapore holding company.",
+  "grants": [
+   {
+    "name": "Khmer Enterprise startup and SME programmes",
+    "agency": "Khmer Enterprise (Ministry of Economy and Finance)",
+    "amount": "co-financing, acceleration and matching programmes",
+    "amount_usd_max": null,
+    "eligibility": "Cambodian startups and SMEs",
+    "deadline": "periodic",
+    "status": "unknown",
+    "url": "https://khmerenterprise.gov.kh/"
+   },
+   {
+    "name": "Techo Startup Center programmes",
+    "agency": "Techo Startup Center",
+    "amount": "incubation, Digital Platform Accelerator support",
+    "amount_usd_max": null,
+    "eligibility": "Cambodian startups and MSMEs",
+    "deadline": "periodic",
+    "status": "unknown",
+    "url": "https://tsc.gov.kh/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Cambodia Startup Accelerator (Khmer Enterprise and Seedstars)",
+    "city": "Phnom Penh",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "annual (last: 2025-10-15)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://www.seedstars.com/community/entrepreneurs/programs/cambodia-startup-accelerator/"
+   },
+   {
+    "name": "Techo Startup Center accelerator",
+    "city": "Phnom Penh",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "digital",
+    "deadline": "periodic",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://tsc.gov.kh/"
+   },
+   {
+    "name": "SmartScale (Smart Axiata)",
+    "city": "Phnom Penh",
+    "type": "corporate",
+    "investment": "seed investment",
+    "sectors": "digital",
+    "deadline": "periodic",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.smartaxiata.com/smartscale"
+   },
+   {
+    "name": "2080 Ventures",
+    "city": "Phnom Penh",
+    "type": "accelerator",
+    "investment": "no equity (programme operator)",
+    "sectors": "generalist",
+    "deadline": "periodic",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.2080.ventures/"
+   },
+   {
+    "name": "Impact Hub Phnom Penh",
+    "city": "Phnom Penh",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "social impact",
+    "deadline": "periodic",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://phnompenh.impacthub.net/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Canadia Impact Fund",
+    "city": "Phnom Penh",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "cvc",
+    "url": "https://www.canadiaimpactfund.com/"
+   },
+   {
+    "name": "SmartScale (Smart Axiata)",
+    "city": "Phnom Penh",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "digital",
+    "type": "cvc",
+    "url": "https://www.smartaxiata.com/smartscale"
+   },
+   {
+    "name": "Mekong Strategic Capital",
+    "city": "Phnom Penh",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.mekongstrategic.com/"
+   },
+   {
+    "name": "Seedstars",
+    "city": "Global / Phnom Penh",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Khmer Enterprise",
+    "type": "government_agency",
+    "url": "https://khmerenterprise.gov.kh/",
+    "note": "MEF agency for startups and SMEs"
+   },
+   {
+    "name": "Techo Startup Center",
+    "type": "government_agency",
+    "url": "https://tsc.gov.kh/",
+    "note": "Government startup centre"
+   },
+   {
+    "name": "Ministry of Post and Telecommunications",
+    "type": "government_agency",
+    "url": "https://www.mptc.gov.kh/",
+    "note": "Digital economy policy"
+   },
+   {
+    "name": "Council for the Development of Cambodia",
+    "type": "government_agency",
+    "url": "https://www.cdc.gov.kh/",
+    "note": "Investment approvals and incentives"
+   },
+   {
+    "name": "Raintree Cambodia",
+    "type": "coworking_hub",
+    "url": "https://www.raintreecambodia.com/",
+    "note": "Coworking and events space"
+   },
+   {
+    "name": "Cambodia Investment Review",
+    "type": "database",
+    "url": "https://cambodiainvestmentreview.com/",
+    "note": "Startup and investment news"
+   },
+   {
+    "name": "World Bank Cambodia",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/cambodia",
+    "note": "Development programmes"
+   }
+  ],
+  "sources": [
+   "https://khmerenterprise.gov.kh/",
+   "https://tsc.gov.kh/",
+   "https://www.seedstars.com/community/entrepreneurs/programs/cambodia-startup-accelerator/",
+   "https://www.canadiaimpactfund.com/"
+  ],
+  "confidence": "medium",
+  "notes": "Khmer Enterprise site content did not load for verification; programme details come from partner pages."
+ },
+ {
+  "country": "Laos",
+  "iso2": "LA",
+  "ecosystem_tier": "nascent",
+  "summary": "Very early-stage ecosystem in Vientiane, supported by donors (KOICA, World Bank, DFAT) and the Ministry of Industry and Commerce, which hosted the first National Startup Fest in April 2026. The MSME and Startup Innovation Center (MSIC) is being developed with KOICA.",
+  "startup_visa": "none",
+  "company_setup": "Enterprise registration with the Ministry of Industry and Commerce, with foreign investment approvals via the Investment Promotion Department; usually takes several weeks. Many founders use a Thai or Singapore entity for fundraising.",
+  "grants": [
+   {
+    "name": "National Startup Fest and MSIC incubation",
+    "agency": "Ministry of Industry and Commerce with KOICA and Kookmin University",
+    "amount": "six-month incubation for winning teams",
+    "amount_usd_max": null,
+    "eligibility": "Lao startups",
+    "deadline": "annual (last held 2026-04)",
+    "status": "upcoming",
+    "url": "https://www.moic.gov.la/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Startnovation",
+    "city": "Vientiane",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://startnovation.com/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Seedstars",
+    "city": "Global",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Investment Promotion and Management Committee",
+    "type": "government_agency",
+    "url": "https://investlaos.gov.la/",
+    "note": "Investment promotion and approvals"
+   },
+   {
+    "name": "Ministry of Industry and Commerce",
+    "type": "government_agency",
+    "url": "https://www.moic.gov.la/",
+    "note": "Enterprise registration and SME promotion"
+   },
+   {
+    "name": "Lao National Chamber of Commerce and Industry",
+    "type": "startup_association",
+    "url": "https://lncci.la/",
+    "note": "Business chamber"
+   },
+   {
+    "name": "World Bank Lao PDR",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/lao",
+    "note": "Development programmes"
+   },
+   {
+    "name": "ADB Ventures",
+    "type": "other",
+    "url": "https://www.adbventures.org/",
+    "note": "ADB venture platform covering Asia-Pacific"
+   }
+  ],
+  "sources": [
+   "https://investlaos.gov.la/",
+   "https://www.moic.gov.la/",
+   "https://startnovation.com/",
+   "https://www.worldbank.org/en/country/lao"
+  ],
+  "confidence": "low",
+  "notes": "Lao SME Promotion Fund and MSMEPA sites could not be resolved in Oct 2026. TOHLAO activity since 2025 not confirmed, so it is omitted."
+ },
+ {
+  "country": "Myanmar",
+  "iso2": "MM",
+  "ecosystem_tier": "nascent",
+  "summary": "Ecosystem contracted sharply after the February 2021 military coup; many investors and accelerators stopped work. Some social-enterprise support continues in Yangon, but most international capital is unavailable.",
+  "startup_visa": "none",
+  "company_setup": "Private company registered online via MyCO (DICA), which is technically quick, but banking, sanctions and conflict risks make it impractical for most founders. Diaspora founders usually incorporate in Singapore or Thailand.",
+  "grants": [],
+  "accelerators": [
+   {
+    "name": "3ZERO House Myanmar accelerator",
+    "city": "Yangon",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "social enterprise",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.3zero.org/"
+   },
+   {
+    "name": "Founder Institute (Myanmar online)",
+    "city": "online",
+    "type": "accelerator",
+    "investment": "equity pool",
+    "sectors": "generalist",
+    "deadline": "semester-based",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://fi.co/"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "DICA",
+    "type": "government_agency",
+    "url": "https://www.dica.gov.mm/",
+    "note": "Directorate of Investment and Company Administration"
+   },
+   {
+    "name": "MyCO",
+    "type": "legal_tax",
+    "url": "https://www.myco.dica.gov.mm/",
+    "note": "Online company registry"
+   },
+   {
+    "name": "World Bank Myanmar",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/myanmar",
+    "note": "Development programmes"
+   }
+  ],
+  "sources": [
+   "https://www.dica.gov.mm/",
+   "https://www.myco.dica.gov.mm/",
+   "https://www.3zero.org/"
+  ],
+  "confidence": "low",
+  "notes": "Post-coup conflict and sanctions since 2021: international VC is effectively unavailable. Phandeeyar's site could not be resolved in Oct 2026, so it is omitted."
+ },
+ {
+  "country": "Brunei",
+  "iso2": "BN",
+  "ecosystem_tier": "nascent",
+  "summary": "Small ecosystem focused on diversifying from oil and gas, led by the Brunei Economic Development Board (BEDB), which now runs DARe-era bootcamps, the iCentre incubator and Kontena Park.",
+  "startup_visa": "none",
+  "company_setup": "Private company limited by shares registered via the Registry of Companies (ROCBN, under the Ministry of Finance and Economy); foreign ownership allowed in many sectors, with a resident director required.",
+  "grants": [
+   {
+    "name": "BEDB financing and co-matching grants",
+    "agency": "Brunei Economic Development Board (incl. former DARe)",
+    "amount": "co-matching grants reported up to BND 20,000",
+    "amount_usd_max": 15000,
+    "eligibility": "Businesses 100% owned by Brunei citizens or PRs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.bedb.gov.bn/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "iCentre Incubation Programme",
+    "city": "Bandar Seri Begawan",
+    "type": "government",
+    "investment": "no equity; first-year fee waived",
+    "sectors": "generalist, MSME and Startup tracks",
+    "deadline": "rolling (tenancies start each April)",
+    "next_cohort": "2027-04",
+    "status": "rolling",
+    "url": "https://www.bedb.gov.bn/icentre"
+   },
+   {
+    "name": "BEDB Business Bootcamps (Pre-Accelerate, Accelerate)",
+    "city": "Bandar Seri Begawan",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "periodic cycles",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.bedb.gov.bn/"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "Brunei Economic Development Board",
+    "type": "government_agency",
+    "url": "https://www.bedb.gov.bn/",
+    "note": "Investment and enterprise agency"
+   },
+   {
+    "name": "BusinessBN",
+    "type": "government_agency",
+    "url": "https://www.business.gov.bn/",
+    "note": "Government business information portal"
+   },
+   {
+    "name": "AITI",
+    "type": "government_agency",
+    "url": "https://www.aiti.gov.bn/",
+    "note": "ICT regulator and digital economy"
+   },
+   {
+    "name": "BIBD",
+    "type": "other",
+    "url": "https://www.bibd.com.bn/",
+    "note": "Bank with SME and startup financing"
+   }
+  ],
+  "sources": [
+   "https://www.bedb.gov.bn/icentre",
+   "https://www.bedb.gov.bn/",
+   "https://www.business.gov.bn/"
+  ],
+  "confidence": "medium",
+  "notes": "DARe programmes now appear under BEDB; dare.gov.bn returns 404. Grant amount comes from secondary reports."
+ },
+ {
+  "country": "Timor-Leste",
+  "iso2": "TL",
+  "ecosystem_tier": "nascent",
+  "summary": "Very small ecosystem in Dili supported mainly by government agencies and donors (UNDP, KOICA, ADB, World Bank). Timor-Leste joined ASEAN in 2025, and a government business incubation centre in Dili broke ground in January 2026.",
+  "startup_visa": "none",
+  "company_setup": "Company registration through SERVE (one-stop shop), usually within days; foreign investment guided by TradeInvest Timor-Leste. The economy uses the US dollar.",
+  "grants": [
+   {
+    "name": "Business Innovation Challenge (Path to Business)",
+    "agency": "Ministry of Commerce and Industry with UNDP",
+    "amount": "equipment and materials grants",
+    "amount_usd_max": null,
+    "eligibility": "Young Timorese entrepreneurs and MSMEs",
+    "deadline": "annual (last launched 2025-06)",
+    "status": "upcoming",
+    "url": "https://mci.gov.tl/"
+   },
+   {
+    "name": "Seed Funding Incubation (SFI)",
+    "agency": "UNDP Timor-Leste with IADE and KOICA",
+    "amount": "seed funding, training and mentoring",
+    "amount_usd_max": null,
+    "eligibility": "Young entrepreneurs in selected municipalities",
+    "deadline": "cohort-based (3rd cohort launched 2026-09)",
+    "status": "closed",
+    "url": "https://www.undp.org/timor-leste"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "IADE business development support",
+    "city": "Dili",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "MSME, generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://iade.gov.tl/"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "TradeInvest Timor-Leste",
+    "type": "government_agency",
+    "url": "https://www.tradeinvest.tl/",
+    "note": "Investment and export promotion agency"
+   },
+   {
+    "name": "SERVE",
+    "type": "legal_tax",
+    "url": "https://serve.gov.tl/",
+    "note": "Business registration one-stop shop"
+   },
+   {
+    "name": "IADE",
+    "type": "government_agency",
+    "url": "https://iade.gov.tl/",
+    "note": "Institute for business support"
+   },
+   {
+    "name": "Ministry of Commerce and Industry",
+    "type": "government_agency",
+    "url": "https://mci.gov.tl/",
+    "note": "MSME policy and innovation challenge"
+   },
+   {
+    "name": "UNDP Timor-Leste",
+    "type": "other",
+    "url": "https://www.undp.org/timor-leste",
+    "note": "Youth entrepreneurship programmes"
+   },
+   {
+    "name": "World Bank Timor-Leste",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/timor-leste",
+    "note": "Development programmes"
+   },
+   {
+    "name": "ADB Timor-Leste",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/timor-leste",
+    "note": "Development finance"
+   }
+  ],
+  "sources": [
+   "https://www.undp.org/timor-leste",
+   "https://www.tradeinvest.tl/",
+   "https://iade.gov.tl/",
+   "https://mci.gov.tl/"
+  ],
+  "confidence": "low",
+  "notes": "No local VC found. Diaspora founders often use Australian or Singapore entities."
+ }
+]

@@ -1,0 +1,618 @@
+[
+ {
+  "name": "OpenVC",
+  "category": "investor_database",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.openvc.app/",
+  "note": "Free searchable database of VCs and angels with thesis, check size and open-to-pitch flags"
+ },
+ {
+  "name": "Airtree Open Source VC: Lists & Databases",
+  "category": "accelerator_list",
+  "coverage": "region",
+  "free": "free",
+  "url": "https://www.airtree.vc/open-source-vc-categories/lists-and-databases",
+  "note": "Airtree's index of open-source lists (investors, grants, market maps) for AU/NZ founders"
+ },
+ {
+  "name": "Airtree: Fundraising in Australia open-source investor list",
+  "category": "investor_database",
+  "coverage": "country",
+  "free": "free",
+  "url": "https://www.airtree.vc/open-source-vc/fundraising-in-australia-updated-open-source-investor-list",
+  "note": "Crowd-maintained list of Australian VCs and angels"
+ },
+ {
+  "name": "Airtree: Fundraising in the US open-source investor list",
+  "category": "investor_database",
+  "coverage": "country",
+  "free": "free",
+  "url": "https://www.airtree.vc/open-source-vc/fundraising-in-the-us-open-source-investor-list",
+  "note": "US investors open to backing Australian/NZ founders"
+ },
+ {
+  "name": "Airtree: Government grants for Australian startups",
+  "category": "grant_database",
+  "coverage": "country",
+  "free": "free",
+  "url": "https://www.airtree.vc/open-source-vc/government-grants-for-australian-startups",
+  "note": "Open-source list of federal and state grants in Australia"
+ },
+ {
+  "name": "Airtree: New Zealand's top startup grants",
+  "category": "grant_database",
+  "coverage": "country",
+  "free": "free",
+  "url": "https://www.airtree.vc/open-source-vc/new-zealands-top-startup-grants",
+  "note": "Open-source list of NZ grants (Callaghan, MBIE etc.)"
+ },
+ {
+  "name": "Airtree: Australian tech companies valued at $100M+",
+  "category": "ecosystem_report",
+  "coverage": "country",
+  "free": "free",
+  "url": "https://www.airtree.vc/open-source-vc/australian-tech-companies-valued-at-100m",
+  "note": "Open list of AU tech companies valued over A$100M"
+ },
+ {
+  "name": "Crunchbase",
+  "category": "investor_database",
+  "coverage": "global",
+  "free": "freemium",
+  "url": "https://www.crunchbase.com/",
+  "note": "Company, funding round and investor profiles"
+ },
+ {
+  "name": "Dealroom",
+  "category": "investor_database",
+  "coverage": "global",
+  "free": "paid",
+  "url": "https://dealroom.co/",
+  "note": "Startup and ecosystem intelligence; powers many government ecosystem maps"
+ },
+ {
+  "name": "PitchBook",
+  "category": "investor_database",
+  "coverage": "global",
+  "free": "paid",
+  "url": "https://pitchbook.com/",
+  "note": "Institutional-grade VC/PE deal and investor data"
+ },
+ {
+  "name": "CB Insights",
+  "category": "investor_database",
+  "coverage": "global",
+  "free": "paid",
+  "url": "https://www.cbinsights.com/",
+  "note": "Market intelligence on private companies and investors"
+ },
+ {
+  "name": "Tracxn",
+  "category": "investor_database",
+  "coverage": "global",
+  "free": "freemium",
+  "url": "https://tracxn.com/",
+  "note": "Startup and investor tracking, strong India/emerging-market coverage"
+ },
+ {
+  "name": "Harmonic",
+  "category": "investor_database",
+  "coverage": "global",
+  "free": "paid",
+  "url": "https://harmonic.ai/",
+  "note": "Startup database and talent/company signals for investors"
+ },
+ {
+  "name": "Signal by NFX",
+  "category": "investor_database",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://signal.nfx.com/",
+  "note": "Searchable investor network by sector and stage"
+ },
+ {
+  "name": "Visible Connect",
+  "category": "investor_database",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://connect.visible.vc/",
+  "note": "Free investor database with check sizes and thesis"
+ },
+ {
+  "name": "VC Sheet",
+  "category": "investor_database",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.vcsheet.com/",
+  "note": "Curated lists of VC funds and angels by sector"
+ },
+ {
+  "name": "Landscape.vc",
+  "category": "investor_database",
+  "coverage": "global",
+  "free": "freemium",
+  "url": "https://www.landscape.vc/",
+  "note": "Startup and investor discovery and analysis"
+ },
+ {
+  "name": "Foundersuite",
+  "category": "investor_database",
+  "coverage": "global",
+  "free": "freemium",
+  "url": "https://www.foundersuite.com/",
+  "note": "Investor CRM plus investor database for fundraising"
+ },
+ {
+  "name": "Beauhurst",
+  "category": "investor_database",
+  "coverage": "country",
+  "free": "paid",
+  "url": "https://www.beauhurst.com/",
+  "note": "UK private company and funding data"
+ },
+ {
+  "name": "VentureRadar",
+  "category": "investor_database",
+  "coverage": "global",
+  "free": "freemium",
+  "url": "https://www.ventureradar.com/",
+  "note": "Startup discovery and scouting database"
+ },
+ {
+  "name": "Briter",
+  "category": "ecosystem_report",
+  "coverage": "region",
+  "free": "freemium",
+  "url": "https://www.briter.co/",
+  "note": "Data and reports on African and emerging-market startups"
+ },
+ {
+  "name": "MAGNiTT",
+  "category": "ecosystem_report",
+  "coverage": "region",
+  "free": "freemium",
+  "url": "https://www.magnitt.com/",
+  "note": "Venture data and reports for MENA, Turkey, Pakistan"
+ },
+ {
+  "name": "LAVCA",
+  "category": "ecosystem_report",
+  "coverage": "region",
+  "free": "freemium",
+  "url": "https://www.lavca.org/",
+  "note": "Latin American private capital association; LatAm VC data"
+ },
+ {
+  "name": "Failory: Accelerators & Incubators list",
+  "category": "accelerator_list",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.failory.com/accelerators-incubators",
+  "note": "2,500+ accelerators and incubators"
+ },
+ {
+  "name": "Failory: VC firms list",
+  "category": "investor_database",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.failory.com/vc-firms",
+  "note": "2,800+ VC firms"
+ },
+ {
+  "name": "Failory: Startup database",
+  "category": "ecosystem_report",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.failory.com/startups",
+  "note": "14,000+ startups, incl. failed-startup case studies"
+ },
+ {
+  "name": "F6S",
+  "category": "accelerator_list",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.f6s.com/",
+  "note": "Directory and application platform for accelerators, grants and programs"
+ },
+ {
+  "name": "Gust",
+  "category": "investor_database",
+  "coverage": "global",
+  "free": "freemium",
+  "url": "https://gust.com/",
+  "note": "Angel and accelerator application platform and founder tools"
+ },
+ {
+  "name": "AngelList",
+  "category": "investor_database",
+  "coverage": "global",
+  "free": "freemium",
+  "url": "https://www.angellist.com/",
+  "note": "Fund admin, rolling funds, syndicates and private-market infrastructure"
+ },
+ {
+  "name": "Wellfound (formerly AngelList Talent)",
+  "category": "jobs",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://wellfound.com/",
+  "note": "Startup job board and recruiting platform"
+ },
+ {
+  "name": "Seedtable",
+  "category": "accelerator_list",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.seedtable.com/",
+  "note": "Curated lists of top startups, investors and accelerators by country/sector"
+ },
+ {
+  "name": "StartupBlink",
+  "category": "ecosystem_report",
+  "coverage": "global",
+  "free": "freemium",
+  "url": "https://www.startupblink.com/",
+  "note": "Global Startup Ecosystem Index and ecosystem map"
+ },
+ {
+  "name": "Startup Genome GSER",
+  "category": "ecosystem_report",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://startupgenome.com/insights",
+  "note": "Global Startup Ecosystem Report and ecosystem research"
+ },
+ {
+  "name": "State of European Tech (Atomico)",
+  "category": "ecosystem_report",
+  "coverage": "region",
+  "free": "free",
+  "url": "https://www.stateofeuropeantech.com/",
+  "note": "Annual European tech and VC report"
+ },
+ {
+  "name": "WIPO Global Innovation Index",
+  "category": "ecosystem_report",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.wipo.int/en/web/global-innovation-index",
+  "note": "Annual country innovation ranking incl. VC and startup metrics"
+ },
+ {
+  "name": "Global Entrepreneurship Monitor",
+  "category": "ecosystem_report",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.gemconsortium.org/",
+  "note": "Country-level entrepreneurship surveys and reports"
+ },
+ {
+  "name": "EU Funding & Tenders Portal",
+  "category": "grant_database",
+  "coverage": "region",
+  "free": "free",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home",
+  "note": "Official portal for Horizon Europe/EIC calls and submissions"
+ },
+ {
+  "name": "Enterprise Europe Network",
+  "category": "community",
+  "coverage": "region",
+  "free": "free",
+  "url": "https://een.ec.europa.eu/",
+  "note": "EU network helping SMEs with partners, funding and expansion"
+ },
+ {
+  "name": "Eureka Network",
+  "category": "grant_database",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.eurekanetwork.org/",
+  "note": "Intergovernmental R&D funding (Eurostars, Globalstars) across 45+ countries"
+ },
+ {
+  "name": "Grants.gov",
+  "category": "grant_database",
+  "coverage": "country",
+  "free": "free",
+  "url": "https://www.grants.gov/",
+  "note": "All US federal grant opportunities"
+ },
+ {
+  "name": "SBIR.gov",
+  "category": "grant_database",
+  "coverage": "country",
+  "free": "free",
+  "url": "https://www.sbir.gov/",
+  "note": "US SBIR/STTR non-dilutive R&D funding topics and awards"
+ },
+ {
+  "name": "Innovate UK Funding Service",
+  "category": "grant_database",
+  "coverage": "country",
+  "free": "free",
+  "url": "https://apply-for-innovation-funding.service.gov.uk/competition/search",
+  "note": "Open Innovate UK competitions"
+ },
+ {
+  "name": "business.gov.au Grants and Programs",
+  "category": "grant_database",
+  "coverage": "country",
+  "free": "free",
+  "url": "https://business.gov.au/grants-and-programs",
+  "note": "Australian government grant finder"
+ },
+ {
+  "name": "Instrumentl",
+  "category": "grant_database",
+  "coverage": "country",
+  "free": "paid",
+  "url": "https://www.instrumentl.com/",
+  "note": "Grant discovery and management (mainly US foundations)"
+ },
+ {
+  "name": "GrantForward",
+  "category": "grant_database",
+  "coverage": "global",
+  "free": "paid",
+  "url": "https://www.grantforward.com/index",
+  "note": "Search engine for federal and foundation grants"
+ },
+ {
+  "name": "Opportunity Desk",
+  "category": "accelerator_list",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://opportunitydesk.org/",
+  "note": "Aggregates fellowships, competitions, accelerators and grants"
+ },
+ {
+  "name": "YC Startup Library",
+  "category": "learning",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.ycombinator.com/library",
+  "note": "YC essays, videos and guides on starting a company"
+ },
+ {
+  "name": "YC Startup School",
+  "category": "learning",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.startupschool.org/",
+  "note": "Free online course and founder community"
+ },
+ {
+  "name": "YC Co-Founder Matching",
+  "category": "community",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.ycombinator.com/cofounder-matching",
+  "note": "Free co-founder matching platform"
+ },
+ {
+  "name": "YC Work at a Startup / Jobs",
+  "category": "jobs",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.ycombinator.com/jobs",
+  "note": "Jobs at YC-backed startups"
+ },
+ {
+  "name": "Paul Graham Essays",
+  "category": "learning",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.paulgraham.com/articles.html",
+  "note": "Canonical founder essays"
+ },
+ {
+  "name": "Founder Institute",
+  "category": "learning",
+  "coverage": "global",
+  "free": "paid",
+  "url": "https://fi.co/",
+  "note": "Pre-seed accelerator with chapters in 100+ countries; free resources"
+ },
+ {
+  "name": "YC SAFE documents",
+  "category": "legal_docs",
+  "coverage": "country",
+  "free": "free",
+  "url": "https://www.ycombinator.com/safe",
+  "note": "Standard post-money SAFE templates and user guide (US-law)"
+ },
+ {
+  "name": "Carta Learn",
+  "category": "legal_docs",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://carta.com/learn/",
+  "note": "Guides on cap tables, equity, 409A and fundraising"
+ },
+ {
+  "name": "Clerky",
+  "category": "legal_docs",
+  "coverage": "country",
+  "free": "paid",
+  "url": "https://www.clerky.com/",
+  "note": "US incorporation, SAFEs, option and hiring paperwork"
+ },
+ {
+  "name": "Cooley GO",
+  "category": "legal_docs",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.cooleygo.com/",
+  "note": "Free startup legal docs generator and guides"
+ },
+ {
+  "name": "Orrick Tech Studio",
+  "category": "legal_docs",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.orrick.com/tech-studio",
+  "note": "Free legal forms and resources for startups"
+ },
+ {
+  "name": "SeedLegals",
+  "category": "legal_docs",
+  "coverage": "country",
+  "free": "paid",
+  "url": "https://seedlegals.com/",
+  "note": "UK/EU fundraising, option scheme and legal docs platform"
+ },
+ {
+  "name": "Cake Equity",
+  "category": "legal_docs",
+  "coverage": "global",
+  "free": "freemium",
+  "url": "https://www.cakeequity.com/",
+  "note": "Cap table and ESOP management (strong in AU/UK)"
+ },
+ {
+  "name": "Pulley",
+  "category": "legal_docs",
+  "coverage": "global",
+  "free": "freemium",
+  "url": "https://pulley.com/",
+  "note": "Cap table management and fundraising modelling"
+ },
+ {
+  "name": "Stripe Atlas",
+  "category": "incorporation",
+  "coverage": "global",
+  "free": "paid",
+  "url": "https://stripe.com/atlas",
+  "note": "Remote Delaware C corp or LLC formation for founders anywhere"
+ },
+ {
+  "name": "Firstbase",
+  "category": "incorporation",
+  "coverage": "global",
+  "free": "paid",
+  "url": "https://www.firstbase.io/",
+  "note": "US incorporation, compliance, bookkeeping and taxes"
+ },
+ {
+  "name": "doola",
+  "category": "incorporation",
+  "coverage": "global",
+  "free": "paid",
+  "url": "https://www.doola.com/",
+  "note": "US LLC/C corp formation and bookkeeping for non-residents"
+ },
+ {
+  "name": "Estonia e-Residency",
+  "category": "incorporation",
+  "coverage": "global",
+  "free": "paid",
+  "url": "https://www.e-resident.gov.ee/",
+  "note": "Government digital ID to start and run an EU company online"
+ },
+ {
+  "name": "Deel",
+  "category": "incorporation",
+  "coverage": "global",
+  "free": "paid",
+  "url": "https://www.deel.com/",
+  "note": "Global payroll, EOR and contractor compliance"
+ },
+ {
+  "name": "Mercury",
+  "category": "incorporation",
+  "coverage": "country",
+  "free": "freemium",
+  "url": "https://mercury.com/",
+  "note": "US startup banking available to non-US founders with US entity"
+ },
+ {
+  "name": "Secret",
+  "category": "perks",
+  "coverage": "global",
+  "free": "freemium",
+  "url": "https://www.joinsecret.com/",
+  "note": "Marketplace of SaaS deals and credits for startups"
+ },
+ {
+  "name": "Stripe Startups",
+  "category": "perks",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://stripe.com/startups",
+  "note": "Stripe resources and partner perks for startups"
+ },
+ {
+  "name": "AWS Startups",
+  "category": "perks",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://aws.amazon.com/startups/",
+  "note": "AWS Activate credits and startup resources"
+ },
+ {
+  "name": "Startup Stash",
+  "category": "learning",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://startupstash.com/",
+  "note": "Curated directory of startup tools and resources"
+ },
+ {
+  "name": "Product Hunt",
+  "category": "community",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.producthunt.com/",
+  "note": "Launch and discovery platform for new products"
+ },
+ {
+  "name": "Hacker News",
+  "category": "community",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://news.ycombinator.com/",
+  "note": "YC-run tech/startup news and Show HN launches"
+ },
+ {
+  "name": "Startup Grind",
+  "category": "community",
+  "coverage": "global",
+  "free": "freemium",
+  "url": "https://www.startupgrind.com/",
+  "note": "Global founder community with chapters in many cities"
+ },
+ {
+  "name": "Techstars Startup Weekend",
+  "category": "community",
+  "coverage": "global",
+  "free": "paid",
+  "url": "https://www.techstars.com/communities/startup-weekend",
+  "note": "54-hour startup events run in cities worldwide"
+ },
+ {
+  "name": "Global Entrepreneurship Week (GEN)",
+  "category": "community",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.genglobal.org/gew",
+  "note": "Annual entrepreneurship week in 200 countries"
+ },
+ {
+  "name": "NFX Library",
+  "category": "learning",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.nfx.com/",
+  "note": "Essays on network effects and fundraising"
+ },
+ {
+  "name": "Levels.fyi",
+  "category": "jobs",
+  "coverage": "global",
+  "free": "free",
+  "url": "https://www.levels.fyi/",
+  "note": "Compensation benchmarking for tech roles"
+ }
+]

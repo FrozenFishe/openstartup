@@ -1,0 +1,78 @@
+name,category,coverage,free,url,note
+OpenVC,investor_database,global,free,https://www.openvc.app/,"Free searchable database of VCs and angels with thesis, check size and open-to-pitch flags"
+Airtree Open Source VC: Lists & Databases,accelerator_list,region,free,https://www.airtree.vc/open-source-vc-categories/lists-and-databases,"Airtree's index of open-source lists (investors, grants, market maps) for AU/NZ founders"
+Airtree: Fundraising in Australia open-source investor list,investor_database,country,free,https://www.airtree.vc/open-source-vc/fundraising-in-australia-updated-open-source-investor-list,Crowd-maintained list of Australian VCs and angels
+Airtree: Fundraising in the US open-source investor list,investor_database,country,free,https://www.airtree.vc/open-source-vc/fundraising-in-the-us-open-source-investor-list,US investors open to backing Australian/NZ founders
+Airtree: Government grants for Australian startups,grant_database,country,free,https://www.airtree.vc/open-source-vc/government-grants-for-australian-startups,Open-source list of federal and state grants in Australia
+Airtree: New Zealand's top startup grants,grant_database,country,free,https://www.airtree.vc/open-source-vc/new-zealands-top-startup-grants,"Open-source list of NZ grants (Callaghan, MBIE etc.)"
+Airtree: Australian tech companies valued at $100M+,ecosystem_report,country,free,https://www.airtree.vc/open-source-vc/australian-tech-companies-valued-at-100m,Open list of AU tech companies valued over A$100M
+Crunchbase,investor_database,global,freemium,https://www.crunchbase.com/,"Company, funding round and investor profiles"
+Dealroom,investor_database,global,paid,https://dealroom.co/,Startup and ecosystem intelligence; powers many government ecosystem maps
+PitchBook,investor_database,global,paid,https://pitchbook.com/,Institutional-grade VC/PE deal and investor data
+CB Insights,investor_database,global,paid,https://www.cbinsights.com/,Market intelligence on private companies and investors
+Tracxn,investor_database,global,freemium,https://tracxn.com/,"Startup and investor tracking, strong India/emerging-market coverage"
+Harmonic,investor_database,global,paid,https://harmonic.ai/,Startup database and talent/company signals for investors
+Signal by NFX,investor_database,global,free,https://signal.nfx.com/,Searchable investor network by sector and stage
+Visible Connect,investor_database,global,free,https://connect.visible.vc/,Free investor database with check sizes and thesis
+VC Sheet,investor_database,global,free,https://www.vcsheet.com/,Curated lists of VC funds and angels by sector
+Landscape.vc,investor_database,global,freemium,https://www.landscape.vc/,Startup and investor discovery and analysis
+Foundersuite,investor_database,global,freemium,https://www.foundersuite.com/,Investor CRM plus investor database for fundraising
+Beauhurst,investor_database,country,paid,https://www.beauhurst.com/,UK private company and funding data
+VentureRadar,investor_database,global,freemium,https://www.ventureradar.com/,Startup discovery and scouting database
+Briter,ecosystem_report,region,freemium,https://www.briter.co/,Data and reports on African and emerging-market startups
+MAGNiTT,ecosystem_report,region,freemium,https://www.magnitt.com/,"Venture data and reports for MENA, Turkey, Pakistan"
+LAVCA,ecosystem_report,region,freemium,https://www.lavca.org/,Latin American private capital association; LatAm VC data
+Failory: Accelerators & Incubators list,accelerator_list,global,free,https://www.failory.com/accelerators-incubators,"2,500+ accelerators and incubators"
+Failory: VC firms list,investor_database,global,free,https://www.failory.com/vc-firms,"2,800+ VC firms"
+Failory: Startup database,ecosystem_report,global,free,https://www.failory.com/startups,"14,000+ startups, incl. failed-startup case studies"
+F6S,accelerator_list,global,free,https://www.f6s.com/,"Directory and application platform for accelerators, grants and programs"
+Gust,investor_database,global,freemium,https://gust.com/,Angel and accelerator application platform and founder tools
+AngelList,investor_database,global,freemium,https://www.angellist.com/,"Fund admin, rolling funds, syndicates and private-market infrastructure"
+Wellfound (formerly AngelList Talent),jobs,global,free,https://wellfound.com/,Startup job board and recruiting platform
+Seedtable,accelerator_list,global,free,https://www.seedtable.com/,"Curated lists of top startups, investors and accelerators by country/sector"
+StartupBlink,ecosystem_report,global,freemium,https://www.startupblink.com/,Global Startup Ecosystem Index and ecosystem map
+Startup Genome GSER,ecosystem_report,global,free,https://startupgenome.com/insights,Global Startup Ecosystem Report and ecosystem research
+State of European Tech (Atomico),ecosystem_report,region,free,https://www.stateofeuropeantech.com/,Annual European tech and VC report
+WIPO Global Innovation Index,ecosystem_report,global,free,https://www.wipo.int/en/web/global-innovation-index,Annual country innovation ranking incl. VC and startup metrics
+Global Entrepreneurship Monitor,ecosystem_report,global,free,https://www.gemconsortium.org/,Country-level entrepreneurship surveys and reports
+EU Funding & Tenders Portal,grant_database,region,free,https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home,Official portal for Horizon Europe/EIC calls and submissions
+Enterprise Europe Network,community,region,free,https://een.ec.europa.eu/,"EU network helping SMEs with partners, funding and expansion"
+Eureka Network,grant_database,global,free,https://www.eurekanetwork.org/,"Intergovernmental R&D funding (Eurostars, Globalstars) across 45+ countries"
+Grants.gov,grant_database,country,free,https://www.grants.gov/,All US federal grant opportunities
+SBIR.gov,grant_database,country,free,https://www.sbir.gov/,US SBIR/STTR non-dilutive R&D funding topics and awards
+Innovate UK Funding Service,grant_database,country,free,https://apply-for-innovation-funding.service.gov.uk/competition/search,Open Innovate UK competitions
+business.gov.au Grants and Programs,grant_database,country,free,https://business.gov.au/grants-and-programs,Australian government grant finder
+Instrumentl,grant_database,country,paid,https://www.instrumentl.com/,Grant discovery and management (mainly US foundations)
+GrantForward,grant_database,global,paid,https://www.grantforward.com/index,Search engine for federal and foundation grants
+Opportunity Desk,accelerator_list,global,free,https://opportunitydesk.org/,"Aggregates fellowships, competitions, accelerators and grants"
+YC Startup Library,learning,global,free,https://www.ycombinator.com/library,"YC essays, videos and guides on starting a company"
+YC Startup School,learning,global,free,https://www.startupschool.org/,Free online course and founder community
+YC Co-Founder Matching,community,global,free,https://www.ycombinator.com/cofounder-matching,Free co-founder matching platform
+YC Work at a Startup / Jobs,jobs,global,free,https://www.ycombinator.com/jobs,Jobs at YC-backed startups
+Paul Graham Essays,learning,global,free,https://www.paulgraham.com/articles.html,Canonical founder essays
+Founder Institute,learning,global,paid,https://fi.co/,Pre-seed accelerator with chapters in 100+ countries; free resources
+YC SAFE documents,legal_docs,country,free,https://www.ycombinator.com/safe,Standard post-money SAFE templates and user guide (US-law)
+Carta Learn,legal_docs,global,free,https://carta.com/learn/,"Guides on cap tables, equity, 409A and fundraising"
+Clerky,legal_docs,country,paid,https://www.clerky.com/,"US incorporation, SAFEs, option and hiring paperwork"
+Cooley GO,legal_docs,global,free,https://www.cooleygo.com/,Free startup legal docs generator and guides
+Orrick Tech Studio,legal_docs,global,free,https://www.orrick.com/tech-studio,Free legal forms and resources for startups
+SeedLegals,legal_docs,country,paid,https://seedlegals.com/,"UK/EU fundraising, option scheme and legal docs platform"
+Cake Equity,legal_docs,global,freemium,https://www.cakeequity.com/,Cap table and ESOP management (strong in AU/UK)
+Pulley,legal_docs,global,freemium,https://pulley.com/,Cap table management and fundraising modelling
+Stripe Atlas,incorporation,global,paid,https://stripe.com/atlas,Remote Delaware C corp or LLC formation for founders anywhere
+Firstbase,incorporation,global,paid,https://www.firstbase.io/,"US incorporation, compliance, bookkeeping and taxes"
+doola,incorporation,global,paid,https://www.doola.com/,US LLC/C corp formation and bookkeeping for non-residents
+Estonia e-Residency,incorporation,global,paid,https://www.e-resident.gov.ee/,Government digital ID to start and run an EU company online
+Deel,incorporation,global,paid,https://www.deel.com/,"Global payroll, EOR and contractor compliance"
+Mercury,incorporation,country,freemium,https://mercury.com/,US startup banking available to non-US founders with US entity
+Secret,perks,global,freemium,https://www.joinsecret.com/,Marketplace of SaaS deals and credits for startups
+Stripe Startups,perks,global,free,https://stripe.com/startups,Stripe resources and partner perks for startups
+AWS Startups,perks,global,free,https://aws.amazon.com/startups/,AWS Activate credits and startup resources
+Startup Stash,learning,global,free,https://startupstash.com/,Curated directory of startup tools and resources
+Product Hunt,community,global,free,https://www.producthunt.com/,Launch and discovery platform for new products
+Hacker News,community,global,free,https://news.ycombinator.com/,YC-run tech/startup news and Show HN launches
+Startup Grind,community,global,freemium,https://www.startupgrind.com/,Global founder community with chapters in many cities
+Techstars Startup Weekend,community,global,paid,https://www.techstars.com/communities/startup-weekend,54-hour startup events run in cities worldwide
+Global Entrepreneurship Week (GEN),community,global,free,https://www.genglobal.org/gew,Annual entrepreneurship week in 200 countries
+NFX Library,learning,global,free,https://www.nfx.com/,Essays on network effects and fundraising
+Levels.fyi,jobs,global,free,https://www.levels.fyi/,Compensation benchmarking for tech roles

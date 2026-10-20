@@ -1,0 +1,2153 @@
+[
+ {
+  "country": "Australia",
+  "iso2": "AU",
+  "ecosystem_tier": "established",
+  "summary": "Largest startup ecosystem in Oceania, centred on Sydney and Melbourne with growing Brisbane, Perth and Adelaide hubs. Strong in SaaS, fintech, healthtech and deep tech; global outcomes include Atlassian, Canva, Afterpay and Airwallex.",
+  "startup_visa": "National Innovation Visa (subclass 858, permanent, invitation-only via EOI; covers exceptional entrepreneurs), https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/national-innovation-visa-858",
+  "company_setup": "Proprietary limited company (Pty Ltd) registered online with ASIC in about a day (fee about A$600). Needs at least one director ordinarily resident in Australia, so foreigners usually appoint a local director.",
+  "grants": [
+   {
+    "name": "Export Market Development Grants (EMDG)",
+    "agency": "Austrade",
+    "amount": "A$20k-80k matched per year across Tiers 1-3",
+    "amount_usd_max": 52000,
+    "eligibility": "SMEs with turnover under A$20m spending at least A$20k on eligible export marketing",
+    "deadline": "Round 4 closed; next round TBA after 2026 review",
+    "status": "closed",
+    "url": "https://www.austrade.gov.au/en/how-we-can-help-you/grants/export-market-development-grants"
+   },
+   {
+    "name": "R&D Tax Incentive (refundable offset)",
+    "agency": "DISR / AusIndustry and ATO",
+    "amount": "Refundable offset = company tax rate + 18.5% premium (43.5% for most small companies)",
+    "amount_usd_max": null,
+    "eligibility": "Companies with aggregated turnover under A$20m doing eligible R&D; register within 10 months of year end",
+    "deadline": "annual: register within 10 months of FY end (2027-04-30 for FY2025-26)",
+    "status": "rolling",
+    "url": "https://business.gov.au/grants-and-programs/research-and-development-tax-incentive"
+   },
+   {
+    "name": "CSIRO Kick-Start",
+    "agency": "CSIRO",
+    "amount": "A$20k-60k matched funding for research with CSIRO",
+    "amount_usd_max": 39000,
+    "eligibility": "Turnover and opex under A$10m or trading under 3 years; GST registered; ACN",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://business.gov.au/grants-and-programs/csiro-kickstart"
+   },
+   {
+    "name": "Business Research and Innovation Initiative (BRII)",
+    "agency": "DISR (business.gov.au)",
+    "amount": "Feasibility up to A$100k; proof-of-concept up to A$1m by invitation",
+    "amount_usd_max": 650000,
+    "eligibility": "SMEs with turnover under A$20m solving a government challenge",
+    "deadline": "no rounds open; challenge rounds announced ad hoc",
+    "status": "closed",
+    "url": "https://business.gov.au/grants-and-programs/business-research-and-innovation-initiative"
+   },
+   {
+    "name": "Industry Growth Program (IGP)",
+    "agency": "DISR",
+    "amount": "Early-stage commercialisation A$50k-250k; commercialisation and growth A$100k-5m",
+    "amount_usd_max": 3250000,
+    "eligibility": "Innovative SMEs in National Reconstruction Fund priority areas; must complete IGP Advisory Service first",
+    "deadline": "paused to new applications since 2026-05-12",
+    "status": "closed",
+    "url": "https://business.gov.au/grants-and-programs/industry-growth-program"
+   },
+   {
+    "name": "Cooperative Research Centres Projects (CRC-P) Grants",
+    "agency": "DISR (business.gov.au)",
+    "amount": "A$100k-3m matched, up to 3 years",
+    "amount_usd_max": 1950000,
+    "eligibility": "Consortium of at least two industry partners (one an SME) and one research organisation",
+    "deadline": "last: 2026-05-12 (Round 19); annual rounds",
+    "status": "closed",
+    "url": "https://business.gov.au/grants-and-programs/cooperative-research-centres-projects-crcp-grants"
+   },
+   {
+    "name": "MVP Ventures Program",
+    "agency": "Investment NSW",
+    "amount": "Stream 1 A$20k-50k (50% co-contribution); Stream 2 up to A$75k (25%) for women-owned, regional and First Nations businesses",
+    "amount_usd_max": 48750,
+    "eligibility": "NSW-based startups and SMEs with innovative products and IP rights",
+    "deadline": "last: 2026-04-10 (Round 3 2025-26); 2026-27 rounds not yet announced",
+    "status": "closed",
+    "url": "https://www.nsw.gov.au/business-and-economy/innovation/grants-and-programs/mvp-ventures-program"
+   },
+   {
+    "name": "Ignite Ideas Fund",
+    "agency": "Queensland Government (Advance Queensland)",
+    "amount": "Tier 1 up to A$100k; Tier 2 A$100k-200k",
+    "amount_usd_max": 130000,
+    "eligibility": "Queensland-headquartered innovative businesses with 50 or fewer FTE",
+    "deadline": "last: 2025-06-03; closed until next round announced",
+    "status": "closed",
+    "url": "https://advance.qld.gov.au/entrepreneurs-and-startups-industry-small-business/ignite-ideas-fund"
+   },
+   {
+    "name": "Backing Female Founders: Female Founders Co-Investment Fund",
+    "agency": "Queensland Government",
+    "amount": "A$50k-200k matched grant alongside new investment",
+    "amount_usd_max": 130000,
+    "eligibility": "QLD-headquartered, at least 51% women-owned and female-led, raised no more than A$500k",
+    "deadline": "2027-06-30 or until funds are exhausted",
+    "status": "open",
+    "url": "https://advance.qld.gov.au/entrepreneurs-and-startups/backing-female-founders-program"
+   },
+   {
+    "name": "Seed-Start Program",
+    "agency": "South Australia Department of State Development (Research and Innovation Fund)",
+    "amount": "Seed A$50k-100k (2:1 match); Start A$100k-500k (1:1 match)",
+    "amount_usd_max": 325000,
+    "eligibility": "SA-based (or relocating) innovative companies with turnover under A$1m in each of the last 3 years",
+    "deadline": "unknown (apply via program page)",
+    "status": "unknown",
+    "url": "https://statedevelopment.sa.gov.au/science-and-research-excellence/rif/stream-2/seed-start"
+   },
+   {
+    "name": "Innovation Booster Grant",
+    "agency": "WA Department of Energy and Economic Diversification (New Industries and Innovation Fund)",
+    "amount": "Up to A$50k",
+    "amount_usd_max": 32500,
+    "eligibility": "WA-registered startups and SMEs with an innovative project; co-contribution required",
+    "deadline": "annual; 2026 round complete (recipients announced 2026-08-11)",
+    "status": "closed",
+    "url": "https://www.wa.gov.au/organisation/department-of-energy-and-economic-diversification/new-industries-and-innovation-fund-innovation-booster-grant"
+   },
+   {
+    "name": "Business Innovation Program (BIP)",
+    "agency": "Northern Territory Government",
+    "amount": "Up to A$30k grant plus A$2k advisory and A$10k commercialisation support",
+    "amount_usd_max": 19500,
+    "eligibility": "NT startups and entrepreneurs with an innovative idea and an ABN",
+    "deadline": "last: 2025-06-30; staged intakes, check site",
+    "status": "unknown",
+    "url": "https://nt.gov.au/bip"
+   },
+   {
+    "name": "Innovation Connect (ICON) Grant",
+    "agency": "ACT Government via Canberra Innovation Network (CBRIN)",
+    "amount": "A$10k-30k matched",
+    "amount_usd_max": 19500,
+    "eligibility": "ACT or region-based early-stage businesses with turnover under A$2m",
+    "deadline": "up to 2 rounds a year; last EOI close 2026-04-24",
+    "status": "upcoming",
+    "url": "https://cbrin.com.au/icon"
+   },
+   {
+    "name": "LaunchVic grant rounds",
+    "agency": "LaunchVic (merged into Innovation Victoria, 1 July 2026)",
+    "amount": "Varies by round (grants to program providers and investors)",
+    "amount_usd_max": null,
+    "eligibility": "Victorian accelerators, programs and angel groups; unsolicited proposals reviewed quarterly",
+    "deadline": "no rounds currently open",
+    "status": "closed",
+    "url": "https://launchvic.org/grants/"
+   },
+   {
+    "name": "Venture Growth Fund",
+    "agency": "Innovation Victoria",
+    "amount": "A$50k-5m venture credit",
+    "amount_usd_max": 3250000,
+    "eligibility": "Eligible high-growth Victorian startups",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.innovationvictoria.com/funding"
+   },
+   {
+    "name": "Alice Anderson Fund",
+    "agency": "Innovation Victoria",
+    "amount": "Co-investment up to A$300k",
+    "amount_usd_max": 195000,
+    "eligibility": "Women-led Victorian startups raising capital",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.innovationvictoria.com/funding"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Startmate Accelerator",
+    "city": "Melbourne / Sydney (remote-first)",
+    "type": "accelerator",
+    "investment": "A$120k for 8% (A$1.5m post-money; SAFE or priced)",
+    "sectors": "generalist",
+    "deadline": "2026-11-01",
+    "next_cohort": "2027-02",
+    "status": "open",
+    "url": "https://www.startmate.com/program/accelerator"
+   },
+   {
+    "name": "Antler Australia Residency",
+    "city": "Sydney / Melbourne / Brisbane",
+    "type": "venture_studio",
+    "investment": "Pre-seed investment after residency; terms on application",
+    "sectors": "generalist",
+    "deadline": "rolling (cohorts Feb and Jul/Aug)",
+    "next_cohort": "2027-02",
+    "status": "open",
+    "url": "https://www.antler.co/location/australia"
+   },
+   {
+    "name": "Cicada Innovations",
+    "city": "Sydney (Eveleigh)",
+    "type": "incubator",
+    "investment": "no equity; paid incubation and sector programs",
+    "sectors": "deep tech, aerospace, defence, health, agtech",
+    "deadline": "Aerospace and Defence Stride closes 2026-11-30",
+    "next_cohort": "2027-02",
+    "status": "open",
+    "url": "https://www.cicadainnovations.com"
+   },
+   {
+    "name": "Melbourne Accelerator Program (MAP)",
+    "city": "Melbourne",
+    "type": "university",
+    "investment": "A$20k equity-free",
+    "sectors": "generalist, social impact, climate",
+    "deadline": "annual (usually May-June; last: 2026-06-14)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.unimelb.edu.au/mec/initiatives/melbourne-accelerator-program"
+   },
+   {
+    "name": "UNSW Founders 10x Accelerator",
+    "city": "Sydney",
+    "type": "university",
+    "investment": "A$100k SAFE (15% discount, no cap) plus up to A$130k follow-on",
+    "sectors": "generalist, health, climate",
+    "deadline": "annual (last: 2026-05-18)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://unswfounders.com/10x-accelerator"
+   },
+   {
+    "name": "Founder Institute Australia",
+    "city": "Brisbane / Melbourne / Perth / Adelaide / Canberra",
+    "type": "accelerator",
+    "investment": "A$799 refundable entrance fee; FI equity pool per program agreement",
+    "sectors": "generalist",
+    "deadline": "rolling (Summer 2027 cohort applications open)",
+    "next_cohort": "2027-01",
+    "status": "open",
+    "url": "https://fi.co/join/australia"
+   },
+   {
+    "name": "Stone & Chalk Residency",
+    "city": "Sydney / Melbourne / Adelaide",
+    "type": "incubator",
+    "investment": "no equity; paid membership, scholarships and programs",
+    "sectors": "fintech, cyber, AI, deep tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.stoneandchalk.com.au/membership"
+   },
+   {
+    "name": "Remarkable (Cerebral Palsy Alliance)",
+    "city": "Sydney",
+    "type": "accelerator",
+    "investment": "Launcher pre-accelerator; Accelerator with seed funding",
+    "sectors": "disability tech, assistive tech",
+    "deadline": "unknown (annual cohorts)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://remarkable.org"
+   },
+   {
+    "name": "Plus Eight Accelerator (Spacecubed)",
+    "city": "Perth",
+    "type": "accelerator",
+    "investment": "Access to up to A$700k pool via SAFE notes",
+    "sectors": "generalist",
+    "deadline": "rolling EOI (one cohort a year)",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://spacecubed.com/programs/plus-eight"
+   },
+   {
+    "name": "Google for Startups Accelerator: Australia and New Zealand",
+    "city": "Sydney (hybrid)",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "AI/ML, seed to Series A",
+    "deadline": "annual (2026 cohort announced 2026-08-31)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://startup.google.com/programs/accelerator/australia-new-zealand/"
+   },
+   {
+    "name": "Blackbird Giants",
+    "city": "Sydney / Melbourne",
+    "type": "accelerator",
+    "investment": "free, no equity (mentoring program)",
+    "sectors": "generalist",
+    "deadline": "waitlist (2026 cohorts ran Mar-May)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://www.blackbird.vc/giants"
+   },
+   {
+    "name": "CSIRO ON Prime",
+    "city": "national",
+    "type": "government",
+    "investment": "free, no equity (research commercialisation program)",
+    "sectors": "research spinouts",
+    "deadline": "next intake expected late 2026 (last: 2026-07-08)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://www.csiro.au/ON-Prime"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Airtree Ventures",
+    "city": "Sydney",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.airtree.vc"
+   },
+   {
+    "name": "Blackbird Ventures",
+    "city": "Sydney / Melbourne",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.blackbird.vc"
+   },
+   {
+    "name": "Square Peg Capital",
+    "city": "Melbourne / Sydney",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "AI, fintech, SaaS",
+    "type": "vc",
+    "url": "https://www.squarepeg.vc"
+   },
+   {
+    "name": "Main Sequence",
+    "city": "Sydney",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "deep tech",
+    "type": "vc",
+    "url": "https://www.mseq.vc"
+   },
+   {
+    "name": "OneVentures",
+    "city": "Sydney",
+    "stage": "growth",
+    "check_size": "venture debt A$1m-15m+",
+    "sectors": "technology, healthcare",
+    "type": "vc",
+    "url": "https://one-ventures.com.au"
+   },
+   {
+    "name": "Folklore Ventures",
+    "city": "Sydney",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.folklore.vc"
+   },
+   {
+    "name": "Tidal Ventures",
+    "city": "Australia",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "AI",
+    "type": "vc",
+    "url": "https://www.tidalvc.com"
+   },
+   {
+    "name": "Investible",
+    "city": "Sydney",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist, climate",
+    "type": "vc",
+    "url": "https://www.investible.com"
+   },
+   {
+    "name": "Rampersand",
+    "city": "Sydney / Melbourne",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://rampersand.vc"
+   },
+   {
+    "name": "Giant Leap",
+    "city": "Sydney",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "impact: climate, health, people",
+    "type": "vc",
+    "url": "https://www.giantleap.com.au"
+   },
+   {
+    "name": "Skip Capital",
+    "city": "Sydney",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "technology, infrastructure",
+    "type": "family_office",
+    "url": "https://www.skipcapital.com"
+   },
+   {
+    "name": "Black Nova VC",
+    "city": "Sydney",
+    "stage": "pre-seed",
+    "check_size": "from A$100k",
+    "sectors": "B2B SaaS",
+    "type": "vc",
+    "url": "https://blacknova.vc"
+   },
+   {
+    "name": "Archangel Ventures",
+    "city": "Sydney / Melbourne",
+    "stage": "pre-seed",
+    "check_size": "A$250k-750k first cheque",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.archangel.vc"
+   },
+   {
+    "name": "Carthona Capital",
+    "city": "Sydney",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist, thematic",
+    "type": "vc",
+    "url": "https://www.carthonacapital.com"
+   },
+   {
+    "name": "AfterWork Ventures",
+    "city": "Sydney",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.afterwork.vc"
+   },
+   {
+    "name": "Brandon Capital",
+    "city": "Melbourne",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "life sciences",
+    "type": "vc",
+    "url": "https://www.brandon.capital"
+   },
+   {
+    "name": "Uniseed",
+    "city": "Australia",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech university spinouts",
+    "type": "vc",
+    "url": "https://www.uniseed.com"
+   },
+   {
+    "name": "Tenacious Ventures",
+    "city": "Melbourne",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "agtech, climate",
+    "type": "vc",
+    "url": "https://tenacious.ventures"
+   },
+   {
+    "name": "OIF Ventures",
+    "city": "Sydney",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.oifventures.com.au"
+   },
+   {
+    "name": "Sydney Angels",
+    "city": "Sydney",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.sydneyangels.net.au"
+   },
+   {
+    "name": "Melbourne Angels",
+    "city": "Melbourne",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.melbourneangels.com"
+   },
+   {
+    "name": "Innovation Victoria (formerly Breakthrough Victoria)",
+    "city": "Melbourne",
+    "stage": "multi",
+    "check_size": "about A$150k pre-seed to A$15m growth (Breakthrough Victoria bands)",
+    "sectors": "advanced manufacturing, health, clean economy, digital, agrifood",
+    "type": "government_fund",
+    "url": "https://www.innovationvictoria.com/submit-a-pitch"
+   },
+   {
+    "name": "National Reconstruction Fund Corporation",
+    "city": "Sydney",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "NRF priority manufacturing sectors",
+    "type": "government_fund",
+    "url": "https://www.nrf.gov.au"
+   }
+  ],
+  "resources": [
+   {
+    "name": "business.gov.au Grants and Programs Finder",
+    "type": "government_agency",
+    "url": "https://business.gov.au/grants-and-programs",
+    "note": "Official national search of federal and state grants"
+   },
+   {
+    "name": "Airtree Open Source VC: Australian investor list",
+    "type": "database",
+    "url": "https://www.airtree.vc/open-source-vc/fundraising-in-australia-updated-open-source-investor-list",
+    "note": "Crowd-sourced list of ANZ VCs, angels, venture debt and accelerators (reviewed Feb 2026)"
+   },
+   {
+    "name": "Airtree: Government grants for Australian startups",
+    "type": "database",
+    "url": "https://www.airtree.vc/open-source-vc/government-grants-for-australian-startups",
+    "note": "Federal and state grants summary (reviewed Jun 2026)"
+   },
+   {
+    "name": "Startup Muster",
+    "type": "database",
+    "url": "https://www.startupmuster.com",
+    "note": "Annual national startup survey and report; 2026 survey open"
+   },
+   {
+    "name": "Tech Council of Australia",
+    "type": "startup_association",
+    "url": "https://techcouncil.com.au",
+    "note": "Peak body for the tech industry"
+   },
+   {
+    "name": "Innovation Victoria",
+    "type": "government_agency",
+    "url": "https://www.innovationvictoria.com",
+    "note": "Formed 1 July 2026 from LaunchVic and Breakthrough Victoria"
+   },
+   {
+    "name": "Stone & Chalk",
+    "type": "coworking_hub",
+    "url": "https://www.stoneandchalk.com.au",
+    "note": "Startup hubs in Sydney Tech Central, Melbourne and Adelaide"
+   },
+   {
+    "name": "ASIC company registration",
+    "type": "legal_tax",
+    "url": "https://asic.gov.au/for-business/registering-a-company/",
+    "note": "Register a Pty Ltd company online"
+   },
+   {
+    "name": "Startup Daily",
+    "type": "other",
+    "url": "https://www.startupdaily.net",
+    "note": "Startup news covering funding, programs and policy"
+   }
+  ],
+  "sources": [
+   "https://www.airtree.vc/open-source-vc/government-grants-for-australian-startups",
+   "https://business.gov.au/grants-and-programs/industry-growth-program",
+   "https://www.startmate.com/program/accelerator",
+   "https://breakthroughvictoria.com/",
+   "https://www.innovationvictoria.com/funding",
+   "https://www.antler.co/cohort-start-dates"
+  ],
+  "confidence": "high",
+  "notes": "As of 2026-10-20: Industry Growth Program paused to new applications since 12 May 2026; EMDG Round 4 closed pending the 2026 review; R&DTI changes announced in the 2026-27 Budget take effect from 1 July 2028. LaunchVic and Breakthrough Victoria merged into Innovation Victoria on 1 July 2026. Techstars Sydney closed after NSW funding ended (no 2026 program), and the Sydney School of Entrepreneurship wound down in August 2025, so both are left out. The ICON 2026 date comes from a CBRIN article; the official page rate-limited the fetch. Antler AU cheque size is not published."
+ },
+ {
+  "country": "New Zealand",
+  "iso2": "NZ",
+  "ecosystem_tier": "established",
+  "summary": "Compact but internationally connected ecosystem centred on Auckland, Wellington and Christchurch, strong in SaaS, agritech, climate, fintech, space and deep tech. Notable outcomes include Xero, Rocket Lab, Vend and LanzaTech roots.",
+  "startup_visa": "none (Entrepreneur Work Visa closed to new applications); Business Investor Work Visa requires NZ$1m+ in an established business, https://www.immigration.govt.nz/visas/business-investor-work-visa/",
+  "company_setup": "Limited company registered online with the NZ Companies Office in about a day (about NZ$150). Needs at least one director living in NZ, or in Australia and also a director of an Australian company.",
+  "grants": [
+   {
+    "name": "New to R&D Grant",
+    "agency": "MBIE Innovation Services (formerly Callaghan Innovation)",
+    "amount": "40% of eligible costs, up to NZ$400k",
+    "amount_usd_max": 232000,
+    "eligibility": "NZ companies that spent under NZ$150k on R&D in the prior 3 years; 60% co-funding from non-government sources",
+    "deadline": "rolling",
+    "status": "open",
+    "url": "https://www.business.govt.nz/tax-and-money/innovation-funding/new-to-r-and-d-grant"
+   },
+   {
+    "name": "Research and Development Tax Incentive (RDTI)",
+    "agency": "Inland Revenue and MBIE",
+    "amount": "15% tax credit on eligible R&D; refundable for some loss-making firms",
+    "amount_usd_max": null,
+    "eligibility": "Businesses doing core R&D in NZ, minimum NZ$50k annual spend",
+    "deadline": "annual (filed with income tax return)",
+    "status": "rolling",
+    "url": "https://www.rdti.govt.nz/"
+   },
+   {
+    "name": "R&D Career Grant",
+    "agency": "MBIE Innovation Services",
+    "amount": "Six months of graduate salary, up to NZ$30k (master's) or NZ$35k (PhD)",
+    "amount_usd_max": 20300,
+    "eligibility": "NZ businesses with an active R&D programme hiring STEM/design/business graduates",
+    "deadline": "rolling (opened 2026-08-31)",
+    "status": "open",
+    "url": "https://www.business.govt.nz/tax-and-money/innovation-funding/r-and-d-career-grant"
+   },
+   {
+    "name": "R&D Experience Grant",
+    "agency": "MBIE Innovation Services",
+    "amount": "Up to NZ$11,960 + GST per student internship",
+    "amount_usd_max": 6900,
+    "eligibility": "R&D-performing businesses hosting tertiary STEM/design/business students",
+    "deadline": "last: 2026-08-24; annual (usually Jul-Aug)",
+    "status": "closed",
+    "url": "https://www.business.govt.nz/tax-and-money/innovation-funding/r-and-d-experience-grant"
+   },
+   {
+    "name": "He Ara Whakahihiko Capability Fund",
+    "agency": "MBIE",
+    "amount": "About NZ$8.6m total across schemes in 2027 round",
+    "amount_usd_max": null,
+    "eligibility": "Māori-led research commercialisation and partnership programmes",
+    "deadline": "2027 investment round; see current call",
+    "status": "upcoming",
+    "url": "https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/he-ara-whakahihiko-capability-fund"
+   },
+   {
+    "name": "KiwiNet PreSeed Accelerator Funding",
+    "agency": "KiwiNet (MBIE-funded)",
+    "amount": "Varies per project",
+    "amount_usd_max": null,
+    "eligibility": "Research projects from KiwiNet member universities and research organisations",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://kiwinet.org.nz"
+   },
+   {
+    "name": "Flexi-wage for self-employment",
+    "agency": "Work and Income NZ (MSD)",
+    "amount": "Weekly subsidy set case by case",
+    "amount_usd_max": null,
+    "eligibility": "Eligible jobseekers starting a new business with a viable business plan",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.workandincome.govt.nz/products/a-z-benefits/flexi-wage-self-employment.html"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Creative HQ Fintech Lab 2027",
+    "city": "Wellington / Auckland",
+    "type": "accelerator",
+    "investment": "free, no equity for NZ founders (overseas founders may pay a fee or equity)",
+    "sectors": "fintech",
+    "deadline": "2026-11-22",
+    "next_cohort": "2027-03",
+    "status": "open",
+    "url": "https://creativehq.co.nz/build-for-founders/fintech-lab/"
+   },
+   {
+    "name": "Creative HQ Aurora Climate Activate",
+    "city": "Wellington",
+    "type": "incubator",
+    "investment": "unknown",
+    "sectors": "climate",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://creativehq.co.nz/build-for-founders/aurora-climate-activate/"
+   },
+   {
+    "name": "Creative HQ Founder Launch",
+    "city": "Wellington",
+    "type": "incubator",
+    "investment": "unknown",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://creativehq.co.nz/build-for-founders/founder-launch/"
+   },
+   {
+    "name": "Sprout Agritech Accelerator",
+    "city": "national",
+    "type": "accelerator",
+    "investment": "no fees or equity",
+    "sectors": "agritech, foodtech",
+    "deadline": "annual (last: 2026-05-26)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.sproutagritech.com/sprout-accelerator/"
+   },
+   {
+    "name": "Startmate Accelerator (ANZ)",
+    "city": "remote-first (Melbourne hub)",
+    "type": "accelerator",
+    "investment": "A$120k for 8%",
+    "sectors": "generalist",
+    "deadline": "2026-11-01",
+    "next_cohort": "2027-02",
+    "status": "open",
+    "url": "https://www.startmate.com/program/accelerator"
+   },
+   {
+    "name": "Founder Institute New Zealand",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "fee-based; FI equity pool per program agreement",
+    "sectors": "generalist",
+    "deadline": "rolling (Summer 2027 cohort)",
+    "next_cohort": "2027-01",
+    "status": "open",
+    "url": "https://fi.co/join/new-zealand"
+   },
+   {
+    "name": "Return On Science",
+    "city": "Auckland (national)",
+    "type": "university",
+    "investment": "advisory and investment committees for research spinouts",
+    "sectors": "agritech, biotech, digital, medtech, physical sciences",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.returnonscience.co.nz/"
+   },
+   {
+    "name": "Outset Ventures",
+    "city": "Auckland",
+    "type": "incubator",
+    "investment": "lab space plus Momentum Fund investment",
+    "sectors": "deep tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://outset.ventures/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Australia and New Zealand",
+    "city": "hybrid",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "AI/ML, seed to Series A",
+    "deadline": "annual (2026 cohort announced 2026-08-31)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://startup.google.com/programs/accelerator/australia-new-zealand/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Icehouse Ventures",
+    "city": "Auckland",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.icehouseventures.co.nz"
+   },
+   {
+    "name": "Blackbird Ventures (NZ)",
+    "city": "Auckland",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.blackbird.vc"
+   },
+   {
+    "name": "Movac",
+    "city": "Wellington",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "technology",
+    "type": "vc",
+    "url": "https://movac.co.nz"
+   },
+   {
+    "name": "GD1",
+    "city": "Auckland",
+    "stage": "multi",
+    "check_size": "pre-seed to Series B",
+    "sectors": "technology",
+    "type": "vc",
+    "url": "https://gd1.vc"
+   },
+   {
+    "name": "Pacific Channel",
+    "city": "Auckland",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech: health, food, sustainability",
+    "type": "vc",
+    "url": "https://www.pacificchannel.com"
+   },
+   {
+    "name": "Matū",
+    "city": "Auckland",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "science and deep tech",
+    "type": "vc",
+    "url": "https://matu.co.nz"
+   },
+   {
+    "name": "Punakaiki Fund",
+    "city": "Auckland",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "technology",
+    "type": "vc",
+    "url": "https://punakaikifund.co.nz"
+   },
+   {
+    "name": "WNT Ventures",
+    "city": "Tauranga / Auckland",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "deep tech",
+    "type": "vc",
+    "url": "https://wntventures.co.nz"
+   },
+   {
+    "name": "Outset Ventures Momentum Fund",
+    "city": "Auckland",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech",
+    "type": "vc",
+    "url": "https://outset.ventures/"
+   },
+   {
+    "name": "Sprout Fund II",
+    "city": "national",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "agritech, foodtech",
+    "type": "vc",
+    "url": "https://www.sproutagritech.com/sprout-investment/"
+   },
+   {
+    "name": "Square Peg Capital",
+    "city": "ANZ",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "AI, fintech, SaaS",
+    "type": "vc",
+    "url": "https://www.squarepeg.vc"
+   },
+   {
+    "name": "AfterWork Ventures",
+    "city": "ANZ",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.afterwork.vc"
+   },
+   {
+    "name": "Aspire NZ Seed Fund (NZGCP)",
+    "city": "Auckland",
+    "stage": "seed",
+    "check_size": "no fixed cap",
+    "sectors": "deep tech weighted generalist",
+    "type": "government_fund",
+    "url": "https://www.nzgcp.co.nz/funding/aspire-seed-fund"
+   },
+   {
+    "name": "Elevate NZ Venture Fund (NZGCP)",
+    "city": "Auckland",
+    "stage": "series A",
+    "check_size": "fund of funds (NZ$300m)",
+    "sectors": "generalist via VC funds",
+    "type": "government_fund",
+    "url": "https://www.nzgcp.co.nz/funding/elevate-venture-fund"
+   },
+   {
+    "name": "Angel Association New Zealand",
+    "city": "national",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.angelassociation.co.nz"
+   }
+  ],
+  "resources": [
+   {
+    "name": "MBIE Innovation Services",
+    "type": "government_agency",
+    "url": "https://www.mbie.govt.nz/business-and-employment/business/support-for-business/innovation-services",
+    "note": "Now runs the former Callaghan Innovation grants, RDTI and founder support"
+   },
+   {
+    "name": "Callaghan Innovation disestablishment updates",
+    "type": "government_agency",
+    "url": "https://www.callaghaninnovation.govt.nz/about-us/disestablishment-updates/",
+    "note": "Where each former Callaghan product went (MBIE or Public Research Organisations)"
+   },
+   {
+    "name": "Airtree: New Zealand's top startup grants",
+    "type": "database",
+    "url": "https://www.airtree.vc/open-source-vc/new-zealands-top-startup-grants",
+    "note": "Curated NZ grant list"
+   },
+   {
+    "name": "NZGCP and Dealroom NZ",
+    "type": "database",
+    "url": "https://www.nzgcp.co.nz",
+    "note": "Government VC (Aspire, Elevate) and NZ startup database"
+   },
+   {
+    "name": "New Zealand Trade and Enterprise (NZTE)",
+    "type": "government_agency",
+    "url": "https://www.nzte.govt.nz",
+    "note": "Export and international growth support"
+   },
+   {
+    "name": "Invest New Zealand",
+    "type": "government_agency",
+    "url": "https://www.investnz.govt.nz",
+    "note": "Government foreign direct investment agency"
+   },
+   {
+    "name": "KiwiNet",
+    "type": "community",
+    "url": "https://kiwinet.org.nz",
+    "note": "Research commercialisation network of 14 universities and research organisations"
+   },
+   {
+    "name": "Tech NZ (NZTech)",
+    "type": "startup_association",
+    "url": "https://technewzealand.org.nz",
+    "note": "Tech industry association"
+   },
+   {
+    "name": "Techweek NZ",
+    "type": "event",
+    "url": "https://www.techweek.co.nz",
+    "note": "Annual national tech and innovation festival"
+   },
+   {
+    "name": "GridAKL",
+    "type": "coworking_hub",
+    "url": "https://gridakl.com",
+    "note": "Auckland startup hub in Wynyard Quarter"
+   },
+   {
+    "name": "Edmund Hillary Fellowship",
+    "type": "community",
+    "url": "https://www.ehf.org",
+    "note": "Fellowship for global impact entrepreneurs and investors"
+   }
+  ],
+  "sources": [
+   "https://www.callaghaninnovation.govt.nz/about-us/disestablishment-updates/",
+   "https://www.airtree.vc/open-source-vc/new-zealands-top-startup-grants",
+   "https://www.business.govt.nz/tax-and-money/innovation-funding/new-to-r-and-d-grant",
+   "https://creativehq.co.nz/build-for-founders/fintech-lab/",
+   "https://www.sproutagritech.com/sprout-accelerator/",
+   "https://www.immigration.govt.nz/visas/entrepreneur-work-visa/"
+  ],
+  "confidence": "medium",
+  "notes": "As of 2026-10-20: Callaghan Innovation is being disestablished. Its grants (New to R&D, Career, Experience), RDTI and founder support now sit with MBIE Innovation Services. Callaghan's Technology Incubator Programme stays with Callaghan pending legislation to move it to a Public Research Organisation, so it is left out. The Ārohia Trailblazer and Evidence grants closed in Dec 2025. The Entrepreneur Work Visa is closed to new applicants. The Icehouse (business growth) website blocked verification, so only Icehouse Ventures is listed. Return On Science is a programme backed by UniServices and MBIE. Fintech Lab's 22 November deadline has no year on the page and is read as 2026. Exchange rate used: NZ$1 = about US$0.58."
+ },
+ {
+  "country": "Fiji",
+  "iso2": "FJ",
+  "ecosystem_tier": "emerging",
+  "summary": "The most developed startup scene in the Pacific islands, centred on Suva and Nadi, with fintech, tourism tech and agri-business activity backed by the Reserve Bank of Fiji's innovation work and donor programmes.",
+  "startup_visa": "none",
+  "company_setup": "Private company registered with the Registrar of Companies; foreign investors register with Investment Fiji. Online registration is available, but foreign investment registration takes a few weeks.",
+  "grants": [
+   {
+    "name": "FDB Loan for Women Entrepreneurs and SME loans",
+    "agency": "Fiji Development Bank (state-owned)",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "Fijian SMEs and women entrepreneurs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.fdb.com.fj"
+   },
+   {
+    "name": "UNCDF Pacific Digital Economy Programme grants",
+    "agency": "UNCDF (with UNDP, funded by Australia and NZ)",
+    "amount": "unknown (investment grants via calls)",
+    "amount_usd_max": null,
+    "eligibility": "Fintechs, MSMEs, innovation hubs and accelerators piloting digital solutions",
+    "deadline": "unknown (ad hoc calls)",
+    "status": "unknown",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Fiji Innovation Hub",
+    "city": "Suva",
+    "type": "incubator",
+    "investment": "no equity stated; accelerator programmes, hackathons and design sprints",
+    "sectors": "fintech, digital",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://fijiinnovationhub.com"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate tech, inclusive tech",
+    "type": "vc",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Investment Fiji",
+    "type": "government_agency",
+    "url": "https://www.investmentfiji.org.fj",
+    "note": "National investment promotion agency; foreign investor registration"
+   },
+   {
+    "name": "Fiji Development Bank",
+    "type": "government_agency",
+    "url": "https://www.fdb.com.fj",
+    "note": "State development bank with SME and women entrepreneur loans"
+   },
+   {
+    "name": "Fiji Commerce and Employers Federation",
+    "type": "startup_association",
+    "url": "https://www.fcef.com.fj",
+    "note": "National private sector organisation"
+   },
+   {
+    "name": "Fiji Chamber of Commerce and Industry",
+    "type": "startup_association",
+    "url": "https://www.fijichamber.com",
+    "note": "Business chamber"
+   },
+   {
+    "name": "Pacific Islands Private Sector Organisation (PIPSO)",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj",
+    "note": "Regional private-sector body (Suva); training, grants and opportunities listings"
+   },
+   {
+    "name": "Pacific Trade Invest (PTI)",
+    "type": "government_agency",
+    "url": "https://www.pacifictradeinvest.com",
+    "note": "Pacific Islands Forum trade and investment agency with offices in Australia, NZ, China and Europe"
+   },
+   {
+    "name": "Asian Development Bank country page",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/fiji",
+    "note": "ADB private sector and SME finance operations"
+   },
+   {
+    "name": "Pacific Islands Forum Secretariat",
+    "type": "government_agency",
+    "url": "https://forumsec.org",
+    "note": "Regional economic policy and trade"
+   },
+   {
+    "name": "UNDP / Citi Foundation Youth Co:Lab",
+    "type": "community",
+    "url": "https://www.youthcolab.org",
+    "note": "Youth social entrepreneurship programmes across Asia-Pacific"
+   },
+   {
+    "name": "UNCDF Pacific Digital Economy Programme (PDEP)",
+    "type": "other",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme",
+    "note": "Grants and support for digital finance, fintech and MSME innovation"
+   },
+   {
+    "name": "World Bank Pacific Islands",
+    "type": "other",
+    "url": "https://www.worldbank.org/ext/en/region/eap/pacific-islands",
+    "note": "Development programmes including private sector and digital projects"
+   }
+  ],
+  "sources": [
+   "https://fijiinnovationhub.com",
+   "https://www.investmentfiji.org.fj",
+   "https://www.pipso.org.fj",
+   "https://www.pacifictradeinvest.com",
+   "https://www.adb.org/where-we-work/fiji"
+  ],
+  "confidence": "medium",
+  "notes": "Fiji Innovation Hub partners with Creative HQ (NZ), Mastercard and the Reserve Bank of Fiji. No local VC fund could be verified. The Ministry of Trade site, which runs the national MSME and young entrepreneur schemes, was unreachable (HTTP 500), so those schemes are left out. Most Pacific founders raise from Australian or NZ investors and often incorporate there; check PTI and ADB programmes for current calls."
+ },
+ {
+  "country": "Papua New Guinea",
+  "iso2": "PG",
+  "ecosystem_tier": "nascent",
+  "summary": "Small but growing digital and SME scene in Port Moresby and Lae, focused on mobile money, agri-business and services, supported by government SME and digital policy and by ADB and Australian aid.",
+  "startup_visa": "none",
+  "company_setup": "Company registered online with the Investment Promotion Authority (IPA). Foreign enterprises also need IPA foreign enterprise certification, which takes a few weeks.",
+  "grants": [
+   {
+    "name": "UNCDF Pacific Digital Economy Programme grants",
+    "agency": "UNCDF (with UNDP, funded by Australia and NZ)",
+    "amount": "unknown (investment grants via calls)",
+    "amount_usd_max": null,
+    "eligibility": "Fintechs, MSMEs, innovation hubs and accelerators piloting digital solutions",
+    "deadline": "unknown (ad hoc calls)",
+    "status": "unknown",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate tech, inclusive tech",
+    "type": "vc",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Investment Promotion Authority (IPA)",
+    "type": "government_agency",
+    "url": "https://www.ipa.gov.pg",
+    "note": "Company registry and foreign investment certification"
+   },
+   {
+    "name": "SME Corporation PNG",
+    "type": "government_agency",
+    "url": "https://smecorp.gov.pg",
+    "note": "MSME training (SIYB), incubation centres, financial access links"
+   },
+   {
+    "name": "Department of Information and Communications Technology",
+    "type": "government_agency",
+    "url": "https://www.ict.gov.pg",
+    "note": "Digital government and ICT policy"
+   },
+   {
+    "name": "PNG Chamber of Commerce and Industry",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj/for-pacific-businesses-2/find-business-help-in-your-country-2/artisan-6/",
+    "note": "National private sector organisation (PIPSO listing)"
+   },
+   {
+    "name": "Pacific Islands Private Sector Organisation (PIPSO)",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj",
+    "note": "Regional private-sector body (Suva); training, grants and opportunities listings"
+   },
+   {
+    "name": "Pacific Trade Invest (PTI)",
+    "type": "government_agency",
+    "url": "https://www.pacifictradeinvest.com",
+    "note": "Pacific Islands Forum trade and investment agency with offices in Australia, NZ, China and Europe"
+   },
+   {
+    "name": "Asian Development Bank country page",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/papua-new-guinea",
+    "note": "ADB private sector and SME finance operations"
+   },
+   {
+    "name": "Pacific Islands Forum Secretariat",
+    "type": "government_agency",
+    "url": "https://forumsec.org",
+    "note": "Regional economic policy and trade"
+   },
+   {
+    "name": "UNDP / Citi Foundation Youth Co:Lab",
+    "type": "community",
+    "url": "https://www.youthcolab.org",
+    "note": "Youth social entrepreneurship programmes across Asia-Pacific"
+   },
+   {
+    "name": "UNCDF Pacific Digital Economy Programme (PDEP)",
+    "type": "other",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme",
+    "note": "Grants and support for digital finance, fintech and MSME innovation"
+   },
+   {
+    "name": "World Bank Pacific Islands",
+    "type": "other",
+    "url": "https://www.worldbank.org/ext/en/region/eap/pacific-islands",
+    "note": "Development programmes including private sector and digital projects"
+   }
+  ],
+  "sources": [
+   "https://smecorp.gov.pg",
+   "https://www.pipso.org.fj",
+   "https://www.pacifictradeinvest.com",
+   "https://www.adb.org/where-we-work/papua-new-guinea"
+  ],
+  "confidence": "low",
+  "notes": "SME Corporation lists a Business Incubation Centre, a Women Enterprise Development Center and an SME Development Fund, but their current status is not published. Most Pacific founders raise from Australian or NZ investors and often incorporate there; check PTI and ADB programmes for current calls."
+ },
+ {
+  "country": "Samoa",
+  "iso2": "WS",
+  "ecosystem_tier": "nascent",
+  "summary": "Very small ecosystem in Apia built around tourism, agri-exports and remittance-linked digital services, with business support from government and the chamber of commerce.",
+  "startup_visa": "none",
+  "company_setup": "Company registered online with the Samoa Companies Registry. Foreign investors need a Foreign Investment Certificate from the Ministry of Commerce, Industry and Labour (MCIL).",
+  "grants": [
+   {
+    "name": "UNCDF Pacific Digital Economy Programme grants",
+    "agency": "UNCDF (with UNDP, funded by Australia and NZ)",
+    "amount": "unknown (investment grants via calls)",
+    "amount_usd_max": null,
+    "eligibility": "Fintechs, MSMEs, innovation hubs and accelerators piloting digital solutions",
+    "deadline": "unknown (ad hoc calls)",
+    "status": "unknown",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate tech, inclusive tech",
+    "type": "vc",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ministry of Commerce, Industry and Labour (MCIL)",
+    "type": "government_agency",
+    "url": "https://www.mcil.gov.ws",
+    "note": "Business registration, foreign investment and industry development"
+   },
+   {
+    "name": "Samoa Chamber of Commerce and Industry",
+    "type": "startup_association",
+    "url": "https://www.samoachamber.ws",
+    "note": "National private sector organisation"
+   },
+   {
+    "name": "Pacific Islands Private Sector Organisation (PIPSO)",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj",
+    "note": "Regional private-sector body (Suva); training, grants and opportunities listings"
+   },
+   {
+    "name": "Pacific Trade Invest (PTI)",
+    "type": "government_agency",
+    "url": "https://www.pacifictradeinvest.com",
+    "note": "Pacific Islands Forum trade and investment agency with offices in Australia, NZ, China and Europe"
+   },
+   {
+    "name": "Asian Development Bank country page",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/samoa",
+    "note": "ADB private sector and SME finance operations"
+   },
+   {
+    "name": "Pacific Islands Forum Secretariat",
+    "type": "government_agency",
+    "url": "https://forumsec.org",
+    "note": "Regional economic policy and trade"
+   },
+   {
+    "name": "UNDP / Citi Foundation Youth Co:Lab",
+    "type": "community",
+    "url": "https://www.youthcolab.org",
+    "note": "Youth social entrepreneurship programmes across Asia-Pacific"
+   },
+   {
+    "name": "UNCDF Pacific Digital Economy Programme (PDEP)",
+    "type": "other",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme",
+    "note": "Grants and support for digital finance, fintech and MSME innovation"
+   },
+   {
+    "name": "World Bank Pacific Islands",
+    "type": "other",
+    "url": "https://www.worldbank.org/ext/en/region/eap/pacific-islands",
+    "note": "Development programmes including private sector and digital projects"
+   }
+  ],
+  "sources": [
+   "https://www.pipso.org.fj",
+   "https://www.pacifictradeinvest.com",
+   "https://www.adb.org/where-we-work/samoa"
+  ],
+  "confidence": "low",
+  "notes": "No local accelerators or VCs could be verified. The Small Business Enterprise Centre (SBEC) website was unreachable, so it is left out. Most Pacific founders raise from Australian or NZ investors and often incorporate there; check PTI and ADB programmes for current calls."
+ },
+ {
+  "country": "Tonga",
+  "iso2": "TO",
+  "ecosystem_tier": "nascent",
+  "summary": "Very small ecosystem in Nuku'alofa centred on agriculture, fisheries, tourism and remittances; startup support mostly comes through development banks and donors.",
+  "startup_visa": "none",
+  "company_setup": "Company registered with the Tonga Business Registries Office; foreign investors register under the Foreign Investment Act.",
+  "grants": [
+   {
+    "name": "Tonga Development Bank business loans",
+    "agency": "Tonga Development Bank",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "Tongan businesses and farmers",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://tdb.to"
+   },
+   {
+    "name": "UNCDF Pacific Digital Economy Programme grants",
+    "agency": "UNCDF (with UNDP, funded by Australia and NZ)",
+    "amount": "unknown (investment grants via calls)",
+    "amount_usd_max": null,
+    "eligibility": "Fintechs, MSMEs, innovation hubs and accelerators piloting digital solutions",
+    "deadline": "unknown (ad hoc calls)",
+    "status": "unknown",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate tech, inclusive tech",
+    "type": "vc",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Tonga Development Bank",
+    "type": "government_agency",
+    "url": "https://tdb.to",
+    "note": "Development bank offering business and agricultural loans"
+   },
+   {
+    "name": "Tonga Chamber of Commerce and Industry",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj/for-pacific-businesses-2/find-business-help-in-your-country-2/tonga-chamber-commerce-industry/",
+    "note": "National private sector organisation (PIPSO listing)"
+   },
+   {
+    "name": "Pacific Islands Private Sector Organisation (PIPSO)",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj",
+    "note": "Regional private-sector body (Suva); training, grants and opportunities listings"
+   },
+   {
+    "name": "Pacific Trade Invest (PTI)",
+    "type": "government_agency",
+    "url": "https://www.pacifictradeinvest.com",
+    "note": "Pacific Islands Forum trade and investment agency with offices in Australia, NZ, China and Europe"
+   },
+   {
+    "name": "Asian Development Bank country page",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/tonga",
+    "note": "ADB private sector and SME finance operations"
+   },
+   {
+    "name": "Pacific Islands Forum Secretariat",
+    "type": "government_agency",
+    "url": "https://forumsec.org",
+    "note": "Regional economic policy and trade"
+   },
+   {
+    "name": "UNDP / Citi Foundation Youth Co:Lab",
+    "type": "community",
+    "url": "https://www.youthcolab.org",
+    "note": "Youth social entrepreneurship programmes across Asia-Pacific"
+   },
+   {
+    "name": "UNCDF Pacific Digital Economy Programme (PDEP)",
+    "type": "other",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme",
+    "note": "Grants and support for digital finance, fintech and MSME innovation"
+   },
+   {
+    "name": "World Bank Pacific Islands",
+    "type": "other",
+    "url": "https://www.worldbank.org/ext/en/region/eap/pacific-islands",
+    "note": "Development programmes including private sector and digital projects"
+   }
+  ],
+  "sources": [
+   "https://www.pipso.org.fj",
+   "https://www.pacifictradeinvest.com",
+   "https://www.adb.org/where-we-work/tonga"
+  ],
+  "confidence": "low",
+  "notes": "The Ministry of Trade site blocked verification. The Tonga Business Enterprise Centre website could not be reached, so it is left out. Most Pacific founders raise from Australian or NZ investors and often incorporate there; check PTI and ADB programmes for current calls."
+ },
+ {
+  "country": "Vanuatu",
+  "iso2": "VU",
+  "ecosystem_tier": "nascent",
+  "summary": "Small ecosystem in Port Vila built around tourism, agriculture and offshore finance services, with limited formal startup support.",
+  "startup_visa": "none",
+  "company_setup": "Company registered with the Vanuatu Financial Services Commission. Foreign investors need approval from the Vanuatu Foreign Investment Promotion Agency (VFIPA).",
+  "grants": [
+   {
+    "name": "UNCDF Pacific Digital Economy Programme grants",
+    "agency": "UNCDF (with UNDP, funded by Australia and NZ)",
+    "amount": "unknown (investment grants via calls)",
+    "amount_usd_max": null,
+    "eligibility": "Fintechs, MSMEs, innovation hubs and accelerators piloting digital solutions",
+    "deadline": "unknown (ad hoc calls)",
+    "status": "unknown",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate tech, inclusive tech",
+    "type": "vc",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Vanuatu Foreign Investment Promotion Agency (VFIPA)",
+    "type": "government_agency",
+    "url": "https://investvanuatu.vu",
+    "note": "Foreign investment approvals and promotion"
+   },
+   {
+    "name": "Vanuatu Chamber of Commerce and Industry",
+    "type": "startup_association",
+    "url": "https://vcci.vu",
+    "note": "National private sector organisation"
+   },
+   {
+    "name": "Pacific Islands Private Sector Organisation (PIPSO)",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj",
+    "note": "Regional private-sector body (Suva); training, grants and opportunities listings"
+   },
+   {
+    "name": "Pacific Trade Invest (PTI)",
+    "type": "government_agency",
+    "url": "https://www.pacifictradeinvest.com",
+    "note": "Pacific Islands Forum trade and investment agency with offices in Australia, NZ, China and Europe"
+   },
+   {
+    "name": "Asian Development Bank country page",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/vanuatu",
+    "note": "ADB private sector and SME finance operations"
+   },
+   {
+    "name": "Pacific Islands Forum Secretariat",
+    "type": "government_agency",
+    "url": "https://forumsec.org",
+    "note": "Regional economic policy and trade"
+   },
+   {
+    "name": "UNDP / Citi Foundation Youth Co:Lab",
+    "type": "community",
+    "url": "https://www.youthcolab.org",
+    "note": "Youth social entrepreneurship programmes across Asia-Pacific"
+   },
+   {
+    "name": "UNCDF Pacific Digital Economy Programme (PDEP)",
+    "type": "other",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme",
+    "note": "Grants and support for digital finance, fintech and MSME innovation"
+   },
+   {
+    "name": "World Bank Pacific Islands",
+    "type": "other",
+    "url": "https://www.worldbank.org/ext/en/region/eap/pacific-islands",
+    "note": "Development programmes including private sector and digital projects"
+   }
+  ],
+  "sources": [
+   "https://www.pipso.org.fj",
+   "https://www.pacifictradeinvest.com",
+   "https://www.adb.org/where-we-work/vanuatu"
+  ],
+  "confidence": "low",
+  "notes": "No local accelerators or VCs could be verified. Most Pacific founders raise from Australian or NZ investors and often incorporate there; check PTI and ADB programmes for current calls."
+ },
+ {
+  "country": "Solomon Islands",
+  "iso2": "SB",
+  "ecosystem_tier": "nascent",
+  "summary": "Small, mostly resource- and agriculture-based economy in Honiara with few formal startup structures; business support comes through government and donor programmes.",
+  "startup_visa": "none",
+  "company_setup": "Company registered online with the Company Haus registry. Foreign investors register with Invest Solomons.",
+  "grants": [
+   {
+    "name": "UNCDF Pacific Digital Economy Programme grants",
+    "agency": "UNCDF (with UNDP, funded by Australia and NZ)",
+    "amount": "unknown (investment grants via calls)",
+    "amount_usd_max": null,
+    "eligibility": "Fintechs, MSMEs, innovation hubs and accelerators piloting digital solutions",
+    "deadline": "unknown (ad hoc calls)",
+    "status": "unknown",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate tech, inclusive tech",
+    "type": "vc",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Invest Solomons",
+    "type": "government_agency",
+    "url": "https://www.investsolomons.gov.sb",
+    "note": "Foreign investment registration and promotion"
+   },
+   {
+    "name": "Ministry of Commerce, Industries, Labour and Immigration",
+    "type": "government_agency",
+    "url": "https://commerce.gov.sb",
+    "note": "Business and industry policy"
+   },
+   {
+    "name": "Solomon Islands Chamber of Commerce and Industry",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj/for-pacific-businesses-2/find-business-help-in-your-country-2/solomon-islands-chamber-commerce-industry/",
+    "note": "National private sector organisation (PIPSO listing)"
+   },
+   {
+    "name": "Pacific Islands Private Sector Organisation (PIPSO)",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj",
+    "note": "Regional private-sector body (Suva); training, grants and opportunities listings"
+   },
+   {
+    "name": "Pacific Trade Invest (PTI)",
+    "type": "government_agency",
+    "url": "https://www.pacifictradeinvest.com",
+    "note": "Pacific Islands Forum trade and investment agency with offices in Australia, NZ, China and Europe"
+   },
+   {
+    "name": "Asian Development Bank country page",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/solomon-islands",
+    "note": "ADB private sector and SME finance operations"
+   },
+   {
+    "name": "Pacific Islands Forum Secretariat",
+    "type": "government_agency",
+    "url": "https://forumsec.org",
+    "note": "Regional economic policy and trade"
+   },
+   {
+    "name": "UNDP / Citi Foundation Youth Co:Lab",
+    "type": "community",
+    "url": "https://www.youthcolab.org",
+    "note": "Youth social entrepreneurship programmes across Asia-Pacific"
+   },
+   {
+    "name": "UNCDF Pacific Digital Economy Programme (PDEP)",
+    "type": "other",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme",
+    "note": "Grants and support for digital finance, fintech and MSME innovation"
+   },
+   {
+    "name": "World Bank Pacific Islands",
+    "type": "other",
+    "url": "https://www.worldbank.org/ext/en/region/eap/pacific-islands",
+    "note": "Development programmes including private sector and digital projects"
+   }
+  ],
+  "sources": [
+   "https://www.pipso.org.fj",
+   "https://www.pacifictradeinvest.com",
+   "https://www.adb.org/where-we-work/solomon-islands"
+  ],
+  "confidence": "low",
+  "notes": "No local accelerators or VCs could be verified. Most Pacific founders raise from Australian or NZ investors and often incorporate there; check PTI and ADB programmes for current calls."
+ },
+ {
+  "country": "Kiribati",
+  "iso2": "KI",
+  "ecosystem_tier": "nascent",
+  "summary": "Micro-economy in South Tarawa dependent on fisheries licences and aid, with very limited private-sector startup activity.",
+  "startup_visa": "none",
+  "company_setup": "Business names and companies registered with the Ministry of Tourism, Commerce, Industry and Cooperatives (MTCIC), which also registers foreign investment.",
+  "grants": [
+   {
+    "name": "UNCDF Pacific Digital Economy Programme grants",
+    "agency": "UNCDF (with UNDP, funded by Australia and NZ)",
+    "amount": "unknown (investment grants via calls)",
+    "amount_usd_max": null,
+    "eligibility": "Fintechs, MSMEs, innovation hubs and accelerators piloting digital solutions",
+    "deadline": "unknown (ad hoc calls)",
+    "status": "unknown",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate tech, inclusive tech",
+    "type": "vc",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ministry of Tourism, Commerce, Industry and Cooperatives (MTCIC)",
+    "type": "government_agency",
+    "url": "https://mtcic.gov.ki",
+    "note": "Business and company registration, foreign investment registration, investment promotion"
+   },
+   {
+    "name": "Kiribati Chamber of Commerce and Industry",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj/for-pacific-businesses-2/find-business-help-in-your-country-2/artisan-5/",
+    "note": "National private sector organisation (PIPSO listing)"
+   },
+   {
+    "name": "Pacific Islands Private Sector Organisation (PIPSO)",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj",
+    "note": "Regional private-sector body (Suva); training, grants and opportunities listings"
+   },
+   {
+    "name": "Pacific Trade Invest (PTI)",
+    "type": "government_agency",
+    "url": "https://www.pacifictradeinvest.com",
+    "note": "Pacific Islands Forum trade and investment agency with offices in Australia, NZ, China and Europe"
+   },
+   {
+    "name": "Asian Development Bank country page",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/kiribati",
+    "note": "ADB private sector and SME finance operations"
+   },
+   {
+    "name": "Pacific Islands Forum Secretariat",
+    "type": "government_agency",
+    "url": "https://forumsec.org",
+    "note": "Regional economic policy and trade"
+   },
+   {
+    "name": "UNDP / Citi Foundation Youth Co:Lab",
+    "type": "community",
+    "url": "https://www.youthcolab.org",
+    "note": "Youth social entrepreneurship programmes across Asia-Pacific"
+   },
+   {
+    "name": "UNCDF Pacific Digital Economy Programme (PDEP)",
+    "type": "other",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme",
+    "note": "Grants and support for digital finance, fintech and MSME innovation"
+   },
+   {
+    "name": "World Bank Pacific Islands",
+    "type": "other",
+    "url": "https://www.worldbank.org/ext/en/region/eap/pacific-islands",
+    "note": "Development programmes including private sector and digital projects"
+   }
+  ],
+  "sources": [
+   "https://www.pipso.org.fj",
+   "https://www.pacifictradeinvest.com",
+   "https://www.adb.org/where-we-work/kiribati"
+  ],
+  "confidence": "low",
+  "notes": "No accelerators or VCs exist locally. Most Pacific founders raise from Australian or NZ investors and often incorporate there; check PTI and ADB programmes for current calls."
+ },
+ {
+  "country": "Nauru",
+  "iso2": "NR",
+  "ecosystem_tier": "nascent",
+  "summary": "Micro-economy with a very small private sector and no formal startup ecosystem.",
+  "startup_visa": "none",
+  "company_setup": "Companies registered under Nauru's business registration law with government; contact the Nauru Chamber of Commerce for guidance.",
+  "grants": [],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate tech, inclusive tech",
+    "type": "vc",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Nauru Chamber of Commerce and Industry",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj/for-pacific-businesses-2/find-business-help-in-your-country-2/nauru-chamber-commerce-industry/",
+    "note": "National private sector organisation (PIPSO listing)"
+   },
+   {
+    "name": "Pacific Islands Private Sector Organisation (PIPSO)",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj",
+    "note": "Regional private-sector body (Suva); training, grants and opportunities listings"
+   },
+   {
+    "name": "Pacific Trade Invest (PTI)",
+    "type": "government_agency",
+    "url": "https://www.pacifictradeinvest.com",
+    "note": "Pacific Islands Forum trade and investment agency with offices in Australia, NZ, China and Europe"
+   },
+   {
+    "name": "Asian Development Bank country page",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/nauru",
+    "note": "ADB private sector and SME finance operations"
+   },
+   {
+    "name": "Pacific Islands Forum Secretariat",
+    "type": "government_agency",
+    "url": "https://forumsec.org",
+    "note": "Regional economic policy and trade"
+   },
+   {
+    "name": "UNDP / Citi Foundation Youth Co:Lab",
+    "type": "community",
+    "url": "https://www.youthcolab.org",
+    "note": "Youth social entrepreneurship programmes across Asia-Pacific"
+   },
+   {
+    "name": "World Bank Pacific Islands",
+    "type": "other",
+    "url": "https://www.worldbank.org/ext/en/region/eap/pacific-islands",
+    "note": "Development programmes including private sector and digital projects"
+   }
+  ],
+  "sources": [
+   "https://www.pipso.org.fj",
+   "https://www.pacifictradeinvest.com",
+   "https://www.adb.org/where-we-work/nauru"
+  ],
+  "confidence": "low",
+  "notes": "The Nauru government website could not be reached, so no national SME agency URL could be verified. Most Pacific founders raise from Australian or NZ investors and often incorporate there; check PTI and ADB programmes for current calls."
+ },
+ {
+  "country": "Tuvalu",
+  "iso2": "TV",
+  "ecosystem_tier": "nascent",
+  "summary": "Micro-economy with a very small private sector. The government's Digital Nation initiative is the main technology focus; there is no formal startup ecosystem.",
+  "startup_visa": "none",
+  "company_setup": "Business licensing goes through the government and island councils; the Tuvalu National Private Sector Organisation advises.",
+  "grants": [],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate tech, inclusive tech",
+    "type": "vc",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Tuvalu National Private Sector Organisation",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj/for-pacific-businesses-2/find-business-help-in-your-country-2/artisan-12/",
+    "note": "National private sector organisation (PIPSO listing)"
+   },
+   {
+    "name": "Pacific Islands Private Sector Organisation (PIPSO)",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj",
+    "note": "Regional private-sector body (Suva); training, grants and opportunities listings"
+   },
+   {
+    "name": "Pacific Trade Invest (PTI)",
+    "type": "government_agency",
+    "url": "https://www.pacifictradeinvest.com",
+    "note": "Pacific Islands Forum trade and investment agency with offices in Australia, NZ, China and Europe"
+   },
+   {
+    "name": "Asian Development Bank country page",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/tuvalu",
+    "note": "ADB private sector and SME finance operations"
+   },
+   {
+    "name": "Pacific Islands Forum Secretariat",
+    "type": "government_agency",
+    "url": "https://forumsec.org",
+    "note": "Regional economic policy and trade"
+   },
+   {
+    "name": "UNDP / Citi Foundation Youth Co:Lab",
+    "type": "community",
+    "url": "https://www.youthcolab.org",
+    "note": "Youth social entrepreneurship programmes across Asia-Pacific"
+   },
+   {
+    "name": "World Bank Pacific Islands",
+    "type": "other",
+    "url": "https://www.worldbank.org/ext/en/region/eap/pacific-islands",
+    "note": "Development programmes including private sector and digital projects"
+   }
+  ],
+  "sources": [
+   "https://www.pipso.org.fj",
+   "https://www.pacifictradeinvest.com",
+   "https://www.adb.org/where-we-work/tuvalu"
+  ],
+  "confidence": "low",
+  "notes": "Government websites could not be reached, so no national SME agency URL could be verified. Most Pacific founders raise from Australian or NZ investors and often incorporate there; check PTI and ADB programmes for current calls."
+ },
+ {
+  "country": "Marshall Islands",
+  "iso2": "MH",
+  "ecosystem_tier": "nascent",
+  "summary": "Small US-dollar economy in Majuro under a Compact of Free Association with the US. Business support comes through the US-funded Pacific SBDC network.",
+  "startup_visa": "none",
+  "company_setup": "Domestic corporations registered with the RMI Registrar of Corporations; foreign investors need a Foreign Investment Business License. A non-resident corporate registry is also available.",
+  "grants": [
+   {
+    "name": "UNCDF Pacific Digital Economy Programme grants",
+    "agency": "UNCDF (with UNDP, funded by Australia and NZ)",
+    "amount": "unknown (investment grants via calls)",
+    "amount_usd_max": null,
+    "eligibility": "Fintechs, MSMEs, innovation hubs and accelerators piloting digital solutions",
+    "deadline": "unknown (ad hoc calls)",
+    "status": "unknown",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate tech, inclusive tech",
+    "type": "vc",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "RMI Small Business Development Center",
+    "type": "government_agency",
+    "url": "https://www.pacificsbdc.com/locations/rmi-sbdc",
+    "note": "Free counselling and training (University of Guam Pacific Islands SBDC Network)"
+   },
+   {
+    "name": "Marshall Islands Chamber of Commerce",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj/for-pacific-businesses-2/find-business-help-in-your-country-2/artisan-7/",
+    "note": "National private sector organisation (PIPSO listing)"
+   },
+   {
+    "name": "Pacific Islands Private Sector Organisation (PIPSO)",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj",
+    "note": "Regional private-sector body (Suva); training, grants and opportunities listings"
+   },
+   {
+    "name": "Pacific Trade Invest (PTI)",
+    "type": "government_agency",
+    "url": "https://www.pacifictradeinvest.com",
+    "note": "Pacific Islands Forum trade and investment agency with offices in Australia, NZ, China and Europe"
+   },
+   {
+    "name": "Asian Development Bank country page",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/marshall-islands",
+    "note": "ADB private sector and SME finance operations"
+   },
+   {
+    "name": "Pacific Islands Forum Secretariat",
+    "type": "government_agency",
+    "url": "https://forumsec.org",
+    "note": "Regional economic policy and trade"
+   },
+   {
+    "name": "UNDP / Citi Foundation Youth Co:Lab",
+    "type": "community",
+    "url": "https://www.youthcolab.org",
+    "note": "Youth social entrepreneurship programmes across Asia-Pacific"
+   },
+   {
+    "name": "UNCDF Pacific Digital Economy Programme (PDEP)",
+    "type": "other",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme",
+    "note": "Grants and support for digital finance, fintech and MSME innovation"
+   },
+   {
+    "name": "World Bank Pacific Islands",
+    "type": "other",
+    "url": "https://www.worldbank.org/ext/en/region/eap/pacific-islands",
+    "note": "Development programmes including private sector and digital projects"
+   }
+  ],
+  "sources": [
+   "https://www.pipso.org.fj",
+   "https://www.pacifictradeinvest.com",
+   "https://www.adb.org/where-we-work/marshall-islands"
+  ],
+  "confidence": "low",
+  "notes": "No local accelerators or VCs exist. Most Pacific founders raise from Australian or NZ investors and often incorporate there; check PTI and ADB programmes for current calls."
+ },
+ {
+  "country": "Micronesia",
+  "iso2": "FM",
+  "ecosystem_tier": "nascent",
+  "summary": "Small US-dollar economy across four states (Pohnpei, Chuuk, Yap, Kosrae) under a Compact of Free Association with the US. Business support comes through SBDC centres and the FSM Development Bank.",
+  "startup_visa": "none",
+  "company_setup": "Companies registered with the FSM Registrar of Corporations; foreign investment permits are issued nationally and by the states.",
+  "grants": [
+   {
+    "name": "FSM Development Bank business loans",
+    "agency": "FSM Development Bank",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "FSM businesses",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.fsmdb.fm"
+   },
+   {
+    "name": "UNCDF Pacific Digital Economy Programme grants",
+    "agency": "UNCDF (with UNDP, funded by Australia and NZ)",
+    "amount": "unknown (investment grants via calls)",
+    "amount_usd_max": null,
+    "eligibility": "Fintechs, MSMEs, innovation hubs and accelerators piloting digital solutions",
+    "deadline": "unknown (ad hoc calls)",
+    "status": "unknown",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate tech, inclusive tech",
+    "type": "vc",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Pohnpei Small Business Development Center",
+    "type": "government_agency",
+    "url": "https://www.pacificsbdc.com/locations/pohnpei-sbdc",
+    "note": "Free counselling and training"
+   },
+   {
+    "name": "Chuuk SBDC",
+    "type": "government_agency",
+    "url": "https://www.pacificsbdc.com/locations/chuuk-sbdc",
+    "note": "Free counselling and training"
+   },
+   {
+    "name": "Yap SBDC",
+    "type": "government_agency",
+    "url": "https://www.pacificsbdc.com/locations/yap-sbdc",
+    "note": "Free counselling and training"
+   },
+   {
+    "name": "Kosrae SBDC",
+    "type": "government_agency",
+    "url": "https://www.pacificsbdc.com/locations/kosrae-sbdc",
+    "note": "Free counselling and training"
+   },
+   {
+    "name": "FSM Development Bank",
+    "type": "government_agency",
+    "url": "https://www.fsmdb.fm",
+    "note": "National development bank"
+   },
+   {
+    "name": "FSM Association of Chambers of Commerce",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj/for-pacific-businesses-2/find-business-help-in-your-country-2/artisan-4/",
+    "note": "National private sector organisation (PIPSO listing)"
+   },
+   {
+    "name": "Pacific Islands Private Sector Organisation (PIPSO)",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj",
+    "note": "Regional private-sector body (Suva); training, grants and opportunities listings"
+   },
+   {
+    "name": "Pacific Trade Invest (PTI)",
+    "type": "government_agency",
+    "url": "https://www.pacifictradeinvest.com",
+    "note": "Pacific Islands Forum trade and investment agency with offices in Australia, NZ, China and Europe"
+   },
+   {
+    "name": "Asian Development Bank country page",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/micronesia",
+    "note": "ADB private sector and SME finance operations"
+   },
+   {
+    "name": "Pacific Islands Forum Secretariat",
+    "type": "government_agency",
+    "url": "https://forumsec.org",
+    "note": "Regional economic policy and trade"
+   },
+   {
+    "name": "UNDP / Citi Foundation Youth Co:Lab",
+    "type": "community",
+    "url": "https://www.youthcolab.org",
+    "note": "Youth social entrepreneurship programmes across Asia-Pacific"
+   },
+   {
+    "name": "UNCDF Pacific Digital Economy Programme (PDEP)",
+    "type": "other",
+    "url": "https://www.uncdf.org/pacific-digital-economy-programme",
+    "note": "Grants and support for digital finance, fintech and MSME innovation"
+   },
+   {
+    "name": "World Bank Pacific Islands",
+    "type": "other",
+    "url": "https://www.worldbank.org/ext/en/region/eap/pacific-islands",
+    "note": "Development programmes including private sector and digital projects"
+   }
+  ],
+  "sources": [
+   "https://www.pipso.org.fj",
+   "https://www.pacifictradeinvest.com",
+   "https://www.adb.org/where-we-work/micronesia"
+  ],
+  "confidence": "low",
+  "notes": "No local accelerators or VCs exist. Most Pacific founders raise from Australian or NZ investors and often incorporate there; check PTI and ADB programmes for current calls."
+ },
+ {
+  "country": "Palau",
+  "iso2": "PW",
+  "ecosystem_tier": "nascent",
+  "summary": "Small, tourism-driven US-dollar economy in Koror under a Compact of Free Association with the US. Business support comes through the Palau SBDC.",
+  "startup_visa": "none",
+  "company_setup": "Companies registered with the Registrar of Corporations. Foreign-owned businesses need Foreign Investment Board approval.",
+  "grants": [],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate tech, inclusive tech",
+    "type": "vc",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Palau Small Business Development Center",
+    "type": "government_agency",
+    "url": "https://www.pacificsbdc.com/locations/palau-sbdc",
+    "note": "Free counselling and training (Pacific Islands SBDC Network)"
+   },
+   {
+    "name": "Palau Chamber of Commerce",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj/for-pacific-businesses-2/find-business-help-in-your-country-2/palau-chamber-commerce-industry/",
+    "note": "National private sector organisation (PIPSO listing)"
+   },
+   {
+    "name": "Pacific Islands Private Sector Organisation (PIPSO)",
+    "type": "startup_association",
+    "url": "https://www.pipso.org.fj",
+    "note": "Regional private-sector body (Suva); training, grants and opportunities listings"
+   },
+   {
+    "name": "Pacific Trade Invest (PTI)",
+    "type": "government_agency",
+    "url": "https://www.pacifictradeinvest.com",
+    "note": "Pacific Islands Forum trade and investment agency with offices in Australia, NZ, China and Europe"
+   },
+   {
+    "name": "Asian Development Bank country page",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/palau",
+    "note": "ADB private sector and SME finance operations"
+   },
+   {
+    "name": "Pacific Islands Forum Secretariat",
+    "type": "government_agency",
+    "url": "https://forumsec.org",
+    "note": "Regional economic policy and trade"
+   },
+   {
+    "name": "UNDP / Citi Foundation Youth Co:Lab",
+    "type": "community",
+    "url": "https://www.youthcolab.org",
+    "note": "Youth social entrepreneurship programmes across Asia-Pacific"
+   },
+   {
+    "name": "World Bank Pacific Islands",
+    "type": "other",
+    "url": "https://www.worldbank.org/ext/en/region/eap/pacific-islands",
+    "note": "Development programmes including private sector and digital projects"
+   }
+  ],
+  "sources": [
+   "https://www.pipso.org.fj",
+   "https://www.pacifictradeinvest.com",
+   "https://www.adb.org/where-we-work/palau"
+  ],
+  "confidence": "low",
+  "notes": "The domain palauchamber.com no longer belongs to the chamber, so the PIPSO listing is used instead. Most Pacific founders raise from Australian or NZ investors and often incorporate there; check PTI and ADB programmes for current calls."
+ }
+]

@@ -1,0 +1,2208 @@
+[
+ {
+  "country": "China",
+  "iso2": "CN",
+  "ecosystem_tier": "global_hub",
+  "summary": "World's second-largest startup ecosystem, centred on Beijing, Shanghai, Shenzhen and Hangzhou, strong in AI, EVs, hardware, robotics and biotech. Many exits via STAR Market and Hong Kong listings. USD-fund activity has fallen since 2022 and RMB state-guided funds now dominate.",
+  "startup_visa": "none (no dedicated startup visa; founders use Z work, M business or R talent visas; some free-trade zones run talent schemes), https://en.nia.gov.cn",
+  "company_setup": "Wholly foreign-owned enterprise (WFOE) limited liability company registered with SAMR. Usually needs a local registered address and in-person or agent filings, so remote setup in practice goes through an agent. Under the 2024 Company Law, registered capital must be paid within 5 years. Takes about 1-3 months.",
+  "grants": [
+   {
+    "name": "National Key R&D Program",
+    "agency": "Ministry of Science and Technology (MOST)",
+    "amount": "project-based, varies",
+    "amount_usd_max": null,
+    "eligibility": "Companies and institutions in priority tech fields, competitive calls",
+    "deadline": "annual (calls usually late in the year)",
+    "status": "unknown",
+    "url": "https://www.most.gov.cn"
+   },
+   {
+    "name": "Specialized, Refined, Distinctive and Innovative SMEs (Little Giants)",
+    "agency": "Ministry of Industry and Information Technology (MIIT)",
+    "amount": "subsidies and preferential finance, varies",
+    "amount_usd_max": null,
+    "eligibility": "Tech SMEs certified at provincial or national level",
+    "deadline": "annual",
+    "status": "unknown",
+    "url": "https://www.miit.gov.cn"
+   },
+   {
+    "name": "Shenzhen science and technology funding (startup and R&D subsidies)",
+    "agency": "Shenzhen Science, Technology and Innovation Commission",
+    "amount": "varies by program",
+    "amount_usd_max": null,
+    "eligibility": "Shenzhen-registered tech companies",
+    "deadline": "annual calls",
+    "status": "unknown",
+    "url": "https://stic.sz.gov.cn"
+   },
+   {
+    "name": "Shanghai Science and Technology Innovation Action Plan",
+    "agency": "Science and Technology Commission of Shanghai Municipality (STCSM)",
+    "amount": "varies by program",
+    "amount_usd_max": null,
+    "eligibility": "Shanghai-registered tech SMEs and institutions",
+    "deadline": "annual calls",
+    "status": "unknown",
+    "url": "https://stcsm.sh.gov.cn"
+   },
+   {
+    "name": "Beijing science and technology programs (incl. Zhongguancun support)",
+    "agency": "Beijing Municipal Science and Technology Commission",
+    "amount": "varies by program",
+    "amount_usd_max": null,
+    "eligibility": "Beijing-registered tech companies",
+    "deadline": "annual calls",
+    "status": "unknown",
+    "url": "https://kw.beijing.gov.cn"
+   },
+   {
+    "name": "National Natural Science Foundation grants",
+    "agency": "NSFC",
+    "amount": "project-based",
+    "amount_usd_max": null,
+    "eligibility": "Researchers at Chinese institutions, useful for university spin-outs",
+    "deadline": "annual (usually March)",
+    "status": "upcoming",
+    "url": "https://www.nsfc.gov.cn"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "MiraclePlus (Qiji Chuangtan)",
+    "city": "Beijing",
+    "type": "accelerator",
+    "investment": "US$300k for 7%",
+    "sectors": "generalist, AI, deep tech",
+    "deadline": "batches twice yearly",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.miracleplus.com"
+   },
+   {
+    "name": "HAX (SOSV)",
+    "city": "Shenzhen",
+    "type": "accelerator",
+    "investment": "SOSV pre-seed equity investment",
+    "sectors": "hardware, robotics, climate",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://sosv.com/apply/hax/"
+   },
+   {
+    "name": "XNode",
+    "city": "Shanghai",
+    "type": "corporate",
+    "investment": "no equity (corporate innovation programs)",
+    "sectors": "generalist, corporate open innovation",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://thexnode.com/cn/home/"
+   },
+   {
+    "name": "InnoSpace (Inno Angels)",
+    "city": "Beijing",
+    "type": "incubator",
+    "investment": "seed investment via Inno Angel Fund",
+    "sectors": "tech, deep tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.innospace.cn"
+   },
+   {
+    "name": "TusStar",
+    "city": "Beijing",
+    "type": "incubator",
+    "investment": "incubation and seed investment",
+    "sectors": "deep tech, hardware, health",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.tusstar.com"
+   },
+   {
+    "name": "Tsinghua x-lab",
+    "city": "Beijing",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "generalist, student and alumni founders",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.x-lab.tsinghua.edu.cn"
+   },
+   {
+    "name": "XbotPark",
+    "city": "Dongguan",
+    "type": "incubator",
+    "investment": "incubation and investment",
+    "sectors": "robotics, hardware",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.xbotpark.com"
+   },
+   {
+    "name": "Plug and Play China",
+    "city": "Shanghai",
+    "type": "corporate",
+    "investment": "no equity required for corporate programs",
+    "sectors": "generalist, industry verticals",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.plugandplaytechcenter.com/locations/china"
+   },
+   {
+    "name": "Microsoft for Startups (China)",
+    "city": "Beijing",
+    "type": "corporate",
+    "investment": "cloud credits, no equity",
+    "sectors": "B2B, AI",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.microsoft.com/zh-cn/startups"
+   },
+   {
+    "name": "Huawei Cloud Startup Program",
+    "city": "Shenzhen",
+    "type": "corporate",
+    "investment": "cloud credits and go-to-market support, no equity",
+    "sectors": "cloud, AI, SaaS",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.huaweicloud.com/startup/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "HongShan",
+    "city": "Beijing",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist, tech, consumer, health",
+    "type": "vc",
+    "url": "https://www.hongshan.com"
+   },
+   {
+    "name": "Qiming Venture Partners",
+    "city": "Shanghai",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, healthcare",
+    "type": "vc",
+    "url": "https://www.qimingvc.com"
+   },
+   {
+    "name": "IDG Capital",
+    "city": "Beijing",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://idgcapital.com"
+   },
+   {
+    "name": "Matrix Partners China",
+    "city": "Beijing",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, healthcare, consumer",
+    "type": "vc",
+    "url": "https://www.matrixpartners.com.cn"
+   },
+   {
+    "name": "ZhenFund",
+    "city": "Beijing",
+    "stage": "seed",
+    "check_size": "US$100k-2M",
+    "sectors": "generalist, AI",
+    "type": "vc",
+    "url": "https://www.zhenfund.com/en"
+   },
+   {
+    "name": "Inno Angel Fund",
+    "city": "Beijing",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "hard tech, AI",
+    "type": "vc",
+    "url": "https://www.innoangel.com"
+   },
+   {
+    "name": "Sinovation Ventures",
+    "city": "Beijing",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "AI, deep tech, semiconductors",
+    "type": "vc",
+    "url": "https://www.sinovationventures.com"
+   },
+   {
+    "name": "5Y Capital",
+    "city": "Beijing",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, consumer, health",
+    "type": "vc",
+    "url": "https://www.5ycap.com"
+   },
+   {
+    "name": "Gaorong Ventures",
+    "city": "Beijing",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, consumer, healthcare",
+    "type": "vc",
+    "url": "https://www.gaorongvc.com"
+   },
+   {
+    "name": "Vision Plus Capital",
+    "city": "Beijing",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech, consumer",
+    "type": "vc",
+    "url": "https://www.vision-plus.com"
+   },
+   {
+    "name": "Hillhouse Investment",
+    "city": "Beijing",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.hillhouseinvestment.com"
+   },
+   {
+    "name": "Legend Capital",
+    "city": "Beijing",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, healthcare",
+    "type": "vc",
+    "url": "https://www.legendcapital.com.cn"
+   },
+   {
+    "name": "CDH Investments",
+    "city": "Beijing",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.cdhfund.com"
+   },
+   {
+    "name": "China Renaissance (New Economy Fund)",
+    "city": "Beijing",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "new economy",
+    "type": "vc",
+    "url": "https://www.chinarenaissance.com"
+   },
+   {
+    "name": "Source Code Capital",
+    "city": "Beijing",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, AI, consumer",
+    "type": "vc",
+    "url": "https://sourcecodecap.com"
+   },
+   {
+    "name": "Banyan Tree Capital",
+    "city": "Beijing",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, consumer",
+    "type": "vc",
+    "url": "https://www.banyanvc.com"
+   },
+   {
+    "name": "Shunwei Capital",
+    "city": "Beijing",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, smart hardware",
+    "type": "vc",
+    "url": "https://shunwei.com"
+   },
+   {
+    "name": "CAS Star",
+    "city": "Xi'an",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "hard tech, science spin-outs",
+    "type": "vc",
+    "url": "https://www.casstar.com.cn"
+   },
+   {
+    "name": "Joy Capital",
+    "city": "Beijing",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, consumer, AI",
+    "type": "vc",
+    "url": "https://www.joycapital.com.cn"
+   },
+   {
+    "name": "Shenzhen Capital Group",
+    "city": "Shenzhen",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist, hard tech",
+    "type": "government_fund",
+    "url": "https://www.szvc.com.cn"
+   },
+   {
+    "name": "Linear Capital",
+    "city": "Shanghai",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "frontier tech, AI",
+    "type": "vc",
+    "url": "https://www.linear.vc"
+   },
+   {
+    "name": "K2VC",
+    "city": "Beijing",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist, tech",
+    "type": "vc",
+    "url": "https://www.k2vc.com"
+   },
+   {
+    "name": "Monolith Management",
+    "city": "Beijing",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, consumer",
+    "type": "vc",
+    "url": "https://www.monolith.vc"
+   },
+   {
+    "name": "Northern Light Venture Capital",
+    "city": "Beijing",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, healthcare",
+    "type": "vc",
+    "url": "https://nlvc.com"
+   },
+   {
+    "name": "Capital Today",
+    "city": "Shanghai",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "consumer, tech",
+    "type": "vc",
+    "url": "https://capitaltoday.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ministry of Commerce (MOFCOM)",
+    "type": "government_agency",
+    "url": "https://www.mofcom.gov.cn",
+    "note": "Foreign investment rules"
+   },
+   {
+    "name": "State Administration for Market Regulation",
+    "type": "government_agency",
+    "url": "https://www.samr.gov.cn",
+    "note": "Company registration"
+   },
+   {
+    "name": "National Immigration Administration",
+    "type": "government_agency",
+    "url": "https://en.nia.gov.cn",
+    "note": "Visas and residence"
+   },
+   {
+    "name": "36Kr",
+    "type": "database",
+    "url": "https://36kr.com",
+    "note": "Startup news and funding data"
+   },
+   {
+    "name": "Cyzone",
+    "type": "database",
+    "url": "https://www.cyzone.cn",
+    "note": "Startup media and database"
+   },
+   {
+    "name": "Zero2IPO",
+    "type": "database",
+    "url": "https://www.zero2ipo.com.cn",
+    "note": "VC and PE data and events"
+   },
+   {
+    "name": "TechNode",
+    "type": "community",
+    "url": "https://technode.com",
+    "note": "English-language China tech news"
+   },
+   {
+    "name": "China Briefing (Dezan Shira)",
+    "type": "legal_tax",
+    "url": "https://www.china-briefing.com",
+    "note": "Guides to setup and tax"
+   },
+   {
+    "name": "Huxiu",
+    "type": "community",
+    "url": "https://www.huxiu.com",
+    "note": "Tech business media"
+   }
+  ],
+  "sources": [
+   "https://www.miracleplus.com",
+   "https://www.most.gov.cn",
+   "https://stic.sz.gov.cn",
+   "https://en.nia.gov.cn"
+  ],
+  "confidence": "medium",
+  "notes": "As of Oct 2026, US outbound investment rules restrict US LPs and investors in AI, semiconductors and quantum, so most new money is RMB and state-guided. Government calls are mostly Chinese-only and published per city or district. Fund check sizes are rarely published. Web search was exhausted during research, so several entities were verified by direct site checks only."
+ },
+ {
+  "country": "Japan",
+  "iso2": "JP",
+  "ecosystem_tier": "global_hub",
+  "summary": "Asia's second-largest ecosystem by VC volume, centred on Tokyo, with Osaka, Kyoto and Fukuoka as secondary hubs. Strong deep tech, B2B SaaS and university spin-outs, backed by the government's 5-Year Startup Development Plan. Most exits are IPOs on TSE Growth, and M&A is rising.",
+  "startup_visa": "Startup Visa (Designated Activities No.44) through certified local governments such as Tokyo: one year, extendable to about two years, then a switch to Business Manager, which since Oct 2025 needs JPY 30M capital and one full-time staff member. https://www.investtokyo.metro.tokyo.lg.jp/jp/oursupports/bdc-tokyo/startupvisa.html",
+  "company_setup": "Kabushiki Kaisha (KK) or Godo Kaisha (GK). A foreigner can incorporate through a judicial scrivener without being resident, but a Japanese bank account and address are practical hurdles. Takes about 2-4 weeks. The Tokyo One-Stop Center helps with filings.",
+  "grants": [
+   {
+    "name": "Deep-Tech Startup Support Fund: International Joint R&D (FY2026)",
+    "agency": "NEDO",
+    "amount": "up to JPY 100M (2/3 subsidy)",
+    "amount_usd_max": 670000,
+    "eligibility": "Unlisted Japanese SMEs under 10 yrs with a foreign partner in an eligible country",
+    "deadline": "2027-01-20",
+    "status": "open",
+    "url": "https://www.nedo.go.jp/koubo/CA2_100541.html"
+   },
+   {
+    "name": "GX_UPP: Business development support for GX deep-tech startups (3rd call)",
+    "agency": "NEDO",
+    "amount": "up to JPY 5bn (1/2 subsidy, up to 4 yrs)",
+    "amount_usd_max": 33000000,
+    "eligibility": "Deep-tech startups in resource circulation or efficient mobility",
+    "deadline": "2026-11-17",
+    "status": "upcoming",
+    "url": "https://www.nedo.go.jp/koubo/CA2_100511.html"
+   },
+   {
+    "name": "NEDO startup support (DTSU, SBIR Phase 3, NEP)",
+    "agency": "NEDO",
+    "amount": "varies by program",
+    "amount_usd_max": null,
+    "eligibility": "Japanese tech startups",
+    "deadline": "rolling calls through the year",
+    "status": "rolling",
+    "url": "https://www.nedo.go.jp/activities/startups/index.html"
+   },
+   {
+    "name": "JST START (university-originated startup support)",
+    "agency": "Japan Science and Technology Agency",
+    "amount": "project-based",
+    "amount_usd_max": null,
+    "eligibility": "University researchers and spin-out teams",
+    "deadline": "annual",
+    "status": "unknown",
+    "url": "https://www.jst.go.jp/start/"
+   },
+   {
+    "name": "Startup loans (New Business and Startup Support Fund)",
+    "agency": "Japan Finance Corporation",
+    "amount": "low-interest loans, varies",
+    "amount_usd_max": null,
+    "eligibility": "New and early-stage businesses",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.jfc.go.jp/n/finance/search/"
+   },
+   {
+    "name": "Tokyo startup subsidy (Sogyo Josei)",
+    "agency": "Tokyo Metropolitan Small and Medium Enterprise Support Center",
+    "amount": "up to JPY 4M",
+    "amount_usd_max": 27000,
+    "eligibility": "Founders starting a business in Tokyo",
+    "deadline": "usually 2 rounds per year",
+    "status": "unknown",
+    "url": "https://www.tokyo-kosha.or.jp"
+   },
+   {
+    "name": "MITOU program",
+    "agency": "IPA / MITOU Foundation",
+    "amount": "stipend for young developers",
+    "amount_usd_max": null,
+    "eligibility": "Individual developers under 25",
+    "deadline": "annual (usually spring)",
+    "status": "upcoming",
+    "url": "https://www.mitou.org"
+   },
+   {
+    "name": "J-Grants subsidy portal",
+    "agency": "Digital Agency / ministries",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Portal for applying to national subsidies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.jgrants-portal.go.jp"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "J-Startup",
+    "city": "Tokyo",
+    "type": "government",
+    "investment": "no equity (designation and support)",
+    "sectors": "generalist, high-growth",
+    "deadline": "nomination by VCs and corporates",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.j-startup.go.jp/en/"
+   },
+   {
+    "name": "JETRO Global Acceleration Hub",
+    "city": "Tokyo",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "Japanese startups going abroad",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.jetro.go.jp/en/jgc/"
+   },
+   {
+    "name": "Plug and Play Japan",
+    "city": "Tokyo",
+    "type": "corporate",
+    "investment": "no equity required",
+    "sectors": "industry verticals, corporate open innovation",
+    "deadline": "batches twice yearly",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.plugandplaytechcenter.com/locations/japan"
+   },
+   {
+    "name": "01Booster",
+    "city": "Tokyo",
+    "type": "accelerator",
+    "investment": "varies",
+    "sectors": "corporate accelerator programs",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://01booster.co.jp"
+   },
+   {
+    "name": "Incubate Camp (Incubate Fund)",
+    "city": "Tokyo",
+    "type": "accelerator",
+    "investment": "seed investment from Incubate Fund",
+    "sectors": "generalist, seed",
+    "deadline": "annual",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://incubatefund.com/community/incubate-camp/"
+   },
+   {
+    "name": "Samurai Incubate",
+    "city": "Tokyo",
+    "type": "accelerator",
+    "investment": "seed investment",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.samurai-incubate.co.jp"
+   },
+   {
+    "name": "Antler Japan",
+    "city": "Tokyo",
+    "type": "accelerator",
+    "investment": "pre-seed equity investment",
+    "sectors": "generalist",
+    "deadline": "cohorts several times a year",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.antler.co/location/japan"
+   },
+   {
+    "name": "CIC Tokyo",
+    "city": "Tokyo",
+    "type": "incubator",
+    "investment": "no equity (coworking and programs)",
+    "sectors": "generalist, deep tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://jp.cic.com/en/"
+   },
+   {
+    "name": "SHIBUYA QWS",
+    "city": "Tokyo",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist, early-stage projects",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://shibuya-qws.com"
+   },
+   {
+    "name": "Osaka Innovation Hub",
+    "city": "Osaka",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.innovation-osaka.jp/en/"
+   },
+   {
+    "name": "Fukuoka Growth Next",
+    "city": "Fukuoka",
+    "type": "government",
+    "investment": "no equity (incubation space)",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://growth-next.com"
+   },
+   {
+    "name": "UTokyo IPC 1stRound",
+    "city": "Tokyo",
+    "type": "university",
+    "investment": "grant-like support and possible investment",
+    "sectors": "university-linked deep tech",
+    "deadline": "usually twice yearly",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.utokyo-ipc.co.jp/en/"
+   },
+   {
+    "name": "31VENTURES (Mitsui Fudosan)",
+    "city": "Tokyo",
+    "type": "corporate",
+    "investment": "CVC investment and space",
+    "sectors": "real estate, generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.31ventures.jp"
+   },
+   {
+    "name": "BRAVE (Beyond Next Ventures)",
+    "city": "Tokyo",
+    "type": "accelerator",
+    "investment": "no equity in program",
+    "sectors": "deep tech, life science",
+    "deadline": "annual",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://brave.vc"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Japan Investment Corporation (JIC)",
+    "city": "Tokyo",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist, strategic industries",
+    "type": "government_fund",
+    "url": "https://www.jic.co.jp"
+   },
+   {
+    "name": "JAFCO Group",
+    "city": "Tokyo",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.jafco.co.jp/english/"
+   },
+   {
+    "name": "Globis Capital Partners",
+    "city": "Tokyo",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.globiscapital.co.jp"
+   },
+   {
+    "name": "Coral Capital",
+    "city": "Tokyo",
+    "stage": "seed",
+    "check_size": "US$0.5-3M",
+    "sectors": "generalist, tech",
+    "type": "vc",
+    "url": "https://www.coralcap.co"
+   },
+   {
+    "name": "ANRI",
+    "city": "Tokyo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "internet, deep tech",
+    "type": "vc",
+    "url": "https://anri.vc"
+   },
+   {
+    "name": "Incubate Fund",
+    "city": "Tokyo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://incubatefund.com"
+   },
+   {
+    "name": "One Capital",
+    "city": "Tokyo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B SaaS",
+    "type": "vc",
+    "url": "https://onecapital.jp"
+   },
+   {
+    "name": "Global Brain",
+    "city": "Tokyo",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist, deep tech",
+    "type": "vc",
+    "url": "https://globalbrains.com"
+   },
+   {
+    "name": "WiL",
+    "city": "Tokyo",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist, cross-border",
+    "type": "vc",
+    "url": "https://www.wil.co"
+   },
+   {
+    "name": "UTEC (University of Tokyo Edge Capital)",
+    "city": "Tokyo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech, life science",
+    "type": "vc",
+    "url": "https://www.utec.co.jp"
+   },
+   {
+    "name": "UTokyo Innovation Platform (UTokyo IPC)",
+    "city": "Tokyo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "university spin-outs",
+    "type": "government_fund",
+    "url": "https://www.utokyo-ipc.co.jp"
+   },
+   {
+    "name": "Kyoto University Innovation Capital",
+    "city": "Kyoto",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "university spin-outs",
+    "type": "government_fund",
+    "url": "https://www.kyoto-unicap.co.jp"
+   },
+   {
+    "name": "Beyond Next Ventures",
+    "city": "Tokyo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech, life science",
+    "type": "vc",
+    "url": "https://beyondnextventures.com"
+   },
+   {
+    "name": "Genesia Ventures",
+    "city": "Tokyo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist, Japan and Southeast Asia",
+    "type": "vc",
+    "url": "https://www.genesiaventures.com"
+   },
+   {
+    "name": "Skyland Ventures",
+    "city": "Tokyo",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "internet, web3",
+    "type": "vc",
+    "url": "https://www.skyland.vc"
+   },
+   {
+    "name": "DNX Ventures",
+    "city": "Tokyo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B, enterprise",
+    "type": "vc",
+    "url": "https://www.dnx.vc"
+   },
+   {
+    "name": "DCM Ventures",
+    "city": "Tokyo",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.dcm.com"
+   },
+   {
+    "name": "Sozo Ventures",
+    "city": "Tokyo",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "tech, cross-border",
+    "type": "vc",
+    "url": "https://sozo-ventures.com"
+   },
+   {
+    "name": "Archetype Ventures",
+    "city": "Tokyo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B, SaaS",
+    "type": "vc",
+    "url": "https://www.archetypeventures.com"
+   },
+   {
+    "name": "CyberAgent Capital",
+    "city": "Tokyo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "internet",
+    "type": "cvc",
+    "url": "https://www.cyberagentcapital.com"
+   },
+   {
+    "name": "Spiral Capital",
+    "city": "Tokyo",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "B2B, SaaS",
+    "type": "vc",
+    "url": "https://spiral-ventures.com"
+   },
+   {
+    "name": "SMBC Venture Capital",
+    "city": "Tokyo",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "cvc",
+    "url": "https://www.smbc-vc.co.jp"
+   },
+   {
+    "name": "Mitsubishi UFJ Capital",
+    "city": "Tokyo",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist, life science",
+    "type": "cvc",
+    "url": "https://www.mucap.co.jp"
+   },
+   {
+    "name": "Sony Innovation Fund",
+    "city": "Tokyo",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, entertainment",
+    "type": "cvc",
+    "url": "https://www.sonyinnovationfund.com"
+   },
+   {
+    "name": "Development Bank of Japan",
+    "city": "Tokyo",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.dbj.jp"
+   }
+  ],
+  "resources": [
+   {
+    "name": "JETRO Invest Japan",
+    "type": "government_agency",
+    "url": "https://www.jetro.go.jp/en/invest/",
+    "note": "Market entry and setup support"
+   },
+   {
+    "name": "Invest Tokyo / Business Concierge Tokyo",
+    "type": "government_agency",
+    "url": "https://www.investtokyo.metro.tokyo.lg.jp/jp/oursupports/bdc-tokyo/",
+    "note": "Startup visa and setup help"
+   },
+   {
+    "name": "Immigration Services Agency",
+    "type": "government_agency",
+    "url": "https://www.moj.go.jp/isa/",
+    "note": "Visa rules"
+   },
+   {
+    "name": "Japan Venture Capital Association",
+    "type": "startup_association",
+    "url": "https://jvca.jp",
+    "note": "VC industry body"
+   },
+   {
+    "name": "INITIAL",
+    "type": "database",
+    "url": "https://initial.inc",
+    "note": "Startup funding database"
+   },
+   {
+    "name": "STARTUP DB",
+    "type": "database",
+    "url": "https://startup-db.com",
+    "note": "Startup database"
+   },
+   {
+    "name": "THE BRIDGE",
+    "type": "community",
+    "url": "https://thebridge.jp",
+    "note": "Startup media"
+   },
+   {
+    "name": "IVS",
+    "type": "event",
+    "url": "https://www.ivs.events",
+    "note": "Major startup conference (Kyoto)"
+   },
+   {
+    "name": "SusHi Tech Tokyo",
+    "type": "event",
+    "url": "https://sushitech-startup.metro.tokyo.lg.jp",
+    "note": "Tokyo government startup event"
+   },
+   {
+    "name": "Tokyo Startup Support Portal",
+    "type": "government_agency",
+    "url": "https://www.startup-support.metro.tokyo.lg.jp/jp/",
+    "note": "Tokyo programs index"
+   }
+  ],
+  "sources": [
+   "https://www.nedo.go.jp/koubo/CA2_100541.html",
+   "https://www.nedo.go.jp/koubo/CA2_100511.html",
+   "https://www.investtokyo.metro.tokyo.lg.jp/jp/oursupports/bdc-tokyo/startupvisa.html",
+   "https://www.j-startup.go.jp/en/"
+  ],
+  "confidence": "medium",
+  "notes": "In Oct 2026 the JETRO website showed a suspension notice after unauthorized access, so some JETRO links may be intermittent. The Business Manager visa capital requirement rose to JPY 30M in Oct 2025, according to the Tokyo startup visa page. For GX_UPP the submission window is 2026-11-10 to 2026-11-17. Web search was exhausted during research, so several entries were verified by site checks only."
+ },
+ {
+  "country": "South Korea",
+  "iso2": "KR",
+  "ecosystem_tier": "established",
+  "summary": "Large, heavily state-backed ecosystem centred on Seoul (Gangnam, Pangyo), with the TIPS and KVIC fund-of-funds model at its core. Strong in AI, semiconductors, gaming, beauty and content. Unicorns include Toss, Danggeun and Musinsa, and Coupang listed on NYSE.",
+  "startup_visa": "D-8-4 Technology Startup visa through the OASIS points program (Ministry of Justice), plus the Startup Korea Special Visa track for founders selected through government programs such as KSGC. https://www.hikorea.go.kr",
+  "company_setup": "Chusik Hoesa (stock company). Foreign investment is registered through KOTRA / Invest Korea, and KRW 100M or more of investment is needed for the D-8 investor visa. Incorporation takes about 1-3 weeks. Remote setup is possible through an agent with apostilled documents.",
+  "grants": [
+   {
+    "name": "TIPS (Tech Incubator Program for Startups)",
+    "agency": "Ministry of SMEs and Startups / KISED",
+    "amount": "R&D up to KRW 800M over 2 yrs (2026 rules) plus add-ons",
+    "amount_usd_max": 570000,
+    "eligibility": "Startups invested by a TIPS operator (min KRW 200M; KRW 100M outside Seoul region)",
+    "deadline": "rolling via TIPS operators",
+    "status": "rolling",
+    "url": "https://jointips.or.kr"
+   },
+   {
+    "name": "Pre-Startup Package",
+    "agency": "KISED",
+    "amount": "up to KRW 100M",
+    "amount_usd_max": 71000,
+    "eligibility": "Prospective founders not yet incorporated",
+    "deadline": "annual (usually Feb-Mar)",
+    "status": "upcoming",
+    "url": "https://www.k-startup.go.kr"
+   },
+   {
+    "name": "Early-Stage Startup Package",
+    "agency": "KISED",
+    "amount": "up to KRW 100M",
+    "amount_usd_max": 71000,
+    "eligibility": "Companies under 3 years old",
+    "deadline": "annual (usually Feb-Mar)",
+    "status": "upcoming",
+    "url": "https://www.k-startup.go.kr"
+   },
+   {
+    "name": "Startup Leap Package",
+    "agency": "KISED",
+    "amount": "up to KRW 300M",
+    "amount_usd_max": 214000,
+    "eligibility": "Companies 3-7 years old",
+    "deadline": "annual (usually Feb-Mar)",
+    "status": "upcoming",
+    "url": "https://www.k-startup.go.kr"
+   },
+   {
+    "name": "KOSME startup policy loans (incl. Youth Startup Fund)",
+    "agency": "KOSME",
+    "amount": "low-interest loans, youth fund up to KRW 100M",
+    "amount_usd_max": 71000,
+    "eligibility": "SMEs and young founders",
+    "deadline": "rolling (monthly intake)",
+    "status": "rolling",
+    "url": "https://www.kosmes.or.kr"
+   },
+   {
+    "name": "SME technology development (R&D) programs",
+    "agency": "TIPA / Ministry of SMEs and Startups",
+    "amount": "varies by track",
+    "amount_usd_max": null,
+    "eligibility": "Korean SMEs and startups",
+    "deadline": "annual calls",
+    "status": "unknown",
+    "url": "https://www.smtech.go.kr"
+   },
+   {
+    "name": "Technology guarantees",
+    "agency": "Korea Technology Finance Corporation (KIBO)",
+    "amount": "credit guarantees, varies",
+    "amount_usd_max": null,
+    "eligibility": "Tech SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.kibo.or.kr"
+   },
+   {
+    "name": "Startup credit guarantees",
+    "agency": "Korea Credit Guarantee Fund (KODIT)",
+    "amount": "credit guarantees, varies",
+    "amount_usd_max": null,
+    "eligibility": "SMEs and startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.kodit.or.kr"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "K-Startup Grand Challenge (KSGC)",
+    "city": "Seongnam (Pangyo)",
+    "type": "government",
+    "investment": "no equity, prize money and grants for top teams, up to KRW 8M travel",
+    "sectors": "foreign founders, tech sectors",
+    "deadline": "last: 2026-06-17 (annual, usually May-Jun)",
+    "next_cohort": "2027-07",
+    "status": "upcoming",
+    "url": "https://ksgc.global"
+   },
+   {
+    "name": "SparkLabs Korea",
+    "city": "Seoul",
+    "type": "accelerator",
+    "investment": "usually KRW 100M+ for about 6% (CPS or SAFE)",
+    "sectors": "generalist",
+    "deadline": "windows each April and September (about 1.5 months)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://sparklabs.co.kr/kr/"
+   },
+   {
+    "name": "Bluepoint Partners",
+    "city": "Daejeon",
+    "type": "accelerator",
+    "investment": "seed investment, TIPS operator",
+    "sectors": "deep tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.bluepoint.vc"
+   },
+   {
+    "name": "D.CAMP",
+    "city": "Seoul",
+    "type": "incubator",
+    "investment": "no equity, investment through D.Day demo days",
+    "sectors": "generalist",
+    "deadline": "monthly D.Day pitch events",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://dcamp.kr"
+   },
+   {
+    "name": "Mashup Ventures",
+    "city": "Seoul",
+    "type": "accelerator",
+    "investment": "seed up to about KRW 500M, TIPS operator",
+    "sectors": "AI, robotics, commerce, health",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.mashupventures.co"
+   },
+   {
+    "name": "FuturePlay",
+    "city": "Seoul",
+    "type": "venture_studio",
+    "investment": "seed investment, TIPS operator",
+    "sectors": "deep tech, AI",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://futureplay.co"
+   },
+   {
+    "name": "Shinhan Square Bridge",
+    "city": "Seoul",
+    "type": "corporate",
+    "investment": "no equity, possible Shinhan investment",
+    "sectors": "fintech, generalist",
+    "deadline": "annual cohorts",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://sqbridge.com"
+   },
+   {
+    "name": "Hanwha DREAMPLUS",
+    "city": "Seoul",
+    "type": "corporate",
+    "investment": "possible investment",
+    "sectors": "generalist",
+    "deadline": "annual cohorts",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://dreamplus.asia"
+   },
+   {
+    "name": "KB Innovation HUB (KB Starters)",
+    "city": "Seoul",
+    "type": "corporate",
+    "investment": "possible KB investment",
+    "sectors": "fintech",
+    "deadline": "annual",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.kbfg.com/kbinnovationhub/"
+   },
+   {
+    "name": "Naver D2 Startup Factory",
+    "city": "Seoul",
+    "type": "corporate",
+    "investment": "seed investment",
+    "sectors": "tech, AI",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://d2sf.naver.com/ko"
+   },
+   {
+    "name": "Seoul Startup Hub (Seoul Business Agency)",
+    "city": "Seoul",
+    "type": "government",
+    "investment": "no equity (space and programs)",
+    "sectors": "generalist",
+    "deadline": "calls twice yearly",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.sba.seoul.kr"
+   },
+   {
+    "name": "Centers for Creative Economy and Innovation (CCEI)",
+    "city": "nationwide (17 centres)",
+    "type": "government",
+    "investment": "no equity, some funds invest",
+    "sectors": "generalist, regional",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://ccei.creativekorea.or.kr"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Korea Venture Investment Corp (KVIC)",
+    "city": "Seoul",
+    "stage": "multi",
+    "check_size": "fund-of-funds",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.kvic.or.kr"
+   },
+   {
+    "name": "Korea Investment Partners",
+    "city": "Seoul",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist, bio, ICT",
+    "type": "vc",
+    "url": "https://partners.koreainvestment.com"
+   },
+   {
+    "name": "Kakao Ventures",
+    "city": "Seoul",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech, AI",
+    "type": "cvc",
+    "url": "https://www.kakao.vc"
+   },
+   {
+    "name": "Altos Ventures",
+    "city": "Seoul",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "consumer internet, gaming",
+    "type": "vc",
+    "url": "https://altos.vc"
+   },
+   {
+    "name": "Stonebridge Ventures",
+    "city": "Seoul",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "ICT, bio",
+    "type": "vc",
+    "url": "https://www.stonebridge.co.kr"
+   },
+   {
+    "name": "Strong Ventures",
+    "city": "Seoul",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist, cross-border",
+    "type": "vc",
+    "url": "https://strongvc.com"
+   },
+   {
+    "name": "Bon Angels Venture Partners",
+    "city": "Seoul",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "internet",
+    "type": "vc",
+    "url": "https://www.bonangels.net"
+   },
+   {
+    "name": "Atinum Investment",
+    "city": "Seoul",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.atinum.com"
+   },
+   {
+    "name": "LB Investment",
+    "city": "Seoul",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "ICT, bio, content",
+    "type": "vc",
+    "url": "https://lbinvestment.com/kor/"
+   },
+   {
+    "name": "Hashed",
+    "city": "Seoul",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "web3, AI",
+    "type": "vc",
+    "url": "https://www.hashed.com"
+   },
+   {
+    "name": "Krew Capital",
+    "city": "Seoul",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.krewcapital.com"
+   },
+   {
+    "name": "Smilegate Investment",
+    "city": "Seoul",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "content, ICT, bio",
+    "type": "vc",
+    "url": "https://www.smilegateinvestment.com"
+   },
+   {
+    "name": "Kakao Investment",
+    "city": "Seoul",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "cvc",
+    "url": "https://www.kakaoinvestment.com"
+   },
+   {
+    "name": "Yellowdog",
+    "city": "Seoul",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "impact",
+    "type": "vc",
+    "url": "https://www.yellowdog.kr"
+   },
+   {
+    "name": "Korea Business Angels Network (KBAN)",
+    "city": "Seoul",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.kban.or.kr"
+   }
+  ],
+  "resources": [
+   {
+    "name": "K-Startup portal",
+    "type": "government_agency",
+    "url": "https://www.k-startup.go.kr",
+    "note": "All government startup calls"
+   },
+   {
+    "name": "Ministry of SMEs and Startups",
+    "type": "government_agency",
+    "url": "https://www.mss.go.kr/site/eng/main.do",
+    "note": "Startup policy ministry"
+   },
+   {
+    "name": "Korea Institute of Startup and Entrepreneurship Development (KISED)",
+    "type": "government_agency",
+    "url": "https://www.kised.or.kr",
+    "note": "Runs startup packages and KSGC"
+   },
+   {
+    "name": "Invest Korea (KOTRA)",
+    "type": "government_agency",
+    "url": "https://www.investkorea.org/ik-en/index.do",
+    "note": "Foreign investment and setup"
+   },
+   {
+    "name": "HiKorea",
+    "type": "government_agency",
+    "url": "https://www.hikorea.go.kr",
+    "note": "Visa and immigration portal"
+   },
+   {
+    "name": "Korean Venture Capital Association",
+    "type": "startup_association",
+    "url": "https://www.kvca.or.kr",
+    "note": "VC industry body"
+   },
+   {
+    "name": "COMEUP",
+    "type": "event",
+    "url": "https://www.comeup.org",
+    "note": "Government-backed global startup festival"
+   },
+   {
+    "name": "innoforest",
+    "type": "database",
+    "url": "https://www.innoforest.co.kr",
+    "note": "Startup data platform"
+   },
+   {
+    "name": "Platum",
+    "type": "community",
+    "url": "https://platum.kr",
+    "note": "Startup media"
+   }
+  ],
+  "sources": [
+   "https://ksgc.global",
+   "https://ksgc.global/apply",
+   "https://jointips.or.kr",
+   "https://sparklabs.co.kr/kr/",
+   "https://www.k-startup.go.kr"
+  ],
+  "confidence": "medium",
+  "notes": "KSGC 2026 ran May 6 to June 17, 2026. The next call (KSGC 2027) is expected around May-June 2027 but is not yet published. The old k-startupgc.org domain now hosts unrelated content, so use ksgc.global. TIPS rules changed in 2026: R&D ceiling KRW 800M and operator minimum KRW 200M, per press reports. Most government calls are published in the K-Startup integrated announcement each January."
+ },
+ {
+  "country": "Taiwan",
+  "iso2": "TW",
+  "ecosystem_tier": "established",
+  "summary": "Hardware and semiconductor powerhouse with a growing software, AI and deep-tech startup scene centred on Taipei, Hsinchu and Kaohsiung. The government brand Startup Island TAIWAN and the National Development Fund co-invest heavily. Gogoro and Appier are the best-known exits.",
+  "startup_visa": "Entrepreneur Visa (MOEA Department of Investment Review) and the Employment Gold Card for qualified professionals, https://goldcard.nat.gov.tw",
+  "company_setup": "Company limited by shares or limited company. Foreign investment needs prior approval from MOEA's Department of Investment Review and a local agent or address. No general minimum capital, though it must cover costs, and NT$6M is needed if sponsoring an Entrepreneur Visa through the investment route. Takes about 3-6 weeks.",
+  "grants": [
+   {
+    "name": "SBIR (Small Business Innovation Research)",
+    "agency": "SMEA, Ministry of Economic Affairs",
+    "amount": "Phase 1 up to NT$1.5M; Phase 2 up to NT$10M",
+    "amount_usd_max": 325000,
+    "eligibility": "Taiwan-registered SMEs",
+    "deadline": "rolling (year-round)",
+    "status": "rolling",
+    "url": "https://sbir.sme.gov.tw"
+   },
+   {
+    "name": "Youth Startup Loans",
+    "agency": "SMEA, Ministry of Economic Affairs",
+    "amount": "concessional loans, varies",
+    "amount_usd_max": null,
+    "eligibility": "Founders aged 18-45 and young companies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://0800280280.sme.gov.tw/0800/disaster/index.php?area=youthloan"
+   },
+   {
+    "name": "National Development Fund co-investment (incl. Angel Investment Program)",
+    "agency": "National Development Fund, Executive Yuan",
+    "amount": "matching equity alongside private investors",
+    "amount_usd_max": null,
+    "eligibility": "Startups with qualified co-investors",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.df.gov.tw"
+   },
+   {
+    "name": "TTA programs (CES and international showcase support)",
+    "agency": "National Science and Technology Council",
+    "amount": "subsidised exhibition and acceleration",
+    "amount_usd_max": null,
+    "eligibility": "Taiwan tech startups",
+    "deadline": "per call (TTA x CES 2027 call opened 2026-07-02)",
+    "status": "unknown",
+    "url": "https://www.taiwanarena.tech"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "AppWorks Accelerator",
+    "city": "Taipei",
+    "type": "accelerator",
+    "investment": "free, no equity (AppWorks funds may invest separately)",
+    "sectors": "AI, defense tech, on-chain finance, generalist",
+    "deadline": "AW#34 applications close Dec 2026",
+    "next_cohort": "2027-03",
+    "status": "open",
+    "url": "https://appworks.tw/accelerator/"
+   },
+   {
+    "name": "Garage+ (Epoch Foundation)",
+    "city": "Taipei",
+    "type": "accelerator",
+    "investment": "no equity",
+    "sectors": "tech, hardware, generalist",
+    "deadline": "batches twice yearly (spring, fall)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://garageplus.asia"
+   },
+   {
+    "name": "SparkLabs Taiwan",
+    "city": "Taipei",
+    "type": "accelerator",
+    "investment": "seed investment",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.sparklabstaiwan.com"
+   },
+   {
+    "name": "Taiwan Tech Arena (TTA)",
+    "city": "Taipei",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "deep tech, AI",
+    "deadline": "per call",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.taiwanarena.tech"
+   },
+   {
+    "name": "Taiwan Startup Terrace (Linkou and Asia New Bay)",
+    "city": "New Taipei / Kaohsiung",
+    "type": "government",
+    "investment": "no equity (residency and programs)",
+    "sectors": "generalist, 5G, AIoT",
+    "deadline": "residency reviews several times a year",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://startupterrace.sme.gov.tw"
+   },
+   {
+    "name": "Taiwan Startup Stadium",
+    "city": "Taipei",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist, globalisation",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.startupstadium.tw"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "AppWorks Funds",
+    "city": "Taipei",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "AI, web3, Southeast Asia and Greater China tech",
+    "type": "vc",
+    "url": "https://appworks.tw"
+   },
+   {
+    "name": "National Development Fund",
+    "city": "Taipei",
+    "stage": "multi",
+    "check_size": "co-investment",
+    "sectors": "generalist, strategic industries",
+    "type": "government_fund",
+    "url": "https://www.df.gov.tw"
+   },
+   {
+    "name": "Taiwania Capital",
+    "city": "Taipei",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "biotech, IoT, AI",
+    "type": "government_fund",
+    "url": "https://www.taiwaniacapital.com"
+   },
+   {
+    "name": "CDIB Capital Group",
+    "city": "Taipei",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.cdibcapitalgroup.com/zh-tw"
+   },
+   {
+    "name": "Cherubic Ventures",
+    "city": "Taipei",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "consumer, tech",
+    "type": "vc",
+    "url": "https://cherubic.com"
+   },
+   {
+    "name": "Darwin Venture Management",
+    "city": "Taipei",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://darwinvc.com"
+   },
+   {
+    "name": "WI Harper Group",
+    "city": "Taipei",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, health, cross-border",
+    "type": "vc",
+    "url": "https://wiharper.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Startup Island TAIWAN",
+    "type": "government_agency",
+    "url": "https://startupisland.tw/zh",
+    "note": "National startup brand and portal"
+   },
+   {
+    "name": "FINDIT",
+    "type": "database",
+    "url": "https://findit.sme.gov.tw/tw",
+    "note": "Startup and investment database"
+   },
+   {
+    "name": "Taiwan Employment Gold Card",
+    "type": "government_agency",
+    "url": "https://goldcard.nat.gov.tw",
+    "note": "Work and residence permit for talent"
+   },
+   {
+    "name": "InvestTaiwan",
+    "type": "government_agency",
+    "url": "https://investtaiwan.nat.gov.tw",
+    "note": "Foreign investment one-stop"
+   },
+   {
+    "name": "Contact Taiwan",
+    "type": "government_agency",
+    "url": "https://www.contacttaiwan.tw",
+    "note": "Talent recruitment portal"
+   },
+   {
+    "name": "Taiwan Venture Capital Association",
+    "type": "startup_association",
+    "url": "https://www.tvca.org.tw",
+    "note": "VC industry body"
+   },
+   {
+    "name": "Meet Taipei",
+    "type": "event",
+    "url": "https://meettaipei.tw",
+    "note": "Largest startup event in Taiwan"
+   },
+   {
+    "name": "InnoVEX (Computex)",
+    "type": "event",
+    "url": "https://innovex.computex.biz",
+    "note": "Hardware startup expo"
+   }
+  ],
+  "sources": [
+   "https://appworks.tw/accelerator/",
+   "https://startupterrace.sme.gov.tw",
+   "https://www.sme.gov.tw/masterpage-tw",
+   "https://www.taiwanarena.tech"
+  ],
+  "confidence": "medium",
+  "notes": "The NDF site (df.gov.tw) blocks automated fetches, so program amounts were not confirmed. The Taiwan Startup Stadium homepage looked partly outdated in Oct 2026. The Department of Investment Review site could not be reached from the research environment. Web search was exhausted during research."
+ },
+ {
+  "country": "Hong Kong",
+  "iso2": "HK",
+  "ecosystem_tier": "established",
+  "summary": "International finance hub with a startup scene focused on fintech, biotech, AI and Greater Bay Area access, anchored by HKSTP and Cyberport. Government funding has grown sharply through ITF, the HK Investment Corporation and talent schemes. SenseTime, Klook and WeLab are notable names.",
+  "startup_visa": "Investment as Entrepreneurs (Immigration Department), plus the Top Talent Pass Scheme for high earners and graduates, https://www.immd.gov.hk/eng/services/visas/investment.html",
+  "company_setup": "Private company limited by shares. Online incorporation with the Companies Registry, no residency requirement but a local company secretary and address are needed. Takes about 1-5 days and costs about HK$1,500-2,000 in fees. Profits tax is 8.25% on the first HK$2M.",
+  "grants": [
+   {
+    "name": "Enterprise Support Scheme (ESS)",
+    "agency": "Innovation and Technology Commission (ITF)",
+    "amount": "up to HK$10M per project, 1:1 matching",
+    "amount_usd_max": 1280000,
+    "eligibility": "HK-incorporated companies doing in-house R&D",
+    "deadline": "rolling (all year)",
+    "status": "rolling",
+    "url": "https://www.itf.gov.hk/en/funding-programmes/supporting-research/ess/index.html"
+   },
+   {
+    "name": "Technology Start-up Support Scheme for Universities (TSSSU)",
+    "agency": "Innovation and Technology Commission",
+    "amount": "annual funding via university",
+    "amount_usd_max": null,
+    "eligibility": "Spin-offs of 6 HK universities (TSSSU-O up to 2 yrs, TSSSU+ up to 7 yrs)",
+    "deadline": "via university, annual",
+    "status": "unknown",
+    "url": "https://www.itf.gov.hk/en/support-measures/tsssu/index.html"
+   },
+   {
+    "name": "RAISe+ Scheme",
+    "agency": "Innovation and Technology Commission",
+    "amount": "up to HK$100M per project, matching",
+    "amount_usd_max": 12800000,
+    "eligibility": "University research teams commercialising R&D",
+    "deadline": "per call",
+    "status": "unknown",
+    "url": "https://www.itf.gov.hk/en/funding-programmes/supporting-start-ups/raiseplus/index.html"
+   },
+   {
+    "name": "Innovation and Technology Venture Fund (ITVF)",
+    "agency": "Innovation and Technology Commission",
+    "amount": "co-investment at about 1:2 with partner VCs",
+    "amount_usd_max": null,
+    "eligibility": "Local I&T startups backed by co-investment partners",
+    "deadline": "rolling via partners",
+    "status": "rolling",
+    "url": "https://www.itf.gov.hk/en/funding-programmes/supporting-start-ups/itvf/index.html"
+   },
+   {
+    "name": "Pilot I&T Accelerator Scheme (PITAS)",
+    "agency": "Innovation and Technology Commission",
+    "amount": "1:2 matching for accelerators",
+    "amount_usd_max": null,
+    "eligibility": "Accelerator operators supporting startups",
+    "deadline": "per call",
+    "status": "unknown",
+    "url": "https://www.itf.gov.hk/en/funding-programmes/supporting-start-ups/pitas/index.html"
+   },
+   {
+    "name": "SME Export Marketing Fund and BUD Fund",
+    "agency": "Trade and Industry Department",
+    "amount": "matching grants, varies",
+    "amount_usd_max": null,
+    "eligibility": "HK SMEs expanding into markets",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.smefund.tid.gov.hk"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "HKSTP Incubation Programme (Incu-Tech, Incu-Bio)",
+    "city": "Hong Kong",
+    "type": "government",
+    "investment": "no equity, funding support and space",
+    "sectors": "tech, biotech",
+    "deadline": "rolling with periodic intake reviews",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.hkstp.org"
+   },
+   {
+    "name": "Cyberport Incubation Programme",
+    "city": "Hong Kong",
+    "type": "government",
+    "investment": "no equity, financial support",
+    "sectors": "fintech, digital tech, AI",
+    "deadline": "several intakes per year",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.cyberport.hk"
+   },
+   {
+    "name": "Brinc",
+    "city": "Hong Kong",
+    "type": "accelerator",
+    "investment": "equity investment",
+    "sectors": "climate, food tech, hardware",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://brinc.io"
+   },
+   {
+    "name": "Betatron",
+    "city": "Hong Kong",
+    "type": "accelerator",
+    "investment": "equity investment",
+    "sectors": "generalist, B2B",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://betatron.co"
+   },
+   {
+    "name": "HKU Techno-Entrepreneurship Core",
+    "city": "Hong Kong",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "HKU-linked startups",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://tec.hku.hk"
+   },
+   {
+    "name": "HKX Foundation",
+    "city": "Hong Kong",
+    "type": "venture_studio",
+    "investment": "venture building and investment",
+    "sectors": "deep tech, new industrialisation",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.hkxf.org"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Hong Kong Investment Corporation",
+    "city": "Hong Kong",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "strategic industries, deep tech",
+    "type": "government_fund",
+    "url": "https://www.hkic.org.hk"
+   },
+   {
+    "name": "Horizons Ventures",
+    "city": "Hong Kong",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "deep tech, AI, food tech",
+    "type": "vc",
+    "url": "https://www.horizonsventures.com"
+   },
+   {
+    "name": "Gobi Partners",
+    "city": "Hong Kong",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist, Asia",
+    "type": "vc",
+    "url": "https://www.gobi.vc"
+   },
+   {
+    "name": "Vectr Ventures",
+    "city": "Hong Kong",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech, web3",
+    "type": "vc",
+    "url": "https://vectr.co"
+   },
+   {
+    "name": "MindWorks Capital",
+    "city": "Hong Kong",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech, Asia",
+    "type": "vc",
+    "url": "https://www.mindworks.vc"
+   },
+   {
+    "name": "Arbor Ventures",
+    "city": "Hong Kong",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "fintech",
+    "type": "vc",
+    "url": "https://www.arborventures.com"
+   },
+   {
+    "name": "Primavera Capital",
+    "city": "Hong Kong",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "consumer, healthcare, tech",
+    "type": "vc",
+    "url": "https://www.primavera-capital.com"
+   },
+   {
+    "name": "Radiant Venture Capital",
+    "city": "Hong Kong",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.radiantvc.com"
+   },
+   {
+    "name": "Hong Kong Business Angel Network",
+    "city": "Hong Kong",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "http://www.hkban.org/index"
+   },
+   {
+    "name": "Cyberport Macro Fund",
+    "city": "Hong Kong",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "digital tech in Cyberport portfolio",
+    "type": "government_fund",
+    "url": "https://www.cyberport.hk"
+   }
+  ],
+  "resources": [
+   {
+    "name": "StartmeupHK (InvestHK)",
+    "type": "government_agency",
+    "url": "https://www.startmeup.hk",
+    "note": "Startup portal and festival"
+   },
+   {
+    "name": "InvestHK",
+    "type": "government_agency",
+    "url": "https://www.investhk.gov.hk",
+    "note": "Free setup support for foreign firms"
+   },
+   {
+    "name": "Innovation and Technology Commission",
+    "type": "government_agency",
+    "url": "https://www.itc.gov.hk/en/",
+    "note": "I&T policy and ITF funding"
+   },
+   {
+    "name": "Companies Registry",
+    "type": "government_agency",
+    "url": "https://www.cr.gov.hk",
+    "note": "Online incorporation"
+   },
+   {
+    "name": "Hong Kong Venture Capital and Private Equity Association",
+    "type": "startup_association",
+    "url": "https://www.hkvca.com.hk",
+    "note": "VC industry body"
+   },
+   {
+    "name": "FinTech Association of Hong Kong",
+    "type": "startup_association",
+    "url": "https://ftahk.org",
+    "note": "Fintech community"
+   },
+   {
+    "name": "Hong Kong FinTech Week",
+    "type": "event",
+    "url": "https://www.fintechweek.hk",
+    "note": "Annual fintech event (usually Oct-Nov)"
+   },
+   {
+    "name": "Top Talent Pass Scheme",
+    "type": "government_agency",
+    "url": "https://www.immd.gov.hk/eng/services/visas/TTPS.html",
+    "note": "Talent visa"
+   }
+  ],
+  "sources": [
+   "https://www.itf.gov.hk/en/funding-programmes/index.html",
+   "https://www.itf.gov.hk/en/funding-programmes/supporting-research/ess/index.html",
+   "https://www.immd.gov.hk/eng/services/visas/investment.html",
+   "https://www.startmeup.hk"
+  ],
+  "confidence": "medium",
+  "notes": "As of Oct 2026 the Technology Voucher Programme (TVP) is not listed on the ITF programme index and its old ITF page returns 404. Its current status could not be confirmed, so it is left out. hkstp.org timed out and cyberport.hk blocked automated fetches during research, so incubation funding amounts and intake dates were not confirmed."
+ },
+ {
+  "country": "Macau",
+  "iso2": "MO",
+  "ecosystem_tier": "emerging",
+  "summary": "Small, government-led ecosystem built around youth entrepreneurship, diversification beyond gaming, and the Guangdong-Macao In-Depth Cooperation Zone in Hengqin. Support is mostly interest-free loans, incubation space and Greater Bay Area programs.",
+  "startup_visa": "none (no startup visa; non-residents typically enter via investment or talent schemes)",
+  "company_setup": "Sociedade por quotas (limited company), minimum capital MOP25,000. Registered through the Commercial and Movable Property Registry, with help from IPIM's Investor One Stop Service. Takes about 1-3 weeks.",
+  "grants": [
+   {
+    "name": "Young Entrepreneurs Aid Scheme",
+    "agency": "Economic and Technological Development Bureau (DSEDT)",
+    "amount": "interest-free loan up to MOP300,000, repaid over up to 10 yrs",
+    "amount_usd_max": 37000,
+    "eligibility": "Macao resident young entrepreneurs or companies over 50% owned by them",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.dsedt.gov.mo/en_US/web/public/pg_ead_lsye_intro"
+   },
+   {
+    "name": "SME Aid Scheme",
+    "agency": "Economic and Technological Development Bureau (DSEDT)",
+    "amount": "interest-free loan, varies",
+    "amount_usd_max": null,
+    "eligibility": "Macao SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.dsedt.gov.mo/en_US/web/public/pg_sme_i"
+   },
+   {
+    "name": "Science and Technology Development Fund funding",
+    "agency": "FDCT",
+    "amount": "project-based R&D funding",
+    "amount_usd_max": null,
+    "eligibility": "Macao institutions and enterprises",
+    "deadline": "per call",
+    "status": "unknown",
+    "url": "https://www.fdct.gov.mo"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Macao Young Entrepreneur Incubation Centre (MYEIC)",
+    "city": "Macau",
+    "type": "incubator",
+    "investment": "no equity (space, training, mentoring)",
+    "sectors": "generalist, youth founders",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://myeic.com.mo"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "IPIM: Macao Trade and Investment Promotion Institute",
+    "type": "government_agency",
+    "url": "https://www.ipim.gov.mo/en",
+    "note": "Investor One Stop Service"
+   },
+   {
+    "name": "Economic and Technological Development Bureau (DSEDT)",
+    "type": "government_agency",
+    "url": "https://www.dsedt.gov.mo",
+    "note": "SME and youth support schemes"
+   },
+   {
+    "name": "Guangdong-Macao In-Depth Cooperation Zone in Hengqin",
+    "type": "government_agency",
+    "url": "https://www.hengqin-cooperation.gov.mo/en_US",
+    "note": "Cross-border zone with startup incentives"
+   },
+   {
+    "name": "CPTTM",
+    "type": "other",
+    "url": "https://www.cpttm.org.mo",
+    "note": "Productivity and technology training centre"
+   },
+   {
+    "name": "University of Macau",
+    "type": "other",
+    "url": "https://www.um.edu.mo",
+    "note": "Research and spin-out source"
+   }
+  ],
+  "sources": [
+   "https://www.dsedt.gov.mo/en_US/web/public/pg_ead_lsye_intro",
+   "https://myeic.com.mo",
+   "https://www.ipim.gov.mo/en"
+  ],
+  "confidence": "medium",
+  "notes": "No Macau-based VC with a verifiable official site was found. Founders usually raise from Hong Kong or Mainland funds. Many Hengqin youth-entrepreneurship programs are listed on Mainland sites that could not be verified."
+ },
+ {
+  "country": "Mongolia",
+  "iso2": "MN",
+  "ecosystem_tier": "nascent",
+  "summary": "Small ecosystem centred on Ulaanbaatar, strongest in fintech, e-commerce and govtech (e-Mongolia). The Mongolian Startup Association runs community events, and the first local VC funds are only forming. Capital mostly comes from banks, conglomerates and development finance institutions.",
+  "startup_visa": "none",
+  "company_setup": "LLC registered with the General Authority for State Registration. Foreign-invested companies generally need foreign equity of at least about US$100k to register as such, so smaller foreign founders often use local partners. Takes about 2-4 weeks.",
+  "grants": [
+   {
+    "name": "SME Agency concessional loans (SME Development Fund)",
+    "agency": "SME Agency of Mongolia",
+    "amount": "concessional loans, varies",
+    "amount_usd_max": null,
+    "eligibility": "Registered Mongolian SMEs",
+    "deadline": "per call",
+    "status": "unknown",
+    "url": "https://www.sme.gov.mn"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "National IT Park",
+    "city": "Ulaanbaatar",
+    "type": "government",
+    "investment": "no equity (incubation)",
+    "sectors": "ICT",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.itpark.mn"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate, inclusion tech in ADB member countries",
+    "type": "government_fund",
+    "url": "https://ventures.adb.org"
+   },
+   {
+    "name": "EBRD (venture and small business programs)",
+    "city": "London (regional)",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "SMEs and growth firms in EBRD countries incl. Mongolia",
+    "type": "government_fund",
+    "url": "https://www.ebrd.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Mongolian Startup Association",
+    "type": "startup_association",
+    "url": "https://www.startupmongolia.mn",
+    "note": "Community, Mongolia Startup Forum (Apr 2025)"
+   },
+   {
+    "name": "Invest Mongolia Agency",
+    "type": "government_agency",
+    "url": "https://www.investmongolia.gov.mn/en/",
+    "note": "Foreign investment registration"
+   },
+   {
+    "name": "SME Agency of Mongolia",
+    "type": "government_agency",
+    "url": "https://www.sme.gov.mn",
+    "note": "SME registration and loans"
+   },
+   {
+    "name": "e-Mongolia",
+    "type": "government_agency",
+    "url": "https://e-mongolia.mn",
+    "note": "Government e-services portal"
+   },
+   {
+    "name": "World Bank Mongolia",
+    "type": "other",
+    "url": "https://www.worldbank.org/ext/en/country/mongolia",
+    "note": "Development programs"
+   },
+   {
+    "name": "UNDP Mongolia",
+    "type": "other",
+    "url": "https://www.undp.org/mongolia",
+    "note": "Development and innovation programs"
+   },
+   {
+    "name": "ADB Mongolia",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/mongolia",
+    "note": "SME finance programs"
+   },
+   {
+    "name": "Mongolian Stock Exchange",
+    "type": "other",
+    "url": "https://www.mse.mn",
+    "note": "Local listing route"
+   }
+  ],
+  "sources": [
+   "https://www.startupmongolia.mn",
+   "https://www.sme.gov.mn",
+   "https://www.investmongolia.gov.mn/en/",
+   "https://ventures.adb.org"
+  ],
+  "confidence": "low",
+  "notes": "No Mongolia-based VC or accelerator with a current, verifiable official site was confirmed. The Mongolian Startup Association site mentions the first local VC fund forming in 2025. The SME Agency site lists loan intake but no published terms."
+ },
+ {
+  "country": "North Korea",
+  "iso2": "KP",
+  "ecosystem_tier": "nascent",
+  "summary": "No accessible private startup ecosystem. The economy is state-controlled and under comprehensive UN, US and EU sanctions, so foreign investment, payments and tech transfer are effectively prohibited.",
+  "startup_visa": "none",
+  "company_setup": "Not possible for foreign founders under current sanctions. Private enterprise is not legally recognised.",
+  "grants": [],
+  "accelerators": [],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "UN Security Council 1718 Sanctions Committee",
+    "type": "other",
+    "url": "https://main.un.org/securitycouncil/en/sanctions/1718",
+    "note": "UN sanctions regime"
+   },
+   {
+    "name": "US OFAC North Korea sanctions",
+    "type": "legal_tax",
+    "url": "https://ofac.treasury.gov/sanctions-programs-and-country-information/north-korea-sanctions",
+    "note": "US sanctions guidance"
+   }
+  ],
+  "sources": [
+   "https://main.un.org/securitycouncil/en/sanctions/1718",
+   "https://ofac.treasury.gov/sanctions-programs-and-country-information/north-korea-sanctions"
+  ],
+  "confidence": "high",
+  "notes": "Sanctions as of Oct 2026: any investment or business is effectively prohibited. Listed for completeness only."
+ }
+]

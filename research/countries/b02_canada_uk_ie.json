@@ -1,0 +1,1457 @@
+[
+ {
+  "country": "Canada",
+  "iso2": "CA",
+  "ecosystem_tier": "established",
+  "summary": "Large, well-funded ecosystem led by Toronto-Waterloo, Vancouver and Montreal, with growing hubs in Calgary, Ottawa and Halifax. Strong in AI (Vector, Mila, Amii), fintech and SaaS; notable successes include Shopify, Wealthsimple, Cohere and Clio.",
+  "startup_visa": "Start-up Visa Program paused since 1 Jan 2026 (final PR window for holders of 2025 commitment certificates closed 30 Jun 2026); IRCC plans a new high-impact start-up pilot with no launch date yet, https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa.html",
+  "company_setup": "Federal (CBCA) or provincial corporation; federal incorporation online via Corporations Canada (about CA$200, often same day). CBCA requires 25% resident Canadian directors; Ontario, BC and Quebec corporations do not. CCPC status unlocks the enhanced SR&ED refund.",
+  "grants": [
+   {
+    "name": "NRC Industrial Research Assistance Program (IRAP)",
+    "agency": "National Research Council Canada",
+    "amount": "non-repayable contributions, often CA$50k–1M+ per project, plus advisory",
+    "amount_usd_max": 720000,
+    "eligibility": "Incorporated, for-profit Canadian SMEs (<500 staff)",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://nrc.canada.ca/en/support-technology-innovation"
+   },
+   {
+    "name": "SR&ED tax incentive",
+    "agency": "Canada Revenue Agency",
+    "amount": "35% refundable credit for CCPCs on eligible R&D (expenditure limit raised to CA$6M by Budget 2025)",
+    "amount_usd_max": 1500000,
+    "eligibility": "Canadian businesses doing R&D; enhanced refund for CCPCs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html"
+   },
+   {
+    "name": "Mitacs Accelerate",
+    "agency": "Mitacs",
+    "amount": "research internships co-funded, from CA$15k per 4-month unit",
+    "amount_usd_max": 11000,
+    "eligibility": "Companies partnering with university researchers",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.mitacs.ca/"
+   },
+   {
+    "name": "Futurpreneur Startup Program",
+    "agency": "Futurpreneur (with BDC)",
+    "amount": "loans up to CA$75k plus mentoring",
+    "amount_usd_max": 54000,
+    "eligibility": "Founders 18–39, business up to 24 months old",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://futurpreneur.ca/en/"
+   },
+   {
+    "name": "Canada Small Business Financing Program",
+    "agency": "Innovation, Science and Economic Development Canada",
+    "amount": "government-guaranteed loans via banks, up to CA$1.15M",
+    "amount_usd_max": 830000,
+    "eligibility": "Small businesses with revenue up to CA$10M",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://ised-isde.canada.ca/site/canada-small-business-financing-program/en"
+   },
+   {
+    "name": "Ontario Centre of Innovation programs (Ready 4 Market, C2C)",
+    "agency": "Ontario Centre of Innovation",
+    "amount": "pre-seed investment and collaboration funding; varies",
+    "amount_usd_max": null,
+    "eligibility": "Ontario startups and SMEs",
+    "deadline": "rolling",
+    "status": "open",
+    "url": "https://www.oc-innovation.ca/"
+   },
+   {
+    "name": "Alberta Innovates funding programs",
+    "agency": "Alberta Innovates",
+    "amount": "vouchers and grants; varies",
+    "amount_usd_max": null,
+    "eligibility": "Alberta technology SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://albertainnovates.ca/"
+   },
+   {
+    "name": "Innovate BC programs",
+    "agency": "Innovate BC",
+    "amount": "grants and vouchers; varies",
+    "amount_usd_max": null,
+    "eligibility": "BC technology companies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.innovatebc.ca/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Creative Destruction Lab (CDL)",
+    "city": "Toronto, Montreal, Vancouver, Calgary, Halifax",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "deep tech, AI, quantum, health, climate and more",
+    "deadline": "last: 2026-07-24 (2026/27 cycle)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://creativedestructionlab.com/"
+   },
+   {
+    "name": "NEXT Canada NextAI",
+    "city": "Toronto, Montreal",
+    "type": "accelerator",
+    "investment": "no funding, no equity",
+    "sectors": "AI",
+    "deadline": "2026-12-09",
+    "next_cohort": "2027-03",
+    "status": "open",
+    "url": "https://www.nextcanada.com/next-ai/"
+   },
+   {
+    "name": "NEXT Canada Next 36",
+    "city": "Toronto",
+    "type": "accelerator",
+    "investment": "no equity (removed Sept 2025)",
+    "sectors": "generalist, student and recent-graduate founders",
+    "deadline": "last: 2026-10-14",
+    "next_cohort": "2027-01",
+    "status": "closed",
+    "url": "https://www.nextcanada.com/next-36/"
+   },
+   {
+    "name": "DMZ Incubator",
+    "city": "Toronto",
+    "type": "university",
+    "investment": "no equity disclosed",
+    "sectors": "tech, generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://dmz.torontomu.ca/"
+   },
+   {
+    "name": "Communitech",
+    "city": "Waterloo",
+    "type": "incubator",
+    "investment": "no equity; membership",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.communitech.ca/"
+   },
+   {
+    "name": "Velocity (University of Waterloo)",
+    "city": "Waterloo",
+    "type": "university",
+    "investment": "no equity; non-dilutive awards",
+    "sectors": "tech, hardware, health",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://velocityincubator.com/"
+   },
+   {
+    "name": "MaRS Discovery District",
+    "city": "Toronto",
+    "type": "incubator",
+    "investment": "no equity; venture services",
+    "sectors": "health, climate, fintech, enterprise",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.marsdd.com/"
+   },
+   {
+    "name": "Antler Canada",
+    "city": "Toronto",
+    "type": "venture_studio",
+    "investment": "$250k for 9%",
+    "sectors": "generalist",
+    "deadline": "cohort twice yearly (Mar, Sep)",
+    "next_cohort": "2027-03",
+    "status": "rolling",
+    "url": "https://www.antler.co/location/canada"
+   },
+   {
+    "name": "Launch Academy",
+    "city": "Vancouver",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.launchacademy.ca/"
+   },
+   {
+    "name": "Platform Calgary",
+    "city": "Calgary",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.platformcalgary.com/"
+   },
+   {
+    "name": "District 3",
+    "city": "Montreal",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "science, health, tech, social",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.district3.co/"
+   },
+   {
+    "name": "Volta",
+    "city": "Halifax",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://voltaeffect.com/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "BDC Capital",
+    "city": "Montreal",
+    "stage": "multi",
+    "check_size": "CA$250k–CA$10M+",
+    "sectors": "generalist tech, deep tech, health, climate",
+    "type": "government_fund",
+    "url": "https://www.bdc.ca/en/bdc-capital"
+   },
+   {
+    "name": "Inovia Capital",
+    "city": "Montreal",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.inovia.vc/"
+   },
+   {
+    "name": "Georgian",
+    "city": "Toronto",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "B2B software, AI",
+    "type": "vc",
+    "url": "https://georgian.io/"
+   },
+   {
+    "name": "Real Ventures",
+    "city": "Montreal",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://realventures.com/"
+   },
+   {
+    "name": "Panache Ventures",
+    "city": "Montreal",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.panache.vc/"
+   },
+   {
+    "name": "Golden Ventures",
+    "city": "Toronto",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.golden.ventures/"
+   },
+   {
+    "name": "Radical Ventures",
+    "city": "Toronto",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "AI",
+    "type": "vc",
+    "url": "https://radical.vc/"
+   },
+   {
+    "name": "OMERS Ventures",
+    "city": "Toronto",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "cvc",
+    "url": "https://www.omersventures.com/"
+   },
+   {
+    "name": "Portage",
+    "city": "Toronto",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "fintech, health, climate",
+    "type": "vc",
+    "url": "https://portageinvest.com/"
+   },
+   {
+    "name": "Brightspark Ventures",
+    "city": "Toronto",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://brightspark.com/en"
+   },
+   {
+    "name": "Yaletown Partners",
+    "city": "Vancouver",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "industrial tech, climate",
+    "type": "vc",
+    "url": "https://www.yaletown.com/"
+   },
+   {
+    "name": "Version One Ventures",
+    "city": "Vancouver",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://versionone.vc/"
+   },
+   {
+    "name": "Amplitude Ventures",
+    "city": "Montreal",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "life sciences",
+    "type": "vc",
+    "url": "https://amplitudevc.com/"
+   },
+   {
+    "name": "Luge Capital",
+    "city": "Montreal",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "fintech",
+    "type": "vc",
+    "url": "https://luge.vc/"
+   },
+   {
+    "name": "Anges Québec",
+    "city": "Montreal",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://angesquebec.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Corporations Canada",
+    "type": "government_agency",
+    "url": "https://ised-isde.canada.ca/site/corporations-canada/en",
+    "note": "Federal incorporation online"
+   },
+   {
+    "name": "BDC (Business Development Bank of Canada)",
+    "type": "government_agency",
+    "url": "https://www.bdc.ca/en",
+    "note": "Loans, advisory and VC for entrepreneurs"
+   },
+   {
+    "name": "Startup Canada",
+    "type": "startup_association",
+    "url": "https://www.startupcanada.ca/",
+    "note": "National entrepreneur network"
+   },
+   {
+    "name": "CVCA",
+    "type": "startup_association",
+    "url": "https://www.cvca.ca/",
+    "note": "Canadian VC and PE association with data"
+   },
+   {
+    "name": "NACO",
+    "type": "startup_association",
+    "url": "https://nacocanada.com/",
+    "note": "National Angel Capital Organization"
+   },
+   {
+    "name": "BetaKit",
+    "type": "database",
+    "url": "https://betakit.com/",
+    "note": "Canadian startup news"
+   },
+   {
+    "name": "Investissement Québec",
+    "type": "government_agency",
+    "url": "https://www.investquebec.com/",
+    "note": "Quebec financing and investment agency"
+   },
+   {
+    "name": "Web Summit Vancouver",
+    "type": "event",
+    "url": "https://vancouver.websummit.com/",
+    "note": "Major tech conference, May 2027"
+   }
+  ],
+  "sources": [
+   "https://nrc.canada.ca/en/support-technology-innovation",
+   "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa.html",
+   "https://www.bdc.ca/en/bdc-capital",
+   "https://www.nextcanada.com/next-ai/",
+   "https://creativedestructionlab.com/"
+  ],
+  "confidence": "medium",
+  "notes": "Start-up Visa paused since 1 Jan 2026 with a replacement pilot planned. IRAP is set to move into the new Canada Innovation Corporation by 2026-27. SDTC was wound down and is excluded. Techstars Toronto no longer appears among Techstars programs. The SR&ED CA$6M limit comes from Budget 2025 and was not confirmed on the CRA page. Web search budget ran out mid-batch, so some deadlines are 'unknown'."
+ },
+ {
+  "country": "United Kingdom",
+  "iso2": "GB",
+  "ecosystem_tier": "global_hub",
+  "summary": "Europe's largest startup ecosystem, centred on London with strong clusters in Cambridge, Oxford, Manchester and Edinburgh; leads Europe in fintech, AI and deep tech. Notable successes include Arm, Revolut, Wise, DeepMind and Deliveroo.",
+  "startup_visa": "Innovator Founder visa (endorsement from an approved endorsing body, 3 years, settlement possible after 3 years), https://www.gov.uk/innovator-founder-visa; also Global Talent visa (digital technology route), https://www.gov.uk/global-talent",
+  "company_setup": "Private limited company (Ltd) registered online with Companies House in about 24 hours for a £100 fee; non-residents can incorporate remotely but need a UK registered office address. SEIS/EIS advance assurance is standard before angel rounds.",
+  "grants": [
+   {
+    "name": "Innovate UK Smart grants",
+    "agency": "Innovate UK (UKRI)",
+    "amount": "£25k–£2m (historic)",
+    "amount_usd_max": 2660000,
+    "eligibility": "UK SMEs, any sector, game-changing R&D",
+    "deadline": "closed",
+    "status": "closed",
+    "url": "https://www.ukri.org/councils/innovate-uk/"
+   },
+   {
+    "name": "Innovate UK themed competitions (e.g. Efficient, Structured and Controllable AI Systems)",
+    "agency": "Innovate UK (UKRI)",
+    "amount": "up to £1.66m for that competition; varies",
+    "amount_usd_max": 2200000,
+    "eligibility": "UK SMEs; scope set per competition brief",
+    "deadline": "2026-11-18",
+    "status": "open",
+    "url": "https://apply-for-innovation-funding.service.gov.uk/competition/search"
+   },
+   {
+    "name": "Knowledge Transfer Partnership (KTP) 2026-27 Round 4",
+    "agency": "Innovate UK (UKRI)",
+    "amount": "£12.5m round; part-funds graduate associate projects",
+    "amount_usd_max": 16600000,
+    "eligibility": "UK business plus university/RTO partner",
+    "deadline": "2027-01-27",
+    "status": "open",
+    "url": "https://apply-for-innovation-funding.service.gov.uk/competition/search"
+   },
+   {
+    "name": "Seed Enterprise Investment Scheme (SEIS)",
+    "agency": "HMRC",
+    "amount": "company may raise up to £250k; 50% income tax relief for investors",
+    "amount_usd_max": 330000,
+    "eligibility": "<3 years trading, <25 FTE, gross assets <=£350k",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.gov.uk/guidance/venture-capital-schemes-apply-to-use-the-seed-enterprise-investment-scheme"
+   },
+   {
+    "name": "Enterprise Investment Scheme (EIS)",
+    "agency": "HMRC",
+    "amount": "up to £10m per year, £24m lifetime (from April 2026); 30% investor relief",
+    "amount_usd_max": 13300000,
+    "eligibility": "Unlisted companies, gross assets <=£30m pre-issue",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.gov.uk/guidance/venture-capital-schemes-apply-for-the-enterprise-investment-scheme"
+   },
+   {
+    "name": "R&D tax relief (merged RDEC scheme and ERIS)",
+    "agency": "HMRC",
+    "amount": "20% RDEC; loss-making R&D-intensive SMEs get 86% extra deduction and 14.5% payable credit",
+    "amount_usd_max": null,
+    "eligibility": "UK companies paying Corporation Tax doing qualifying R&D",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief"
+   },
+   {
+    "name": "Start Up Loans",
+    "agency": "British Business Bank",
+    "amount": "£500–£25k per founder, 6% fixed, 1–5 years, with mentoring",
+    "amount_usd_max": 33000,
+    "eligibility": "UK residents 18+, business trading <3 years",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.startuploans.co.uk/"
+   },
+   {
+    "name": "Scottish Enterprise innovation and R&D grants",
+    "agency": "Scottish Enterprise",
+    "amount": "varies by programme",
+    "amount_usd_max": null,
+    "eligibility": "Scotland-based companies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.scottish-enterprise.com/"
+   },
+   {
+    "name": "Development Bank of Wales loans and equity",
+    "agency": "Development Bank of Wales",
+    "amount": "£1k–£10m loans and equity",
+    "amount_usd_max": 13300000,
+    "eligibility": "Wales-based businesses",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://developmentbank.wales/"
+   },
+   {
+    "name": "Invest NI innovation and R&D support",
+    "agency": "Invest NI",
+    "amount": "varies by programme",
+    "amount_usd_max": null,
+    "eligibility": "Northern Ireland businesses",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.investni.com/support-for-business"
+   },
+   {
+    "name": "Scottish National Investment Bank",
+    "agency": "Scottish Government",
+    "amount": "patient capital, typically £1m+",
+    "amount_usd_max": null,
+    "eligibility": "Scottish mission-aligned companies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.thebank.scot/"
+   },
+   {
+    "name": "ARIA programmes",
+    "agency": "Advanced Research and Invention Agency",
+    "amount": "varies, often £1m+ per project",
+    "amount_usd_max": null,
+    "eligibility": "Researchers and startups on ARIA opportunity spaces",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.aria.org.uk/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Entrepreneur First London",
+    "city": "London",
+    "type": "accelerator",
+    "investment": "pre-seed investment for equity (terms on request)",
+    "sectors": "generalist, deep tech, AI",
+    "deadline": "rolling",
+    "next_cohort": "2027-04",
+    "status": "rolling",
+    "url": "https://www.joinef.com/"
+   },
+   {
+    "name": "Seedcamp",
+    "city": "London",
+    "type": "accelerator",
+    "investment": "pre-seed and seed investment",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://seedcamp.com/"
+   },
+   {
+    "name": "Antler UK",
+    "city": "London",
+    "type": "venture_studio",
+    "investment": "£125k for 8.5% plus £85k convertible note",
+    "sectors": "generalist",
+    "deadline": "cohort twice yearly",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.antler.co/location/uk"
+   },
+   {
+    "name": "Techstars London Accelerator",
+    "city": "London",
+    "type": "accelerator",
+    "investment": "Techstars standard investment",
+    "sectors": "generalist",
+    "deadline": "2026-11-18",
+    "next_cohort": "2027-03",
+    "status": "open",
+    "url": "https://www.techstars.com/accelerators/london"
+   },
+   {
+    "name": "Founders Factory",
+    "city": "London",
+    "type": "venture_studio",
+    "investment": "pre-seed and seed investment; corporate-backed programmes",
+    "sectors": "fintech, health, climate, deep tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://foundersfactory.com/"
+   },
+   {
+    "name": "Conception X Venture Scientist 100",
+    "city": "London",
+    "type": "accelerator",
+    "investment": "investment for top teams; 9-month fellowship for PhD founders",
+    "sectors": "deep tech, science",
+    "deadline": "2026-12-06",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://www.conceptionx.org/"
+   },
+   {
+    "name": "Carbon13 Venture Builder and Venture Accelerator",
+    "city": "Cambridge",
+    "type": "venture_studio",
+    "investment": "venture builder plus pre-seed investment",
+    "sectors": "climate",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://www.carbonthirteen.com/"
+   },
+   {
+    "name": "Zinc",
+    "city": "London",
+    "type": "venture_studio",
+    "investment": "pre-seed investment programme",
+    "sectors": "mission-driven, health, social impact",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.zinc.vc/"
+   },
+   {
+    "name": "Deep Science Ventures",
+    "city": "London",
+    "type": "venture_studio",
+    "investment": "venture creation with seed capital",
+    "sectors": "climate, health, agri, compute",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.deepscienceventures.com/"
+   },
+   {
+    "name": "Barclays Eagle Labs programmes",
+    "city": "London (national network)",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "generalist, female and Black founders, scaleups",
+    "deadline": "last: 2026-08-31",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://labs.uk.barclays/"
+   },
+   {
+    "name": "SETsquared",
+    "city": "Bristol, Bath, Exeter, Southampton, Surrey, Cardiff",
+    "type": "university",
+    "investment": "no equity; incubation membership",
+    "sectors": "deep tech, generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.setsquared.co.uk/"
+   },
+   {
+    "name": "Digital Catapult programmes",
+    "city": "London",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "AI, deep tech, immersive, 5G",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.digicatapult.org.uk/"
+   },
+   {
+    "name": "Tech Nation growth programmes",
+    "city": "London",
+    "type": "accelerator",
+    "investment": "no equity",
+    "sectors": "climate, fintech, AI, deep tech, growth stage",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://technation.io/"
+   },
+   {
+    "name": "Google for Startups Accelerator (Europe)",
+    "city": "London",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "AI/ML, technical startups seed to Series A",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://startup.google.com/programs/accelerator/"
+   },
+   {
+    "name": "Plexal",
+    "city": "London",
+    "type": "incubator",
+    "investment": "no equity; innovation centre and programmes",
+    "sectors": "cyber, defence, mobility",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.plexal.com/"
+   },
+   {
+    "name": "Capital Enterprise",
+    "city": "London",
+    "type": "accelerator",
+    "investment": "no equity; programmes and seed funds",
+    "sectors": "deep tech, university spinouts",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://capitalenterprise.org/"
+   },
+   {
+    "name": "LSE Generate",
+    "city": "London",
+    "type": "university",
+    "investment": "no equity; grants for LSE founders",
+    "sectors": "social impact, generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.lse.ac.uk/generate"
+   },
+   {
+    "name": "Founder Institute London",
+    "city": "London",
+    "type": "accelerator",
+    "investment": "equity pool (FI standard terms)",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://fi.co/"
+   },
+   {
+    "name": "Allia Future Business Centres",
+    "city": "Cambridge, London, Peterborough",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "impact, generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.allia.org.uk/"
+   },
+   {
+    "name": "C4DI",
+    "city": "Hull",
+    "type": "incubator",
+    "investment": "no equity; coworking and support",
+    "sectors": "digital",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.c4di.co.uk/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Balderton Capital",
+    "city": "London",
+    "stage": "multi",
+    "check_size": "US$1M–30M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.balderton.com/"
+   },
+   {
+    "name": "Atomico",
+    "city": "London",
+    "stage": "series A",
+    "check_size": "US$5M–50M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.atomico.com/"
+   },
+   {
+    "name": "Index Ventures",
+    "city": "London",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.indexventures.com/"
+   },
+   {
+    "name": "Accel (London)",
+    "city": "London",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.accel.com/"
+   },
+   {
+    "name": "LocalGlobe (Phoenix Court)",
+    "city": "London",
+    "stage": "seed",
+    "check_size": "US$0.5M–3M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.phoenixcourt.vc/funds/localglobe"
+   },
+   {
+    "name": "Lightspeed Venture Partners (London)",
+    "city": "London",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.lsvp.com/"
+   },
+   {
+    "name": "Northzone",
+    "city": "London",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.northzone.com/"
+   },
+   {
+    "name": "Notion Capital",
+    "city": "London",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "B2B software",
+    "type": "vc",
+    "url": "https://www.notioncapital.com/"
+   },
+   {
+    "name": "MMC Ventures",
+    "city": "London",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "AI, B2B, fintech",
+    "type": "vc",
+    "url": "https://mmc.vc/"
+   },
+   {
+    "name": "Octopus Ventures",
+    "city": "London",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "health, fintech, deep tech, B2B",
+    "type": "vc",
+    "url": "https://www.octopusventures.com/"
+   },
+   {
+    "name": "Molten Ventures",
+    "city": "London",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.moltenventures.com/"
+   },
+   {
+    "name": "IP Group",
+    "city": "London",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "university spinouts, deep tech, life sciences",
+    "type": "vc",
+    "url": "https://www.ipgroupplc.com/"
+   },
+   {
+    "name": "Oxford Science Enterprises",
+    "city": "Oxford",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "Oxford spinouts, life sciences, deep tech",
+    "type": "vc",
+    "url": "https://www.oxfordscienceenterprises.com/"
+   },
+   {
+    "name": "Cambridge Innovation Capital",
+    "city": "Cambridge",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "deep tech, life sciences",
+    "type": "vc",
+    "url": "https://www.cic.vc/"
+   },
+   {
+    "name": "Amadeus Capital Partners",
+    "city": "Cambridge",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "deep tech",
+    "type": "vc",
+    "url": "https://www.amadeuscapital.com/"
+   },
+   {
+    "name": "Parkwalk",
+    "city": "London",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "university spinouts (EIS funds)",
+    "type": "vc",
+    "url": "https://parkwalk.vc/"
+   },
+   {
+    "name": "Kindred Capital",
+    "city": "London",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://kindredcapital.vc/"
+   },
+   {
+    "name": "Playfair Capital",
+    "city": "London",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.playfair.vc/"
+   },
+   {
+    "name": "Ada Ventures",
+    "city": "London",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist, inclusive",
+    "type": "vc",
+    "url": "https://www.adaventures.com/"
+   },
+   {
+    "name": "Connect Ventures",
+    "city": "London",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "consumer and B2B product-led",
+    "type": "vc",
+    "url": "https://www.connectventures.co/"
+   },
+   {
+    "name": "Episode 1",
+    "city": "London",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "software",
+    "type": "vc",
+    "url": "https://www.episode1.com/"
+   },
+   {
+    "name": "Blossom Capital",
+    "city": "London",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.blossomcap.com/"
+   },
+   {
+    "name": "firstminute capital",
+    "city": "London",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.firstminute.capital/"
+   },
+   {
+    "name": "Mercia Ventures",
+    "city": "Birmingham",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "regional, generalist",
+    "type": "vc",
+    "url": "https://www.mercia.co.uk/"
+   },
+   {
+    "name": "British Patient Capital / British Business Bank",
+    "city": "London",
+    "stage": "multi",
+    "check_size": "fund-of-funds and co-investment",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.british-business-bank.co.uk/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Companies House company formation",
+    "type": "government_agency",
+    "url": "https://www.gov.uk/limited-company-formation",
+    "note": "Register a limited company online"
+   },
+   {
+    "name": "Innovate UK Business Connect",
+    "type": "government_agency",
+    "url": "https://iuk-business-connect.org.uk/",
+    "note": "Innovation networks and business growth support"
+   },
+   {
+    "name": "Find a grant",
+    "type": "database",
+    "url": "https://www.find-government-grants.service.gov.uk/",
+    "note": "Official search of UK government grants"
+   },
+   {
+    "name": "UK Business Angels Association",
+    "type": "startup_association",
+    "url": "https://www.ukbaa.org.uk/",
+    "note": "National angel and early-stage investor body"
+   },
+   {
+    "name": "Startup Coalition",
+    "type": "startup_association",
+    "url": "https://www.startupcoalition.io/",
+    "note": "Policy voice for UK startups"
+   },
+   {
+    "name": "techUK",
+    "type": "startup_association",
+    "url": "https://www.techuk.org/",
+    "note": "Technology trade association"
+   },
+   {
+    "name": "UK Private Capital (formerly BVCA)",
+    "type": "startup_association",
+    "url": "https://www.ukprivatecapital.co.uk/",
+    "note": "VC and PE industry body"
+   },
+   {
+    "name": "Beauhurst",
+    "type": "database",
+    "url": "https://www.beauhurst.com/",
+    "note": "Private company and funding data"
+   },
+   {
+    "name": "Crowdcube",
+    "type": "other",
+    "url": "https://www.crowdcube.com/",
+    "note": "Equity crowdfunding platform"
+   },
+   {
+    "name": "SyndicateRoom",
+    "type": "other",
+    "url": "https://www.syndicateroom.com/",
+    "note": "Angel syndicate and EIS fund platform"
+   }
+  ],
+  "sources": [
+   "https://www.ukri.org/councils/innovate-uk/",
+   "https://apply-for-innovation-funding.service.gov.uk/competition/search",
+   "https://www.gov.uk/guidance/venture-capital-schemes-apply-for-the-enterprise-investment-scheme",
+   "https://www.gov.uk/innovator-founder-visa",
+   "https://www.techstars.com/accelerators/london",
+   "https://www.antler.co/location/uk"
+  ],
+  "confidence": "high",
+  "notes": "Innovate UK Smart grants closed to new applications in 2025; funding now goes through themed competitions (check the competition search). EIS limits rose to £10m a year and £24m lifetime from 6 April 2026. Wayra UK, Ignite and Oxford Foundry were left out because their current pages could not be verified. Many investor sites block automated checks but are active. Web search budget ran out mid-batch, so some deadlines are 'unknown'."
+ },
+ {
+  "country": "Ireland",
+  "iso2": "IE",
+  "ecosystem_tier": "established",
+  "summary": "Compact, well-supported ecosystem centred on Dublin with hubs in Cork, Galway and Limerick, boosted by EU HQs of Google, Meta and others. Enterprise Ireland is a hands-on co-investor; notable companies include Stripe (Irish founders), Intercom, Fenergo and Wayflyer.",
+  "startup_visa": "Start-up Entrepreneur Programme (STEP): innovative high-potential startup with about €50,000 funding, evaluated with Enterprise Ireland, https://www.irishimmigration.ie/coming-to-work-in-ireland/what-are-my-options-for-working-in-ireland/coming-to-work-for-more-than-90-days/start-up-entrepreneur-programme-step/",
+  "company_setup": "Private company limited by shares (LTD) registered with the Companies Registration Office (CORE online, about €50–100, around 5 working days). Needs an EEA-resident director or a non-resident director bond. 12.5% trading corporation tax.",
+  "grants": [
+   {
+    "name": "HPSU Feasibility Study Grant",
+    "agency": "Enterprise Ireland",
+    "amount": "up to €30,000",
+    "amount_usd_max": 35000,
+    "eligibility": "Potential High Potential Start-Ups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.enterprise-ireland.com/en/supports/hpsu-feasibility-study-grant"
+   },
+   {
+    "name": "Pre-Seed Start Fund (replaced Competitive Start Fund)",
+    "agency": "Enterprise Ireland",
+    "amount": "€50k or €100k equity investment plus 10 mentoring sessions",
+    "amount_usd_max": 115000,
+    "eligibility": "Early-stage startups with an MVP",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.enterprise-ireland.com/en/supports/pre-seed-start-fund"
+   },
+   {
+    "name": "Innovative HPSU Fund",
+    "agency": "Enterprise Ireland",
+    "amount": "co-funded equity up to €1.2m",
+    "amount_usd_max": 1380000,
+    "eligibility": "High Potential Start-Ups raising matched private capital",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.enterprise-ireland.com/en/innovative-hpsu-fund"
+   },
+   {
+    "name": "Innovation Voucher",
+    "agency": "Enterprise Ireland",
+    "amount": "voucher for work with a knowledge provider",
+    "amount_usd_max": null,
+    "eligibility": "Small Irish companies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.enterprise-ireland.com/en/supports/innovation-voucher"
+   },
+   {
+    "name": "Research, Development and Innovation Fund",
+    "agency": "Enterprise Ireland",
+    "amount": "grant share of R&D project costs",
+    "amount_usd_max": null,
+    "eligibility": "Enterprise Ireland client companies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.enterprise-ireland.com/en/supports/research-development-innovation-fund"
+   },
+   {
+    "name": "R&D Corporation Tax Credit",
+    "agency": "Revenue",
+    "amount": "30% of qualifying R&D spend, refundable in three annual instalments",
+    "amount_usd_max": null,
+    "eligibility": "Companies doing R&D in the EEA",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.revenue.ie/en/companies-and-charities/reliefs-and-exemptions/research-and-development-rd-tax-credit/index.aspx"
+   },
+   {
+    "name": "Employment Investment Incentive (EII)",
+    "agency": "Revenue",
+    "amount": "income tax relief for investors in qualifying SMEs",
+    "amount_usd_max": null,
+    "eligibility": "Unquoted Irish SMEs raising equity",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.revenue.ie/en/personal-tax-credits-reliefs-and-exemptions/investment/relief-corporate/employment-investment-incentive.aspx"
+   },
+   {
+    "name": "Microfinance Ireland loans",
+    "agency": "Microfinance Ireland",
+    "amount": "small business loans up to €25,000",
+    "amount_usd_max": 29000,
+    "eligibility": "Micro-enterprises unable to get bank credit",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://microfinanceireland.ie/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "NDRC Accelerator",
+    "city": "Dublin (Dogpatch Labs), hybrid",
+    "type": "government",
+    "investment": "€100k uncapped SAFE, 20% discount",
+    "sectors": "tech, generalist",
+    "deadline": "rolling (applications currently closed)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.ndrc.ie/accelerator"
+   },
+   {
+    "name": "NDRC Pre-Accelerator",
+    "city": "Virtual, with Dublin, Galway, Cork and Kerry hubs",
+    "type": "government",
+    "investment": "no equity, free",
+    "sectors": "early-stage tech",
+    "deadline": "four batches a year (Mar, May, Aug and more)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://www.ndrc.ie/pre-accelerator"
+   },
+   {
+    "name": "New Frontiers",
+    "city": "18 locations nationwide",
+    "type": "government",
+    "investment": "no equity; support package worth over €30,000",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.newfrontiers.ie/"
+   },
+   {
+    "name": "Enterprise Ireland NextWave",
+    "city": "Dublin",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "women founders",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.enterprise-ireland.com/en/supports/next-wave"
+   },
+   {
+    "name": "Dogpatch Labs",
+    "city": "Dublin",
+    "type": "incubator",
+    "investment": "no equity; hub membership",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://dogpatchlabs.com/"
+   },
+   {
+    "name": "NovaUCD",
+    "city": "Dublin",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "high-tech, UCD spinouts",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.ucd.ie/innovation/"
+   },
+   {
+    "name": "Trinity Innovation (LaunchBox, Tangent)",
+    "city": "Dublin",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "student and staff startups",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.tcd.ie/innovation/"
+   },
+   {
+    "name": "UCC IGNITE",
+    "city": "Cork",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "graduate startups",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ucc.ie/en/ignite/"
+   },
+   {
+    "name": "PorterShed",
+    "city": "Galway",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://portershed.com/"
+   },
+   {
+    "name": "Republic of Work",
+    "city": "Cork",
+    "type": "incubator",
+    "investment": "no equity; coworking and programmes",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.republicofwork.com/"
+   },
+   {
+    "name": "Guinness Enterprise Centre",
+    "city": "Dublin",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.gec.ie/"
+   },
+   {
+    "name": "Irish Business Innovation Centres (BICs)",
+    "city": "Dublin, Cork, Galway, Waterford",
+    "type": "incubator",
+    "investment": "no equity; also run investor networks",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.irishbics.ie/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Frontline Ventures",
+    "city": "Dublin",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B software",
+    "type": "vc",
+    "url": "https://frontline.vc/"
+   },
+   {
+    "name": "Atlantic Bridge",
+    "city": "Dublin",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "deep tech, AI, semiconductors",
+    "type": "vc",
+    "url": "https://www.abven.com/"
+   },
+   {
+    "name": "Delta Partners",
+    "city": "Dublin",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.deltapartners.com/"
+   },
+   {
+    "name": "ACT Venture Partners",
+    "city": "Dublin",
+    "stage": "seed",
+    "check_size": "€500k–€1.5M",
+    "sectors": "AI, quantum, space, dual-use, health",
+    "type": "vc",
+    "url": "https://actvp.vc/"
+   },
+   {
+    "name": "Enterprise Equity",
+    "city": "Dublin",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.enterpriseequity.ie/"
+   },
+   {
+    "name": "SVV (Sure Valley Ventures)",
+    "city": "Dublin",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "AI, immersive tech",
+    "type": "vc",
+    "url": "https://svv.ai/"
+   },
+   {
+    "name": "Seroba Life Sciences",
+    "city": "Dublin",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "life sciences, medtech",
+    "type": "vc",
+    "url": "https://serobavc.com/"
+   },
+   {
+    "name": "Fountain Healthcare Partners",
+    "city": "Dublin",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "life sciences",
+    "type": "vc",
+    "url": "https://www.fh-partners.com/"
+   },
+   {
+    "name": "BVP EIIS Fund",
+    "city": "Dublin",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist, EII-eligible SMEs",
+    "type": "vc",
+    "url": "https://www.bvp.ie/"
+   },
+   {
+    "name": "HBAN (Halo Business Angel Network)",
+    "city": "Dublin",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.hban.org/"
+   },
+   {
+    "name": "Ireland Strategic Investment Fund",
+    "city": "Dublin",
+    "stage": "multi",
+    "check_size": "fund commitments and co-investment",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.isif.ie/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Companies Registration Office",
+    "type": "government_agency",
+    "url": "https://www.cro.ie/",
+    "note": "Company incorporation (CORE)"
+   },
+   {
+    "name": "Enterprise Ireland",
+    "type": "government_agency",
+    "url": "https://www.enterprise-ireland.com/en/",
+    "note": "Main startup and export agency, HPSU programme"
+   },
+   {
+    "name": "Local Enterprise Offices",
+    "type": "government_agency",
+    "url": "https://www.localenterprise.ie/",
+    "note": "31 offices with grants and mentoring for micro firms"
+   },
+   {
+    "name": "SBCI",
+    "type": "government_agency",
+    "url": "https://www.sbci.gov.ie/",
+    "note": "State-backed SME loan schemes"
+   },
+   {
+    "name": "Research Ireland",
+    "type": "government_agency",
+    "url": "https://www.researchireland.ie/",
+    "note": "Research funding agency (SFI successor)"
+   },
+   {
+    "name": "Irish Venture Capital Association",
+    "type": "startup_association",
+    "url": "https://www.ivca.ie/",
+    "note": "VC industry body and data"
+   },
+   {
+    "name": "TechIreland",
+    "type": "database",
+    "url": "https://techireland.org/",
+    "note": "Database of Irish startups and funding"
+   },
+   {
+    "name": "Silicon Republic",
+    "type": "other",
+    "url": "https://www.siliconrepublic.com/",
+    "note": "Tech and startup news"
+   }
+  ],
+  "sources": [
+   "https://www.enterprise-ireland.com/en/supports/start-ups",
+   "https://www.enterprise-ireland.com/en/supports/funding-and-grants",
+   "https://www.ndrc.ie/accelerator",
+   "https://www.ndrc.ie/pre-accelerator",
+   "https://www.revenue.ie/en/companies-and-charities/reliefs-and-exemptions/research-and-development-rd-tax-credit/index.aspx"
+  ],
+  "confidence": "medium",
+  "notes": "The Competitive Start Fund no longer appears on Enterprise Ireland's site; the Pre-Seed Start Fund has taken its place. The NDRC Accelerator says rolling intake but applications are currently closed. The €50k STEP threshold is from prior guidance, because the immigration page content could not be read. Web search budget ran out mid-batch, so some deadlines are 'unknown'."
+ }
+]

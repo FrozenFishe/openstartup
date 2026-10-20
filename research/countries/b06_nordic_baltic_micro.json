@@ -1,0 +1,2844 @@
+[
+ {
+  "country": "Sweden",
+  "iso2": "SE",
+  "ecosystem_tier": "established",
+  "summary": "Europe's most prolific unicorn producer per capita, centred on Stockholm with hubs in Gothenburg, Malmo/Lund and Uppsala. Strong in fintech, gaming, music tech, impact and deep tech; exits include Skype, Mojang, King, Klarna (IPO) and Spotify.",
+  "startup_visa": "none (no dedicated startup visa; non-EU founders use the self-employment residence permit from Migrationsverket), https://www.migrationsverket.se/",
+  "company_setup": "Aktiebolag (AB), minimum share capital SEK 25,000; registered with Bolagsverket via verksamt.se, online registration needs Swedish e-ID (BankID), otherwise paper filing; typically 1-2 weeks.",
+  "grants": [
+   {
+    "name": "Vinnova innovation funding calls (incl. startup and SME calls)",
+    "agency": "Vinnova",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "Swedish companies/startups, research-intensive innovation projects",
+    "deadline": "varies by call; see calls overview",
+    "status": "unknown",
+    "url": "https://www.vinnova.se/en/apply-for-funding/find-the-right-funding/"
+   },
+   {
+    "name": "Almi innovation loans and business development",
+    "agency": "Almi Foretagspartner (state-owned)",
+    "amount": "loans sized per project",
+    "amount_usd_max": null,
+    "eligibility": "Swedish SMEs and early-stage companies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.almi.se/en/"
+   },
+   {
+    "name": "Swedish Energy Agency innovation funding",
+    "agency": "Energimyndigheten",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "energy and cleantech startups and SMEs",
+    "deadline": "varies by call",
+    "status": "unknown",
+    "url": "https://www.energimyndigheten.se/en/"
+   },
+   {
+    "name": "Tillvaxtverket regional business support",
+    "agency": "Swedish Agency for Economic and Regional Growth",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "SMEs, mostly via regional programs and EU structural funds",
+    "deadline": "varies",
+    "status": "unknown",
+    "url": "https://tillvaxtverket.se/"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs/startups in EU or Horizon Europe associated countries, TRL 6-8",
+    "deadline": "2026-11-04 (full proposal); short proposals rolling, batched first Tuesday monthly (next 2026-11-03)",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Sting",
+    "city": "Stockholm",
+    "type": "accelerator",
+    "investment": "possible SEK 500k via Propel Capital plus soft funding",
+    "sectors": "climate and energy, health, digital/AI, deep tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.sting.co/"
+   },
+   {
+    "name": "Chalmers Ventures",
+    "city": "Gothenburg",
+    "type": "venture_studio",
+    "investment": "pre-seed equity in university spinouts",
+    "sectors": "deep tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://chalmersventures.com/"
+   },
+   {
+    "name": "KTH Innovation",
+    "city": "Stockholm",
+    "type": "university",
+    "investment": "no equity; verification funding and coaching",
+    "sectors": "deep tech, generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.kth.se/en/om/innovation"
+   },
+   {
+    "name": "Norrsken Foundation / Norrsken House",
+    "city": "Stockholm",
+    "type": "incubator",
+    "investment": "impact hub; investment via Norrsken VC",
+    "sectors": "impact",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.norrsken.org/"
+   },
+   {
+    "name": "Lindholmen Science Park",
+    "city": "Gothenburg",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "mobility, digitalisation, media",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.lindholmen.se/sv"
+   },
+   {
+    "name": "Science Park Jonkoping",
+    "city": "Jonkoping",
+    "type": "incubator",
+    "investment": "no equity; coaching and soft funding",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://sciencepark.se/"
+   },
+   {
+    "name": "Kista Science City",
+    "city": "Stockholm (Kista)",
+    "type": "incubator",
+    "investment": "ecosystem hub, no equity",
+    "sectors": "ICT, deep tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://kistasciencecity.com/"
+   },
+   {
+    "name": "Antler Nordics",
+    "city": "Stockholm / Oslo / Copenhagen / Helsinki",
+    "type": "accelerator",
+    "investment": "EUR 100k for 8.5% plus EUR 100k uncapped convertible (EUR 500k standard deal)",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.antler.co/nordics"
+   },
+   {
+    "name": "EIT Jumpstarter",
+    "city": "online / pan-European",
+    "type": "accelerator",
+    "investment": "no equity; prizes for finalists",
+    "sectors": "health, climate, energy, food, manufacturing, mobility, raw materials",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://eitjumpstarter.eu/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Creandum",
+    "city": "Stockholm",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://creandum.com/"
+   },
+   {
+    "name": "EQT Ventures",
+    "city": "Stockholm",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://eqtgroup.com/private-capital/eqt-ventures"
+   },
+   {
+    "name": "Northzone",
+    "city": "Stockholm / London",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.northzone.com/"
+   },
+   {
+    "name": "Norrsken VC",
+    "city": "Stockholm",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "impact, climate, health",
+    "type": "vc",
+    "url": "https://www.norrsken.vc/"
+   },
+   {
+    "name": "Luminar Ventures",
+    "city": "Stockholm",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "software",
+    "type": "vc",
+    "url": "https://www.luminarventures.com/"
+   },
+   {
+    "name": "Industrifonden",
+    "city": "Stockholm",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "deep tech, life science, climate",
+    "type": "government_fund",
+    "url": "https://industrifonden.com/"
+   },
+   {
+    "name": "Almi Invest",
+    "city": "Stockholm (regional offices)",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.almi.se/en/venture-capital/"
+   },
+   {
+    "name": "Saminvest",
+    "city": "Stockholm",
+    "stage": "multi",
+    "check_size": "fund-of-funds",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.saminvest.se/en/"
+   },
+   {
+    "name": "Backingminds",
+    "city": "Stockholm",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist, underrepresented founders",
+    "type": "vc",
+    "url": "https://www.backingminds.com/"
+   },
+   {
+    "name": "Wellstreet",
+    "city": "Stockholm",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://wellstreet.se/"
+   },
+   {
+    "name": "Kinnevik",
+    "city": "Stockholm",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "healthcare, software, climate",
+    "type": "family_office",
+    "url": "https://www.kinnevik.com/"
+   },
+   {
+    "name": "Propel Capital (Sting)",
+    "city": "Stockholm",
+    "stage": "pre-seed",
+    "check_size": "up to SEK 500k",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://propelcapital.sting.co"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Vinnova",
+    "type": "government_agency",
+    "url": "https://www.vinnova.se/en/",
+    "note": "Sweden's innovation agency"
+   },
+   {
+    "name": "verksamt.se",
+    "type": "government_agency",
+    "url": "https://verksamt.se/en",
+    "note": "Official guide to starting and registering a company"
+   },
+   {
+    "name": "SISP - Swedish Incubators and Science Parks",
+    "type": "startup_association",
+    "url": "https://sisp.se/en/",
+    "note": "Directory of Swedish incubators and science parks"
+   },
+   {
+    "name": "SVCA",
+    "type": "startup_association",
+    "url": "https://www.svca.se/",
+    "note": "Swedish Private Equity and Venture Capital Association"
+   },
+   {
+    "name": "Founders Alliance",
+    "type": "community",
+    "url": "https://www.foundersalliance.se/",
+    "note": "Founder network and peer groups"
+   },
+   {
+    "name": "Techarena",
+    "type": "event",
+    "url": "https://techarena.se/",
+    "note": "Stockholm tech conference (next edition 2027)"
+   },
+   {
+    "name": "Nordic Innovation",
+    "type": "government_agency",
+    "url": "https://nordicinnovation.org/",
+    "note": "Nordic Council of Ministers body funding cross-Nordic innovation projects"
+   },
+   {
+    "name": "European Investment Fund",
+    "type": "other",
+    "url": "https://www.eif.org/",
+    "note": "EU fund-of-funds backing most Nordic/Baltic VC funds"
+   }
+  ],
+  "sources": [
+   "https://www.vinnova.se/en/",
+   "https://www.almi.se/en/",
+   "https://www.sting.co/",
+   "https://www.antler.co/nordics",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "medium",
+  "notes": "Vinnova call list could not be parsed on 2026-10-20; check calls overview for live startup calls and deadlines. Sting autumn 2026 cohort already started; next intake date not published."
+ },
+ {
+  "country": "Denmark",
+  "iso2": "DK",
+  "ecosystem_tier": "established",
+  "summary": "Copenhagen-centred ecosystem with strong life science (Novo Nordisk Foundation, BII), fintech, cleantech and robotics (Odense). Notable exits include Zendesk, Unity (origins), Trustpilot (IPO) and Pleo as a scaleup.",
+  "startup_visa": "Start-up Denmark residence permit (business plan approved by expert panel), https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Start-up-Denmark",
+  "company_setup": "ApS (private limited) registered online at virk.dk within days; requires MitID or a representative; share capital paid in at registration.",
+  "grants": [
+   {
+    "name": "InnoBooster",
+    "agency": "Innovation Fund Denmark (Danmarks Innovationsfond)",
+    "amount": "DKK 200,000-5M, up to 35% of project costs",
+    "amount_usd_max": 750000,
+    "eligibility": "Danish SMEs with CVR and minimum risk capital or gross profit",
+    "deadline": "last: 2026-10-15 (Pool 4); next pool not yet announced",
+    "status": "upcoming",
+    "url": "https://danmarksinnovationsfond.dk/en/programmes/innobooster/"
+   },
+   {
+    "name": "Innofounder",
+    "agency": "Innovation Fund Denmark (Danmarks Innovationsfond)",
+    "amount": "DKK 27,500 per founder per month plus up to DKK 100,000 development grant",
+    "amount_usd_max": 15000,
+    "eligibility": "graduate founders (120+ ECTS), full-time, Danish CVR before start",
+    "deadline": "no call open; next call not announced",
+    "status": "upcoming",
+    "url": "https://danmarksinnovationsfond.dk/en/programmes/innofounder/"
+   },
+   {
+    "name": "EIFO loans and co-investment",
+    "agency": "Export and Investment Fund of Denmark (EIFO)",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Danish startups and SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://eifo.dk/en"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs/startups in EU or Horizon Europe associated countries, TRL 6-8",
+    "deadline": "2026-11-04 (full proposal); short proposals rolling, batched first Tuesday monthly (next 2026-11-03)",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "BioInnovation Institute Venture Lab",
+    "city": "Copenhagen",
+    "type": "incubator",
+    "investment": "up to DKK 4M funding",
+    "sectors": "life science, biosolutions",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://bii.dk/"
+   },
+   {
+    "name": "Accelerace",
+    "city": "Copenhagen",
+    "type": "accelerator",
+    "investment": "pre-seed equity (Accelerace Invest II)",
+    "sectors": "generalist tech, life science",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://accelerace.io/"
+   },
+   {
+    "name": "DTU Skylab",
+    "city": "Lyngby",
+    "type": "university",
+    "investment": "no equity; grants and lab access",
+    "sectors": "deep tech, generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.skylab.dtu.dk/"
+   },
+   {
+    "name": "Symbion",
+    "city": "Copenhagen",
+    "type": "incubator",
+    "investment": "no equity; office community",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://symbion.dk/"
+   },
+   {
+    "name": "Copenhagen Fintech",
+    "city": "Copenhagen",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "fintech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.copenhagenfintech.dk/"
+   },
+   {
+    "name": "Antler Nordics",
+    "city": "Stockholm / Oslo / Copenhagen / Helsinki",
+    "type": "accelerator",
+    "investment": "EUR 100k for 8.5% plus EUR 100k uncapped convertible (EUR 500k standard deal)",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.antler.co/nordics"
+   },
+   {
+    "name": "Startup Wise Guys",
+    "city": "Copenhagen (Denmark location) / Tallinn",
+    "type": "accelerator",
+    "investment": "initial ticket EUR 100k in flagship programs",
+    "sectors": "B2B SaaS, fintech, cybersecurity, defence, sustainability, proptech",
+    "deadline": "2026-11-02 (Founders Club); flagship accelerator unknown",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://startupwiseguys.com/"
+   },
+   {
+    "name": "EIT Jumpstarter",
+    "city": "online / pan-European",
+    "type": "accelerator",
+    "investment": "no equity; prizes for finalists",
+    "sectors": "health, climate, energy, food, manufacturing, mobility, raw materials",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://eitjumpstarter.eu/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "EIFO (venture)",
+    "city": "Copenhagen",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist, life science, cleantech",
+    "type": "government_fund",
+    "url": "https://eifo.dk/en"
+   },
+   {
+    "name": "Seed Capital",
+    "city": "Copenhagen",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech, life science",
+    "type": "vc",
+    "url": "https://www.seedcapital.dk/"
+   },
+   {
+    "name": "byFounders",
+    "city": "Copenhagen",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://byfounders.vc/"
+   },
+   {
+    "name": "Nordic Makers",
+    "city": "Copenhagen",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.nordicmakers.vc/"
+   },
+   {
+    "name": "Heartcore",
+    "city": "Copenhagen",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "consumer, software",
+    "type": "vc",
+    "url": "https://www.heartcore.com/"
+   },
+   {
+    "name": "Nordic Alpha Partners",
+    "city": "Aarhus / Copenhagen",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "hardtech, climate",
+    "type": "vc",
+    "url": "https://www.nordicalpha.com/"
+   },
+   {
+    "name": "Northcap",
+    "city": "Copenhagen",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "life science",
+    "type": "vc",
+    "url": "https://www.northcap.com/"
+   },
+   {
+    "name": "Novo Holdings",
+    "city": "Copenhagen",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "life science",
+    "type": "cvc",
+    "url": "https://novoholdings.com/"
+   },
+   {
+    "name": "Unconventional Ventures",
+    "city": "Copenhagen",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "impact tech",
+    "type": "vc",
+    "url": "https://www.unconventional.vc/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Startup Denmark (Erhvervsstyrelsen)",
+    "type": "government_agency",
+    "url": "https://www.startupdenmark.dk/",
+    "note": "Official guide for founders"
+   },
+   {
+    "name": "virk.dk",
+    "type": "government_agency",
+    "url": "https://virk.dk/",
+    "note": "Company registration and business portal"
+   },
+   {
+    "name": "Start-up Denmark programme",
+    "type": "government_agency",
+    "url": "https://startupdenmarkprogramme.dk/",
+    "note": "Founder residence scheme info"
+   },
+   {
+    "name": "Startupcentral",
+    "type": "startup_association",
+    "url": "https://startupcentral.dk/",
+    "note": "Danish startup community and info"
+   },
+   {
+    "name": "Digital Hub Denmark",
+    "type": "other",
+    "url": "https://www.digitalhubdenmark.dk/",
+    "note": "Public-private digital ecosystem promoter"
+   },
+   {
+    "name": "The Hub",
+    "type": "database",
+    "url": "https://thehub.io/",
+    "note": "Nordic startup jobs and funding database"
+   },
+   {
+    "name": "Nordic Innovation",
+    "type": "government_agency",
+    "url": "https://nordicinnovation.org/",
+    "note": "Nordic Council of Ministers body funding cross-Nordic innovation projects"
+   }
+  ],
+  "sources": [
+   "https://danmarksinnovationsfond.dk/en/programmes/innobooster/",
+   "https://eifo.dk/en",
+   "https://bii.dk/",
+   "https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Start-up-Denmark",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "medium",
+  "notes": "Innovation Fund Denmark site now brands as Danmarks Innovationsfond; on 2026-10-20 it showed no open InnoBooster/Innofounder calls."
+ },
+ {
+  "country": "Norway",
+  "iso2": "NO",
+  "ecosystem_tier": "established",
+  "summary": "Oslo-led ecosystem with Bergen and Trondheim (NTNU); strengths in ocean, energy, climate tech, fintech and seafood tech. Strong public funding via Innovation Norway, Research Council and SkatteFUNN; notable exits include Kahoot! and Cognite growth.",
+  "startup_visa": "none (no dedicated startup visa; self-employed residence permit via UDI), https://www.udi.no/en/want-to-apply/work-immigration/self-employed/",
+  "company_setup": "Aksjeselskap (AS), minimum share capital NOK 30,000; registered via Altinn with the Bronnoysund Register Centre; online filing needs Norwegian e-ID.",
+  "grants": [
+   {
+    "name": "Innovation Norway startup grants (market test, business model, commercialisation phases)",
+    "agency": "Innovation Norway",
+    "amount": "varies by phase",
+    "amount_usd_max": null,
+    "eligibility": "Norwegian startups with significantly new solutions",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.innovasjonnorge.no/en/seksjon/starte"
+   },
+   {
+    "name": "SkatteFUNN R&D tax incentive",
+    "agency": "Research Council of Norway",
+    "amount": "tax deduction on R&D costs, paid out as cash if no tax payable",
+    "amount_usd_max": null,
+    "eligibility": "Norwegian companies with approved R&D projects",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.forskningsradet.no/skattefunn/"
+   },
+   {
+    "name": "Research Council innovation projects for industry",
+    "agency": "Research Council of Norway",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "Norwegian companies",
+    "deadline": "varies by call",
+    "status": "unknown",
+    "url": "https://www.forskningsradet.no/en/"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs in Norway (Horizon Europe associated country)",
+    "deadline": "2026-11-04 (full proposal); short proposals rolling, batched first Tuesday monthly (next 2026-11-03)",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "StartupLab",
+    "city": "Oslo / Bergen",
+    "type": "accelerator",
+    "investment": "investment via programs and Startuplab Ventures",
+    "sectors": "energy, construction, AI, fintech, hardware",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.startuplab.no/"
+   },
+   {
+    "name": "Katapult Ocean",
+    "city": "Oslo",
+    "type": "accelerator",
+    "investment": "equity investment",
+    "sectors": "ocean impact",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.katapultocean.com/"
+   },
+   {
+    "name": "Validé",
+    "city": "Stavanger",
+    "type": "incubator",
+    "investment": "no equity or small pre-seed",
+    "sectors": "generalist, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.valide.no/"
+   },
+   {
+    "name": "Norinnova",
+    "city": "Tromso",
+    "type": "incubator",
+    "investment": "pre-seed",
+    "sectors": "arctic, marine, health",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://norinnova.no/"
+   },
+   {
+    "name": "NTNU Discovery",
+    "city": "Trondheim",
+    "type": "university",
+    "investment": "verification funding, no equity",
+    "sectors": "deep tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ntnudiscovery.no/"
+   },
+   {
+    "name": "Antler Nordics",
+    "city": "Stockholm / Oslo / Copenhagen / Helsinki",
+    "type": "accelerator",
+    "investment": "EUR 100k for 8.5% plus EUR 100k uncapped convertible (EUR 500k standard deal)",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.antler.co/nordics"
+   },
+   {
+    "name": "EIT Jumpstarter",
+    "city": "online / pan-European",
+    "type": "accelerator",
+    "investment": "no equity; prizes for finalists",
+    "sectors": "health, climate, energy, food, manufacturing, mobility, raw materials",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://eitjumpstarter.eu/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Investinor",
+    "city": "Trondheim / Oslo",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://investinor.no/en/"
+   },
+   {
+    "name": "Alliance Venture",
+    "city": "Oslo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://alliance.vc/"
+   },
+   {
+    "name": "Idekapital",
+    "city": "Oslo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "software",
+    "type": "vc",
+    "url": "https://idekapital.com/"
+   },
+   {
+    "name": "Katapult VC",
+    "city": "Oslo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "impact, climate",
+    "type": "vc",
+    "url": "https://katapult.vc/"
+   },
+   {
+    "name": "Skyfall Ventures",
+    "city": "Oslo",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.skyfall.vc/"
+   },
+   {
+    "name": "Nordic Ninja",
+    "city": "Oslo / Helsinki",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech, climate",
+    "type": "vc",
+    "url": "https://nordicninja.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Innovation Norway",
+    "type": "government_agency",
+    "url": "https://www.innovasjonnorge.no/en",
+    "note": "State innovation and startup funding agency"
+   },
+   {
+    "name": "Research Council of Norway",
+    "type": "government_agency",
+    "url": "https://www.forskningsradet.no/en/",
+    "note": "R&D funding and SkatteFUNN"
+   },
+   {
+    "name": "Bronnoysund Register Centre",
+    "type": "government_agency",
+    "url": "https://www.brreg.no/en/",
+    "note": "Company register"
+   },
+   {
+    "name": "Altinn",
+    "type": "government_agency",
+    "url": "https://info.altinn.no/en/",
+    "note": "Business registration and reporting portal"
+   },
+   {
+    "name": "Oslo&Co",
+    "type": "other",
+    "url": "https://osloandco.no/",
+    "note": "Oslo business region promotion"
+   },
+   {
+    "name": "Oslo Innovation Week",
+    "type": "event",
+    "url": "https://www.oiw.no/",
+    "note": "19-22 October 2026"
+   },
+   {
+    "name": "Nordic Innovation",
+    "type": "government_agency",
+    "url": "https://nordicinnovation.org/",
+    "note": "Nordic Council of Ministers body funding cross-Nordic innovation projects"
+   }
+  ],
+  "sources": [
+   "https://www.innovasjonnorge.no/en/seksjon/starte",
+   "https://www.forskningsradet.no/skattefunn/",
+   "https://investinor.no/en/",
+   "https://www.startuplab.no/"
+  ],
+  "confidence": "medium",
+  "notes": "Innovation Norway phase grant amounts not stated on English pages; check raskavklaring.innovasjonnorge.no for personalised offers."
+ },
+ {
+  "country": "Finland",
+  "iso2": "FI",
+  "ecosystem_tier": "established",
+  "summary": "Helsinki/Espoo-centred ecosystem anchored by Slush and Aalto, with Tampere, Oulu and Turku. Strong in gaming (Supercell, Rovio), deep tech (IQM), health and B2B SaaS; Business Finland is a major public funder.",
+  "startup_visa": "Finnish Startup Permit (Business Finland eligibility statement, then residence permit from Migri), https://www.startupinfinland.com/applying/",
+  "company_setup": "Osakeyhtio (Oy), no minimum share capital; registered with PRH (Finnish Patent and Registration Office) online via YTJ, needs Finnish e-ID, otherwise paper or agent; about 1-2 weeks.",
+  "grants": [
+   {
+    "name": "Business Finland Sprint grant (startups)",
+    "agency": "Business Finland",
+    "amount": "not stated",
+    "amount_usd_max": null,
+    "eligibility": "Finnish Oy under 50 staff, at least EUR 50k equity raised, team of 2+, mainly R&D",
+    "deadline": "fixed-term call open; deadline not stated",
+    "status": "open",
+    "url": "https://www.businessfinland.fi/en/services/funding/funding-services/Startup-funding/"
+   },
+   {
+    "name": "Business Finland Deep Tech Accelerator",
+    "agency": "Business Finland",
+    "amount": "not stated",
+    "amount_usd_max": null,
+    "eligibility": "Finnish Oy under 5 years, research/IP-based, full-time founding team",
+    "deadline": "per call; see funding calls",
+    "status": "unknown",
+    "url": "https://www.businessfinland.fi/en/services/funding/funding-services/Startup-funding/"
+   },
+   {
+    "name": "Business Finland R&D and piloting funding",
+    "agency": "Business Finland",
+    "amount": "grants and loans, varies",
+    "amount_usd_max": null,
+    "eligibility": "Finnish companies seeking international growth",
+    "deadline": "call open",
+    "status": "open",
+    "url": "https://www.businessfinland.fi/en/services/funding/"
+   },
+   {
+    "name": "Finnvera loans and guarantees",
+    "agency": "Finnvera (state-owned)",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Finnish SMEs including startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.finnvera.fi/eng"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs/startups in EU or Horizon Europe associated countries, TRL 6-8",
+    "deadline": "2026-11-04 (full proposal); short proposals rolling, batched first Tuesday monthly (next 2026-11-03)",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Maria 01",
+    "city": "Helsinki",
+    "type": "incubator",
+    "investment": "no equity; startup campus",
+    "sectors": "generalist tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://maria.io/"
+   },
+   {
+    "name": "Startup Sauna",
+    "city": "Espoo",
+    "type": "accelerator",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.startupsauna.com/"
+   },
+   {
+    "name": "Kiuas",
+    "city": "Helsinki",
+    "type": "accelerator",
+    "investment": "unknown",
+    "sectors": "idea-stage founders, generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://kiuas.com/"
+   },
+   {
+    "name": "NewCo Helsinki",
+    "city": "Helsinki",
+    "type": "government",
+    "investment": "free advisory, no equity",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.newcohelsinki.fi/"
+   },
+   {
+    "name": "Antler Nordics",
+    "city": "Stockholm / Oslo / Copenhagen / Helsinki",
+    "type": "accelerator",
+    "investment": "EUR 100k for 8.5% plus EUR 100k uncapped convertible (EUR 500k standard deal)",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.antler.co/nordics"
+   },
+   {
+    "name": "EIT Jumpstarter",
+    "city": "online / pan-European",
+    "type": "accelerator",
+    "investment": "no equity; prizes for finalists",
+    "sectors": "health, climate, energy, food, manufacturing, mobility, raw materials",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://eitjumpstarter.eu/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Lifeline Ventures",
+    "city": "Helsinki",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist, health",
+    "type": "vc",
+    "url": "https://www.lifelineventures.com/"
+   },
+   {
+    "name": "Maki.vc",
+    "city": "Helsinki",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech, brands",
+    "type": "vc",
+    "url": "https://maki.vc/"
+   },
+   {
+    "name": "Inventure",
+    "city": "Helsinki",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech (Nordics, Baltics)",
+    "type": "vc",
+    "url": "https://www.inventure.vc/"
+   },
+   {
+    "name": "Icebreaker.vc",
+    "city": "Helsinki",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.icebreaker.vc/"
+   },
+   {
+    "name": "Voima Ventures",
+    "city": "Helsinki",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech",
+    "type": "vc",
+    "url": "https://voimaventures.com/"
+   },
+   {
+    "name": "Vendep Capital",
+    "city": "Helsinki",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B SaaS",
+    "type": "vc",
+    "url": "https://www.vendep.com/"
+   },
+   {
+    "name": "Butterfly Ventures",
+    "city": "Helsinki",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech, industrial",
+    "type": "vc",
+    "url": "https://butterfly.vc/"
+   },
+   {
+    "name": "Sisu Game Ventures",
+    "city": "Helsinki",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "gaming",
+    "type": "vc",
+    "url": "https://sisu.vc/"
+   },
+   {
+    "name": "Innovestor",
+    "city": "Helsinki",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech, life science",
+    "type": "vc",
+    "url": "https://innovestorgroup.com/"
+   },
+   {
+    "name": "Tesi (Finnish Industry Investment)",
+    "city": "Helsinki",
+    "stage": "multi",
+    "check_size": "fund-of-funds and direct",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://tesi.fi/en/"
+   },
+   {
+    "name": "FiBAN",
+    "city": "Helsinki",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://fiban.org/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Business Finland",
+    "type": "government_agency",
+    "url": "https://www.businessfinland.fi/en",
+    "note": "Innovation funding and Team Finland export services"
+   },
+   {
+    "name": "Startup in Finland",
+    "type": "government_agency",
+    "url": "https://www.startupinfinland.com/",
+    "note": "Startup Permit information"
+   },
+   {
+    "name": "PRH",
+    "type": "government_agency",
+    "url": "https://www.prh.fi/en/index.html",
+    "note": "Trade register"
+   },
+   {
+    "name": "Slush",
+    "type": "event",
+    "url": "https://slush.org/",
+    "note": "Slush 2026, Helsinki, 18-19 November"
+   },
+   {
+    "name": "Aaltoes",
+    "type": "community",
+    "url": "https://www.aaltoes.com/",
+    "note": "Student entrepreneurship society"
+   },
+   {
+    "name": "Paaomasijoittajat (Finnish Venture Capital Association)",
+    "type": "startup_association",
+    "url": "https://www.paaomasijoittajat.fi/",
+    "note": "VC/PE industry association"
+   },
+   {
+    "name": "Helsinki Partners",
+    "type": "other",
+    "url": "https://www.helsinkipartners.com/",
+    "note": "City of Helsinki investment and talent promotion"
+   }
+  ],
+  "sources": [
+   "https://www.businessfinland.fi/en/services/funding/funding-services/Startup-funding/",
+   "https://www.startupinfinland.com/",
+   "https://slush.org/",
+   "https://tesi.fi/en/"
+  ],
+  "confidence": "medium",
+  "notes": "Business Finland startup instruments renamed (Sprint grant, Deep Tech Accelerator); amounts not shown on the summary page."
+ },
+ {
+  "country": "Iceland",
+  "iso2": "IS",
+  "ecosystem_tier": "emerging",
+  "summary": "Small Reykjavik-based ecosystem strong in gaming (CCP), fintech (Meniga), health (Kerecis, sold to Coloplast), ocean and climate tech (Carbfix). Public funding via Rannis Technology Development Fund and the Kria innovation fund.",
+  "startup_visa": "none (no dedicated startup visa; non-EEA founders need a work/residence permit via the Directorate of Immigration)",
+  "company_setup": "Private limited company (ehf.), minimum share capital ISK 500,000; registered with Iceland Revenue and Customs (Skatturinn) company register; EEA nationals can register with an Icelandic ID number.",
+  "grants": [
+   {
+    "name": "Technology Development Fund - Fræ/Throunarfræ seed grants",
+    "agency": "Rannis (Technology Development Fund)",
+    "amount": "not stated on page",
+    "amount_usd_max": null,
+    "eligibility": "early-stage ideas and startups in Iceland",
+    "deadline": "rolling (open all year)",
+    "status": "rolling",
+    "url": "https://island.is/v/taeknithrounarsjodur"
+   },
+   {
+    "name": "Technology Development Fund - Sproti, Voxtur, Markadur",
+    "agency": "Rannis (Technology Development Fund)",
+    "amount": "not stated on page",
+    "amount_usd_max": null,
+    "eligibility": "Icelandic startups and SMEs at growth and market stages",
+    "deadline": "last: 2026-09-15 (annual, usually Aug-Sep)",
+    "status": "closed",
+    "url": "https://island.is/v/taeknithrounarsjodur"
+   },
+   {
+    "name": "Technology Development Fund - patent grants (Einkaleyfi)",
+    "agency": "Rannis",
+    "amount": "not stated",
+    "amount_usd_max": null,
+    "eligibility": "Icelandic companies filing patents",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://island.is/v/taeknithrounarsjodur"
+   },
+   {
+    "name": "Svanni loan guarantee fund for women",
+    "agency": "Svanni (government-backed)",
+    "amount": "loan guarantees",
+    "amount_usd_max": null,
+    "eligibility": "women-led businesses in Iceland",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.svanni.is/"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs in Iceland (Horizon Europe associated country)",
+    "deadline": "2026-11-04 (full proposal); short proposals rolling, batched first Tuesday monthly (next 2026-11-03)",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "KLAK - Icelandic Startups",
+    "city": "Reykjavik",
+    "type": "accelerator",
+    "investment": "no equity; accelerators (Hringida green, KLAK health, Startup SuperNova)",
+    "sectors": "generalist, green, health",
+    "deadline": "applications open; deadlines not shown",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://klak.is/en/"
+   },
+   {
+    "name": "Gulleggid",
+    "city": "Reykjavik",
+    "type": "accelerator",
+    "investment": "prizes, no equity",
+    "sectors": "generalist (idea competition)",
+    "deadline": "annual (2026 round closed)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://gulleggid.is/"
+   },
+   {
+    "name": "Iceland Ocean Cluster",
+    "city": "Reykjavik",
+    "type": "incubator",
+    "investment": "no equity; cluster house",
+    "sectors": "ocean, seafood, blue economy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://sjavarklasinn.is/en/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Nyskopunarsjodurinn Kria",
+    "city": "Reykjavik",
+    "stage": "multi",
+    "check_size": "fund-of-funds plus direct early-stage",
+    "sectors": "generalist, health (Heilsu Kria)",
+    "type": "government_fund",
+    "url": "https://www.nyskopun.is/"
+   },
+   {
+    "name": "Brunnur Ventures",
+    "city": "Reykjavik",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.brunnur.vc/"
+   },
+   {
+    "name": "Crowberry Capital",
+    "city": "Reykjavik",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.crowberrycapital.com/"
+   },
+   {
+    "name": "Frumtak Ventures",
+    "city": "Reykjavik",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://frumtak.is/"
+   },
+   {
+    "name": "Northstack",
+    "city": "Reykjavik",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.northstack.is/"
+   },
+   {
+    "name": "ReykVC",
+    "city": "Reykjavik",
+    "stage": "unknown",
+    "check_size": "unknown",
+    "sectors": "global-challenge tech",
+    "type": "vc",
+    "url": "https://reykvc.is/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Rannis",
+    "type": "government_agency",
+    "url": "https://island.is/s/rannis",
+    "note": "Icelandic Centre for Research, runs Technology Development Fund"
+   },
+   {
+    "name": "Business Iceland (Islandsstofa)",
+    "type": "government_agency",
+    "url": "https://www.islandsstofa.is/en/",
+    "note": "Export and investment promotion"
+   },
+   {
+    "name": "Iceland Revenue and Customs",
+    "type": "government_agency",
+    "url": "https://www.skatturinn.is/english/",
+    "note": "Company register and tax"
+   },
+   {
+    "name": "Startup Iceland",
+    "type": "event",
+    "url": "https://startupiceland.com/",
+    "note": "Conference and ecosystem community"
+   },
+   {
+    "name": "Hugverkastofan",
+    "type": "legal_tax",
+    "url": "https://www.hugverk.is/",
+    "note": "Icelandic IP Office"
+   },
+   {
+    "name": "Nordic Innovation",
+    "type": "government_agency",
+    "url": "https://nordicinnovation.org/",
+    "note": "Nordic Council of Ministers body funding cross-Nordic innovation projects"
+   }
+  ],
+  "sources": [
+   "https://island.is/v/taeknithrounarsjodur",
+   "https://klak.is/en/",
+   "https://www.nyskopun.is/",
+   "https://frumtak.is/"
+  ],
+  "confidence": "medium",
+  "notes": "Nyskopunarmidstod Islands (Innovation Center Iceland) has been dissolved. Rannis grant amounts not shown on the island.is page."
+ },
+ {
+  "country": "Estonia",
+  "iso2": "EE",
+  "ecosystem_tier": "established",
+  "summary": "Highest startup density in Europe, centred on Tallinn and Tartu; unicorns include Skype, Wise, Bolt, Pipedrive and Veriff. Strong digital government (e-Residency) and active Baltic VC scene.",
+  "startup_visa": "Estonia Startup Visa (Startup Committee approval, up to 365 days long-stay, extendable), https://startupestonia.ee/startup-visa/",
+  "company_setup": "OU (private limited), fully online via e-Residency or Estonian ID in about a day; minimal share capital; non-residents need a local contact person/registered address.",
+  "grants": [
+   {
+    "name": "EIS innovation loan",
+    "agency": "Enterprise and Innovation Foundation (EIS)",
+    "amount": "not stated",
+    "amount_usd_max": null,
+    "eligibility": "Estonian companies developing innovative products",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://eis.ee/en/services/innovatsioonilaen/"
+   },
+   {
+    "name": "EIS funding for companies (grants, loans, guarantees)",
+    "agency": "EIS (merged Enterprise Estonia and KredEx)",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Estonian companies",
+    "deadline": "varies",
+    "status": "unknown",
+    "url": "https://eis.ee/en/funding/?context=company-in-estonia"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs/startups in EU or Horizon Europe associated countries, TRL 6-8",
+    "deadline": "2026-11-04 (full proposal); short proposals rolling, batched first Tuesday monthly (next 2026-11-03)",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Startup Wise Guys",
+    "city": "Tallinn (programs across Baltics, Nordics, Europe)",
+    "type": "accelerator",
+    "investment": "initial ticket EUR 100k in flagship programs",
+    "sectors": "B2B SaaS, fintech, cybersecurity, defence, sustainability, proptech",
+    "deadline": "2026-11-02 (Founders Club); flagship accelerator unknown",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://startupwiseguys.com/"
+   },
+   {
+    "name": "Tehnopol Startup Incubator",
+    "city": "Tallinn",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.startupincubator.ee/"
+   },
+   {
+    "name": "Sparkup Tartu Science Park",
+    "city": "Tartu",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://teaduspark.ee/en/"
+   },
+   {
+    "name": "Prototron",
+    "city": "Tallinn",
+    "type": "incubator",
+    "investment": "prototype grants",
+    "sectors": "hardware, tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://prototron.ee/"
+   },
+   {
+    "name": "Ajujaht",
+    "city": "Tallinn",
+    "type": "government",
+    "investment": "prize fund, no equity",
+    "sectors": "generalist (national startup competition)",
+    "deadline": "annual",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://ajujaht.ee/"
+   },
+   {
+    "name": "LIFT99",
+    "city": "Tallinn",
+    "type": "incubator",
+    "investment": "no equity; founder hub",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://lift99.co/"
+   },
+   {
+    "name": "EIT Jumpstarter",
+    "city": "online / pan-European",
+    "type": "accelerator",
+    "investment": "no equity; prizes for finalists",
+    "sectors": "health, climate, energy, food, manufacturing, mobility, raw materials",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://eitjumpstarter.eu/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Superangel",
+    "city": "Tallinn",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://superangel.io/"
+   },
+   {
+    "name": "Karma Ventures",
+    "city": "Tallinn",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech, software",
+    "type": "vc",
+    "url": "https://www.karma.vc/"
+   },
+   {
+    "name": "Specialist VC",
+    "city": "Tallinn",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://specialist.vc/"
+   },
+   {
+    "name": "Trind Ventures",
+    "city": "Tallinn",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "consumer",
+    "type": "vc",
+    "url": "https://trind.vc/"
+   },
+   {
+    "name": "Tera Ventures",
+    "city": "Tallinn",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.tera.vc/"
+   },
+   {
+    "name": "Plural",
+    "city": "Tallinn / London",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech, climate",
+    "type": "vc",
+    "url": "https://www.plural.vc/"
+   },
+   {
+    "name": "EstBAN",
+    "city": "Tallinn",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://estban.ee/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Startup Estonia",
+    "type": "government_agency",
+    "url": "https://startupestonia.ee/",
+    "note": "Government startup programme, visa and database"
+   },
+   {
+    "name": "e-Residency",
+    "type": "government_agency",
+    "url": "https://www.e-resident.gov.ee/",
+    "note": "Remote digital ID to found and run an Estonian company"
+   },
+   {
+    "name": "EIS",
+    "type": "government_agency",
+    "url": "https://eis.ee/en/",
+    "note": "Enterprise and Innovation Foundation"
+   },
+   {
+    "name": "e-Business Register",
+    "type": "government_agency",
+    "url": "https://ariregister.rik.ee/eng",
+    "note": "Company register search"
+   },
+   {
+    "name": "Estonian Founders Society",
+    "type": "startup_association",
+    "url": "https://www.asutajad.ee/",
+    "note": "Founder advocacy group"
+   },
+   {
+    "name": "Latitude59",
+    "type": "event",
+    "url": "https://latitude59.ee/",
+    "note": "Flagship Tallinn startup conference"
+   },
+   {
+    "name": "Work in Estonia",
+    "type": "other",
+    "url": "https://workinestonia.com/",
+    "note": "Talent relocation info"
+   }
+  ],
+  "sources": [
+   "https://startupestonia.ee/startup-visa/",
+   "https://www.e-resident.gov.ee/",
+   "https://eis.ee/en/",
+   "https://startupwiseguys.com/all-programs/"
+  ],
+  "confidence": "high",
+  "notes": "KredEx and Enterprise Estonia merged into EIS; kredex.ee redirects to eis.ee."
+ },
+ {
+  "country": "Latvia",
+  "iso2": "LV",
+  "ecosystem_tier": "emerging",
+  "summary": "Riga-based ecosystem with startups such as Printful, Sonarworks and airBaltic-adjacent aerospace/drone firms; supportive Startup Law with tax benefits. Funding via ALTUM-backed VC funds and LIAA programs.",
+  "startup_visa": "Latvian startup residence permit under the Startup Law (via Office of Citizenship and Migration Affairs), https://www.pmlp.gov.lv/en",
+  "company_setup": "SIA (limited liability), registered with the Register of Enterprises, online with eID; e-residents of Latvia or Estonia can sign electronically; low minimum capital.",
+  "grants": [
+   {
+    "name": "Norwegian grant: Green Business and Innovation",
+    "agency": "LIAA",
+    "amount": "EUR 50,000-3M per project",
+    "amount_usd_max": 3300000,
+    "eligibility": "Latvian companies, green and digital innovation",
+    "deadline": "three calls planned in 2027",
+    "status": "upcoming",
+    "url": "https://www.liaa.gov.lv/en"
+   },
+   {
+    "name": "LIAA export support",
+    "agency": "LIAA",
+    "amount": "not stated",
+    "amount_usd_max": null,
+    "eligibility": "Latvian exporters",
+    "deadline": "available for 2027 activities",
+    "status": "open",
+    "url": "https://www.liaa.gov.lv/en"
+   },
+   {
+    "name": "ALTUM enterprise loans and guarantees",
+    "agency": "ALTUM (state development finance)",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Latvian SMEs and startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.altum.lv/en/services/enterprises/"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs/startups in EU or Horizon Europe associated countries, TRL 6-8",
+    "deadline": "2026-11-04 (full proposal); short proposals rolling, batched first Tuesday monthly (next 2026-11-03)",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "LIAA Innovation Academy (Technology Business Center)",
+    "city": "Riga",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.liaa.gov.lv/en/liaa-technology-business-center/innovation-academy"
+   },
+   {
+    "name": "Buildit",
+    "city": "Riga",
+    "type": "accelerator",
+    "investment": "pre-seed equity",
+    "sectors": "hardware, IoT",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.buildit.lv/"
+   },
+   {
+    "name": "Startup Wise Guys",
+    "city": "Tallinn (programs across Baltics, Nordics, Europe)",
+    "type": "accelerator",
+    "investment": "initial ticket EUR 100k in flagship programs",
+    "sectors": "B2B SaaS, fintech, cybersecurity, defence, sustainability, proptech",
+    "deadline": "2026-11-02 (Founders Club); flagship accelerator unknown",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://startupwiseguys.com/"
+   },
+   {
+    "name": "EIT Jumpstarter",
+    "city": "online / pan-European",
+    "type": "accelerator",
+    "investment": "no equity; prizes for finalists",
+    "sectors": "health, climate, energy, food, manufacturing, mobility, raw materials",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://eitjumpstarter.eu/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "ALTUM venture capital funds",
+    "city": "Riga",
+    "stage": "multi",
+    "check_size": "fund-of-funds",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.altum.lv/en/services/investment-funds/"
+   },
+   {
+    "name": "Overkill Ventures",
+    "city": "Riga",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.overkill.vc/"
+   },
+   {
+    "name": "FlyCap",
+    "city": "Riga",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "venture_debt",
+    "url": "https://www.flycap.lv/"
+   },
+   {
+    "name": "LatBAN",
+    "city": "Riga",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://latban.lv/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "LIAA",
+    "type": "government_agency",
+    "url": "https://www.liaa.gov.lv/en",
+    "note": "Investment and Development Agency of Latvia"
+   },
+   {
+    "name": "ALTUM",
+    "type": "government_agency",
+    "url": "https://www.altum.lv/en/",
+    "note": "State development finance institution"
+   },
+   {
+    "name": "Startin.LV",
+    "type": "startup_association",
+    "url": "https://startin.lv/",
+    "note": "Latvian Startup Association"
+   },
+   {
+    "name": "Register of Enterprises",
+    "type": "government_agency",
+    "url": "https://www.ur.gov.lv/en",
+    "note": "Company registration"
+   },
+   {
+    "name": "TechChill",
+    "type": "event",
+    "url": "https://www.techchill.co/",
+    "note": "Main Baltic tech event, Riga"
+   }
+  ],
+  "sources": [
+   "https://www.liaa.gov.lv/en",
+   "https://www.altum.lv/en/services/",
+   "https://startin.lv/",
+   "https://www.techchill.co/"
+  ],
+  "confidence": "medium",
+  "notes": "LIAA English pages give few startup program details; amounts for ALTUM VC funds not published on overview page."
+ },
+ {
+  "country": "Lithuania",
+  "iso2": "LT",
+  "ecosystem_tier": "emerging",
+  "summary": "Vilnius and Kaunas ecosystem with unicorns Vinted and Nord Security; strong fintech licensing hub (Bank of Lithuania), gaming and laser/biotech. Startup Lithuania (Innovation Agency) runs the startup visa.",
+  "startup_visa": "Lithuania Startup Visa (Startup Lithuania expert committee; 2-year TRP extendable to 5), https://startupvisalithuania.com/",
+  "company_setup": "UAB (private limited) registered at the Centre of Registers, online with e-signature (Lithuanian, Estonian/Latvian eID accepted); low minimum capital; a few days.",
+  "grants": [
+   {
+    "name": "Innovation Agency startup and innovation services",
+    "agency": "Innovation Agency Lithuania",
+    "amount": "varies by measure",
+    "amount_usd_max": null,
+    "eligibility": "Lithuanian startups and SMEs",
+    "deadline": "open-ended services; calls vary",
+    "status": "rolling",
+    "url": "https://www.inovacijuagentura.lt/en/"
+   },
+   {
+    "name": "ILTE financial instruments (loans, guarantees)",
+    "agency": "ILTE - National Development Bank of Lithuania (formerly INVEGA)",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Lithuanian SMEs and startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.ilte.lt/en/"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs/startups in EU or Horizon Europe associated countries, TRL 6-8",
+    "deadline": "2026-11-04 (full proposal); short proposals rolling, batched first Tuesday monthly (next 2026-11-03)",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Startup Lithuania",
+    "city": "Vilnius",
+    "type": "government",
+    "investment": "no equity; programs and soft-landing",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.startuplithuania.com/"
+   },
+   {
+    "name": "Tech Zity",
+    "city": "Vilnius",
+    "type": "incubator",
+    "investment": "no equity; tech campus",
+    "sectors": "generalist tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://techzity.com/"
+   },
+   {
+    "name": "Startup Wise Guys",
+    "city": "Tallinn (programs across Baltics, Nordics, Europe)",
+    "type": "accelerator",
+    "investment": "initial ticket EUR 100k in flagship programs",
+    "sectors": "B2B SaaS, fintech, cybersecurity, defence, sustainability, proptech",
+    "deadline": "2026-11-02 (Founders Club); flagship accelerator unknown",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://startupwiseguys.com/"
+   },
+   {
+    "name": "EIT Jumpstarter",
+    "city": "online / pan-European",
+    "type": "accelerator",
+    "investment": "no equity; prizes for finalists",
+    "sectors": "health, climate, energy, food, manufacturing, mobility, raw materials",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://eitjumpstarter.eu/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Contrarian Ventures",
+    "city": "Vilnius",
+    "stage": "seed",
+    "check_size": "EUR 1-4M",
+    "sectors": "climate tech",
+    "type": "vc",
+    "url": "https://www.cventures.vc/"
+   },
+   {
+    "name": "Practica Capital",
+    "city": "Vilnius",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.practica.vc/"
+   },
+   {
+    "name": "Coinvest Capital",
+    "city": "Vilnius",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.coinvest.lt/"
+   },
+   {
+    "name": "FIRSTPICK",
+    "city": "Vilnius",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://firstpick.vc/"
+   },
+   {
+    "name": "Zinc",
+    "city": "Vilnius",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.zinc.vc/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Innovation Agency Lithuania",
+    "type": "government_agency",
+    "url": "https://www.inovacijuagentura.lt/en/",
+    "note": "National innovation and business agency"
+   },
+   {
+    "name": "Invest Lithuania",
+    "type": "government_agency",
+    "url": "https://investlithuania.com/",
+    "note": "FDI promotion"
+   },
+   {
+    "name": "Unicorns Lithuania",
+    "type": "startup_association",
+    "url": "https://www.unicorns.lt/",
+    "note": "Lithuanian Startup Association"
+   },
+   {
+    "name": "Startup Fair",
+    "type": "event",
+    "url": "https://www.startupfair.lt/",
+    "note": "Baltic startup event, Vilnius"
+   },
+   {
+    "name": "Go Vilnius",
+    "type": "other",
+    "url": "https://www.govilnius.lt/",
+    "note": "City business promotion"
+   }
+  ],
+  "sources": [
+   "https://startupvisalithuania.com/",
+   "https://www.inovacijuagentura.lt/en/",
+   "https://www.startuplithuania.com/",
+   "https://www.cventures.vc/"
+  ],
+  "confidence": "medium",
+  "notes": "INVEGA now redirects to ILTE (National Development Bank). ILTE site blocks automated fetch; instruments not itemised."
+ },
+ {
+  "country": "Liechtenstein",
+  "iso2": "LI",
+  "ecosystem_tier": "nascent",
+  "summary": "Tiny, wealthy EEA microstate with a finance, fintech/blockchain (TVTG Blockchain Act) and precision-manufacturing base (Hilti, Ivoclar). Very few local startup programs; founders rely on the Technopark, University of Liechtenstein and Swiss/Austrian networks.",
+  "startup_visa": "none (EEA/Swiss nationals face residence quotas; no startup visa)",
+  "company_setup": "AG or GmbH registered with the Office of Justice commercial register; local director/qualified person usually required; formation typically via a fiduciary.",
+  "grants": [
+   {
+    "name": "EEA/EU programmes and national innovation support",
+    "agency": "Government of Liechtenstein",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Liechtenstein companies",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.regierung.li/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Technopark Liechtenstein",
+    "city": "Vaduz",
+    "type": "incubator",
+    "investment": "no equity; development space for startups",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.technopark-liechtenstein.li/"
+   },
+   {
+    "name": "University of Liechtenstein entrepreneurship",
+    "city": "Vaduz",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "generalist, fintech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.uni.li/en"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "Liechtenstein Business",
+    "type": "government_agency",
+    "url": "https://www.liechtenstein-business.li/",
+    "note": "Official business location promotion"
+   },
+   {
+    "name": "Financial Market Authority (FMA)",
+    "type": "legal_tax",
+    "url": "https://www.fma-li.li/en",
+    "note": "Fintech and blockchain (TVTG) licensing, regulatory lab"
+   },
+   {
+    "name": "Wirtschaftskammer Liechtenstein",
+    "type": "startup_association",
+    "url": "https://wirtschaftskammer.li/",
+    "note": "Chamber of commerce, SME support"
+   },
+   {
+    "name": "Landesverwaltung (llv.li)",
+    "type": "government_agency",
+    "url": "https://www.llv.li/en",
+    "note": "National administration portal, commercial register"
+   }
+  ],
+  "sources": [
+   "https://www.technopark-liechtenstein.li/",
+   "https://www.liechtenstein-business.li/",
+   "https://www.fma-li.li/en"
+  ],
+  "confidence": "low",
+  "notes": "Liechtenstein is EEA but not associated to Horizon Europe, so EIC Accelerator eligibility is doubtful; no local VC funds verified."
+ },
+ {
+  "country": "Monaco",
+  "iso2": "MC",
+  "ecosystem_tier": "nascent",
+  "summary": "Small government-backed ecosystem built around MonacoTech (incubator) and Monaco Boost, with focus on green/blue tech, yachting, medtech and AI; capital comes mainly from family offices and HNWIs.",
+  "startup_visa": "none (residence via Monaco residency card; MonacoTech requires creating a Monaco company within 18 months)",
+  "company_setup": "SARL or SAM; requires prior government authorisation (Direction du Developpement Economique); local office lease needed; slow and costly versus EU.",
+  "grants": [
+   {
+    "name": "Government subsidies for MonacoTech startups",
+    "agency": "Government of Monaco",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "startups admitted to MonacoTech",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://monacotech.mc/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "MonacoTech",
+    "city": "Monaco",
+    "type": "incubator",
+    "investment": "no equity; EUR 310/month per workstation",
+    "sectors": "greentech, bluetech, smart yachting, medtech/biotech, AI",
+    "deadline": "until 17 November (call open; year not shown, likely 2026)",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://monacotech.mc/"
+   },
+   {
+    "name": "Monaco Boost",
+    "city": "Monaco (Fontvieille)",
+    "type": "government",
+    "investment": "no equity; subsidised premises",
+    "sectors": "generalist (Monegasque nationals and spouses)",
+    "deadline": "applications closed",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://monacoboost.mc/"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "Government of Monaco",
+    "type": "government_agency",
+    "url": "https://www.gouv.mc/",
+    "note": "Business authorisation and Extended Monaco digital strategy"
+   },
+   {
+    "name": "Monaco Chamber of Commerce (Monaco Economic Board)",
+    "type": "startup_association",
+    "url": "https://www.mcc.mc/",
+    "note": "Business network and promotion"
+   }
+  ],
+  "sources": [
+   "https://monacotech.mc/",
+   "https://monacoboost.mc/"
+  ],
+  "confidence": "low",
+  "notes": "Monaco is outside the EU and Horizon Europe association; EIC not applicable. Monaco Angels domain appears parked, excluded."
+ },
+ {
+  "country": "San Marino",
+  "iso2": "SM",
+  "ecosystem_tier": "nascent",
+  "summary": "Microstate ecosystem led by San Marino Innovation Institute, which certifies high-tech startups (with tax incentives) and hosts incubators; closely tied to the Italian market.",
+  "startup_visa": "none (residence for founders of certified high-tech startups available via San Marino Innovation certification)",
+  "company_setup": "SRL or SpA; high-tech startup certification via San Marino Innovation gives simplified setup and tax benefits; local registered office required.",
+  "grants": [
+   {
+    "name": "High-tech enterprise (startup) certification incentives",
+    "agency": "San Marino Innovation Institute",
+    "amount": "tax incentives",
+    "amount_usd_max": null,
+    "eligibility": "innovative tech companies certified by the institute",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.sanmarinoinnovation.com/certifica-la-tua-impresa"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "San Marino Innovation incubator",
+    "city": "Domagnano",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "digital tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.sanmarinoinnovation.com/"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "San Marino Innovation",
+    "type": "government_agency",
+    "url": "https://www.sanmarinoinnovation.com/",
+    "note": "Innovation institute, startup certification, Startup World Cup"
+   },
+   {
+    "name": "Government of San Marino",
+    "type": "government_agency",
+    "url": "https://www.gov.sm/",
+    "note": "Official portal"
+   },
+   {
+    "name": "ANIS",
+    "type": "startup_association",
+    "url": "https://www.anis.sm/",
+    "note": "National Industry Association"
+   },
+   {
+    "name": "Central Bank of San Marino",
+    "type": "legal_tax",
+    "url": "https://www.bcsm.sm/",
+    "note": "Financial and fintech regulator"
+   }
+  ],
+  "sources": [
+   "https://www.sanmarinoinnovation.com/",
+   "https://www.gov.sm/"
+  ],
+  "confidence": "low",
+  "notes": "Not in EU/Horizon Europe; no local VC found. Founders typically access Italian funding."
+ },
+ {
+  "country": "Andorra",
+  "iso2": "AD",
+  "ecosystem_tier": "nascent",
+  "summary": "Pyrenean microstate with low taxes (10% corporate) attracting digital entrepreneurs and content creators; small ecosystem supported by Andorra Business (Actua) and the University of Andorra.",
+  "startup_visa": "none (active residence for entrepreneurs requires business plan and foreign investment authorisation)",
+  "company_setup": "SL (Societat Limitada) with foreign investment authorisation from the Government; registration via tramits.ad; a few weeks.",
+  "grants": [
+   {
+    "name": "Government business and innovation support",
+    "agency": "Govern d'Andorra / Andorra Business",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Andorran companies",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.govern.ad/ca/inici"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "Andorra Business",
+    "type": "government_agency",
+    "url": "https://www.andorrabusiness.com/",
+    "note": "Investment and business promotion agency"
+   },
+   {
+    "name": "Tramits (e-government)",
+    "type": "government_agency",
+    "url": "https://www.tramits.ad/",
+    "note": "Online procedures incl. company and foreign investment"
+   },
+   {
+    "name": "Cambra de Comerc (CCIS)",
+    "type": "startup_association",
+    "url": "https://www.ccis.ad/",
+    "note": "Chamber of commerce"
+   },
+   {
+    "name": "Universitat d'Andorra",
+    "type": "other",
+    "url": "https://www.uda.ad/",
+    "note": "University, entrepreneurship activity"
+   }
+  ],
+  "sources": [
+   "https://www.govern.ad/ca/inici",
+   "https://www.tramits.ad/"
+  ],
+  "confidence": "low",
+  "notes": "Andorra Business site blocks automated fetch; no accelerator or VC verified. Not in EU/Horizon Europe."
+ },
+ {
+  "country": "Vatican City",
+  "iso2": "VA",
+  "ecosystem_tier": "nascent",
+  "summary": "No startup ecosystem: the state has no private company formation for outsiders, no accelerators, VCs or startup grants. Listed for completeness only.",
+  "startup_visa": "none",
+  "company_setup": "Not possible for private founders; founders use Italy (Rome) instead.",
+  "grants": [],
+  "accelerators": [],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "Vatican City State",
+    "type": "government_agency",
+    "url": "https://vaticanstate.va/it/",
+    "note": "Official state site"
+   }
+  ],
+  "sources": [
+   "https://vaticanstate.va/it/",
+   "https://www.vatican.va/content/vatican/en.html"
+  ],
+  "confidence": "high",
+  "notes": "No startup ecosystem; see Italy for nearby resources."
+ },
+ {
+  "country": "Malta",
+  "iso2": "MT",
+  "ecosystem_tier": "emerging",
+  "summary": "Small EU island ecosystem strong in iGaming, fintech and blockchain regulation, with Malta Enterprise offering generous startup grants and repayable advances. English-speaking, Valletta-centred.",
+  "startup_visa": "Malta Startup Residence Programme (Malta Enterprise endorsement, residence via Identita)",
+  "company_setup": "Private limited company (Ltd) via the Malta Business Registry, minimum share capital EUR 1,165 (20% paid up); online filing possible through a registered agent; about a week.",
+  "grants": [
+   {
+    "name": "Business START",
+    "agency": "Malta Enterprise",
+    "amount": "early seed grant (amount on scheme page)",
+    "amount_usd_max": null,
+    "eligibility": "small startups with viable concept",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.maltaenterprise.com/bstart"
+   },
+   {
+    "name": "Start-up Finance",
+    "agency": "Malta Enterprise",
+    "amount": "repayable advance/equity-like support",
+    "amount_usd_max": null,
+    "eligibility": "small startups committed to growth",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.maltaenterprise.com/StartupFinance"
+   },
+   {
+    "name": "Accelerate 2024",
+    "agency": "Malta Enterprise",
+    "amount": "up to EUR 100,000",
+    "amount_usd_max": 110000,
+    "eligibility": "ventures under 7 years in a recognised accelerator",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.maltaenterprise.com/accelerate2024"
+   },
+   {
+    "name": "Youth-Led Start-Up Support Scheme",
+    "agency": "Malta Enterprise",
+    "amount": "up to EUR 1,000 for incorporation fees",
+    "amount_usd_max": 1100,
+    "eligibility": "young first-time entrepreneurs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.maltaenterprise.com/support"
+   },
+   {
+    "name": "Micro Invest 2026-2030",
+    "agency": "Malta Enterprise",
+    "amount": "tax credit on investments",
+    "amount_usd_max": null,
+    "eligibility": "SMEs, startups, self-employed",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.maltaenterprise.com/support"
+   },
+   {
+    "name": "Xjenza Malta research and innovation funding",
+    "agency": "Xjenza Malta",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "Maltese companies and researchers",
+    "deadline": "varies",
+    "status": "unknown",
+    "url": "https://xjenzamalta.mt/"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs/startups in EU or Horizon Europe associated countries, TRL 6-8",
+    "deadline": "2026-11-04 (full proposal); short proposals rolling, batched first Tuesday monthly (next 2026-11-03)",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "TAKEOFF Enterprise Campus (University of Malta)",
+    "city": "Msida",
+    "type": "university",
+    "investment": "no equity; seed fund support",
+    "sectors": "generalist, tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://takeoff.org.mt/"
+   },
+   {
+    "name": "EIT Jumpstarter",
+    "city": "online / pan-European",
+    "type": "accelerator",
+    "investment": "no equity; prizes for finalists",
+    "sectors": "health, climate, energy, food, manufacturing, mobility, raw materials",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://eitjumpstarter.eu/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Malta Development Bank",
+    "city": "Floriana",
+    "stage": "multi",
+    "check_size": "loans and guarantees",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://mdb.org.mt/"
+   },
+   {
+    "name": "ZAAR",
+    "city": "Malta",
+    "stage": "pre-seed",
+    "check_size": "crowdfunding",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://zaar.com.mt/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Malta Enterprise",
+    "type": "government_agency",
+    "url": "https://www.maltaenterprise.com/",
+    "note": "Economic development agency, startup schemes"
+   },
+   {
+    "name": "Malta Business Registry",
+    "type": "government_agency",
+    "url": "https://www.mbr.mt/",
+    "note": "Company registration"
+   },
+   {
+    "name": "Tech.mt",
+    "type": "government_agency",
+    "url": "https://tech.mt/",
+    "note": "National tech strategy and promotion"
+   },
+   {
+    "name": "MDIA",
+    "type": "government_agency",
+    "url": "https://www.mdia.gov.mt/",
+    "note": "Malta Digital Innovation Authority"
+   },
+   {
+    "name": "MFSA",
+    "type": "legal_tax",
+    "url": "https://www.mfsa.mt/",
+    "note": "Financial regulator, fintech sandbox"
+   },
+   {
+    "name": "Malta Gaming Authority",
+    "type": "legal_tax",
+    "url": "https://www.mga.org.mt/",
+    "note": "iGaming licensing"
+   },
+   {
+    "name": "FinTech Malta",
+    "type": "community",
+    "url": "https://www.fintechmalta.com/",
+    "note": "Fintech community"
+   },
+   {
+    "name": "Identita",
+    "type": "government_agency",
+    "url": "https://identita.gov.mt/",
+    "note": "Residence permits"
+   }
+  ],
+  "sources": [
+   "https://www.maltaenterprise.com/support",
+   "https://www.maltaenterprise.com/support/business-start",
+   "https://takeoff.org.mt/",
+   "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+  ],
+  "confidence": "medium",
+  "notes": "Startup Residence Programme page URL not confirmed (old path 404). Takeoff site shows injected casino spam in menus; content otherwise current."
+ },
+ {
+  "country": "Cyprus",
+  "iso2": "CY",
+  "ecosystem_tier": "emerging",
+  "summary": "Limassol/Nicosia ecosystem boosted by tech relocation, fintech and gaming; 12.5% corporate tax and IP box. Public funding through the Research and Innovation Foundation (RIF) and Deputy Ministry of Research, Innovation and Digital Policy.",
+  "startup_visa": "Cyprus Start-up Visa scheme (Ministry of Finance/Invest Cyprus endorsement) for non-EU founders, https://www.investcyprus.org.cy/",
+  "company_setup": "Private limited company (Ltd) via the Department of Registrar of Companies; no minimum capital in practice; typically via local lawyer, about 1-2 weeks.",
+  "grants": [
+   {
+    "name": "Fast Track Innovation - Cybersecurity",
+    "agency": "Research and Innovation Foundation (RIF)",
+    "amount": "budget EUR 1.5M",
+    "amount_usd_max": 1650000,
+    "eligibility": "Cypriot companies, cybersecurity innovation",
+    "deadline": "2026-12-08",
+    "status": "open",
+    "url": "https://www.research.org.cy/en/"
+   },
+   {
+    "name": "NCC-CY-NIS2 call",
+    "agency": "RIF / National Coordination Centre",
+    "amount": "budget EUR 1.53M",
+    "amount_usd_max": 1680000,
+    "eligibility": "Cypriot SMEs, NIS2 compliance",
+    "deadline": "2026-11-10",
+    "status": "open",
+    "url": "https://www.research.org.cy/en/"
+   },
+   {
+    "name": "RE-SEED and other RIF startup programmes",
+    "agency": "RIF",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Cypriot startups",
+    "deadline": "last call under evaluation",
+    "status": "closed",
+    "url": "https://www.research.org.cy/en/"
+   },
+   {
+    "name": "AI in Government - New Challenges",
+    "agency": "RIF",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "innovators/startups",
+    "deadline": "expected Q4 2026",
+    "status": "upcoming",
+    "url": "https://www.research.org.cy/en/"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs/startups in EU or Horizon Europe associated countries, TRL 6-8",
+    "deadline": "2026-11-04 (full proposal); short proposals rolling, batched first Tuesday monthly (next 2026-11-03)",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Cyprus Seeds",
+    "city": "Nicosia",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "generalist, research spinouts",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.cyprusseeds.com/"
+   },
+   {
+    "name": "EIT Jumpstarter",
+    "city": "online / pan-European",
+    "type": "accelerator",
+    "investment": "no equity; prizes for finalists",
+    "sectors": "health, climate, energy, food, manufacturing, mobility, raw materials",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://eitjumpstarter.eu/"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "Research and Innovation Foundation",
+    "type": "government_agency",
+    "url": "https://www.research.org.cy/en/",
+    "note": "National R&I funding agency"
+   },
+   {
+    "name": "Deputy Ministry of Research, Innovation and Digital Policy",
+    "type": "government_agency",
+    "url": "https://www.gov.cy/dmrid/",
+    "note": "Innovation policy and startup strategy"
+   },
+   {
+    "name": "Invest Cyprus",
+    "type": "government_agency",
+    "url": "https://www.investcyprus.org.cy/",
+    "note": "Investment promotion, startup visa info"
+   },
+   {
+    "name": "TechIsland",
+    "type": "startup_association",
+    "url": "https://thetechisland.org/",
+    "note": "Tech industry association"
+   },
+   {
+    "name": "CyprusFintech.org",
+    "type": "community",
+    "url": "https://cyprusfintech.org/",
+    "note": "Fintech hub"
+   },
+   {
+    "name": "Registrar of Companies",
+    "type": "government_agency",
+    "url": "https://www.companies.gov.cy/gr/",
+    "note": "Company registration"
+   }
+  ],
+  "sources": [
+   "https://www.research.org.cy/en/",
+   "https://www.investcyprus.org.cy/",
+   "https://thetechisland.org/"
+  ],
+  "confidence": "medium",
+  "notes": "No Cyprus VC fund verified (several candidate domains parked). RIF calls checked 2026-10-20."
+ },
+ {
+  "country": "Greece",
+  "iso2": "GR",
+  "ecosystem_tier": "emerging",
+  "summary": "Athens and Thessaloniki ecosystem grown by EquiFund-backed VCs; exits include Workable growth, Blueground, Viva Wallet (JP Morgan stake) and Instashop. National startup registry via Elevate Greece.",
+  "startup_visa": "none (no dedicated startup visa; Elevate Greece registry gives startup status)",
+  "company_setup": "IKE (private company) from EUR 1 capital via the GEMI one-stop shop (businessportal.gr); online with Greek tax number; a few days.",
+  "grants": [
+   {
+    "name": "Elevate Greece National Startup Registry (3rd call 2026)",
+    "agency": "General Secretariat for Research and Innovation",
+    "amount": "access to state aid and partner benefits",
+    "amount_usd_max": null,
+    "eligibility": "Greek startups meeting innovation criteria",
+    "deadline": "2026-12-30",
+    "status": "open",
+    "url": "https://registry.elevategreece.gov.gr/latest-call"
+   },
+   {
+    "name": "Hellenic Development Bank programmes",
+    "agency": "Hellenic Development Bank (HDB)",
+    "amount": "loans and guarantees, varies",
+    "amount_usd_max": null,
+    "eligibility": "Greek SMEs",
+    "deadline": "varies",
+    "status": "unknown",
+    "url": "https://hdb.gr/en/"
+   },
+   {
+    "name": "GSRI research and innovation calls",
+    "agency": "General Secretariat for Research and Innovation",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Greek companies and research bodies",
+    "deadline": "varies",
+    "status": "unknown",
+    "url": "https://gsri.gov.gr/"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs/startups in EU or Horizon Europe associated countries, TRL 6-8",
+    "deadline": "2026-11-04 (full proposal); short proposals rolling, batched first Tuesday monthly (next 2026-11-03)",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Orange Grove",
+    "city": "Athens",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://orangegrove.eu/"
+   },
+   {
+    "name": "NBG Business Seeds",
+    "city": "Athens",
+    "type": "corporate",
+    "investment": "no equity; bank-backed program",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.nbg.gr/en/business/business-seeds"
+   },
+   {
+    "name": "Corallia",
+    "city": "Athens",
+    "type": "incubator",
+    "investment": "no equity; clusters and innovation hubs",
+    "sectors": "space, microelectronics, gaming",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://corallia.org/"
+   },
+   {
+    "name": "iQbility",
+    "city": "Athens",
+    "type": "accelerator",
+    "investment": "unknown",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.iqbility.com/"
+   },
+   {
+    "name": "EIT Jumpstarter",
+    "city": "online / pan-European",
+    "type": "accelerator",
+    "investment": "no equity; prizes for finalists",
+    "sectors": "health, climate, energy, food, manufacturing, mobility, raw materials",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://eitjumpstarter.eu/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Metavallon VC",
+    "city": "Athens",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://metavallon.vc/"
+   },
+   {
+    "name": "VentureFriends",
+    "city": "Athens",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.venturefriends.vc/"
+   },
+   {
+    "name": "Marathon Venture Capital",
+    "city": "Athens",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "software",
+    "type": "vc",
+    "url": "https://www.marathon.vc/"
+   },
+   {
+    "name": "Velocity.Partners",
+    "city": "Athens",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://velocitypartners.vc/"
+   },
+   {
+    "name": "Big Pi Ventures",
+    "city": "Athens",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech",
+    "type": "vc",
+    "url": "https://bigpi.vc/"
+   },
+   {
+    "name": "BrightCap Ventures",
+    "city": "Athens",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.brightcap.vc/"
+   },
+   {
+    "name": "EquiFund / HDBI",
+    "city": "Athens",
+    "stage": "multi",
+    "check_size": "fund-of-funds",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://equifund.gr/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Elevate Greece",
+    "type": "government_agency",
+    "url": "https://elevategreece.gov.gr/",
+    "note": "Official startup registry and ecosystem platform"
+   },
+   {
+    "name": "Hellenic Development Bank of Investments",
+    "type": "government_agency",
+    "url": "https://hdbi.gr/en/",
+    "note": "Manages EquiFund and VC fund-of-funds"
+   },
+   {
+    "name": "Enterprise Greece",
+    "type": "government_agency",
+    "url": "https://www.enterprisegreece.gov.gr/en/",
+    "note": "Investment and trade promotion"
+   },
+   {
+    "name": "GEMI business portal",
+    "type": "government_agency",
+    "url": "https://www.businessportal.gr/",
+    "note": "One-stop company registration"
+   },
+   {
+    "name": "Endeavor Greece",
+    "type": "community",
+    "url": "https://endeavor.org.gr/",
+    "note": "Scale-up entrepreneur network"
+   },
+   {
+    "name": "Mind the Bridge",
+    "type": "other",
+    "url": "https://mindthebridge.com/",
+    "note": "Open innovation and scaleup research"
+   }
+  ],
+  "sources": [
+   "https://elevategreece.gov.gr/",
+   "https://registry.elevategreece.gov.gr/latest-call",
+   "https://equifund.gr/",
+   "https://hdbi.gr/en/"
+  ],
+  "confidence": "medium",
+  "notes": "The Cube Athens and Found.ation domains no longer resolve; excluded. Uni.Fund site down at check time; excluded."
+ },
+ {
+  "country": "Greenland",
+  "iso2": "GL",
+  "ecosystem_tier": "nascent",
+  "summary": "Very small Nuuk-centred economy (fishing, tourism, minerals). Startup support comes mainly from Nalik Ventures (the state business development company, apparently successor to Greenland Venture) and Danish/Nordic programs.",
+  "startup_visa": "none (Danish immigration rules do not apply directly; Greenland work/residence permits via the Danish Agency for International Recruitment for Greenland)",
+  "company_setup": "ApS or A/S under Greenlandic company law, registered in the Danish CVR via virk.dk; local address and Greenland tax liability needed for Nalik support.",
+  "grants": [
+   {
+    "name": "Nalik Ventures microloans (ivaerksaetterlaan)",
+    "agency": "Nalik Ventures",
+    "amount": "DKK 20,000-100,000, up to 75% of budget",
+    "amount_usd_max": 15000,
+    "eligibility": "land-based startups with CVR and Greenland address/tax liability",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://nalik.gl/ivaerksaetterlaan/"
+   },
+   {
+    "name": "Nalik Ventures product development support",
+    "agency": "Nalik Ventures",
+    "amount": "up to 50% of costs, max DKK 300,000",
+    "amount_usd_max": 45000,
+    "eligibility": "land-based businesses (service, tourism, industry, IT etc.)",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://nalik.gl/produktudviklingsstotte/"
+   },
+   {
+    "name": "Nalik Ventures loans and equity",
+    "agency": "Nalik Ventures",
+    "amount": "tailored, no standard amounts",
+    "amount_usd_max": null,
+    "eligibility": "Greenland ApS/A/S and sole traders (loans)",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://nalik.gl/lan-og-investering/"
+   },
+   {
+    "name": "EIC Accelerator",
+    "agency": "European Innovation Council (EU)",
+    "amount": "grant up to EUR 2.5M plus equity EUR 1-10M",
+    "amount_usd_max": 13750000,
+    "eligibility": "SMEs in Greenland may be eligible as an OCT linked to Denmark under Horizon Europe",
+    "deadline": "2026-11-04 (full proposal); short proposals rolling, batched first Tuesday monthly (next 2026-11-03)",
+    "status": "open",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "IKUMA incubator (Nalik Ventures)",
+    "city": "Nuuk / online",
+    "type": "government",
+    "investment": "no equity; advisory, legal/accounting help, free website",
+    "sectors": "tourism",
+    "deadline": "last: 2025-12-31; next round not dated",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://nalik.gl/inkubatorforloeb/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Nalik Ventures",
+    "city": "Nuuk",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist land-based",
+    "type": "government_fund",
+    "url": "https://nalik.gl/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Business in Greenland",
+    "type": "government_agency",
+    "url": "https://businessingreenland.gl/kl-GL",
+    "note": "Ministry of Business portal for permits and starting a business"
+   },
+   {
+    "name": "Naalakkersuisut",
+    "type": "government_agency",
+    "url": "https://naalakkersuisut.gl/",
+    "note": "Government of Greenland"
+   },
+   {
+    "name": "Sullissivik",
+    "type": "government_agency",
+    "url": "https://www.sullissivik.gl/",
+    "note": "Public self-service portal"
+   },
+   {
+    "name": "virk.dk",
+    "type": "government_agency",
+    "url": "https://virk.dk/",
+    "note": "CVR registration for Greenland companies"
+   },
+   {
+    "name": "Ilisimatusarfik (University of Greenland)",
+    "type": "other",
+    "url": "https://www.uni.gl/",
+    "note": "University"
+   },
+   {
+    "name": "Nordic Innovation",
+    "type": "government_agency",
+    "url": "https://nordicinnovation.org/",
+    "note": "Nordic Council of Ministers body funding cross-Nordic innovation projects"
+   }
+  ],
+  "sources": [
+   "https://nalik.gl/",
+   "https://nalik.gl/ivaerksaetterlaan/",
+   "https://nalik.gl/produktudviklingsstotte/",
+   "https://businessingreenland.gl/kl-GL"
+  ],
+  "confidence": "medium",
+  "notes": "greenlandventure.com is parked; venture.gl redirects to nalik.gl, so Greenland Venture appears to operate as Nalik Ventures (not confirmed on site). Danish programs (Innovation Fund Denmark, EIFO) generally require a Danish CVR company in Denmark proper; check eligibility."
+ }
+]

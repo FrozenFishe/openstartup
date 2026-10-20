@@ -1,0 +1,653 @@
+[
+ {
+  "country": "United States",
+  "iso2": "US",
+  "ecosystem_tier": "global_hub",
+  "summary": "Largest startup ecosystem in the world, centered on the San Francisco Bay Area, New York, Boston, Los Angeles, Austin and Seattle. It leads in AI, software, biotech and defense tech, with the deepest VC market and exits such as Google, Meta, Uber, Airbnb and OpenAI's growth.",
+  "startup_visa": "No dedicated startup visa. International Entrepreneur Parole (IER, Form I-941, needs ~US$311k qualified investment or ~US$124k government grant; DHS has signalled rescission), plus O-1, H-1B, E-2 and EB-5 routes. https://www.uscis.gov/working-in-the-united-states/international-entrepreneur-rule",
+  "company_setup": "Delaware C-corp is standard for VC-backed startups. Foreigners can incorporate remotely (e.g. Stripe Atlas, Clerky) for a few hundred US$ in 1-3 days; EIN and US bank account are possible without residency.",
+  "grants": [
+   {
+    "name": "NSF SBIR/STTR Phase I (NSF 26-510)",
+    "agency": "National Science Foundation",
+    "amount": "Phase I up to US$305k; Phase II up to US$1.25M",
+    "amount_usd_max": 305000,
+    "eligibility": "US small businesses, deep tech; Project Pitch invitation required",
+    "deadline": "2026-11-04",
+    "status": "open",
+    "url": "https://www.nsf.gov/funding/opportunities/small-business-innovation-research-small-business-technology/nsf26-510/solicitation"
+   },
+   {
+    "name": "NIH SBIR/STTR Omnibus (PA-27-100 / PA-27-102)",
+    "agency": "National Institutes of Health",
+    "amount": "Phase I and Phase II grants; budget caps per announcement",
+    "amount_usd_max": null,
+    "eligibility": "US small businesses in biomedical and health tech",
+    "deadline": "2027-01-05",
+    "status": "open",
+    "url": "https://sbir.cancer.gov/funding/opportunities/omnibussolicitation"
+   },
+   {
+    "name": "DoW (DoD) SBIR/STTR FY27 Release 1",
+    "agency": "Department of War (Defense) SBIR/STTR",
+    "amount": "Phase I up to US$300k (Navy up to US$315k); Direct to Phase II up to US$2M",
+    "amount_usd_max": 2000000,
+    "eligibility": "US small businesses; defense topics",
+    "deadline": "2026-11-25",
+    "status": "upcoming",
+    "url": "https://www.dodsbirsttr.mil/"
+   },
+   {
+    "name": "AFWERX SBIR/STTR",
+    "agency": "Department of the Air Force (AFWERX)",
+    "amount": "Phase I, Direct to Phase II, STRATFI/TACFI",
+    "amount_usd_max": null,
+    "eligibility": "US small businesses with dual-use tech",
+    "deadline": "rolling (monthly releases; Release 6 open)",
+    "status": "open",
+    "url": "https://afwerx.com/programs/sbir-sttr/sbir-sttr-overview/"
+   },
+   {
+    "name": "DOE SBIR/STTR",
+    "agency": "Department of Energy, Office of Technology Commercialization",
+    "amount": "Phase I and Phase II grants",
+    "amount_usd_max": null,
+    "eligibility": "US small businesses in energy, science, climate tech",
+    "deadline": "unknown (broader FY26 Phase I expected late 2026)",
+    "status": "upcoming",
+    "url": "https://www.energy.gov/technologycommercialization/doe-small-business-innovation-research-sbir-and-small-business"
+   },
+   {
+    "name": "NASA SBIR/STTR",
+    "agency": "NASA",
+    "amount": "Phase I, Phase II, Ignite and post-Phase II awards",
+    "amount_usd_max": null,
+    "eligibility": "US small businesses in aerospace tech",
+    "deadline": "2026-10-28 (Phase II STTR)",
+    "status": "open",
+    "url": "https://www.nasa.gov/sbir_sttr/"
+   },
+   {
+    "name": "ARPA-E funding opportunities (OPEN and focused programs)",
+    "agency": "ARPA-E, Department of Energy",
+    "amount": "Varies by program",
+    "amount_usd_max": null,
+    "eligibility": "Energy tech teams incl. startups",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://arpa-e.energy.gov/"
+   },
+   {
+    "name": "SBA 7(a) loan program",
+    "agency": "U.S. Small Business Administration",
+    "amount": "Government-guaranteed loans up to US$5M",
+    "amount_usd_max": 5000000,
+    "eligibility": "US for-profit small businesses",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.sba.gov/funding-programs/loans/7a-loans"
+   },
+   {
+    "name": "SBA Small Business Investment Company (SBIC) program",
+    "agency": "U.S. Small Business Administration",
+    "amount": "SBA leverage for licensed private funds that invest in small businesses",
+    "amount_usd_max": null,
+    "eligibility": "Fund managers; startups access via SBIC funds",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.sba.gov/for-partners/small-business-investment-companies/"
+   },
+   {
+    "name": "State Small Business Credit Initiative (SSBCI)",
+    "agency": "U.S. Treasury via states",
+    "amount": "Nearly US$10B to state loan and venture programs",
+    "amount_usd_max": null,
+    "eligibility": "Small businesses via state-run programs",
+    "deadline": "rolling (varies by state)",
+    "status": "rolling",
+    "url": "https://home.treasury.gov/policy-issues/small-business-programs/state-small-business-credit-initiative-ssbci"
+   },
+   {
+    "name": "MassVentures START grants",
+    "agency": "MassVentures (Massachusetts)",
+    "amount": "US$100k (Round 1), US$200k (Round 2), up to US$500k seed (Round 3)",
+    "amount_usd_max": 500000,
+    "eligibility": "Massachusetts startups with an SBIR/STTR Phase II award",
+    "deadline": "2027-02-01 (window opens)",
+    "status": "upcoming",
+    "url": "https://www.mass-ventures.com/start-program-info"
+   },
+   {
+    "name": "Ben Franklin Technology Partners",
+    "agency": "Commonwealth of Pennsylvania",
+    "amount": "Early-stage investment; amount varies",
+    "amount_usd_max": null,
+    "eligibility": "Pennsylvania tech startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://benfranklin.org/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Y Combinator",
+    "city": "San Francisco",
+    "type": "accelerator",
+    "investment": "US$500k (US$125k for 7% + US$375k uncapped MFN SAFE)",
+    "sectors": "generalist",
+    "deadline": "2026-11-02",
+    "next_cohort": "2027-01",
+    "status": "open",
+    "url": "https://www.ycombinator.com/apply"
+   },
+   {
+    "name": "Techstars New York City",
+    "city": "New York",
+    "type": "accelerator",
+    "investment": "US$220k (US$200k MFN SAFE + US$20k for ~5% equity)",
+    "sectors": "generalist",
+    "deadline": "2026-11-18",
+    "next_cohort": "2027-03",
+    "status": "open",
+    "url": "https://www.techstars.com/accelerators/nyc"
+   },
+   {
+    "name": "Techstars Boston",
+    "city": "Boston",
+    "type": "accelerator",
+    "investment": "US$220k (US$200k MFN SAFE + US$20k for ~5% equity)",
+    "sectors": "generalist",
+    "deadline": "2026-11-18",
+    "next_cohort": "2027-03",
+    "status": "open",
+    "url": "https://www.techstars.com/accelerators/boston"
+   },
+   {
+    "name": "Techstars Anywhere",
+    "city": "Remote",
+    "type": "accelerator",
+    "investment": "US$220k (US$200k MFN SAFE + US$20k for ~5% equity)",
+    "sectors": "generalist",
+    "deadline": "2026-11-18",
+    "next_cohort": "2027-03",
+    "status": "open",
+    "url": "https://www.techstars.com/accelerators/anywhere"
+   },
+   {
+    "name": "a16z speedrun",
+    "city": "San Francisco",
+    "type": "accelerator",
+    "investment": "Up to US$1M",
+    "sectors": "games, consumer, AI",
+    "deadline": "2026-11-01",
+    "next_cohort": "2027-02 (SR008, Feb 1 to Apr 16 2027)",
+    "status": "open",
+    "url": "https://speedrun.a16z.com/apply"
+   },
+   {
+    "name": "Alchemist Accelerator",
+    "city": "San Francisco",
+    "type": "accelerator",
+    "investment": "~US$30k net (SAFE) for ~5% common",
+    "sectors": "enterprise, B2B",
+    "deadline": "rolling (periodic deadlines on site)",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.alchemistaccelerator.com/"
+   },
+   {
+    "name": "PearX (Pear VC)",
+    "city": "Palo Alto",
+    "type": "accelerator",
+    "investment": "US$500k to 2M",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "2027-01",
+    "status": "rolling",
+    "url": "https://pear.vc/pearx/"
+   },
+   {
+    "name": "Berkeley SkyDeck",
+    "city": "Berkeley",
+    "type": "university",
+    "investment": "US$210k (Cohort track)",
+    "sectors": "generalist, deep tech",
+    "deadline": "last: 2026-08-21; Batch 24 applications open Jan 2027",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://skydeck.berkeley.edu/apply/"
+   },
+   {
+    "name": "MassChallenge U.S. Early Stage",
+    "city": "Boston",
+    "type": "accelerator",
+    "investment": "No equity",
+    "sectors": "generalist",
+    "deadline": "annual (unknown)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.masschallenge.org/"
+   },
+   {
+    "name": "Plug and Play Tech Center",
+    "city": "Sunnyvale",
+    "type": "corporate",
+    "investment": "No equity, no fees",
+    "sectors": "vertical programs (fintech, mobility, health, etc.)",
+    "deadline": "rolling (per vertical program)",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.plugandplaytechcenter.com/"
+   },
+   {
+    "name": "Antler US",
+    "city": "New York, San Francisco, Austin",
+    "type": "venture_studio",
+    "investment": "Pre-seed investment for equity",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "rolling",
+    "status": "rolling",
+    "url": "https://www.antler.co/location/us"
+   },
+   {
+    "name": "Neo Residency",
+    "city": "San Francisco",
+    "type": "accelerator",
+    "investment": "Investment via SAFE (terms on site)",
+    "sectors": "generalist, AI",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://neo.com/residency"
+   },
+   {
+    "name": "HF0 Residency",
+    "city": "San Francisco",
+    "type": "accelerator",
+    "investment": "Investment (terms on application)",
+    "sectors": "AI, repeat founders",
+    "deadline": "unknown",
+    "next_cohort": "2027-01",
+    "status": "unknown",
+    "url": "https://www.hf0.com/"
+   },
+   {
+    "name": "South Park Commons Founder Fellowship",
+    "city": "San Francisco, New York",
+    "type": "accelerator",
+    "investment": "US$400k for 7% (SAFE) + US$600k in next round",
+    "sectors": "generalist, pre-idea",
+    "deadline": "last: 2026-08-02",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.southparkcommons.com/news/f26-founder-fellowship"
+   },
+   {
+    "name": "Entrepreneurs First San Francisco",
+    "city": "San Francisco",
+    "type": "venture_studio",
+    "investment": "Pre-seed investment for equity",
+    "sectors": "generalist, deep tech",
+    "deadline": "rolling",
+    "next_cohort": "rolling",
+    "status": "rolling",
+    "url": "https://apply.joinef.com/"
+   },
+   {
+    "name": "500 Global Accelerator",
+    "city": "San Francisco",
+    "type": "accelerator",
+    "investment": "Investment for equity (terms vary by program)",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://500.co/founders"
+   },
+   {
+    "name": "gener8tor",
+    "city": "Madison and multiple US cities",
+    "type": "accelerator",
+    "investment": "US$100k for equity, 12 weeks",
+    "sectors": "generalist",
+    "deadline": "rolling (per city program)",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.gener8tor.com/apply"
+   },
+   {
+    "name": "SOSV (formerly IndieBio)",
+    "city": "San Francisco, New York",
+    "type": "accelerator",
+    "investment": "Pre-seed investment",
+    "sectors": "biotech, climate, deep tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://sosv.com/apply/sosv/"
+   },
+   {
+    "name": "HAX (SOSV)",
+    "city": "Newark",
+    "type": "accelerator",
+    "investment": "US$550k initial investment",
+    "sectors": "hardware, deep tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.hax.co/"
+   },
+   {
+    "name": "Greentown Labs",
+    "city": "Somerville, Houston",
+    "type": "incubator",
+    "investment": "No equity (membership)",
+    "sectors": "climate tech",
+    "deadline": "rolling",
+    "next_cohort": "rolling",
+    "status": "rolling",
+    "url": "https://greentown.org/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Sequoia Capital",
+    "city": "Menlo Park",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.sequoiacap.com/"
+   },
+   {
+    "name": "Andreessen Horowitz (a16z)",
+    "city": "Menlo Park",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://a16z.com/"
+   },
+   {
+    "name": "Accel",
+    "city": "Palo Alto",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.accel.com/"
+   },
+   {
+    "name": "Benchmark",
+    "city": "San Francisco",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.benchmark.com/"
+   },
+   {
+    "name": "Lightspeed Venture Partners",
+    "city": "Menlo Park",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://lsvp.com/"
+   },
+   {
+    "name": "Founders Fund",
+    "city": "San Francisco",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist, deep tech",
+    "type": "vc",
+    "url": "https://foundersfund.com/"
+   },
+   {
+    "name": "General Catalyst",
+    "city": "Cambridge, San Francisco",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.generalcatalyst.com/"
+   },
+   {
+    "name": "Kleiner Perkins",
+    "city": "Menlo Park",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.kleinerperkins.com/"
+   },
+   {
+    "name": "Greylock",
+    "city": "Menlo Park",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "enterprise, consumer, AI",
+    "type": "vc",
+    "url": "https://greylock.com/"
+   },
+   {
+    "name": "Khosla Ventures",
+    "city": "Menlo Park",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "deep tech, climate, health, AI",
+    "type": "vc",
+    "url": "https://www.khoslaventures.com/"
+   },
+   {
+    "name": "NEA",
+    "city": "Menlo Park",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist, healthcare",
+    "type": "vc",
+    "url": "https://www.nea.com/"
+   },
+   {
+    "name": "Bessemer Venture Partners",
+    "city": "San Francisco",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.bvp.com/"
+   },
+   {
+    "name": "Index Ventures",
+    "city": "San Francisco",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.indexventures.com/"
+   },
+   {
+    "name": "GV",
+    "city": "Mountain View",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist, life sciences",
+    "type": "cvc",
+    "url": "https://www.gv.com/"
+   },
+   {
+    "name": "Thrive Capital",
+    "city": "New York",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://thrivecap.com/"
+   },
+   {
+    "name": "Union Square Ventures",
+    "city": "New York",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.usv.com/"
+   },
+   {
+    "name": "Insight Partners",
+    "city": "New York",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "software",
+    "type": "vc",
+    "url": "https://www.insightpartners.com/"
+   },
+   {
+    "name": "Redpoint Ventures",
+    "city": "San Francisco",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "enterprise, consumer",
+    "type": "vc",
+    "url": "https://www.redpoint.com/"
+   },
+   {
+    "name": "Felicis",
+    "city": "Menlo Park",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.felicis.com/"
+   },
+   {
+    "name": "Lux Capital",
+    "city": "New York",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "deep tech",
+    "type": "vc",
+    "url": "https://www.luxcapital.com/"
+   },
+   {
+    "name": "8VC",
+    "city": "Austin",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "enterprise, defense, health",
+    "type": "vc",
+    "url": "https://8vc.com/"
+   },
+   {
+    "name": "First Round Capital",
+    "city": "San Francisco",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://firstround.com/"
+   },
+   {
+    "name": "Initialized Capital",
+    "city": "San Francisco",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://initialized.com/"
+   },
+   {
+    "name": "SV Angel",
+    "city": "San Francisco",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://svangel.com/"
+   },
+   {
+    "name": "Precursor Ventures",
+    "city": "San Francisco",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://precursorvc.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "SBIR.gov",
+    "type": "database",
+    "url": "https://www.sbir.gov/",
+    "note": "Official portal for all federal SBIR/STTR topics and awards"
+   },
+   {
+    "name": "Small Business Development Centers (SBA)",
+    "type": "government_agency",
+    "url": "https://www.sba.gov/local-assistance/resource-partners/small-business-development-centers-sbdc",
+    "note": "Free advising nationwide"
+   },
+   {
+    "name": "America's SBDC",
+    "type": "startup_association",
+    "url": "https://americassbdc.org/",
+    "note": "Network of SBDCs incl. SBIR help"
+   },
+   {
+    "name": "Delaware Division of Corporations",
+    "type": "legal_tax",
+    "url": "https://corp.delaware.gov/",
+    "note": "Most VC-backed startups incorporate as Delaware C-corps"
+   },
+   {
+    "name": "Stripe Atlas",
+    "type": "legal_tax",
+    "url": "https://stripe.com/atlas",
+    "note": "Remote Delaware C-corp formation for founders worldwide"
+   },
+   {
+    "name": "National Venture Capital Association (NVCA)",
+    "type": "startup_association",
+    "url": "https://nvca.org/",
+    "note": "VC trade body, model legal documents"
+   },
+   {
+    "name": "Crunchbase",
+    "type": "database",
+    "url": "https://www.crunchbase.com/",
+    "note": "Startup and funding database"
+   },
+   {
+    "name": "AngelList",
+    "type": "community",
+    "url": "https://www.angellist.com/",
+    "note": "Angel syndicates, fund admin, startup jobs"
+   },
+   {
+    "name": "TechCrunch Disrupt",
+    "type": "event",
+    "url": "https://techcrunch.com/events/techcrunch-disrupt/",
+    "note": "Annual San Francisco startup conference"
+   },
+   {
+    "name": "Capital Factory",
+    "type": "coworking_hub",
+    "url": "https://www.capitalfactory.com/",
+    "note": "Austin startup hub and Texas fund"
+   }
+  ],
+  "sources": [
+   "https://www.ycombinator.com/apply",
+   "https://www.techstars.com/accelerators/nyc",
+   "https://www.nsf.gov/funding/opportunities/small-business-innovation-research-small-business-technology/nsf26-510/solicitation",
+   "https://sbir.cancer.gov/funding/opportunities/omnibussolicitation",
+   "https://www.nasa.gov/sbir_sttr/",
+   "https://www.sbir.gov/"
+  ],
+  "confidence": "medium",
+  "notes": "SBIR/STTR lapsed 2025-10-01 and was reauthorized 2026-04-13 through 2031-09-30; agencies are still rebuilding solicitation calendars. DoD FY27 Release 1 opens 2026-10-28 and closes 2026-11-25 (from secondary source). International Entrepreneur Parole remains on USCIS site but rescission has been signalled. Web search budget ran out mid-research, so some state programs (Colorado, Maryland TEDCO, NY) were left out and some accelerator deadlines remain unknown; VC check sizes left as unknown."
+ }
+]

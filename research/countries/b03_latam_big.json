@@ -1,0 +1,1652 @@
+[
+ {
+  "country": "Mexico",
+  "iso2": "MX",
+  "ecosystem_tier": "established",
+  "summary": "Second-largest LatAm ecosystem, centred on Mexico City, Monterrey and Guadalajara; strong in fintech and e-commerce. Unicorns include Kavak, Clip, Bitso and Konfío.",
+  "startup_visa": "none (no dedicated startup visa; founders use temporary resident visas via INM, https://www.gob.mx/inm)",
+  "company_setup": "Typical entity S.A.P.I. de C.V. or S.A.S.; foreigners can incorporate but need an RFC (tax ID), notary and usually a local legal representative; about 2–6 weeks and US$1–3k. Many VC-backed startups use a Delaware or Cayman holdco.",
+  "grants": [
+   {
+    "name": "SECIHTI science, technology and innovation programs",
+    "agency": "SECIHTI (former CONAHCYT)",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "Mexican research centres and firms in partnership; call-based",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.secihti.mx/"
+   },
+   {
+    "name": "NAFIN credit and entrepreneur financing programs",
+    "agency": "Nacional Financiera (NAFIN)",
+    "amount": "credit lines; varies",
+    "amount_usd_max": null,
+    "eligibility": "Mexican SMEs via banks",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.gob.mx/nafin"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "500 Global LatAm Accelerator",
+    "city": "Mexico City",
+    "type": "accelerator",
+    "investment": "up to US$300k (per program page)",
+    "sectors": "generalist tech",
+    "deadline": "unknown (apply via latam.aplica.500.co)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://500.co/latam"
+   },
+   {
+    "name": "Startup México (SUM)",
+    "city": "Mexico City",
+    "type": "incubator",
+    "investment": "no equity; services and programs",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://startupmexico.com/"
+   },
+   {
+    "name": "Tecnológico de Monterrey entrepreneurship and incubation",
+    "city": "Monterrey",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "generalist, deep tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://tec.mx/es/emprendimiento"
+   },
+   {
+    "name": "Platanus",
+    "city": "Remote / LatAm",
+    "type": "accelerator",
+    "investment": "US$200k for 7%",
+    "sectors": "generalist tech",
+    "deadline": "application windows several times a year; off-cycle accepted",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://platan.us/"
+   },
+   {
+    "name": "Y Combinator (LatAm founders apply remotely)",
+    "city": "San Francisco (remote apply)",
+    "type": "accelerator",
+    "investment": "US$500k (US$125k for 7% + US$375k MFN SAFE)",
+    "sectors": "generalist",
+    "deadline": "rolling; four batches a year",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.ycombinator.com/apply"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "DILA Capital",
+    "city": "Mexico City",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.dilacapital.com/"
+   },
+   {
+    "name": "Angel Ventures",
+    "city": "Mexico City",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.angelventures.vc/"
+   },
+   {
+    "name": "Cometa",
+    "city": "Mexico City",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.cometa.vc/"
+   },
+   {
+    "name": "IGNIA",
+    "city": "Monterrey",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.ignia.vc/"
+   },
+   {
+    "name": "Hi Ventures (allvp.vc now redirects here)",
+    "city": "Mexico City",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.hi.vc/"
+   },
+   {
+    "name": "Wollef (formerly Jaguar Ventures)",
+    "city": "Mexico City",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.wollefvc.com/"
+   },
+   {
+    "name": "NXTP Ventures",
+    "city": "Mexico City",
+    "stage": "seed",
+    "check_size": "US$150k–5M",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://www.nxtp.vc/"
+   },
+   {
+    "name": "Kaszek",
+    "city": "Mexico City (regional)",
+    "stage": "multi",
+    "check_size": "US$1M–30M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.kaszek.com/"
+   },
+   {
+    "name": "Magma Partners",
+    "city": "Mexico City",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist, fintech, insurtech, marketplaces",
+    "type": "vc",
+    "url": "https://magmapartners.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "AMEXCAP",
+    "type": "startup_association",
+    "url": "https://amexcap.com/",
+    "note": "Mexican private equity and venture capital association"
+   },
+   {
+    "name": "Endeavor México",
+    "type": "community",
+    "url": "https://mexico.endeavor.org/",
+    "note": "High-impact entrepreneur network, scale-up selection and mentoring"
+   },
+   {
+    "name": "Secretaría de Economía",
+    "type": "government_agency",
+    "url": "https://www.gob.mx/se",
+    "note": "Federal economy ministry, company registration and SME policy"
+   },
+   {
+    "name": "INM (Instituto Nacional de Migración)",
+    "type": "government_agency",
+    "url": "https://www.gob.mx/inm",
+    "note": "Visas and residence for foreign founders"
+   },
+   {
+    "name": "LAVCA",
+    "type": "startup_association",
+    "url": "https://www.lavca.org/",
+    "note": "Regional VC association, data and industry reports"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation lab; invests in LatAm VC funds and early-stage ventures"
+   }
+  ],
+  "sources": [
+   "https://www.secihti.mx/",
+   "https://www.gob.mx/nafin",
+   "https://500.co/latam",
+   "https://www.nxtp.vc/",
+   "https://startupmexico.com/"
+  ],
+  "confidence": "medium",
+  "notes": "As of Oct 2026 there is no federal startup grant program (INADEM was closed in 2019); support is mainly state level and via SECIHTI calls. allvp.vc redirects to hi.vc; relationship unconfirmed. Wayra no longer lists Mexico among its hubs. Check sizes mostly unpublished."
+ },
+ {
+  "country": "Brazil",
+  "iso2": "BR",
+  "ecosystem_tier": "established",
+  "summary": "Largest ecosystem in Latin America, centred on São Paulo with hubs in Florianópolis, Belo Horizonte, Rio and Recife. Home to Nubank, iFood, QuintoAndar, Ebanx and other unicorns; strongest in fintech, agtech and SaaS.",
+  "startup_visa": "Residence authorization for investment in innovation/startups (Ministério da Justiça, CNIg rules), https://www.gov.br/mj/pt-br/assuntos/seus-direitos/migracoes/autorizacao-de-residencia",
+  "company_setup": "Typical entity Ltda or S.A. (Sociedade Anônima for VC rounds); foreigners need a CPF and a resident administrator or attorney; registration via Redesim/Junta Comercial in about 1–4 weeks. Many VC-backed startups use a Cayman/Delaware holdco.",
+  "grants": [
+   {
+    "name": "PIPE (Pesquisa Inovativa em Pequenas Empresas)",
+    "agency": "FAPESP",
+    "amount": "Phase 1 typically up to ~R$300k; themed calls up to R$500k per project",
+    "amount_usd_max": 95000,
+    "eligibility": "Small companies in São Paulo state doing R&D",
+    "deadline": "rolling (Fase 1, Fase 2 Indireta and PIPE Invest any time via SAGe)",
+    "status": "rolling",
+    "url": "https://fapesp.br/pipe/"
+   },
+   {
+    "name": "Finep non-reimbursable and innovation credit programs (Mais Inovação, Tecnova via state partners)",
+    "agency": "Finep",
+    "amount": "subvenção calls up to R$5M per project; varies",
+    "amount_usd_max": 925000,
+    "eligibility": "Brazilian companies; many subsidy calls require 3 years of balance sheets, startups via Tecnova/agents",
+    "deadline": "call-based; last major subsidy calls closed Apr–Aug 2026",
+    "status": "unknown",
+    "url": "https://www.finep.gov.br/oportunidades"
+   },
+   {
+    "name": "BNDES Mais Inovação",
+    "agency": "BNDES",
+    "amount": "credit; varies",
+    "amount_usd_max": null,
+    "eligibility": "Brazilian companies with innovation projects",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/bndes-mais-inovacao"
+   },
+   {
+    "name": "Programa Centelha 3",
+    "agency": "MCTI / Finep / CONFAP with state FAPs",
+    "amount": "state calls; varies per state",
+    "amount_usd_max": null,
+    "eligibility": "Early-stage innovative ideas; state-run editais",
+    "deadline": "varies by state; Alagoas open per program site",
+    "status": "open",
+    "url": "https://programacentelha.com.br/"
+   },
+   {
+    "name": "EMBRAPII R&D co-funding",
+    "agency": "EMBRAPII",
+    "amount": "co-funds up to about 1/3 of R&D projects with partner institutes",
+    "amount_usd_max": null,
+    "eligibility": "Companies partnering with an EMBRAPII unit",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://embrapii.org.br/"
+   },
+   {
+    "name": "Sebrae Startups programs",
+    "agency": "Sebrae",
+    "amount": "programs and support; varies",
+    "amount_usd_max": null,
+    "eligibility": "Brazilian micro and small businesses and startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://sebrae.com.br/subsites/sebrae-startups"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "BNDES Garagem (run with Quintessa)",
+    "city": "Rio de Janeiro / remote",
+    "type": "government",
+    "investment": "no equity; free acceleration (Criação and Tração tracks)",
+    "sectors": "impact, generalist",
+    "deadline": "annual; last cycle 2 closed 2025-09-14; 2026 call pending",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://garagem.bndes.gov.br/"
+   },
+   {
+    "name": "InovAtiva (Brasil and Impacto)",
+    "city": "remote",
+    "type": "government",
+    "investment": "no equity; free acceleration and mentoring",
+    "sectors": "generalist, impact",
+    "deadline": "cohorts usually twice yearly; last regional call closed 2026-05-22",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://inovativa.online/"
+   },
+   {
+    "name": "Cubo Itaú",
+    "city": "São Paulo",
+    "type": "corporate",
+    "investment": "no equity; hub and corporate connections",
+    "sectors": "generalist tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://cubo.itau/"
+   },
+   {
+    "name": "inovabra (Bradesco)",
+    "city": "São Paulo",
+    "type": "corporate",
+    "investment": "no equity; corporate innovation hub",
+    "sectors": "fintech, generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.inovabra.com.br/"
+   },
+   {
+    "name": "Antler Brazil",
+    "city": "São Paulo",
+    "type": "venture_studio",
+    "investment": "R$1M initial (two convertible notes) + up to R$1M co-investment",
+    "sectors": "generalist",
+    "deadline": "rolling; see antler.co/cohort-start-dates",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.antler.co/location/brazil"
+   },
+   {
+    "name": "Wayra Brasil (Telefónica/Vivo)",
+    "city": "São Paulo",
+    "type": "corporate",
+    "investment": "CVC investment; ticket unpublished",
+    "sectors": "telecom-adjacent tech, B2B",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.wayra.com/pt"
+   },
+   {
+    "name": "500 Global LatAm Accelerator",
+    "city": "São Paulo / remote",
+    "type": "accelerator",
+    "investment": "up to US$300k (per program page)",
+    "sectors": "generalist tech",
+    "deadline": "unknown (apply via latam.aplica.500.co)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://500.co/latam"
+   },
+   {
+    "name": "Y Combinator (LatAm founders apply remotely)",
+    "city": "San Francisco (remote apply)",
+    "type": "accelerator",
+    "investment": "US$500k (US$125k for 7% + US$375k MFN SAFE)",
+    "sectors": "generalist",
+    "deadline": "rolling; four batches a year",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.ycombinator.com/apply"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "monashees",
+    "city": "São Paulo",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.monashees.com/"
+   },
+   {
+    "name": "Kaszek",
+    "city": "São Paulo",
+    "stage": "multi",
+    "check_size": "US$1M–30M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.kaszek.com/"
+   },
+   {
+    "name": "Valor Capital Group",
+    "city": "São Paulo / New York",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://valorcapitalgroup.com/"
+   },
+   {
+    "name": "Canary",
+    "city": "São Paulo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.canary.com.br/"
+   },
+   {
+    "name": "Astella",
+    "city": "São Paulo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B SaaS, generalist",
+    "type": "vc",
+    "url": "https://www.astella.com.br/"
+   },
+   {
+    "name": "Redpoint eventures",
+    "city": "São Paulo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://rpev.com.br/"
+   },
+   {
+    "name": "MAYA Capital",
+    "city": "São Paulo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.maya.capital/"
+   },
+   {
+    "name": "Atlantico",
+    "city": "São Paulo",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.atlantico.vc/"
+   },
+   {
+    "name": "Alexia Ventures",
+    "city": "São Paulo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "fintech, B2B",
+    "type": "vc",
+    "url": "https://www.alexia.vc/"
+   },
+   {
+    "name": "DOMO.VC",
+    "city": "São Paulo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://domo.vc/"
+   },
+   {
+    "name": "Bossa Invest",
+    "city": "São Paulo",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://bossainvest.com/"
+   },
+   {
+    "name": "Vox Capital",
+    "city": "São Paulo",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "impact",
+    "type": "vc",
+    "url": "https://vox.capital/"
+   },
+   {
+    "name": "QED Investors",
+    "city": "São Paulo / Alexandria",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "fintech",
+    "type": "vc",
+    "url": "https://www.qedinvestors.com/"
+   },
+   {
+    "name": "NXTP Ventures",
+    "city": "São Paulo",
+    "stage": "seed",
+    "check_size": "US$150k–5M",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://www.nxtp.vc/"
+   },
+   {
+    "name": "Anjos do Brasil",
+    "city": "São Paulo",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://anjosdobrasil.net/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "ABVCAP",
+    "type": "startup_association",
+    "url": "https://abvcap.com.br/",
+    "note": "Brazilian private equity and venture capital association"
+   },
+   {
+    "name": "Sebrae",
+    "type": "government_agency",
+    "url": "https://sebrae.com.br/empreendedores",
+    "note": "SME support agency with startup programs nationwide"
+   },
+   {
+    "name": "Redesim",
+    "type": "government_agency",
+    "url": "https://www.gov.br/empresas-e-negocios/pt-br/redesim",
+    "note": "Federal company registration portal"
+   },
+   {
+    "name": "MCTI",
+    "type": "government_agency",
+    "url": "https://www.gov.br/mcti/pt-br",
+    "note": "Science, technology and innovation ministry (Lei do Bem, Centelha)"
+   },
+   {
+    "name": "Anprotec",
+    "type": "startup_association",
+    "url": "https://anprotec.org.br/site/",
+    "note": "Association of incubators and science parks"
+   },
+   {
+    "name": "Endeavor Brasil",
+    "type": "community",
+    "url": "https://brasil.endeavor.org/",
+    "note": "High-impact entrepreneur network, scale-up selection and mentoring"
+   },
+   {
+    "name": "LAVCA",
+    "type": "startup_association",
+    "url": "https://www.lavca.org/",
+    "note": "Regional VC association, data and industry reports"
+   }
+  ],
+  "sources": [
+   "https://fapesp.br/pipe/",
+   "https://www.finep.gov.br/oportunidades",
+   "https://garagem.bndes.gov.br/",
+   "https://programacentelha.com.br/",
+   "https://www.antler.co/location/brazil"
+  ],
+  "confidence": "medium",
+  "notes": "Finep subsidy calls in 2026 (Mais Inovação) mostly closed; several required firms with 3 years of balance sheets. BNDES Garagem 3rd edition runs to 2028 with yearly calls; 2026 dates not yet published. FAPESP PIPE amounts approximate, check Valores page. Exchange rate ~R$5.4/US$."
+ },
+ {
+  "country": "Argentina",
+  "iso2": "AR",
+  "ecosystem_tier": "established",
+  "summary": "Talent-rich ecosystem centred on Buenos Aires and Córdoba that produced MercadoLibre, Globant, Ualá, Auth0 and Despegar. Strong in software, fintech, agtech and biotech, but macro volatility and capital controls shape fundraising.",
+  "startup_visa": "none (no startup visa; digital nomad visa and standard residence routes via Dirección Nacional de Migraciones)",
+  "company_setup": "Typical entity S.A. or S.R.L. (S.A.S. availability restricted in practice); foreigners can incorporate but need a CDI/CUIT and local legal domicile; 1–2 months. Many VC-backed startups use a Delaware holdco.",
+  "grants": [
+   {
+    "name": "Agencia I+D+i convocatorias (AIC and Startup)",
+    "agency": "Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "Argentine firms and startups with R&D+i projects",
+    "deadline": "last: 2026-05-22; next round not announced",
+    "status": "closed",
+    "url": "https://www.argentina.gob.ar/jefatura/innovacion-ciencia-y-tecnologia/agencia"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Incutex",
+    "city": "Buenos Aires",
+    "type": "venture_studio",
+    "investment": "varies",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.incutex.com.ar/"
+   },
+   {
+    "name": "CITES (Grupo Sancor Seguros)",
+    "city": "Sunchales, Santa Fe",
+    "type": "corporate",
+    "investment": "pre-seed investment in deep tech",
+    "sectors": "deep tech, science-based",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://cites-gss.com/"
+   },
+   {
+    "name": "Embarca",
+    "city": "Buenos Aires",
+    "type": "accelerator",
+    "investment": "unknown",
+    "sectors": "tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.embarca.tech/"
+   },
+   {
+    "name": "500 Global LatAm Accelerator",
+    "city": "Buenos Aires / remote",
+    "type": "accelerator",
+    "investment": "up to US$300k (per program page)",
+    "sectors": "generalist tech",
+    "deadline": "unknown (apply via latam.aplica.500.co)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://500.co/latam"
+   },
+   {
+    "name": "Platanus",
+    "city": "Remote / LatAm",
+    "type": "accelerator",
+    "investment": "US$200k for 7%",
+    "sectors": "generalist tech",
+    "deadline": "application windows several times a year; off-cycle accepted",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://platan.us/"
+   },
+   {
+    "name": "Y Combinator (LatAm founders apply remotely)",
+    "city": "San Francisco (remote apply)",
+    "type": "accelerator",
+    "investment": "US$500k (US$125k for 7% + US$375k MFN SAFE)",
+    "sectors": "generalist",
+    "deadline": "rolling; four batches a year",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.ycombinator.com/apply"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Kaszek",
+    "city": "Buenos Aires",
+    "stage": "multi",
+    "check_size": "US$1M–30M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.kaszek.com/"
+   },
+   {
+    "name": "NXTP Ventures",
+    "city": "Buenos Aires",
+    "stage": "seed",
+    "check_size": "US$150k–5M",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://www.nxtp.vc/"
+   },
+   {
+    "name": "Kamay Ventures",
+    "city": "Buenos Aires",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "corporate-backed generalist tech",
+    "type": "cvc",
+    "url": "https://kamayventures.com/"
+   },
+   {
+    "name": "GRIDX",
+    "city": "Buenos Aires",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "biotech, deep tech",
+    "type": "vc",
+    "url": "https://www.gridexponential.com/"
+   },
+   {
+    "name": "Newtopia VC",
+    "city": "Buenos Aires",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://newtopia.vc/"
+   },
+   {
+    "name": "Globant Ventures",
+    "city": "Buenos Aires",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "AI, enterprise tech",
+    "type": "cvc",
+    "url": "https://www.globantventures.com/"
+   },
+   {
+    "name": "South Ventures",
+    "city": "Buenos Aires",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.southventures.com/"
+   },
+   {
+    "name": "The Collective",
+    "city": "Buenos Aires",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.thecollective.vc/"
+   },
+   {
+    "name": "Magma Partners",
+    "city": "Buenos Aires",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist, fintech, insurtech, marketplaces",
+    "type": "vc",
+    "url": "https://magmapartners.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "ARCAP",
+    "type": "startup_association",
+    "url": "https://arcap.org/",
+    "note": "Argentine private capital association, VC data"
+   },
+   {
+    "name": "Endeavor Argentina",
+    "type": "community",
+    "url": "https://www.endeavor.org.ar/",
+    "note": "High-impact entrepreneur network, scale-up selection and mentoring"
+   },
+   {
+    "name": "BCR (Bolsa de Comercio de Rosario) startup network",
+    "type": "other",
+    "url": "https://www.bcr.com.ar/es",
+    "note": "Runs BCR Startup Network program with IDB Lab"
+   },
+   {
+    "name": "Ministerio de Economía",
+    "type": "government_agency",
+    "url": "https://www.argentina.gob.ar/economia",
+    "note": "Economy ministry incl. SME and entrepreneur policy"
+   },
+   {
+    "name": "LAVCA",
+    "type": "startup_association",
+    "url": "https://www.lavca.org/",
+    "note": "Regional VC association, data and industry reports"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation lab; invests in LatAm VC funds and early-stage ventures"
+   }
+  ],
+  "sources": [
+   "https://www.argentina.gob.ar/jefatura/innovacion-ciencia-y-tecnologia/agencia",
+   "https://www.nxtp.vc/",
+   "https://www.kaszek.com/",
+   "https://kamayventures.com/"
+  ],
+  "confidence": "medium",
+  "notes": "National startup programs were cut back in 2024–2026; Fondo Semilla/Fondo Expansión no longer active as of 2026. Provincial funds (e.g. Córdoba Semilla/Triple F up to ARS 40M, closed 2026-07-08; Río Negro; San Juan) are the main public seed sources but their official URLs could not be verified, so they are omitted. Wayra Argentina site has an expired certificate and is not listed among Wayra hubs. ~ARS 1,400/US$ (volatile)."
+ },
+ {
+  "country": "Chile",
+  "iso2": "CL",
+  "ecosystem_tier": "established",
+  "summary": "Compact, government-backed ecosystem centred on Santiago, known for Start-Up Chile and CORFO co-funding. Notable companies include NotCo, Betterfly, Fintual and Buk; strengths in fintech, foodtech, mining and climate tech.",
+  "startup_visa": "Start-Up Chile participants get visa support; general route is the temporary residence visa, https://startupchile.org/",
+  "company_setup": "Typical entity SpA; can be formed online in 1 day free via Empresa en un Día (tuempresaenundia.cl) but needs a RUT; foreigners can obtain a RUT via a local representative. Total cost under US$500.",
+  "grants": [
+   {
+    "name": "Start-Up Chile BIG (Build, Ignite, Growth)",
+    "agency": "CORFO / Start-Up Chile",
+    "amount": "CLP 15M (Build), 30–50M (Ignite), 75M (Growth), equity-free",
+    "amount_usd_max": 79000,
+    "eligibility": "Tech-based startups from any country; must operate from Chile",
+    "deadline": "last: 2026-05-25; next call announced as opening soon",
+    "status": "upcoming",
+    "url": "https://startupchile.org/postula/"
+   },
+   {
+    "name": "Semilla Inicia",
+    "agency": "CORFO",
+    "amount": "up to CLP 15–17M (75–85% co-financing)",
+    "amount_usd_max": 18000,
+    "eligibility": "Early ventures with no sales, under 18 months; regional calls",
+    "deadline": "last: 2026-06 (regional calls); usually annual",
+    "status": "closed",
+    "url": "https://www.corfo.gob.cl/sites/cpp/programasyconvocatorias/"
+   },
+   {
+    "name": "Semilla Expande",
+    "agency": "CORFO",
+    "amount": "up to about CLP 45M",
+    "amount_usd_max": 47000,
+    "eligibility": "Startups with initial sales seeking to scale",
+    "deadline": "annual (regional calls)",
+    "status": "unknown",
+    "url": "https://www.corfo.gob.cl/sites/cpp/programasyconvocatorias/"
+   },
+   {
+    "name": "CORFO R&D tax credit (Ley I+D)",
+    "agency": "CORFO",
+    "amount": "35% of certified R&D spend as tax credit",
+    "amount_usd_max": null,
+    "eligibility": "Chilean taxpayer companies with certified R&D",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.corfo.gob.cl/sites/cpp/programasyconvocatorias/"
+   },
+   {
+    "name": "ANID applied research and Startup Ciencia calls",
+    "agency": "ANID",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Science-based startups and firms",
+    "deadline": "call-based",
+    "status": "unknown",
+    "url": "https://www.anid.cl/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Start-Up Chile",
+    "city": "Santiago",
+    "type": "government",
+    "investment": "equity-free CLP 15–75M",
+    "sectors": "generalist tech",
+    "deadline": "last: 2026-05-25; next call opening soon",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startupchile.org/"
+   },
+   {
+    "name": "Platanus",
+    "city": "Santiago / remote",
+    "type": "accelerator",
+    "investment": "US$200k for 7%",
+    "sectors": "generalist tech",
+    "deadline": "application windows several times a year; off-cycle accepted",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://platan.us/"
+   },
+   {
+    "name": "Chrysalis (PUCV)",
+    "city": "Valparaíso",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://chrysalis.cl/"
+   },
+   {
+    "name": "3IE (USM)",
+    "city": "Valparaíso",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://3ie.usm.cl/"
+   },
+   {
+    "name": "Centro de Innovación UC",
+    "city": "Santiago",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "generalist, deep tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://centrodeinnovacion.uc.cl/"
+   },
+   {
+    "name": "Fundación Chile",
+    "city": "Santiago",
+    "type": "venture_studio",
+    "investment": "varies",
+    "sectors": "climate, food, education",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://fundacionchile.com/"
+   },
+   {
+    "name": "Y Combinator (LatAm founders apply remotely)",
+    "city": "San Francisco (remote apply)",
+    "type": "accelerator",
+    "investment": "US$500k (US$125k for 7% + US$375k MFN SAFE)",
+    "sectors": "generalist",
+    "deadline": "rolling; four batches a year",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.ycombinator.com/apply"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Kayyak Ventures",
+    "city": "Santiago",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.kayyakventures.com/"
+   },
+   {
+    "name": "Alaya Capital",
+    "city": "Santiago",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://alaya-capital.com/"
+   },
+   {
+    "name": "Chile Global Ventures",
+    "city": "Santiago",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech, agtech",
+    "type": "vc",
+    "url": "https://chileglobalventures.cl/"
+   },
+   {
+    "name": "Magma Partners",
+    "city": "Santiago",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist, fintech, insurtech, marketplaces",
+    "type": "vc",
+    "url": "https://magmapartners.com/"
+   },
+   {
+    "name": "Kaszek",
+    "city": "Regional",
+    "stage": "multi",
+    "check_size": "US$1M–30M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.kaszek.com/"
+   },
+   {
+    "name": "Genesis Ventures",
+    "city": "Santiago",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.genesisventures.com/"
+   },
+   {
+    "name": "NXTP Ventures",
+    "city": "Regional",
+    "stage": "seed",
+    "check_size": "US$150k–5M",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://www.nxtp.vc/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "CORFO",
+    "type": "government_agency",
+    "url": "https://www.corfo.gob.cl/sites/cpp/programasyconvocatorias/",
+    "note": "National development agency; seed, VC fund-of-funds and R&D tax credit"
+   },
+   {
+    "name": "InvestChile",
+    "type": "government_agency",
+    "url": "https://www.investchile.gob.cl/",
+    "note": "Foreign investment promotion agency"
+   },
+   {
+    "name": "ACTI",
+    "type": "startup_association",
+    "url": "https://acti.cl/",
+    "note": "Chilean tech industry association"
+   },
+   {
+    "name": "ASECH",
+    "type": "startup_association",
+    "url": "https://www.asech.cl/",
+    "note": "Association of entrepreneurs of Chile"
+   },
+   {
+    "name": "Chiletec",
+    "type": "startup_association",
+    "url": "https://chiletec.org/",
+    "note": "Software and tech companies association"
+   },
+   {
+    "name": "Endeavor Chile",
+    "type": "community",
+    "url": "https://endeavor.cl/",
+    "note": "High-impact entrepreneur network, scale-up selection and mentoring"
+   }
+  ],
+  "sources": [
+   "https://startupchile.org/postula/",
+   "https://www.corfo.gob.cl/sites/cpp/programasyconvocatorias/",
+   "https://platan.us/",
+   "https://www.chileatiende.gob.cl/fichas/94371-start-up-chile-apoyo-para-startups-innovadoras"
+  ],
+  "confidence": "medium",
+  "notes": "Start-Up Chile 2026 call closed 25 May 2026; the site says next applications open soon (no date). Semilla Inicia/Expande run as regional calls with differing dates. Ignite amount stated as CLP 30M or up to 50M by different sources. ~CLP 950/US$."
+ },
+ {
+  "country": "Colombia",
+  "iso2": "CO",
+  "ecosystem_tier": "established",
+  "summary": "Fast-growing ecosystem led by Bogotá and Medellín; unicorns include Rappi, Habi and Addi. Strong in fintech, proptech and delivery, with active public support through iNNpulsa and Ruta N.",
+  "startup_visa": "none (no startup visa; Visa V digital nomad and Visa M/R investor routes via Cancillería, https://www.cancilleria.gov.co/)",
+  "company_setup": "Typical entity S.A.S., registrable at the Cámara de Comercio in days; foreigners can be shareholders but need a passport/cédula de extranjería and RUT; about US$300–1,000.",
+  "grants": [
+   {
+    "name": "iNNpulsa programs (Aldea, Oportunidades para Emprender, iNNpulsa Mujeres)",
+    "agency": "iNNpulsa Colombia",
+    "amount": "non-financial acceleration and grants; varies by call",
+    "amount_usd_max": null,
+    "eligibility": "Formally registered Colombian companies; call-specific",
+    "deadline": "rolling calls; Aldea+ 25 last: 2026-02-17",
+    "status": "open",
+    "url": "https://www.innpulsacolombia.com/"
+   },
+   {
+    "name": "Fondo Emprender",
+    "agency": "SENA",
+    "amount": "up to ~COP 45M non-reimbursable",
+    "amount_usd_max": 11000,
+    "eligibility": "SENA, university or technical graduates",
+    "deadline": "call-based",
+    "status": "unknown",
+    "url": "https://www.fondoemprender.com/SitePages/Home.aspx"
+   },
+   {
+    "name": "Minciencias innovation calls and tax benefits",
+    "agency": "Minciencias",
+    "amount": "varies; tax deductions/credits for R&D",
+    "amount_usd_max": null,
+    "eligibility": "Colombian firms with R&D+i projects",
+    "deadline": "call-based",
+    "status": "unknown",
+    "url": "https://www.minciencias.gov.co/"
+   },
+   {
+    "name": "Bancóldex lines and fund-of-funds",
+    "agency": "Bancóldex",
+    "amount": "credit lines; VC fund investments",
+    "amount_usd_max": null,
+    "eligibility": "Colombian SMEs and funds",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.bancoldex.com/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "iNNpulsa Aldea",
+    "city": "Bogotá / national",
+    "type": "government",
+    "investment": "no equity; up to 80 hours of expert support",
+    "sectors": "tech, 4R technologies",
+    "deadline": "annual; last: 2026-02-17",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.innpulsacolombia.com/programa-aldea-25/"
+   },
+   {
+    "name": "Ruta N",
+    "city": "Medellín",
+    "type": "government",
+    "investment": "no equity; programs and soft landing",
+    "sectors": "generalist tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://rutanmedellin.org/"
+   },
+   {
+    "name": "Connect Bogotá Región",
+    "city": "Bogotá",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech, university spin-offs",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.connectbogota.org/"
+   },
+   {
+    "name": "Socialatom Group",
+    "city": "Medellín",
+    "type": "venture_studio",
+    "investment": "varies",
+    "sectors": "generalist tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.socialatomgroup.com/"
+   },
+   {
+    "name": "500 Global LatAm Accelerator",
+    "city": "Bogotá / remote",
+    "type": "accelerator",
+    "investment": "up to US$300k (per program page)",
+    "sectors": "generalist tech",
+    "deadline": "unknown (apply via latam.aplica.500.co)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://500.co/latam"
+   },
+   {
+    "name": "Platanus",
+    "city": "Remote / LatAm",
+    "type": "accelerator",
+    "investment": "US$200k for 7%",
+    "sectors": "generalist tech",
+    "deadline": "application windows several times a year; off-cycle accepted",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://platan.us/"
+   },
+   {
+    "name": "Y Combinator (LatAm founders apply remotely)",
+    "city": "San Francisco (remote apply)",
+    "type": "accelerator",
+    "investment": "US$500k (US$125k for 7% + US$375k MFN SAFE)",
+    "sectors": "generalist",
+    "deadline": "rolling; four batches a year",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.ycombinator.com/apply"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Veronorte",
+    "city": "Medellín",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.veronorte.com/"
+   },
+   {
+    "name": "Magma Partners",
+    "city": "Bogotá",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist, fintech, insurtech, marketplaces",
+    "type": "vc",
+    "url": "https://magmapartners.com/"
+   },
+   {
+    "name": "Kaszek",
+    "city": "Regional",
+    "stage": "multi",
+    "check_size": "US$1M–30M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.kaszek.com/"
+   },
+   {
+    "name": "NXTP Ventures",
+    "city": "Regional",
+    "stage": "seed",
+    "check_size": "US$150k–5M",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://www.nxtp.vc/"
+   },
+   {
+    "name": "Acumen Colombia",
+    "city": "Bogotá",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "impact",
+    "type": "vc",
+    "url": "https://acumen.org/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "iNNpulsa Colombia",
+    "type": "government_agency",
+    "url": "https://www.innpulsacolombia.com/",
+    "note": "National entrepreneurship and innovation agency"
+   },
+   {
+    "name": "Colombia Fintech",
+    "type": "startup_association",
+    "url": "https://colombiafintech.co/",
+    "note": "Fintech association"
+   },
+   {
+    "name": "ProColombia",
+    "type": "government_agency",
+    "url": "https://www.procolombia.co/",
+    "note": "Investment and export promotion"
+   },
+   {
+    "name": "Invest in Bogotá",
+    "type": "government_agency",
+    "url": "https://es.investinbogota.org/",
+    "note": "City investment promotion agency"
+   },
+   {
+    "name": "Cancillería visas",
+    "type": "government_agency",
+    "url": "https://www.cancilleria.gov.co/",
+    "note": "Visas for foreign founders"
+   },
+   {
+    "name": "Ruta N",
+    "type": "government_agency",
+    "url": "https://rutanmedellin.org/",
+    "note": "Medellín innovation district agency"
+   }
+  ],
+  "sources": [
+   "https://www.innpulsacolombia.com/",
+   "https://www.innpulsacolombia.com/programa-aldea-25/",
+   "https://www.fondoemprender.com/SitePages/Home.aspx",
+   "https://rutanmedellin.org/"
+  ],
+  "confidence": "medium",
+  "notes": "iNNpulsa lists several calls as open in Oct 2026 but publishes dates per call page; amounts vary. Wayra no longer lists Colombia. Local VC list thin due to verification limits. ~COP 4,000/US$."
+ },
+ {
+  "country": "Peru",
+  "iso2": "PE",
+  "ecosystem_tier": "emerging",
+  "summary": "Emerging ecosystem centred on Lima with fintech and B2B SaaS leaders (e.g. Yape, Culqi, Crehana, Kambista). Public seed funding through ProInnóvate's StartUp Perú anchors early-stage activity.",
+  "startup_visa": "none (no startup visa; ProInnóvate StartUp Perú PLUG offers seed for foreign startups landing in Peru; residence via Migraciones, https://www.gob.pe/migraciones)",
+  "company_setup": "Typical entity S.A.C. or S.R.L.; foreigners can incorporate via notary with a RUC from SUNAT; about 1–3 weeks and US$300–800.",
+  "grants": [
+   {
+    "name": "StartUp Perú (Emprendedores Innovadores, Emprendimientos Dinámicos)",
+    "agency": "ProInnóvate (PRODUCE)",
+    "amount": "up to PEN 150k non-reimbursable (up to 70%)",
+    "amount_usd_max": 40000,
+    "eligibility": "Peruvian startups with MVP/traction",
+    "deadline": "last: 2026-01-16 (13G); usually annual",
+    "status": "closed",
+    "url": "https://www.gob.pe/proinnovate"
+   },
+   {
+    "name": "StartUp Perú PLUG",
+    "agency": "ProInnóvate (PRODUCE)",
+    "amount": "up to US$38k non-reimbursable",
+    "amount_usd_max": 38000,
+    "eligibility": "Foreign startups launching operations in Peru",
+    "deadline": "call opened Aug 2026; check bases",
+    "status": "unknown",
+    "url": "https://www.gob.pe/proinnovate"
+   },
+   {
+    "name": "COFIDE development finance",
+    "agency": "COFIDE",
+    "amount": "credit lines; varies",
+    "amount_usd_max": null,
+    "eligibility": "Peruvian SMEs via financial institutions",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.cofide.com.pe/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Emprende UP (Universidad del Pacífico)",
+    "city": "Lima",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://emprendeup.pe/"
+   },
+   {
+    "name": "Bioincuba",
+    "city": "Lima",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "biotech, agtech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.bioincuba.com/"
+   },
+   {
+    "name": "Kunan",
+    "city": "Lima",
+    "type": "accelerator",
+    "investment": "prizes and support",
+    "sectors": "social impact",
+    "deadline": "annual",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.kunan.com.pe/"
+   },
+   {
+    "name": "500 Global LatAm Accelerator",
+    "city": "Lima / remote",
+    "type": "accelerator",
+    "investment": "up to US$300k (per program page)",
+    "sectors": "generalist tech",
+    "deadline": "unknown (apply via latam.aplica.500.co)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://500.co/latam"
+   },
+   {
+    "name": "Platanus",
+    "city": "Remote / LatAm",
+    "type": "accelerator",
+    "investment": "US$200k for 7%",
+    "sectors": "generalist tech",
+    "deadline": "application windows several times a year; off-cycle accepted",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://platan.us/"
+   },
+   {
+    "name": "Y Combinator (LatAm founders apply remotely)",
+    "city": "San Francisco (remote apply)",
+    "type": "accelerator",
+    "investment": "US$500k (US$125k for 7% + US$375k MFN SAFE)",
+    "sectors": "generalist",
+    "deadline": "rolling; four batches a year",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.ycombinator.com/apply"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Kaszek",
+    "city": "Regional",
+    "stage": "multi",
+    "check_size": "US$1M–30M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.kaszek.com/"
+   },
+   {
+    "name": "Magma Partners",
+    "city": "Regional",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist, fintech, insurtech, marketplaces",
+    "type": "vc",
+    "url": "https://magmapartners.com/"
+   },
+   {
+    "name": "NXTP Ventures",
+    "city": "Regional",
+    "stage": "seed",
+    "check_size": "US$150k–5M",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://www.nxtp.vc/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "PECAP",
+    "type": "startup_association",
+    "url": "https://www.pecap.pe/",
+    "note": "Peruvian seed and venture capital association"
+   },
+   {
+    "name": "ProInnóvate",
+    "type": "government_agency",
+    "url": "https://www.gob.pe/proinnovate",
+    "note": "National innovation program, StartUp Perú"
+   },
+   {
+    "name": "PRODUCE",
+    "type": "government_agency",
+    "url": "https://www.produce.gob.pe/",
+    "note": "Ministry of Production"
+   },
+   {
+    "name": "Endeavor Perú",
+    "type": "community",
+    "url": "https://endeavor.org.pe/",
+    "note": "High-impact entrepreneur network, scale-up selection and mentoring"
+   },
+   {
+    "name": "LAVCA",
+    "type": "startup_association",
+    "url": "https://www.lavca.org/",
+    "note": "Regional VC association, data and industry reports"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation lab; invests in LatAm VC funds and early-stage ventures"
+   }
+  ],
+  "sources": [
+   "https://www.gob.pe/proinnovate",
+   "https://www.pecap.pe/",
+   "https://500.co/latam",
+   "https://elperuano.pe/noticia/140781-peru-abre-sus-puertas-a-startups-extranjeras-que-busquen-iniciar-operaciones-en-el-pais"
+  ],
+  "confidence": "low",
+  "notes": "gob.pe blocked automated fetching, so StartUp Perú dates come from news reports (13G closed Jan 2026; PLUG 2G for foreign startups announced Aug 2026). UTEC Ventures and Salkantaventures sites unreachable, so omitted. Local VC firms not verified. ~PEN 3.75/US$."
+ },
+ {
+  "country": "Uruguay",
+  "iso2": "UY",
+  "ecosystem_tier": "emerging",
+  "summary": "Small but high-output ecosystem in Montevideo with strong software exports; dLocal is the main unicorn exit. ANII and Uruguay XXI run permanent startup support and soft-landing programs.",
+  "startup_visa": "none (no startup visa; SprintUY by ANII/Uruguay XXI supports foreign startups relocating; residence is straightforward)",
+  "company_setup": "Typical entity S.A.S. (since 2019), can be set up quickly online; foreigners can incorporate with a local address and RUT; about 1–3 weeks.",
+  "grants": [
+   {
+    "name": "Apoyo a Emprendimientos Innovadores",
+    "agency": "ANII",
+    "amount": "seed grant; amount per bases",
+    "amount_usd_max": null,
+    "eligibility": "New firms up to 36 months, founder based in Uruguay",
+    "deadline": "rolling (postulación permanente)",
+    "status": "rolling",
+    "url": "https://anii.org.uy/apoyos/emprendimientos/49/apoyo-a-emprendimientos-innovadores"
+   },
+   {
+    "name": "Validación de Ideas de Negocios",
+    "agency": "ANII",
+    "amount": "small grant; amount per bases",
+    "amount_usd_max": null,
+    "eligibility": "Entrepreneurs validating an idea via a sponsor institution",
+    "deadline": "rolling (postulación permanente)",
+    "status": "rolling",
+    "url": "https://anii.org.uy/apoyos/emprendimientos/51/validacion-de-ideas-de-negocios"
+   },
+   {
+    "name": "Coinversión en startups",
+    "agency": "ANII",
+    "amount": "co-investment alongside VC/angels",
+    "amount_usd_max": null,
+    "eligibility": "Startups raising from registered VC or angel investors",
+    "deadline": "rolling (postulación permanente)",
+    "status": "rolling",
+    "url": "https://anii.org.uy/apoyos/emprendimientos/374/coinversion-en-startups-con-organizaciones-de-capital-emprendedor-e-inversores-angeles"
+   },
+   {
+    "name": "Crédito fiscal para I+D",
+    "agency": "ANII",
+    "amount": "tax credit on R&D spend",
+    "amount_usd_max": null,
+    "eligibility": "Uruguayan companies with R&D",
+    "deadline": "rolling (postulación permanente)",
+    "status": "rolling",
+    "url": "https://anii.org.uy/apoyos/emprendimientos/255/credito-fiscal-a-empresas-para-actividades-de-id"
+   },
+   {
+    "name": "SprintUY",
+    "agency": "ANII / Uruguay XXI",
+    "amount": "support for foreign startups landing in Uruguay",
+    "amount_usd_max": null,
+    "eligibility": "Foreign innovative startups",
+    "deadline": "last: 2026-07-21; annual",
+    "status": "closed",
+    "url": "https://anii.org.uy/apoyos/emprendimientos/"
+   },
+   {
+    "name": "ANDE entrepreneurship and SME programs",
+    "agency": "ANDE",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Uruguayan entrepreneurs and SMEs",
+    "deadline": "call-based",
+    "status": "unknown",
+    "url": "https://ande.org.uy/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Ingenio (LATU)",
+    "city": "Montevideo",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://ingenio.org.uy/"
+   },
+   {
+    "name": "Sinergia",
+    "city": "Montevideo",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech, generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://sinergia.uy/"
+   },
+   {
+    "name": "CIE ORT (Centro de Innovación y Emprendimientos)",
+    "city": "Montevideo",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://cie.ort.edu.uy/"
+   },
+   {
+    "name": "Platanus",
+    "city": "Remote / LatAm",
+    "type": "accelerator",
+    "investment": "US$200k for 7%",
+    "sectors": "generalist tech",
+    "deadline": "application windows several times a year; off-cycle accepted",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://platan.us/"
+   },
+   {
+    "name": "Y Combinator (LatAm founders apply remotely)",
+    "city": "San Francisco (remote apply)",
+    "type": "accelerator",
+    "investment": "US$500k (US$125k for 7% + US$375k MFN SAFE)",
+    "sectors": "generalist",
+    "deadline": "rolling; four batches a year",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.ycombinator.com/apply"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Cardumen Capital",
+    "city": "Montevideo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.cardumencapital.com/"
+   },
+   {
+    "name": "Big Sur Ventures",
+    "city": "Montevideo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "SaaS, internet",
+    "type": "vc",
+    "url": "https://www.bigsurventures.vc/"
+   },
+   {
+    "name": "NXTP Ventures",
+    "city": "Regional",
+    "stage": "seed",
+    "check_size": "US$150k–5M",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://www.nxtp.vc/"
+   },
+   {
+    "name": "Kaszek",
+    "city": "Regional",
+    "stage": "multi",
+    "check_size": "US$1M–30M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.kaszek.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "ANII",
+    "type": "government_agency",
+    "url": "https://anii.org.uy/",
+    "note": "National research and innovation agency"
+   },
+   {
+    "name": "Uruguay XXI",
+    "type": "government_agency",
+    "url": "https://www.uruguayxxi.gub.uy/es/",
+    "note": "Investment and export promotion"
+   },
+   {
+    "name": "CUTI",
+    "type": "startup_association",
+    "url": "https://cuti.org.uy/",
+    "note": "Uruguayan chamber of IT"
+   },
+   {
+    "name": "Uruguay Innovation Hub",
+    "type": "other",
+    "url": "https://www.uruguayinnovation.com/",
+    "note": "National innovation hub initiative"
+   },
+   {
+    "name": "Zonamerica",
+    "type": "coworking_hub",
+    "url": "https://www.zonamerica.com/",
+    "note": "Free-trade business park used by tech firms"
+   },
+   {
+    "name": "Endeavor Uruguay",
+    "type": "community",
+    "url": "https://uruguay.endeavor.org/",
+    "note": "High-impact entrepreneur network, scale-up selection and mentoring"
+   }
+  ],
+  "sources": [
+   "https://anii.org.uy/apoyos/emprendimientos/",
+   "https://www.anii.org.uy/upcms/files/listado-documentos/documentos/poa-2026.pdf",
+   "https://ingenio.org.uy/",
+   "https://www.bigsurventures.vc/"
+  ],
+  "confidence": "medium",
+  "notes": "ANII lists eight permanent calls as of Oct 2026 but the listing does not state amounts; check each bases document. ~UYU 40/US$."
+ }
+]

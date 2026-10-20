@@ -1,0 +1,3964 @@
+[
+ {
+  "grants": [
+   {
+    "name": "Kenya Innovation Bridge / R2C Accelerator",
+    "agency": "Kenya National Innovation Agency (KeNIA)",
+    "amount": "not stated",
+    "amount_usd_max": null,
+    "eligibility": "Kenyan innovators and research-to-commercialisation teams",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.kenia.go.ke/"
+   },
+   {
+    "name": "Youth Enterprise Development Fund loans",
+    "agency": "Youth Enterprise Development Fund",
+    "amount": "soft loans (Stawi, E-YES, Agri-biz)",
+    "amount_usd_max": null,
+    "eligibility": "Kenyan youth 18–35 enterprises",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.youthfund.go.ke/"
+   },
+   {
+    "name": "Uwezo Fund",
+    "agency": "Uwezo Fund",
+    "amount": "interest-free group loans",
+    "amount_usd_max": null,
+    "eligibility": "Youth, women and PWD groups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.uwezo.go.ke/"
+   },
+   {
+    "name": "Hustler Fund",
+    "agency": "Financial Inclusion Fund",
+    "amount": "micro and SME loans via mobile",
+    "amount_usd_max": null,
+    "eligibility": "Kenyan individuals and MSMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.hustlerfund.go.ke/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Kenya Climate Innovation Center (KCIC)",
+    "city": "Nairobi",
+    "type": "incubator",
+    "investment": "grants, incubation and investment facilitation",
+    "sectors": "climate, energy, agri, water",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.kenyacic.org/"
+   },
+   {
+    "name": "iHub",
+    "city": "Nairobi",
+    "type": "incubator",
+    "investment": "programme-based",
+    "sectors": "generalist tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://ihub.co.ke/"
+   },
+   {
+    "name": "@iBizAfrica (Strathmore University)",
+    "city": "Nairobi",
+    "type": "university",
+    "investment": "incubation, no equity",
+    "sectors": "generalist tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://ibizafrica.strathmore.edu/"
+   },
+   {
+    "name": "Antler East Africa",
+    "city": "Nairobi",
+    "type": "accelerator",
+    "investment": "US$100k for 10% plus US$150k follow-on (up to US$250k)",
+    "sectors": "generalist",
+    "deadline": "cohorts (see site)",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.antler.co/location/kenya"
+   },
+   {
+    "name": "Villgro Africa Incubation Program",
+    "city": "Nairobi",
+    "type": "incubator",
+    "investment": "seed funding plus incubation",
+    "sectors": "healthcare, life sciences",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://villgroafrica.org/innovators/apply-now/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "Pan-African (hybrid)",
+    "type": "corporate",
+    "investment": "equity-free",
+    "sectors": "AI/ML, Series A startups",
+    "deadline": "last: 2026-03-18 (annual, usually Feb to Mar)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   },
+   {
+    "name": "Founders Factory Africa",
+    "city": "Johannesburg",
+    "type": "venture_studio",
+    "investment": "investment plus hands-on support",
+    "sectors": "fintech, health, agri, generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.foundersfactory.africa/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Novastar Ventures",
+    "city": "Nairobi",
+    "stage": "seed to series B",
+    "check_size": "US$1M–10M",
+    "sectors": "impact, climate, health, fintech",
+    "type": "vc",
+    "url": "https://www.novastarventures.com/"
+   },
+   {
+    "name": "TLcom Capital",
+    "city": "Nairobi / Lagos",
+    "stage": "seed to series B",
+    "check_size": "US$1M–10M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.tlcomcapital.com/"
+   },
+   {
+    "name": "Partech Africa",
+    "city": "Nairobi / Lagos / Dakar",
+    "stage": "seed to series B",
+    "check_size": "US$1M–15M+",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://partechpartners.com/"
+   },
+   {
+    "name": "4DX Ventures",
+    "city": "Nairobi / pan-African",
+    "stage": "seed to series A",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.4dxventures.com/"
+   },
+   {
+    "name": "Norrsken22",
+    "city": "Pan-African (Kenya, Nigeria, SA)",
+    "stage": "series A to growth",
+    "check_size": "US$5M–20M",
+    "sectors": "tech growth",
+    "type": "vc",
+    "url": "https://www.norrsken22.com/"
+   },
+   {
+    "name": "Acumen",
+    "city": "Nairobi / pan-African",
+    "stage": "seed to growth",
+    "check_size": "unknown",
+    "sectors": "agri, energy, impact",
+    "type": "vc",
+    "url": "https://acumen.org/"
+   },
+   {
+    "name": "DOB Equity",
+    "city": "East Africa (Nairobi)",
+    "stage": "series A to growth",
+    "check_size": "unknown",
+    "sectors": "impact, agri, health",
+    "type": "family_office",
+    "url": "https://www.dobequity.nl/"
+   },
+   {
+    "name": "Goodwell Investments",
+    "city": "Nairobi / Johannesburg",
+    "stage": "seed to growth",
+    "check_size": "unknown",
+    "sectors": "financial inclusion, impact",
+    "type": "vc",
+    "url": "https://goodwell.nl/"
+   },
+   {
+    "name": "Verod-Kepple Africa Ventures",
+    "city": "Pan-African",
+    "stage": "pre-seed to seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://vkav.vc/"
+   },
+   {
+    "name": "Renew Capital",
+    "city": "Addis Ababa / East Africa",
+    "stage": "seed to series A",
+    "check_size": "unknown",
+    "sectors": "generalist, angel syndicates",
+    "type": "angel_network",
+    "url": "https://www.renewcapital.com/"
+   },
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   },
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African",
+    "stage": "pre-seed",
+    "check_size": "US$200k",
+    "sectors": "climate adaptation and resilience",
+    "type": "vc",
+    "url": "https://www.thecatalystfund.com/"
+   },
+   {
+    "name": "Antler (Africa fund)",
+    "city": "Nairobi",
+    "stage": "pre-seed",
+    "check_size": "US$100k–250k",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.antler.co/location/kenya"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Kenya National Innovation Agency (KeNIA)",
+    "type": "government_agency",
+    "url": "https://www.kenia.go.ke/",
+    "note": "National innovation agency; runs Kenya Innovation Week"
+   },
+   {
+    "name": "InvestKenya (KenInvest)",
+    "type": "government_agency",
+    "url": "https://www.investkenya.go.ke/",
+    "note": "Investment promotion agency"
+   },
+   {
+    "name": "Business Registration Service",
+    "type": "legal_tax",
+    "url": "https://brs.go.ke/",
+    "note": "Company registration via eCitizen"
+   },
+   {
+    "name": "Konza Technopolis",
+    "type": "government_agency",
+    "url": "https://www.konza.go.ke/",
+    "note": "Government smart city and tech hub"
+   },
+   {
+    "name": "Kenya Industrial Property Institute",
+    "type": "legal_tax",
+    "url": "https://www.kipi.go.ke/",
+    "note": "Patents and trademarks"
+   },
+   {
+    "name": "East Africa Venture Capital Association",
+    "type": "startup_association",
+    "url": "https://www.eavca.org/",
+    "note": "Regional VC/PE association"
+   },
+   {
+    "name": "Nairobi Garage",
+    "type": "coworking_hub",
+    "url": "https://nairobigarage.com/",
+    "note": "Coworking spaces in Nairobi"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "Pan-African angel network directory"
+   }
+  ],
+  "sources": [
+   "https://www.kenia.go.ke/",
+   "https://www.antler.co/location/kenya",
+   "https://villgroafrica.org/innovators/apply-now/",
+   "https://startup.google.com/programs/accelerator/africa/"
+  ],
+  "confidence": "medium",
+  "notes": "Checked 2026-10-20. Search quota ran out mid-research, so deadlines come from programme pages; many show no published date. Savannah Fund, Chui Ventures and Enza Capital domains looked parked, and Nailab's site showed a hosting placeholder, so all four were left out.",
+  "country": "Kenya",
+  "iso2": "KE",
+  "ecosystem_tier": "established",
+  "summary": "One of Africa's big four ecosystems, centred on Nairobi ('Silicon Savannah'); strong in fintech (M-Pesa), climate, agritech and logistics. Hubs include iHub, Nailab and Konza Technopolis.",
+  "startup_visa": "none (Kenya Startup Bill pending; founders typically use Class G investor work permit), https://immigration.go.ke/",
+  "company_setup": "Private limited company registered online via eCitizen Business Registration Service; foreigners can incorporate, usually within days."
+ },
+ {
+  "grants": [
+   {
+    "name": "Hanga PitchFest",
+    "agency": "MINICT / RISA with partners",
+    "amount": "cash prizes and investment readiness support",
+    "amount_usd_max": null,
+    "eligibility": "Rwandan tech startups",
+    "deadline": "annual (usually mid-year)",
+    "status": "unknown",
+    "url": "https://hangapitchfest.rw/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Norrsken House Kigali",
+    "city": "Kigali",
+    "type": "incubator",
+    "investment": "hub membership and programmes",
+    "sectors": "generalist, impact tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.norrsken.org/houses/kigali"
+   },
+   {
+    "name": "kLab",
+    "city": "Kigali",
+    "type": "incubator",
+    "investment": "free community hub, no equity",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.klab.rw/"
+   },
+   {
+    "name": "Impact Hub Kigali",
+    "city": "Kigali",
+    "type": "incubator",
+    "investment": "programme-based",
+    "sectors": "impact",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://kigali.impacthub.net/"
+   },
+   {
+    "name": "Inkomoko",
+    "city": "Kigali",
+    "type": "accelerator",
+    "investment": "business training and loans",
+    "sectors": "SMEs, displacement-affected communities",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.inkomoko.com/"
+   },
+   {
+    "name": "Antler East Africa",
+    "city": "Nairobi",
+    "type": "accelerator",
+    "investment": "US$100k for 10% plus US$150k follow-on (up to US$250k)",
+    "sectors": "generalist",
+    "deadline": "cohorts (see site)",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.antler.co/location/kenya"
+   },
+   {
+    "name": "Villgro Africa Incubation Program",
+    "city": "Nairobi",
+    "type": "incubator",
+    "investment": "seed funding plus incubation",
+    "sectors": "healthcare, life sciences",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://villgroafrica.org/innovators/apply-now/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "Pan-African (hybrid)",
+    "type": "corporate",
+    "investment": "equity-free",
+    "sectors": "AI/ML, Series A startups",
+    "deadline": "last: 2026-03-18 (annual, usually Feb to Mar)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Novastar Ventures",
+    "city": "Nairobi",
+    "stage": "seed to series B",
+    "check_size": "US$1M–10M",
+    "sectors": "impact, climate, health, fintech",
+    "type": "vc",
+    "url": "https://www.novastarventures.com/"
+   },
+   {
+    "name": "Partech Africa",
+    "city": "Nairobi / Lagos / Dakar",
+    "stage": "seed to series B",
+    "check_size": "US$1M–15M+",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://partechpartners.com/"
+   },
+   {
+    "name": "TLcom Capital",
+    "city": "Nairobi / Lagos",
+    "stage": "seed to series B",
+    "check_size": "US$1M–10M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.tlcomcapital.com/"
+   },
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   },
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African",
+    "stage": "pre-seed",
+    "check_size": "US$200k",
+    "sectors": "climate adaptation and resilience",
+    "type": "vc",
+    "url": "https://www.thecatalystfund.com/"
+   },
+   {
+    "name": "Acumen",
+    "city": "Nairobi / pan-African",
+    "stage": "seed to growth",
+    "check_size": "unknown",
+    "sectors": "agri, energy, impact",
+    "type": "vc",
+    "url": "https://acumen.org/"
+   },
+   {
+    "name": "DOB Equity",
+    "city": "East Africa (Nairobi)",
+    "stage": "series A to growth",
+    "check_size": "unknown",
+    "sectors": "impact, agri, health",
+    "type": "family_office",
+    "url": "https://www.dobequity.nl/"
+   },
+   {
+    "name": "Verod-Kepple Africa Ventures",
+    "city": "Pan-African",
+    "stage": "pre-seed to seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://vkav.vc/"
+   },
+   {
+    "name": "Development Bank of Rwanda (BRD)",
+    "city": "Kigali",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "SMEs, priority sectors",
+    "type": "government_fund",
+    "url": "https://www.brd.rw/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Rwanda Development Board",
+    "type": "government_agency",
+    "url": "https://rdb.rw/",
+    "note": "Investment, registration and permits"
+   },
+   {
+    "name": "Office of the Registrar General",
+    "type": "legal_tax",
+    "url": "https://org.rdb.rw/",
+    "note": "Online company registration"
+   },
+   {
+    "name": "Ministry of ICT and Innovation (MINICT)",
+    "type": "government_agency",
+    "url": "https://www.minict.gov.rw/",
+    "note": "ICT and innovation policy"
+   },
+   {
+    "name": "Rwanda Information Society Authority (RISA)",
+    "type": "government_agency",
+    "url": "https://www.risa.gov.rw/",
+    "note": "Digital programmes, Hanga PitchFest co-organiser"
+   },
+   {
+    "name": "Rwanda ICT Chamber",
+    "type": "startup_association",
+    "url": "https://www.ictchamber.rw/",
+    "note": "Private-sector ICT association"
+   },
+   {
+    "name": "Kigali Innovation City (Africa50)",
+    "type": "other",
+    "url": "https://www.africa50.com/",
+    "note": "60 ha innovation city project in Kigali"
+   },
+   {
+    "name": "Carnegie Mellon University Africa",
+    "type": "other",
+    "url": "https://www.africa.engineering.cmu.edu/",
+    "note": "Kigali tech university and talent pool"
+   },
+   {
+    "name": "UNDP timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and innovation hubs"
+   }
+  ],
+  "sources": [
+   "https://rdb.rw/",
+   "https://www.africa50.com/",
+   "https://www.norrsken.org/houses/kigali",
+   "https://www.inkomoko.com/"
+  ],
+  "confidence": "medium",
+  "notes": "Checked 2026-10-20. BDF (Business Development Fund) left out: bdf.rw did not resolve (NXDOMAIN), so no official URL could be confirmed. Kigali Innovation City has no dedicated live site; listed via Africa50 project page. Hanga PitchFest site has a TLS certificate error.",
+  "country": "Rwanda",
+  "iso2": "RW",
+  "ecosystem_tier": "emerging",
+  "summary": "Small but policy-driven ecosystem in Kigali with strong government support (RDB, MINICT), Norrsken House Kigali and Kigali Innovation City under development; strong in fintech, healthtech and govtech.",
+  "startup_visa": "none dedicated; investor/entrepreneur permits via Rwanda Development Board, https://rdb.rw/",
+  "company_setup": "Online registration with RDB Office of the Registrar General, often same day, free or low cost; foreigners can incorporate."
+ },
+ {
+  "grants": [
+   {
+    "name": "STI Innovation Fund",
+    "agency": "Science, Technology and Innovation Secretariat (Office of the President)",
+    "amount": "not stated",
+    "amount_usd_max": null,
+    "eligibility": "Ugandan innovators and startups",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://sti.go.ug/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Outbox",
+    "city": "Kampala",
+    "type": "incubator",
+    "investment": "programme-based",
+    "sectors": "generalist, agri, fintech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://outbox.africa/"
+   },
+   {
+    "name": "Innovation Village",
+    "city": "Kampala",
+    "type": "incubator",
+    "investment": "programme-based",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://innovationvillage.africa/"
+   },
+   {
+    "name": "Hive Colab Accelerator",
+    "city": "Kampala",
+    "type": "accelerator",
+    "investment": "ongoing programme",
+    "sectors": "tech, edtech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.hivecolab.org/"
+   },
+   {
+    "name": "UIRI Business Incubation",
+    "city": "Kampala",
+    "type": "government",
+    "investment": "incubation and facilities",
+    "sectors": "manufacturing, agro-processing",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.uiri.go.ug/"
+   },
+   {
+    "name": "Antler East Africa",
+    "city": "Nairobi",
+    "type": "accelerator",
+    "investment": "US$100k for 10% plus US$150k follow-on (up to US$250k)",
+    "sectors": "generalist",
+    "deadline": "cohorts (see site)",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.antler.co/location/kenya"
+   },
+   {
+    "name": "Villgro Africa Incubation Program",
+    "city": "Nairobi",
+    "type": "incubator",
+    "investment": "seed funding plus incubation",
+    "sectors": "healthcare, life sciences",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://villgroafrica.org/innovators/apply-now/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "Pan-African (hybrid)",
+    "type": "corporate",
+    "investment": "equity-free",
+    "sectors": "AI/ML, Series A startups",
+    "deadline": "last: 2026-03-18 (annual, usually Feb to Mar)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Novastar Ventures",
+    "city": "Nairobi",
+    "stage": "seed to series B",
+    "check_size": "US$1M–10M",
+    "sectors": "impact, climate, health, fintech",
+    "type": "vc",
+    "url": "https://www.novastarventures.com/"
+   },
+   {
+    "name": "Partech Africa",
+    "city": "Nairobi / Lagos / Dakar",
+    "stage": "seed to series B",
+    "check_size": "US$1M–15M+",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://partechpartners.com/"
+   },
+   {
+    "name": "Acumen",
+    "city": "Nairobi / pan-African",
+    "stage": "seed to growth",
+    "check_size": "unknown",
+    "sectors": "agri, energy, impact",
+    "type": "vc",
+    "url": "https://acumen.org/"
+   },
+   {
+    "name": "DOB Equity",
+    "city": "East Africa (Nairobi)",
+    "stage": "series A to growth",
+    "check_size": "unknown",
+    "sectors": "impact, agri, health",
+    "type": "family_office",
+    "url": "https://www.dobequity.nl/"
+   },
+   {
+    "name": "Renew Capital",
+    "city": "Addis Ababa / East Africa",
+    "stage": "seed to series A",
+    "check_size": "unknown",
+    "sectors": "generalist, angel syndicates",
+    "type": "angel_network",
+    "url": "https://www.renewcapital.com/"
+   },
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   },
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African",
+    "stage": "pre-seed",
+    "check_size": "US$200k",
+    "sectors": "climate adaptation and resilience",
+    "type": "vc",
+    "url": "https://www.thecatalystfund.com/"
+   },
+   {
+    "name": "Pearl Capital Partners",
+    "city": "Kampala",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "agriculture",
+    "type": "vc",
+    "url": "https://pearlcapital.net/"
+   },
+   {
+    "name": "Uganda Development Bank",
+    "city": "Kampala",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "SMEs, priority sectors",
+    "type": "government_fund",
+    "url": "https://www.udbl.co.ug/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Uganda Investment Authority",
+    "type": "government_agency",
+    "url": "https://www.ugandainvest.go.ug/",
+    "note": "Investment promotion (site unreachable from checker on 2026-10-20)"
+   },
+   {
+    "name": "URSB",
+    "type": "legal_tax",
+    "url": "https://ursb.go.ug/",
+    "note": "Company and IP registration"
+   },
+   {
+    "name": "STI Secretariat",
+    "type": "government_agency",
+    "url": "https://sti.go.ug/",
+    "note": "National innovation programmes"
+   },
+   {
+    "name": "Uganda Industrial Research Institute",
+    "type": "government_agency",
+    "url": "https://www.uiri.go.ug/",
+    "note": "Industrial R&D and incubation"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "Pan-African angel network directory"
+   },
+   {
+    "name": "UNDP timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and innovation hubs"
+   }
+  ],
+  "sources": [
+   "https://sti.go.ug/",
+   "https://outbox.africa/",
+   "https://www.hivecolab.org/",
+   "https://www.udbl.co.ug/"
+  ],
+  "confidence": "medium",
+  "notes": "Checked 2026-10-20. Search quota ran out; StartUp Uganda and Uganda Angels domains were unreachable or parked and were left out.",
+  "country": "Uganda",
+  "iso2": "UG",
+  "ecosystem_tier": "emerging",
+  "summary": "Growing Kampala-centred ecosystem with hubs such as Outbox, Innovation Village and Hive Colab; strong in agritech, fintech and health; government STI Secretariat runs innovation funding.",
+  "startup_visa": "none; investment licence via Uganda Investment Authority, https://www.ugandainvest.go.ug/",
+  "company_setup": "Private limited company via URSB online registration; foreigners can incorporate, typically within a week."
+ },
+ {
+  "grants": [
+   {
+    "name": "FUNGUO Innovation Programme",
+    "agency": "UNDP Tanzania with partners (run via Anza)",
+    "amount": "grant and catalytic funding (amount varies)",
+    "amount_usd_max": null,
+    "eligibility": "Tanzanian innovative startups",
+    "deadline": "last: 5th call closed (date not stated)",
+    "status": "closed",
+    "url": "https://anzaentrepreneurs.co.tz/"
+   },
+   {
+    "name": "COSTECH innovation funding",
+    "agency": "Tanzania Commission for Science and Technology",
+    "amount": "not stated",
+    "amount_usd_max": null,
+    "eligibility": "Tanzanian researchers and innovators",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.costech.or.tz/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Smart Lab",
+    "city": "Dar es Salaam",
+    "type": "corporate",
+    "investment": "corporate accelerator, programme-based",
+    "sectors": "fintech, insurtech, generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.smartlab.co.tz/"
+   },
+   {
+    "name": "Anza Entrepreneurs (PesaTech Accelerator)",
+    "city": "Dar es Salaam",
+    "type": "accelerator",
+    "investment": "programme-based",
+    "sectors": "fintech, agri",
+    "deadline": "last cohort closed",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://anzaentrepreneurs.co.tz/"
+   },
+   {
+    "name": "Sahara Ventures",
+    "city": "Dar es Salaam",
+    "type": "venture_studio",
+    "investment": "programme-based",
+    "sectors": "generalist tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.saharaventures.com/"
+   },
+   {
+    "name": "Antler East Africa",
+    "city": "Nairobi",
+    "type": "accelerator",
+    "investment": "US$100k for 10% plus US$150k follow-on (up to US$250k)",
+    "sectors": "generalist",
+    "deadline": "cohorts (see site)",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.antler.co/location/kenya"
+   },
+   {
+    "name": "Villgro Africa Incubation Program",
+    "city": "Nairobi",
+    "type": "incubator",
+    "investment": "seed funding plus incubation",
+    "sectors": "healthcare, life sciences",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://villgroafrica.org/innovators/apply-now/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "Pan-African (hybrid)",
+    "type": "corporate",
+    "investment": "equity-free",
+    "sectors": "AI/ML, Series A startups",
+    "deadline": "last: 2026-03-18 (annual, usually Feb to Mar)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Novastar Ventures",
+    "city": "Nairobi",
+    "stage": "seed to series B",
+    "check_size": "US$1M–10M",
+    "sectors": "impact, climate, health, fintech",
+    "type": "vc",
+    "url": "https://www.novastarventures.com/"
+   },
+   {
+    "name": "Partech Africa",
+    "city": "Nairobi / Lagos / Dakar",
+    "stage": "seed to series B",
+    "check_size": "US$1M–15M+",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://partechpartners.com/"
+   },
+   {
+    "name": "Acumen",
+    "city": "Nairobi / pan-African",
+    "stage": "seed to growth",
+    "check_size": "unknown",
+    "sectors": "agri, energy, impact",
+    "type": "vc",
+    "url": "https://acumen.org/"
+   },
+   {
+    "name": "DOB Equity",
+    "city": "East Africa (Nairobi)",
+    "stage": "series A to growth",
+    "check_size": "unknown",
+    "sectors": "impact, agri, health",
+    "type": "family_office",
+    "url": "https://www.dobequity.nl/"
+   },
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   },
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African",
+    "stage": "pre-seed",
+    "check_size": "US$200k",
+    "sectors": "climate adaptation and resilience",
+    "type": "vc",
+    "url": "https://www.thecatalystfund.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Tanzania Investment Centre",
+    "type": "government_agency",
+    "url": "https://www.tic.go.tz/",
+    "note": "Investment promotion (site unreachable from checker on 2026-10-20)"
+   },
+   {
+    "name": "BRELA",
+    "type": "legal_tax",
+    "url": "https://www.brela.go.tz/",
+    "note": "Business registration"
+   },
+   {
+    "name": "COSTECH",
+    "type": "government_agency",
+    "url": "https://www.costech.or.tz/",
+    "note": "Science and innovation commission"
+   },
+   {
+    "name": "Tanzania Startup Association",
+    "type": "startup_association",
+    "url": "https://www.tsa.co.tz/",
+    "note": "National startup association"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "Pan-African angel network directory"
+   },
+   {
+    "name": "UNDP timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and innovation hubs"
+   }
+  ],
+  "sources": [
+   "https://anzaentrepreneurs.co.tz/",
+   "https://www.costech.or.tz/",
+   "https://www.smartlab.co.tz/",
+   "https://www.tsa.co.tz/"
+  ],
+  "confidence": "medium",
+  "notes": "Checked 2026-10-20. Buni Hub was unreachable and Tanzania Angels Alliance could not be verified, so both were left out.",
+  "country": "Tanzania",
+  "iso2": "TZ",
+  "ecosystem_tier": "emerging",
+  "summary": "Dar es Salaam-led ecosystem with hubs like Smart Lab, Sahara Ventures and Anza; fintech and agritech lead; COSTECH and UNDP Funguo provide early funding.",
+  "startup_visa": "none; investor permits via Tanzania Investment Centre, https://www.tic.go.tz/",
+  "company_setup": "Private company via BRELA online registration system; foreigners can incorporate, TIC certificate for incentives."
+ },
+ {
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "iceaddis",
+    "city": "Addis Ababa",
+    "type": "incubator",
+    "investment": "programme-based",
+    "sectors": "generalist tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.iceaddis.com/"
+   },
+   {
+    "name": "Inkomoko Ethiopia",
+    "city": "Addis Ababa",
+    "type": "accelerator",
+    "investment": "business training and finance",
+    "sectors": "SMEs, refugee-hosting areas",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.inkomoko.com/"
+   },
+   {
+    "name": "Villgro Africa Incubation Program",
+    "city": "Nairobi",
+    "type": "incubator",
+    "investment": "seed funding plus incubation",
+    "sectors": "healthcare, life sciences",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://villgroafrica.org/innovators/apply-now/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "Pan-African (hybrid)",
+    "type": "corporate",
+    "investment": "equity-free",
+    "sectors": "AI/ML, Series A startups",
+    "deadline": "last: 2026-03-18 (annual, usually Feb to Mar)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Renew Capital",
+    "city": "Addis Ababa / East Africa",
+    "stage": "seed to series A",
+    "check_size": "unknown",
+    "sectors": "generalist, angel syndicates",
+    "type": "angel_network",
+    "url": "https://www.renewcapital.com/"
+   },
+   {
+    "name": "Novastar Ventures",
+    "city": "Nairobi",
+    "stage": "seed to series B",
+    "check_size": "US$1M–10M",
+    "sectors": "impact, climate, health, fintech",
+    "type": "vc",
+    "url": "https://www.novastarventures.com/"
+   },
+   {
+    "name": "Partech Africa",
+    "city": "Nairobi / Lagos / Dakar",
+    "stage": "seed to series B",
+    "check_size": "US$1M–15M+",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://partechpartners.com/"
+   },
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   },
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African",
+    "stage": "pre-seed",
+    "check_size": "US$200k",
+    "sectors": "climate adaptation and resilience",
+    "type": "vc",
+    "url": "https://www.thecatalystfund.com/"
+   },
+   {
+    "name": "Acumen",
+    "city": "Nairobi / pan-African",
+    "stage": "seed to growth",
+    "check_size": "unknown",
+    "sectors": "agri, energy, impact",
+    "type": "vc",
+    "url": "https://acumen.org/"
+   },
+   {
+    "name": "Development Bank of Ethiopia",
+    "city": "Addis Ababa",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "priority sectors, SMEs",
+    "type": "government_fund",
+    "url": "https://dbe.com.et/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ethiopian Investment Commission",
+    "type": "government_agency",
+    "url": "https://investethiopia.gov.et/",
+    "note": "Investment permits and promotion"
+   },
+   {
+    "name": "Ministry of Innovation and Technology (MInT)",
+    "type": "government_agency",
+    "url": "https://www.mint.gov.et/",
+    "note": "Innovation and startup policy (site unreachable from checker)"
+   },
+   {
+    "name": "Ministry of Revenues",
+    "type": "legal_tax",
+    "url": "https://www.mor.gov.et/",
+    "note": "Tax registration"
+   },
+   {
+    "name": "Addis Chamber of Commerce",
+    "type": "other",
+    "url": "https://addischamber.com/",
+    "note": "Business association"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "Pan-African angel network directory"
+   },
+   {
+    "name": "UNDP timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and innovation hubs"
+   }
+  ],
+  "sources": [
+   "https://investethiopia.gov.et/",
+   "https://www.iceaddis.com/",
+   "https://www.inkomoko.com/",
+   "https://www.renewcapital.com/"
+  ],
+  "confidence": "medium",
+  "notes": "Checked 2026-10-20. FX shortages and capital controls affect foreign VC. blueMoon's domain looked parked and was left out.",
+  "country": "Ethiopia",
+  "iso2": "ET",
+  "ecosystem_tier": "emerging",
+  "summary": "Large, early ecosystem in Addis Ababa, opening up after telecom liberalisation (Safaricom Ethiopia) and fintech reforms; hubs include iceaddis; capital is scarce and FX controls apply.",
+  "startup_visa": "none; investment permits via Ethiopian Investment Commission, https://investethiopia.gov.et/",
+  "company_setup": "PLC registered with Ministry of Trade; foreign investors need EIC investment permit and minimum capital rules apply; some sectors reserved for nationals."
+ },
+ {
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "World Bank in Eritrea",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/eritrea",
+    "note": "Country programme and private sector projects"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/",
+    "note": "Regional DFI; SME and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and innovation hubs"
+   },
+   {
+    "name": "Mastercard Foundation programmes",
+    "type": "other",
+    "url": "https://mastercardfdn.org/en/what-we-do/our-programs/",
+    "note": "Youth employment and enterprise funding across Africa"
+   }
+  ],
+  "sources": [
+   "https://www.worldbank.org/en/country/eritrea",
+   "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20. No national SME or investment agency website could be confirmed. Pan-African programmes say they are open to all 54 countries, but access in practice is limited.",
+  "country": "Eritrea",
+  "iso2": "ER",
+  "ecosystem_tier": "nascent",
+  "summary": "Essentially no formal startup ecosystem; private sector heavily restricted and internet access very limited.",
+  "startup_visa": "none",
+  "company_setup": "Private enterprise is tightly controlled by the state; foreigners rarely incorporate. Diaspora founders usually incorporate abroad."
+ },
+ {
+  "grants": [
+   {
+    "name": "FDED SME financing",
+    "agency": "Fonds de Developpement Economique de Djibouti",
+    "amount": "loans and guarantees",
+    "amount_usd_max": null,
+    "eligibility": "Djiboutian SMEs and entrepreneurs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://fded.dj/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Djibouti Invest",
+    "type": "government_agency",
+    "url": "https://www.djiboutinvest.com/",
+    "note": "Investment information portal"
+   },
+   {
+    "name": "FDED",
+    "type": "government_agency",
+    "url": "https://fded.dj/",
+    "note": "State economic development fund"
+   },
+   {
+    "name": "World Bank in Djibouti",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/djibouti",
+    "note": "Country programme and private sector projects"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/",
+    "note": "Regional DFI; SME and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and innovation hubs"
+   }
+  ],
+  "sources": [
+   "https://fded.dj/",
+   "https://www.djiboutinvest.com/"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20. No active local accelerator could be verified.",
+  "country": "Djibouti",
+  "iso2": "DJ",
+  "ecosystem_tier": "nascent",
+  "summary": "Very small ecosystem centred on Djibouti City, built around logistics, ports and free zones; state economic development fund supports SMEs.",
+  "startup_visa": "none",
+  "company_setup": "SARL via the one-stop shop of the investment promotion agency; foreigners can own 100% in most sectors; free-zone companies are an option."
+ },
+ {
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ministry of Planning, Investment and Economic Development",
+    "type": "government_agency",
+    "url": "https://mop.gov.so/",
+    "note": "Investment and planning ministry"
+   },
+   {
+    "name": "World Bank in Somalia",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/somalia",
+    "note": "Country programme and private sector projects"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/",
+    "note": "Regional DFI; SME and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and innovation hubs"
+   },
+   {
+    "name": "Mastercard Foundation programmes",
+    "type": "other",
+    "url": "https://mastercardfdn.org/en/what-we-do/our-programs/",
+    "note": "Youth employment and enterprise funding across Africa"
+   }
+  ],
+  "sources": [
+   "https://mop.gov.so/",
+   "https://www.worldbank.org/en/country/somalia"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20. Security and sanctions risks apply. SomInvest and iRise Hub domains did not resolve and were left out.",
+  "country": "Somalia",
+  "iso2": "SO",
+  "ecosystem_tier": "nascent",
+  "summary": "Fragile-state ecosystem in Mogadishu with active mobile money (EVC Plus) and diaspora-funded businesses; hubs exist but few have stable websites.",
+  "startup_visa": "none",
+  "company_setup": "Registration with the Ministry of Commerce and Industry; many diaspora founders incorporate abroad (e.g. Kenya, UAE, US)."
+ },
+ {
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Shaqodoon entrepreneurship programmes",
+    "city": "Hargeisa",
+    "type": "incubator",
+    "investment": "grants and training via donor projects",
+    "sectors": "MSMEs, youth, tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://shaqodoon.org/"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "Somaliland Investment Portal",
+    "type": "government_agency",
+    "url": "https://www.somalilandinvest.com/",
+    "note": "Government investment portal"
+   },
+   {
+    "name": "Shaqodoon",
+    "type": "other",
+    "url": "https://shaqodoon.org/",
+    "note": "NGO running entrepreneurship and access-to-finance projects"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/",
+    "note": "Regional DFI; SME and youth entrepreneurship programmes"
+   }
+  ],
+  "sources": [
+   "https://shaqodoon.org/",
+   "https://www.somalilandinvest.com/"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20. Not recognised; iso2 'XS' is a placeholder (no ISO code). World Bank and UN programmes run through Somalia.",
+  "country": "Somaliland",
+  "iso2": "XS",
+  "ecosystem_tier": "nascent",
+  "summary": "Self-declared state, not internationally recognised; Hargeisa has a small ecosystem driven by mobile money (Zaad) and NGOs such as Shaqodoon.",
+  "startup_visa": "none",
+  "company_setup": "Registration with Somaliland Ministry of Trade; recognition issues limit banking and foreign investment, so founders often incorporate abroad."
+ },
+ {
+  "grants": [
+   {
+    "name": "Orange Corners Innovation Fund",
+    "agency": "Netherlands MFA / Orange Corners",
+    "amount": "not stated (grant or soft funding for OC graduates)",
+    "amount_usd_max": null,
+    "eligibility": "Orange Corners alumni",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.orangecorners.com/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Orange Corners South Sudan",
+    "city": "Juba",
+    "type": "incubator",
+    "investment": "training plus OC Innovation Fund eligibility",
+    "sectors": "youth-led startups (18–35)",
+    "deadline": "cohort-based (one-month window)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.orangecorners.com/country/south-sudan/"
+   },
+   {
+    "name": "Inkomoko South Sudan",
+    "city": "Juba",
+    "type": "accelerator",
+    "investment": "business training and loans",
+    "sectors": "SMEs",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.inkomoko.com/"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "World Bank in South Sudan",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/southsudan",
+    "note": "Country programme and private sector projects"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/",
+    "note": "Regional DFI; SME and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and innovation hubs"
+   },
+   {
+    "name": "Mastercard Foundation programmes",
+    "type": "other",
+    "url": "https://mastercardfdn.org/en/what-we-do/our-programs/",
+    "note": "Youth employment and enterprise funding across Africa"
+   }
+  ],
+  "sources": [
+   "https://www.orangecorners.com/country/south-sudan/",
+   "https://www.inkomoko.com/"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20. Ongoing instability; no investment authority website could be confirmed.",
+  "country": "South Sudan",
+  "iso2": "SS",
+  "ecosystem_tier": "nascent",
+  "summary": "Fragile, conflict-affected economy; small Juba ecosystem supported mostly by donor programmes like Orange Corners and Inkomoko.",
+  "startup_visa": "none",
+  "company_setup": "Registration with the Ministry of Justice business registry; high risk and limited banking; diaspora founders often incorporate in Kenya or Uganda."
+ },
+ {
+  "grants": [
+   {
+    "name": "Orange Corners Innovation Fund",
+    "agency": "Netherlands MFA / Orange Corners",
+    "amount": "not stated (grant or soft funding for OC graduates)",
+    "amount_usd_max": null,
+    "eligibility": "Orange Corners alumni",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.orangecorners.com/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Orange Corners Sudan",
+    "city": "Khartoum / remote",
+    "type": "incubator",
+    "investment": "training plus OC Innovation Fund eligibility",
+    "sectors": "youth-led startups (18–35)",
+    "deadline": "cohort-based (one-month window)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.orangecorners.com/country/sudan/"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "World Bank in Sudan",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/sudan",
+    "note": "Country programme and private sector projects"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/",
+    "note": "Regional DFI; SME and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and innovation hubs"
+   },
+   {
+    "name": "Mastercard Foundation programmes",
+    "type": "other",
+    "url": "https://mastercardfdn.org/en/what-we-do/our-programs/",
+    "note": "Youth employment and enterprise funding across Africa"
+   }
+  ],
+  "sources": [
+   "https://www.orangecorners.com/country/sudan/"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20. Civil war since April 2023; US sanctions history; international VC effectively unavailable. 249Startups site was down (HTTP 526).",
+  "country": "Sudan",
+  "iso2": "SD",
+  "ecosystem_tier": "nascent",
+  "summary": "Pre-2023 Khartoum ecosystem largely displaced by the civil war; activity continues through diaspora and remote programmes.",
+  "startup_visa": "none",
+  "company_setup": "Registrar General of Commercial Registration; the war has disrupted registration and banking, so founders mostly incorporate abroad (e.g. Egypt, UAE)."
+ },
+ {
+  "grants": [
+   {
+    "name": "Orange Corners Innovation Fund",
+    "agency": "Netherlands MFA / Orange Corners",
+    "amount": "not stated (grant or soft funding for OC graduates)",
+    "amount_usd_max": null,
+    "eligibility": "Orange Corners alumni",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.orangecorners.com/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Orange Corners Burundi",
+    "city": "Bujumbura",
+    "type": "incubator",
+    "investment": "training plus OC Innovation Fund eligibility",
+    "sectors": "youth-led startups (18–35)",
+    "deadline": "cohort-based (one-month window)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.orangecorners.com/country/burundi/"
+   },
+   {
+    "name": "Burundi Business Incubator (BBIN)",
+    "city": "Bujumbura",
+    "type": "incubator",
+    "investment": "incubation and training",
+    "sectors": "youth enterprises",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.bbin.bi/"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "Agence de Developpement du Burundi",
+    "type": "government_agency",
+    "url": "https://investburundi.bi/",
+    "note": "Investment promotion and incentives"
+   },
+   {
+    "name": "World Bank in Burundi",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/burundi",
+    "note": "Country programme and private sector projects"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/",
+    "note": "Regional DFI; SME and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and innovation hubs"
+   }
+  ],
+  "sources": [
+   "https://investburundi.bi/",
+   "https://www.bbin.bi/",
+   "https://www.orangecorners.com/country/burundi/"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20.",
+  "country": "Burundi",
+  "iso2": "BI",
+  "ecosystem_tier": "nascent",
+  "summary": "Very small ecosystem in Bujumbura; donor-backed incubation (Orange Corners, Burundi Business Incubator) and a national development agency.",
+  "startup_visa": "none",
+  "company_setup": "SURL or SPRL via the one-stop shop of the Agence de Developpement du Burundi; foreigners can incorporate."
+ },
+ {
+  "grants": [
+   {
+    "name": "TIA Seed Fund",
+    "agency": "Technology Innovation Agency",
+    "amount": "not stated (early-stage risk funding via partners)",
+    "amount_usd_max": null,
+    "eligibility": "Innovators at universities, science councils and SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.tia.org.za/funding-instruments/"
+   },
+   {
+    "name": "TIA Technology Development Fund",
+    "agency": "Technology Innovation Agency",
+    "amount": "not stated",
+    "amount_usd_max": null,
+    "eligibility": "SA tech developers, TRL proof of concept to demonstration",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.tia.org.za/funding-instruments/"
+   },
+   {
+    "name": "TIA Technology Acquisition and Deployment Fund",
+    "agency": "Technology Innovation Agency",
+    "amount": "up to R1 million",
+    "amount_usd_max": 55000,
+    "eligibility": "SA developers deploying to government departments or municipalities",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.tia.org.za/funding-instruments/"
+   },
+   {
+    "name": "TIA Industry Matching Fund",
+    "agency": "Technology Innovation Agency",
+    "amount": "co-funding alongside VCs and angels",
+    "amount_usd_max": null,
+    "eligibility": "SA startups with private co-investors",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.tia.org.za/funding-instruments/"
+   },
+   {
+    "name": "SEDFA small business finance",
+    "agency": "Small Enterprise Development and Finance Agency (formerly SEFA and SEDA)",
+    "amount": "loans and credit guarantees",
+    "amount_usd_max": null,
+    "eligibility": "SA SMMEs and cooperatives",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.sedfa.org.za/"
+   },
+   {
+    "name": "NYDA Grant Programme",
+    "agency": "National Youth Development Agency",
+    "amount": "not stated (small grants)",
+    "amount_usd_max": null,
+    "eligibility": "SA youth entrepreneurs 18–35",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.nyda.gov.za/"
+   },
+   {
+    "name": "National Empowerment Fund",
+    "agency": "NEF",
+    "amount": "loans and equity",
+    "amount_usd_max": null,
+    "eligibility": "Black-owned businesses",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.nefcorp.co.za/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Google for Startups Accelerator: South Africa",
+    "city": "Johannesburg / Cape Town (hybrid)",
+    "type": "corporate",
+    "investment": "equity-free, up to R1 million non-dilutive funding",
+    "sectors": "growth-stage tech",
+    "deadline": "last: 2026-08-28",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://startup.google.com/programs/accelerator/south-africa/"
+   },
+   {
+    "name": "Founders Factory Africa",
+    "city": "Johannesburg",
+    "type": "venture_studio",
+    "investment": "investment plus hands-on support",
+    "sectors": "fintech, health, agri, generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.foundersfactory.africa/"
+   },
+   {
+    "name": "LaunchLab (Stellenbosch University)",
+    "city": "Stellenbosch",
+    "type": "university",
+    "investment": "incubation",
+    "sectors": "generalist tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.launchlab.co.za/"
+   },
+   {
+    "name": "Raizcorp",
+    "city": "Johannesburg",
+    "type": "incubator",
+    "investment": "fee or partner-funded incubation",
+    "sectors": "SMEs, generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.raizcorp.com/"
+   },
+   {
+    "name": "Tshimologong Digital Innovation Precinct (Wits)",
+    "city": "Johannesburg",
+    "type": "university",
+    "investment": "incubation",
+    "sectors": "digital, generalist tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://tshimologong.joburg/"
+   },
+   {
+    "name": "UVU Africa (formerly CiTi)",
+    "city": "Cape Town",
+    "type": "incubator",
+    "investment": "programme-based",
+    "sectors": "tech, bio-economy",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://uvuafrica.org/"
+   },
+   {
+    "name": "Edge Growth",
+    "city": "Johannesburg",
+    "type": "accelerator",
+    "investment": "enterprise development and SME funds",
+    "sectors": "SMEs, generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://edgegrowth.com/"
+   },
+   {
+    "name": "Orange Corners South Africa",
+    "city": "Johannesburg / Cape Town",
+    "type": "incubator",
+    "investment": "training plus OC Innovation Fund eligibility",
+    "sectors": "youth-led startups (18–35)",
+    "deadline": "cohort-based (one-month window)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.orangecorners.com/country/south-africa/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "Pan-African (hybrid)",
+    "type": "corporate",
+    "investment": "equity-free",
+    "sectors": "AI/ML, Series A startups",
+    "deadline": "last: 2026-03-18 (annual, usually Feb to Mar)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Knife Capital",
+    "city": "Cape Town",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "tech, IP-driven",
+    "type": "vc",
+    "url": "https://www.knife.capital/"
+   },
+   {
+    "name": "4Di Capital",
+    "city": "Cape Town",
+    "stage": "seed to series A",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.4dicapital.com/"
+   },
+   {
+    "name": "Kalon Venture Partners",
+    "city": "Cape Town",
+    "stage": "seed to series A",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.kalonvp.com/"
+   },
+   {
+    "name": "HAVAIC",
+    "city": "Cape Town",
+    "stage": "seed to series A",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.havaic.com/"
+   },
+   {
+    "name": "Crossfin",
+    "city": "Johannesburg",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "fintech, payments",
+    "type": "vc",
+    "url": "https://www.crossfin.co.za/"
+   },
+   {
+    "name": "Hlayisani Capital",
+    "city": "Johannesburg",
+    "stage": "seed to series A",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://hlayisani.com/"
+   },
+   {
+    "name": "Convergence Partners",
+    "city": "Johannesburg",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "digital infrastructure, ICT",
+    "type": "vc",
+    "url": "https://convergencepartners.com/"
+   },
+   {
+    "name": "Industrial Development Corporation (IDC)",
+    "city": "Johannesburg",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "industrial, venture",
+    "type": "government_fund",
+    "url": "https://www.idc.co.za/"
+   },
+   {
+    "name": "Norrsken22",
+    "city": "Pan-African (Kenya, Nigeria, SA)",
+    "stage": "series A to growth",
+    "check_size": "US$5M–20M",
+    "sectors": "tech growth",
+    "type": "vc",
+    "url": "https://www.norrsken22.com/"
+   },
+   {
+    "name": "Partech Africa",
+    "city": "Nairobi / Lagos / Dakar",
+    "stage": "seed to series B",
+    "check_size": "US$1M–15M+",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://partechpartners.com/"
+   },
+   {
+    "name": "TLcom Capital",
+    "city": "Nairobi / Lagos",
+    "stage": "seed to series B",
+    "check_size": "US$1M–10M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.tlcomcapital.com/"
+   },
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Future Africa",
+    "city": "Lagos",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–500k",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.future.africa/"
+   },
+   {
+    "name": "Ventures Platform",
+    "city": "Abuja",
+    "stage": "pre-seed to series A",
+    "check_size": "US$100k–5M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.venturesplatform.com/"
+   },
+   {
+    "name": "Goodwell Investments",
+    "city": "Nairobi / Johannesburg",
+    "stage": "seed to growth",
+    "check_size": "unknown",
+    "sectors": "financial inclusion, impact",
+    "type": "vc",
+    "url": "https://goodwell.nl/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "CIPC",
+    "type": "legal_tax",
+    "url": "https://www.cipc.co.za/",
+    "note": "Company registration"
+   },
+   {
+    "name": "Department of Small Business Development",
+    "type": "government_agency",
+    "url": "https://www.dsbd.gov.za/",
+    "note": "SMME policy and programmes"
+   },
+   {
+    "name": "Department of Science, Technology and Innovation",
+    "type": "government_agency",
+    "url": "https://www.dsti.gov.za/",
+    "note": "Innovation policy and R&D tax incentive"
+   },
+   {
+    "name": "InvestSA",
+    "type": "government_agency",
+    "url": "https://www.investsa.gov.za/",
+    "note": "Investment promotion one-stop shop"
+   },
+   {
+    "name": "SAVCA",
+    "type": "startup_association",
+    "url": "https://savca.co.za/",
+    "note": "Southern Africa VC and PE association"
+   },
+   {
+    "name": "Startup Act South Africa",
+    "type": "startup_association",
+    "url": "https://www.startupact.co.za/",
+    "note": "Policy campaign for a startup act and visa"
+   },
+   {
+    "name": "Wesgro",
+    "type": "government_agency",
+    "url": "https://www.wesgro.co.za/corporate/home",
+    "note": "Western Cape investment and trade agency"
+   },
+   {
+    "name": "Ventureburn",
+    "type": "database",
+    "url": "https://ventureburn.com/",
+    "note": "SA startup news"
+   }
+  ],
+  "sources": [
+   "https://www.tia.org.za/funding-instruments/",
+   "https://startup.google.com/programs/accelerator/south-africa/",
+   "https://www.startupact.co.za/",
+   "https://savca.co.za/",
+   "https://www.cipc.co.za/"
+  ],
+  "confidence": "medium",
+  "notes": "Checked 2026-10-20. SEFA and SEDA were merged into SEDFA. The sefa.org.za and sedfa.org.za servers timed out from the checker, so the SEDFA URL is the official domain but its page could not be loaded. The R&D tax incentive (s11D) is a deduction, not a cash refund, so it is not listed as a grant.",
+  "country": "South Africa",
+  "iso2": "ZA",
+  "ecosystem_tier": "established",
+  "summary": "Africa's most mature ecosystem, centred on Cape Town and Johannesburg; strong in fintech, e-commerce, SaaS and climate; notable exits include Thawte, Takealot and PayFast.",
+  "startup_visa": "none (Startup Act SA campaign advocates one; founders use the business or critical-skills visa), https://www.dha.gov.za/",
+  "company_setup": "Private company (Pty) Ltd registered online with CIPC, usually in days at low cost; foreigners can incorporate, local bank account and BEE rules matter."
+ },
+ {
+  "grants": [
+   {
+    "name": "CEDA loans and venture finance",
+    "agency": "Citizen Entrepreneurial Development Agency",
+    "amount": "subsidised loans",
+    "amount_usd_max": null,
+    "eligibility": "Citizen-owned businesses",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.ceda.co.bw/"
+   },
+   {
+    "name": "LEA SME support",
+    "agency": "Local Enterprise Authority",
+    "amount": "business development support, no cash grant stated",
+    "amount_usd_max": null,
+    "eligibility": "Botswana SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.lea.co.bw/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Botswana Innovation Hub",
+    "city": "Gaborone",
+    "type": "government",
+    "investment": "incubation and science park",
+    "sectors": "tech, innovation",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.bih.co.bw/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "Pan-African (hybrid)",
+    "type": "corporate",
+    "investment": "equity-free",
+    "sectors": "AI/ML, Series A startups",
+    "deadline": "last: 2026-03-18 (annual, usually Feb to Mar)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African",
+    "stage": "pre-seed",
+    "check_size": "US$200k",
+    "sectors": "climate adaptation and resilience",
+    "type": "vc",
+    "url": "https://www.thecatalystfund.com/"
+   },
+   {
+    "name": "Partech Africa",
+    "city": "Nairobi / Lagos / Dakar",
+    "stage": "seed to series B",
+    "check_size": "US$1M–15M+",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://partechpartners.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Botswana Investment and Trade Centre",
+    "type": "government_agency",
+    "url": "https://www.bitc.co.bw/",
+    "note": "Investment promotion"
+   },
+   {
+    "name": "CIPA",
+    "type": "legal_tax",
+    "url": "https://www.cipa.co.bw/",
+    "note": "Company and IP registration"
+   },
+   {
+    "name": "BITRI",
+    "type": "government_agency",
+    "url": "https://bitri.co.bw/",
+    "note": "National technology research institute"
+   },
+   {
+    "name": "SAVCA",
+    "type": "startup_association",
+    "url": "https://savca.co.za/",
+    "note": "Regional VC association"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "Pan-African angel network directory"
+   }
+  ],
+  "sources": [
+   "https://www.ceda.co.bw/",
+   "https://www.bitc.co.bw/",
+   "https://www.cipa.co.bw/"
+  ],
+  "confidence": "medium",
+  "notes": "Checked 2026-10-20. Botswana Innovation Hub site sits behind a captcha.",
+  "country": "Botswana",
+  "iso2": "BW",
+  "ecosystem_tier": "emerging",
+  "summary": "Small, stable ecosystem in Gaborone backed by the state: Botswana Innovation Hub, CEDA finance and LEA SME support; diamond-dependent economy pushing digital diversification.",
+  "startup_visa": "none; investor/residence permits via BITC, https://www.bitc.co.bw/",
+  "company_setup": "Private company registered online with CIPA; foreigners can incorporate; some sectors reserved for citizens."
+ },
+ {
+  "grants": [
+   {
+    "name": "NCRST research and innovation grants",
+    "agency": "National Commission on Research, Science and Technology",
+    "amount": "not stated",
+    "amount_usd_max": null,
+    "eligibility": "Namibian researchers and innovators",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.ncrst.na/"
+   },
+   {
+    "name": "DBN SME finance",
+    "agency": "Development Bank of Namibia",
+    "amount": "SME loans",
+    "amount_usd_max": null,
+    "eligibility": "Namibian SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.dbn.com.na/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "Pan-African (hybrid)",
+    "type": "corporate",
+    "investment": "equity-free",
+    "sectors": "AI/ML, Series A startups",
+    "deadline": "last: 2026-03-18 (annual, usually Feb to Mar)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African",
+    "stage": "pre-seed",
+    "check_size": "US$200k",
+    "sectors": "climate adaptation and resilience",
+    "type": "vc",
+    "url": "https://www.thecatalystfund.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "NIPDB",
+    "type": "government_agency",
+    "url": "https://www.nipdb.com/",
+    "note": "Investment promotion and development board"
+   },
+   {
+    "name": "BIPA",
+    "type": "legal_tax",
+    "url": "https://www.bipa.na/",
+    "note": "Business and IP registration"
+   },
+   {
+    "name": "NCRST",
+    "type": "government_agency",
+    "url": "https://www.ncrst.na/",
+    "note": "Research and innovation commission"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "Pan-African angel network directory"
+   }
+  ],
+  "sources": [
+   "https://www.nipdb.com/",
+   "https://www.ncrst.na/",
+   "https://www.dbn.com.na/"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20. The NUST Namibia Business Innovation Institute site returned an empty page and was left out.",
+  "country": "Namibia",
+  "iso2": "NA",
+  "ecosystem_tier": "nascent",
+  "summary": "Small Windhoek-based ecosystem; NUST's Namibia Business Innovation Institute, NCRST funding and the Development Bank of Namibia support early ventures; green hydrogen is driving new investment.",
+  "startup_visa": "none; investor permits via NIPDB, https://www.nipdb.com/",
+  "company_setup": "Private company or close corporation via BIPA online registration; foreigners can incorporate."
+ },
+ {
+  "grants": [
+   {
+    "name": "SMEDCO loans",
+    "agency": "Small and Medium Enterprises Development Corporation",
+    "amount": "working capital and asset loans",
+    "amount_usd_max": null,
+    "eligibility": "Zimbabwean SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.smedco.co.zw/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "Pan-African (hybrid)",
+    "type": "corporate",
+    "investment": "equity-free",
+    "sectors": "AI/ML, Series A startups",
+    "deadline": "last: 2026-03-18 (annual, usually Feb to Mar)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African",
+    "stage": "pre-seed",
+    "check_size": "US$200k",
+    "sectors": "climate adaptation and resilience",
+    "type": "vc",
+    "url": "https://www.thecatalystfund.com/"
+   },
+   {
+    "name": "Goodwell Investments",
+    "city": "Nairobi / Johannesburg",
+    "stage": "seed to growth",
+    "check_size": "unknown",
+    "sectors": "financial inclusion, impact",
+    "type": "vc",
+    "url": "https://goodwell.nl/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Zimbabwe Investment and Development Agency (ZIDA)",
+    "type": "government_agency",
+    "url": "https://zidainvest.com/",
+    "note": "Investment licensing one-stop shop"
+   },
+   {
+    "name": "ZimTrade",
+    "type": "government_agency",
+    "url": "https://tradezimbabwe.com/",
+    "note": "Export promotion"
+   },
+   {
+    "name": "ZIMRA",
+    "type": "legal_tax",
+    "url": "https://www.zimra.co.zw/",
+    "note": "Tax authority"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "Pan-African angel network directory"
+   }
+  ],
+  "sources": [
+   "https://zidainvest.com/",
+   "https://www.smedco.co.zw/"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20. Currency volatility (ZiG) and FX controls. No local accelerator site could be confirmed live; zida.co.zw is a placeholder, so zidainvest.com is used.",
+  "country": "Zimbabwe",
+  "iso2": "ZW",
+  "ecosystem_tier": "emerging",
+  "summary": "Harare-centred ecosystem shaped by mobile money (EcoCash) and currency instability; strong technical talent and a large diaspora.",
+  "startup_visa": "none; investment licence via ZIDA, https://zidainvest.com/",
+  "company_setup": "Private limited company with the Companies Registry (online via ZIDA one-stop shop); currency and FX rules complicate fundraising."
+ },
+ {
+  "grants": [
+   {
+    "name": "CEEC empowerment loans",
+    "agency": "Citizens Economic Empowerment Commission",
+    "amount": "loans for citizen MSMEs",
+    "amount_usd_max": null,
+    "eligibility": "Zambian citizens and MSMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.ceec.org.zm/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "BongoHive",
+    "city": "Lusaka",
+    "type": "incubator",
+    "investment": "mentorship, pilots and up to US$50k follow-on funding",
+    "sectors": "generalist tech",
+    "deadline": "last: 2026-07-24",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://bongohive.co.zm/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "Pan-African (hybrid)",
+    "type": "corporate",
+    "investment": "equity-free",
+    "sectors": "AI/ML, Series A startups",
+    "deadline": "last: 2026-03-18 (annual, usually Feb to Mar)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African",
+    "stage": "pre-seed",
+    "check_size": "US$200k",
+    "sectors": "climate adaptation and resilience",
+    "type": "vc",
+    "url": "https://www.thecatalystfund.com/"
+   },
+   {
+    "name": "Partech Africa",
+    "city": "Nairobi / Lagos / Dakar",
+    "stage": "seed to series B",
+    "check_size": "US$1M–15M+",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://partechpartners.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Zambia Development Agency",
+    "type": "government_agency",
+    "url": "https://zda.org.zm/",
+    "note": "Investment promotion"
+   },
+   {
+    "name": "PACRA",
+    "type": "legal_tax",
+    "url": "https://www.pacra.org.zm/",
+    "note": "Company registration"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "Pan-African angel network directory"
+   }
+  ],
+  "sources": [
+   "https://bongohive.co.zm/",
+   "https://www.ceec.org.zm/",
+   "https://zda.org.zm/"
+  ],
+  "confidence": "medium",
+  "notes": "Checked 2026-10-20.",
+  "country": "Zambia",
+  "iso2": "ZM",
+  "ecosystem_tier": "emerging",
+  "summary": "Lusaka ecosystem anchored by BongoHive, with growing fintech and agritech; government CEEC provides citizen enterprise finance.",
+  "startup_visa": "none; investor permits via Zambia Development Agency, https://zda.org.zm/",
+  "company_setup": "Private limited company via PACRA online registration; foreigners can incorporate."
+ },
+ {
+  "grants": [
+   {
+    "name": "NCST research grants",
+    "agency": "National Commission for Science and Technology",
+    "amount": "not stated",
+    "amount_usd_max": null,
+    "eligibility": "Malawian researchers",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://ncst.mw/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "Pan-African (hybrid)",
+    "type": "corporate",
+    "investment": "equity-free",
+    "sectors": "AI/ML, Series A startups",
+    "deadline": "last: 2026-03-18 (annual, usually Feb to Mar)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Goodwell Investments",
+    "city": "Nairobi / Johannesburg",
+    "stage": "seed to growth",
+    "check_size": "unknown",
+    "sectors": "financial inclusion, impact",
+    "type": "vc",
+    "url": "https://goodwell.nl/"
+   },
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African",
+    "stage": "pre-seed",
+    "check_size": "US$200k",
+    "sectors": "climate adaptation and resilience",
+    "type": "vc",
+    "url": "https://www.thecatalystfund.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Malawi Investment and Trade Centre",
+    "type": "government_agency",
+    "url": "https://mitc.mw/",
+    "note": "Investment promotion"
+   },
+   {
+    "name": "NCST",
+    "type": "government_agency",
+    "url": "https://ncst.mw/",
+    "note": "Science and technology commission"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "Pan-African angel network directory"
+   }
+  ],
+  "sources": [
+   "https://mitc.mw/",
+   "https://ncst.mw/",
+   "https://goodwell.nl/"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20. mHub and NEEF domains did not resolve and were left out.",
+  "country": "Malawi",
+  "iso2": "MW",
+  "ecosystem_tier": "nascent",
+  "summary": "Small Lilongwe/Blantyre ecosystem focused on agritech, fintech and energy; supported mainly by donors and impact investors.",
+  "startup_visa": "none; business residence permits via MITC, https://mitc.mw/",
+  "company_setup": "Private company via the Registrar General online registry; foreigners can incorporate."
+ },
+ {
+  "grants": [
+   {
+    "name": "IPEME SME support",
+    "agency": "Instituto para a Promocao das Pequenas e Medias Empresas",
+    "amount": "business support, no cash grant stated",
+    "amount_usd_max": null,
+    "eligibility": "Mozambican SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.ipeme.gov.mz/"
+   },
+   {
+    "name": "Orange Corners Innovation Fund",
+    "agency": "Netherlands MFA / Orange Corners",
+    "amount": "not stated (grant or soft funding for OC graduates)",
+    "amount_usd_max": null,
+    "eligibility": "Orange Corners alumni",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.orangecorners.com/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Orange Corners Mozambique",
+    "city": "Maputo",
+    "type": "incubator",
+    "investment": "training plus OC Innovation Fund eligibility",
+    "sectors": "youth-led startups (18–35)",
+    "deadline": "cohort-based (one-month window)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.orangecorners.com/country/mozambique/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "Pan-African (hybrid)",
+    "type": "corporate",
+    "investment": "equity-free",
+    "sectors": "AI/ML, Series A startups",
+    "deadline": "last: 2026-03-18 (annual, usually Feb to Mar)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African",
+    "stage": "pre-seed",
+    "check_size": "US$200k",
+    "sectors": "climate adaptation and resilience",
+    "type": "vc",
+    "url": "https://www.thecatalystfund.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "APIEX",
+    "type": "government_agency",
+    "url": "https://apiex.gov.mz/",
+    "note": "Investment and export promotion agency"
+   },
+   {
+    "name": "IPEME",
+    "type": "government_agency",
+    "url": "https://www.ipeme.gov.mz/",
+    "note": "SME promotion institute"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "Pan-African angel network directory"
+   }
+  ],
+  "sources": [
+   "https://apiex.gov.mz/",
+   "https://www.orangecorners.com/country/mozambique/"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20. Insurgency in Cabo Delgado.",
+  "country": "Mozambique",
+  "iso2": "MZ",
+  "ecosystem_tier": "nascent",
+  "summary": "Maputo-based ecosystem, Portuguese-speaking, with mobile money (M-Pesa) and donor-backed incubation; gas sector drives investment.",
+  "startup_visa": "none; investment via APIEX, https://apiex.gov.mz/",
+  "company_setup": "Lda via the Balcao de Atendimento Unico (one-stop shop); foreigners can incorporate."
+ },
+ {
+  "grants": [
+   {
+    "name": "BDA SME credit lines",
+    "agency": "Banco de Desenvolvimento de Angola",
+    "amount": "subsidised credit",
+    "amount_usd_max": null,
+    "eligibility": "Angolan SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.bda.ao/"
+   },
+   {
+    "name": "Orange Corners Innovation Fund",
+    "agency": "Netherlands MFA / Orange Corners",
+    "amount": "not stated (grant or soft funding for OC graduates)",
+    "amount_usd_max": null,
+    "eligibility": "Orange Corners alumni",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.orangecorners.com/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Orange Corners Angola",
+    "city": "Luanda",
+    "type": "incubator",
+    "investment": "training plus OC Innovation Fund eligibility",
+    "sectors": "youth-led startups (18–35)",
+    "deadline": "cohort-based (one-month window)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.orangecorners.com/country/angola/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "Pan-African (hybrid)",
+    "type": "corporate",
+    "investment": "equity-free",
+    "sectors": "AI/ML, Series A startups",
+    "deadline": "last: 2026-03-18 (annual, usually Feb to Mar)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African",
+    "stage": "pre-seed",
+    "check_size": "US$200k",
+    "sectors": "climate adaptation and resilience",
+    "type": "vc",
+    "url": "https://www.thecatalystfund.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "AIPEX",
+    "type": "government_agency",
+    "url": "https://www.aipex.gov.ao/PortalAIPEX/",
+    "note": "Private investment and export promotion"
+   },
+   {
+    "name": "INAPEM",
+    "type": "government_agency",
+    "url": "https://www.inapem.gov.ao/",
+    "note": "SME support institute"
+   },
+   {
+    "name": "Guiche Unico da Empresa",
+    "type": "legal_tax",
+    "url": "https://gue.gov.ao/portal/",
+    "note": "Company registration one-stop shop"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "Pan-African angel network directory"
+   }
+  ],
+  "sources": [
+   "https://www.aipex.gov.ao/PortalAIPEX/",
+   "https://www.orangecorners.com/country/angola/",
+   "https://gue.gov.ao/portal/"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20.",
+  "country": "Angola",
+  "iso2": "AO",
+  "ecosystem_tier": "nascent",
+  "summary": "Luanda-centred, oil-dependent economy with a young, Portuguese-speaking ecosystem; state SME institute INAPEM and the development bank BDA support entrepreneurs.",
+  "startup_visa": "none; private investment via AIPEX, https://www.aipex.gov.ao/PortalAIPEX/",
+  "company_setup": "Lda via Guiche Unico da Empresa (GUE), possible in days; foreigners can incorporate."
+ },
+ {
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "SEDCO Business Incubation Programme",
+    "city": "Mbabane / Manzini",
+    "type": "government",
+    "investment": "incubation and advisory",
+    "sectors": "SMEs",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.sedco.co.sz/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Eswatini Investment and Trade Promotion Authority",
+    "type": "government_agency",
+    "url": "https://investeswatini.org.sz/",
+    "note": "Investment promotion"
+   },
+   {
+    "name": "SEDCO",
+    "type": "government_agency",
+    "url": "https://www.sedco.co.sz/",
+    "note": "Small enterprise development company"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "Pan-African angel network directory"
+   }
+  ],
+  "sources": [
+   "https://investeswatini.org.sz/",
+   "https://www.sedco.co.sz/"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20. Royal Science and Technology Park site unreachable.",
+  "country": "Eswatini",
+  "iso2": "SZ",
+  "ecosystem_tier": "nascent",
+  "summary": "Very small ecosystem around Mbabane and Manzini; SEDCO incubation and the Royal Science and Technology Park are the main supports.",
+  "startup_visa": "none",
+  "company_setup": "Private company via the Registrar of Companies; EIPA one-stop shop helps foreign investors."
+ },
+ {
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "BEDCO Business Incubation",
+    "city": "Maseru",
+    "type": "government",
+    "investment": "incubation, mentorship and acceleration",
+    "sectors": "youth businesses",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.bedco.org.ls/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Lesotho National Development Corporation",
+    "type": "government_agency",
+    "url": "https://lndc.org.ls/",
+    "note": "Investment promotion"
+   },
+   {
+    "name": "BEDCO",
+    "type": "government_agency",
+    "url": "https://www.bedco.org.ls/",
+    "note": "Basotho Enterprises Development Corporation"
+   },
+   {
+    "name": "One Stop Business Facilitation Centre",
+    "type": "legal_tax",
+    "url": "https://www.obfc.org.ls/",
+    "note": "Online company registration"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "Pan-African angel network directory"
+   }
+  ],
+  "sources": [
+   "https://lndc.org.ls/",
+   "https://www.bedco.org.ls/"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20.",
+  "country": "Lesotho",
+  "iso2": "LS",
+  "ecosystem_tier": "nascent",
+  "summary": "Tiny Maseru-based ecosystem; BEDCO incubation and LNDC investment promotion are the main supports.",
+  "startup_visa": "none",
+  "company_setup": "Private company via One Stop Business Facilitation Centre (online); foreigners can incorporate."
+ },
+ {
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Miarakap Acceleration",
+    "city": "Antananarivo",
+    "type": "accelerator",
+    "investment": "acceleration plus equity or quasi-equity",
+    "sectors": "impact SMEs",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://miarakap.com/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Miarakap",
+    "city": "Antananarivo",
+    "stage": "seed to growth",
+    "check_size": "unknown",
+    "sectors": "impact SMEs, biodiversity and climate",
+    "type": "vc",
+    "url": "https://miarakap.com/"
+   },
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African",
+    "stage": "pre-seed",
+    "check_size": "US$200k",
+    "sectors": "climate adaptation and resilience",
+    "type": "vc",
+    "url": "https://www.thecatalystfund.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Economic Development Board of Madagascar",
+    "type": "government_agency",
+    "url": "https://www.edbm.mg/",
+    "note": "Investment promotion and company setup"
+   },
+   {
+    "name": "CCI France Madagascar",
+    "type": "other",
+    "url": "https://www.ccifm.mg/",
+    "note": "Business chamber"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "Pan-African angel network directory"
+   }
+  ],
+  "sources": [
+   "https://miarakap.com/",
+   "https://www.edbm.mg/"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20.",
+  "country": "Madagascar",
+  "iso2": "MG",
+  "ecosystem_tier": "nascent",
+  "summary": "Antananarivo ecosystem, French-speaking, with BPO, agri and fintech activity; Miarakap is the main local impact investor and accelerator.",
+  "startup_visa": "none; investor visas via EDBM, https://www.edbm.mg/",
+  "company_setup": "SARL via EDBM one-stop shop; foreigners can incorporate."
+ },
+ {
+  "grants": [
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "World Bank in Comoros",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/comoros",
+    "note": "Country programme and private sector projects"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/",
+    "note": "Regional DFI; SME and youth entrepreneurship programmes"
+   },
+   {
+    "name": "UNDP timbuktoo",
+    "type": "other",
+    "url": "https://timbuktoo.africa/",
+    "note": "UNDP pan-African startup initiative and innovation hubs"
+   },
+   {
+    "name": "Mastercard Foundation programmes",
+    "type": "other",
+    "url": "https://mastercardfdn.org/en/what-we-do/our-programs/",
+    "note": "Youth employment and enterprise funding across Africa"
+   }
+  ],
+  "sources": [
+   "https://www.worldbank.org/en/country/comoros"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20. No national investment agency or SME site could be confirmed live.",
+  "country": "Comoros",
+  "iso2": "KM",
+  "ecosystem_tier": "nascent",
+  "summary": "Minimal startup ecosystem; economy relies on remittances, agriculture and fishing.",
+  "startup_visa": "none",
+  "company_setup": "Registration through the national investment promotion agency (ANPI) and commercial registry; most diaspora founders incorporate in France or Mauritius."
+ },
+ {
+  "grants": [
+   {
+    "name": "SeyCCAT blue economy grants",
+    "agency": "Seychelles Conservation and Climate Adaptation Trust",
+    "amount": "grants (amount varies by call)",
+    "amount_usd_max": null,
+    "eligibility": "Seychelles organisations and enterprises in blue economy",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://seyccat.org/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Seychelles Investment Board",
+    "type": "government_agency",
+    "url": "https://www.investinseychelles.com/",
+    "note": "Investment promotion"
+   },
+   {
+    "name": "Development Bank of Seychelles",
+    "type": "government_agency",
+    "url": "https://www.dbs.sc/",
+    "note": "SME and development finance"
+   },
+   {
+    "name": "SeyCCAT",
+    "type": "other",
+    "url": "https://seyccat.org/",
+    "note": "Blue economy grants trust"
+   },
+   {
+    "name": "African Development Bank",
+    "type": "other",
+    "url": "https://www.afdb.org/",
+    "note": "Regional DFI; SME and youth entrepreneurship programmes"
+   }
+  ],
+  "sources": [
+   "https://seyccat.org/",
+   "https://www.investinseychelles.com/"
+  ],
+  "confidence": "low",
+  "notes": "Checked 2026-10-20. SEnPA site not found.",
+  "country": "Seychelles",
+  "iso2": "SC",
+  "ecosystem_tier": "nascent",
+  "summary": "Small island economy built on tourism, fisheries and offshore finance; blue-economy innovation funding through SeyCCAT.",
+  "startup_visa": "none",
+  "company_setup": "Domestic company or IBC via the Seychelles Financial Services Authority / Registrar; IBCs are popular with foreign founders."
+ },
+ {
+  "grants": [
+   {
+    "name": "Proof of Concept Scheme",
+    "agency": "Mauritius Research and Innovation Council",
+    "amount": "not stated",
+    "amount_usd_max": null,
+    "eligibility": "Innovators and companies registered in Mauritius",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.mric.mu/proof-of-concept-scheme"
+   },
+   {
+    "name": "Innovation Boost Grant",
+    "agency": "Mauritius Research and Innovation Council",
+    "amount": "not stated",
+    "amount_usd_max": null,
+    "eligibility": "Mauritian innovators and SMEs",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.mric.mu/ibgscheme"
+   },
+   {
+    "name": "National SME Incubator Scheme",
+    "agency": "Mauritius Research and Innovation Council",
+    "amount": "incubation support via accredited incubators",
+    "amount_usd_max": null,
+    "eligibility": "Innovative start-ups",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.mric.mu/national-sme-inubator-scheme"
+   },
+   {
+    "name": "DBM business loans",
+    "agency": "Development Bank of Mauritius",
+    "amount": "loans",
+    "amount_usd_max": null,
+    "eligibility": "Mauritian SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.dbm.mu/"
+   },
+   {
+    "name": "TEF Entrepreneurship Programme",
+    "agency": "Tony Elumelu Foundation",
+    "amount": "US$5,000 non-refundable seed capital",
+    "amount_usd_max": 5000,
+    "eligibility": "African residents 18+, idea or business under 5 years old",
+    "deadline": "annual (window Jan 1 to Mar 1)",
+    "status": "upcoming",
+    "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+   },
+   {
+    "name": "Africa's Business Heroes",
+    "agency": "Jack Ma Foundation",
+    "amount": "US$1.5M shared by 10 finalists, top prize up to US$300k",
+    "amount_usd_max": 300000,
+    "eligibility": "Founders in all 54 African countries, 3+ years revenue",
+    "deadline": "last: 2026-05-07 (annual, usually Mar to May)",
+    "status": "upcoming",
+    "url": "https://africabusinessheroes.org/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Turbine Incubator",
+    "city": "Moka",
+    "type": "incubator",
+    "investment": "incubation; Innovation Challenge 2026 '300K' cash reward",
+    "sectors": "generalist, sustainability, AI",
+    "deadline": "last: 2026-08-19 (Innovation Challenge 2026)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://turbine.mu/"
+   },
+   {
+    "name": "Google for Startups Accelerator: Africa",
+    "city": "Pan-African (hybrid)",
+    "type": "corporate",
+    "investment": "equity-free",
+    "sectors": "AI/ML, Series A startups",
+    "deadline": "last: 2026-03-18 (annual, usually Feb to Mar)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://startup.google.com/programs/accelerator/africa/"
+   },
+   {
+    "name": "Catalyst Fund",
+    "city": "Pan-African (remote)",
+    "type": "accelerator",
+    "investment": "US$200k pre-seed equity plus venture building",
+    "sectors": "climate adaptation, climate fintech, agri, water, energy",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.thecatalystfund.com/pitch-to-us"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Launch Africa Ventures",
+    "city": "Pan-African (Mauritius-domiciled)",
+    "stage": "pre-seed to seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.launchafrica.vc/"
+   },
+   {
+    "name": "Development Bank of Mauritius",
+    "city": "Port Louis",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "SMEs",
+    "type": "government_fund",
+    "url": "https://www.dbm.mu/"
+   },
+   {
+    "name": "Seedstars Africa Ventures",
+    "city": "Pan-African",
+    "stage": "seed",
+    "check_size": "US$100k–1M",
+    "sectors": "generalist, emerging markets",
+    "type": "vc",
+    "url": "https://www.seedstars.com/"
+   },
+   {
+    "name": "Partech Africa",
+    "city": "Nairobi / Lagos / Dakar",
+    "stage": "seed to series B",
+    "check_size": "US$1M–15M+",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://partechpartners.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Economic Development Board Mauritius",
+    "type": "government_agency",
+    "url": "https://edbmauritius.org/",
+    "note": "Investment promotion, permits and schemes"
+   },
+   {
+    "name": "Corporate and Business Registration Department",
+    "type": "legal_tax",
+    "url": "https://companies.govmu.org/cbrd/",
+    "note": "Company registration"
+   },
+   {
+    "name": "MRIC",
+    "type": "government_agency",
+    "url": "https://www.mric.mu/",
+    "note": "Research and innovation grants"
+   },
+   {
+    "name": "Residency in Mauritius",
+    "type": "government_agency",
+    "url": "https://residency.mu/",
+    "note": "Permits including Residency by Innovation"
+   },
+   {
+    "name": "Business Mauritius",
+    "type": "other",
+    "url": "https://businessmauritius.org/",
+    "note": "Private sector association"
+   },
+   {
+    "name": "African Business Angel Network (ABAN)",
+    "type": "community",
+    "url": "https://abanangels.org/",
+    "note": "Pan-African angel network directory"
+   }
+  ],
+  "sources": [
+   "https://www.mric.mu/",
+   "https://residency.mu/invest/residency-by-innovation/",
+   "https://turbine.mu/",
+   "https://edbmauritius.org/"
+  ],
+  "confidence": "medium",
+  "notes": "Checked 2026-10-20. MRIC scheme pages give no amounts or deadlines. Turbine's page shows a '300K Cash Reward' without naming the currency.",
+  "country": "Mauritius",
+  "iso2": "MU",
+  "ecosystem_tier": "emerging",
+  "summary": "Ebene-centred hub for fintech, offshore structuring and pan-African holding companies; government MRIC grants, EDB promotion and the Turbine incubator support startups.",
+  "startup_visa": "Residency by Innovation (Occupation Permit route for innovative startups), https://residency.mu/invest/residency-by-innovation/",
+  "company_setup": "Private company via CBRD online registration in days; widely used by foreigners as a pan-African holding jurisdiction (Global Business Licence)."
+ }
+]

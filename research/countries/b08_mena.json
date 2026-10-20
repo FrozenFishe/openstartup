@@ -1,0 +1,2349 @@
+[
+ {
+  "country": "Israel",
+  "iso2": "IL",
+  "ecosystem_tier": "global_hub",
+  "summary": "One of the world's densest startup ecosystems, centred on Tel Aviv, Jerusalem and Haifa; strong in cyber, AI, semiconductors, fintech and defence tech. Major exits include Wiz (Google), Mobileye and Waze.",
+  "startup_visa": "Innovation Visa for Foreign Technology Entrepreneurs (B/2 up to 24 months via IIA landing-pad incubators, then expert visa), https://innovationisrael.org.il/en/programs/tech-innovation-visa/",
+  "company_setup": "Ltd (private company) registered with the Israeli Corporations Authority; can be done remotely via a local lawyer, typically 1-2 weeks and a few thousand US$ in fees. Many founders use a Delaware C-corp with an Israeli subsidiary.",
+  "grants": [
+   {
+    "name": "Ideation (Tnufa) Incentive Program",
+    "agency": "Israel Innovation Authority",
+    "amount": "conditional grant up to NIS 200k (80% of budget)",
+    "amount_usd_max": 55000,
+    "eligibility": "early-stage Israeli entrepreneurs, pre-company",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://innovationisrael.org.il/en/programs/ideation-tnufa-incentive-program/"
+   },
+   {
+    "name": "Technological Incubators Program",
+    "agency": "Israel Innovation Authority",
+    "amount": "up to 85% of budget, up to NIS 3.5M over 2 years",
+    "amount_usd_max": 950000,
+    "eligibility": "early-stage deep-tech startups admitted by an IIA-franchised incubator",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://innovationisrael.org.il/en/programs/"
+   },
+   {
+    "name": "Startup Fund Pre-Seed/Seed track",
+    "agency": "Israel Innovation Authority",
+    "amount": "pre-seed round up to NIS 5M at 60% grant rate",
+    "amount_usd_max": 1350000,
+    "eligibility": "Israeli startups raising with qualifying investors",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://innovationisrael.org.il/en/programs/"
+   },
+   {
+    "name": "R&D Fund",
+    "agency": "Israel Innovation Authority",
+    "amount": "20-50% of approved R&D budget, royalty-bearing",
+    "amount_usd_max": null,
+    "eligibility": "Israeli R&D companies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://innovationisrael.org.il/en/programs/"
+   },
+   {
+    "name": "Ideation (Tnufa) Challenge - Critical Minerals",
+    "agency": "Israel Innovation Authority",
+    "amount": "NIS 1M first place, NIS 250k places 2-5",
+    "amount_usd_max": 270000,
+    "eligibility": "new Israeli startups in critical minerals",
+    "deadline": "last: 2026-06-25",
+    "status": "closed",
+    "url": "https://innovationisrael.org.il/en/calls_for_proposal/critical-minerals-challenge/"
+   },
+   {
+    "name": "From Development to Manufacturing (MOFET)",
+    "agency": "Israel Innovation Authority",
+    "amount": "grant share of manufacturing-scale R&D",
+    "amount_usd_max": null,
+    "eligibility": "Israeli tech companies moving to production",
+    "deadline": "last: 2026-06-04",
+    "status": "closed",
+    "url": "https://innovationisrael.org.il/en/calls_for_proposal/development-to-manufacturing-2026/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "8200 Impact / 8200 EISP",
+    "city": "Tel Aviv",
+    "type": "accelerator",
+    "investment": "no equity",
+    "sectors": "generalist, deep tech",
+    "deadline": "cohort-based, check site",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.8200.org.il/"
+   },
+   {
+    "name": "The Trendlines Group",
+    "city": "Misgav",
+    "type": "incubator",
+    "investment": "IIA incubator investment",
+    "sectors": "medtech, agtech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.trendlines.com/"
+   },
+   {
+    "name": "Team8 Foundry",
+    "city": "Tel Aviv",
+    "type": "venture_studio",
+    "investment": "company creation",
+    "sectors": "cyber, data, fintech, health",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://team8.vc/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Pitango",
+    "city": "Tel Aviv",
+    "stage": "multi",
+    "check_size": "US$1M-20M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.pitango.com/"
+   },
+   {
+    "name": "Vertex Ventures Israel",
+    "city": "Tel Aviv",
+    "stage": "seed",
+    "check_size": "US$1M-10M",
+    "sectors": "enterprise, deep tech",
+    "type": "vc",
+    "url": "https://www.vertexventures.co.il/"
+   },
+   {
+    "name": "Grove Ventures",
+    "city": "Tel Aviv",
+    "stage": "seed",
+    "check_size": "US$1M-5M",
+    "sectors": "deep tech, semis",
+    "type": "vc",
+    "url": "https://www.grovevc.com/"
+   },
+   {
+    "name": "TLV Partners",
+    "city": "Tel Aviv",
+    "stage": "seed",
+    "check_size": "US$1M-10M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.tlv.partners/"
+   },
+   {
+    "name": "Israel Biotech Fund",
+    "city": "Rehovot",
+    "stage": "series A",
+    "check_size": "unknown",
+    "sectors": "biotech",
+    "type": "vc",
+    "url": "https://www.ibf.co.il/"
+   },
+   {
+    "name": "Viola Ventures",
+    "city": "Herzliya",
+    "stage": "multi",
+    "check_size": "US$1M-30M",
+    "sectors": "enterprise, fintech",
+    "type": "vc",
+    "url": "https://www.viola-group.com/"
+   },
+   {
+    "name": "Aleph",
+    "city": "Tel Aviv",
+    "stage": "seed",
+    "check_size": "US$1M-10M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.aleph.vc/"
+   },
+   {
+    "name": "Glilot Capital Partners",
+    "city": "Herzliya",
+    "stage": "seed",
+    "check_size": "US$1M-10M",
+    "sectors": "cyber, enterprise",
+    "type": "vc",
+    "url": "https://www.glilot.com/"
+   },
+   {
+    "name": "Team8 Capital",
+    "city": "Tel Aviv",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "cyber, data, fintech",
+    "type": "vc",
+    "url": "https://team8.vc/"
+   },
+   {
+    "name": "Entree Capital",
+    "city": "Tel Aviv",
+    "stage": "seed",
+    "check_size": "US$0.5M-10M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://entreecap.com/"
+   },
+   {
+    "name": "lool ventures",
+    "city": "Tel Aviv",
+    "stage": "pre-seed",
+    "check_size": "US$0.5M-2M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.lool.vc/"
+   },
+   {
+    "name": "F2 Venture Capital",
+    "city": "Tel Aviv",
+    "stage": "pre-seed",
+    "check_size": "US$0.5M-3M",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.f2vc.com/"
+   },
+   {
+    "name": "JVP",
+    "city": "Jerusalem",
+    "stage": "multi",
+    "check_size": "US$1M-20M",
+    "sectors": "cyber, media, health",
+    "type": "vc",
+    "url": "https://jvpvc.com/"
+   },
+   {
+    "name": "OurCrowd",
+    "city": "Jerusalem",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.ourcrowd.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Israel Innovation Authority",
+    "type": "government_agency",
+    "url": "https://innovationisrael.org.il/en/",
+    "note": "national grants and incubator franchises"
+   },
+   {
+    "name": "Startup Nation Central",
+    "type": "database",
+    "url": "https://startupnationcentral.org/",
+    "note": "ecosystem data and Finder platform"
+   },
+   {
+    "name": "IVC Research Center",
+    "type": "database",
+    "url": "https://www.ivc-online.com/",
+    "note": "VC and startup data"
+   },
+   {
+    "name": "8200 Alumni Association",
+    "type": "community",
+    "url": "https://www.8200.org.il/",
+    "note": "network and programs"
+   }
+  ],
+  "sources": [
+   "https://innovationisrael.org.il/en/programs/ideation-tnufa-incentive-program/",
+   "https://innovationisrael.org.il/en/programs/tech-innovation-visa/",
+   "https://startupnationcentral.org/"
+  ],
+  "confidence": "medium",
+  "notes": "IIA site blocks automated access; amounts from its English pages may differ from current Hebrew calls. Regional war since Oct 2023 has affected operations and some VC flows; check Hebrew portal for open calls."
+ },
+ {
+  "country": "Jordan",
+  "iso2": "JO",
+  "ecosystem_tier": "emerging",
+  "summary": "Amman-centred ecosystem with strong software, gaming and e-commerce talent; exits include Maktoob (Yahoo) and Jamalon. The World Bank-backed ISSF fund of funds anchors local VC.",
+  "startup_visa": "none (investor residency via Ministry of Investment; no dedicated startup visa verified)",
+  "company_setup": "LLC or Private Shareholding Company registered with the Companies Control Department; foreigners can own most tech businesses; about 1-2 weeks.",
+  "grants": [
+   {
+    "name": "Innovative Startups and SMEs Fund (ISSF)",
+    "agency": "ISSF / World Bank / Central Bank of Jordan",
+    "amount": "fund of funds and co-investment, US$148M AUM",
+    "amount_usd_max": null,
+    "eligibility": "Jordanian startups via partner VCs; direct co-investments",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://issfjo.com/"
+   },
+   {
+    "name": "JEDCO SME and entrepreneurship programs",
+    "agency": "Jordan Enterprise Development Corporation",
+    "amount": "grants and technical support, varies",
+    "amount_usd_max": null,
+    "eligibility": "Jordanian SMEs and startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.jedco.gov.jo/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Oasis500",
+    "city": "Amman",
+    "type": "accelerator",
+    "investment": "seed investment for equity",
+    "sectors": "generalist tech",
+    "deadline": "cohort-based",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://oasis500.com/"
+   },
+   {
+    "name": "Flat6Labs Amman",
+    "city": "Amman",
+    "type": "accelerator",
+    "investment": "seed investment for equity",
+    "sectors": "generalist",
+    "deadline": "last: 2025-02-15",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://flat6labs.com/"
+   },
+   {
+    "name": "Ahli Fintech",
+    "city": "Amman",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "fintech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://ahlifintech.com/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Silicon Badia",
+    "city": "Amman",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "vc",
+    "url": "https://www.siliconbadia.com/"
+   },
+   {
+    "name": "Sadara Ventures",
+    "city": "Amman",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.sadaravc.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ministry of Digital Economy and Entrepreneurship",
+    "type": "government_agency",
+    "url": "https://www.modee.gov.jo/",
+    "note": "national digital and startup policy"
+   },
+   {
+    "name": "Wamda",
+    "type": "database",
+    "url": "https://www.wamda.com/",
+    "note": "MENA ecosystem news and research"
+   },
+   {
+    "name": "MAGNiTT",
+    "type": "database",
+    "url": "https://www.magnitt.com/",
+    "note": "MENA funding data"
+   }
+  ],
+  "sources": [
+   "https://issfjo.com/",
+   "https://www.jedco.gov.jo/",
+   "https://oasis500.com/"
+  ],
+  "confidence": "medium",
+  "notes": "Flat6Labs Amman's last published deadline was Feb 2025. Regional conflict has dampened 2024-26 funding."
+ },
+ {
+  "country": "Lebanon",
+  "iso2": "LB",
+  "ecosystem_tier": "emerging",
+  "summary": "Beirut historically had a vibrant scene (Anghami listed on Nasdaq) but the 2019 banking collapse, 2020 port blast and 2024 war hit it hard; many startups now operate from the Gulf or Europe.",
+  "startup_visa": "none",
+  "company_setup": "SAL or SARL via notary and commercial register; capital controls make local banking hard, so many founders incorporate abroad (UAE, Delaware) and keep a Lebanese subsidiary.",
+  "grants": [
+   {
+    "name": "Kafalat loan guarantees (Innovative / Kafalat Plus)",
+    "agency": "Kafalat SAL",
+    "amount": "guaranteed bank loans for SMEs and innovative startups",
+    "amount_usd_max": null,
+    "eligibility": "Lebanese SMEs",
+    "deadline": "rolling",
+    "status": "unknown",
+    "url": "https://kafalat.com.lb/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Berytech",
+    "city": "Beirut",
+    "type": "incubator",
+    "investment": "grants and seed via partners, no equity for most",
+    "sectors": "agrifood, cleantech, tech",
+    "deadline": "program-specific calls",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://berytech.org/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "LEAP Ventures",
+    "city": "Beirut",
+    "stage": "series A",
+    "check_size": "US$1M-5M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.leap.vc/"
+   },
+   {
+    "name": "MEVP",
+    "city": "Beirut",
+    "stage": "multi",
+    "check_size": "US$1M-10M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://mevp.com/"
+   },
+   {
+    "name": "Cedar Mundi Ventures",
+    "city": "Beirut",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.cedarmundi.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "IDAL / Invest in Lebanon",
+    "type": "government_agency",
+    "url": "https://www.investinlebanon.gov.lb/",
+    "note": "investment promotion authority"
+   },
+   {
+    "name": "Beirut Digital District",
+    "type": "coworking_hub",
+    "url": "https://beirutdigitaldistrict.com/",
+    "note": "tech cluster and offices"
+   }
+  ],
+  "sources": [
+   "https://berytech.org/",
+   "https://kafalat.com.lb/",
+   "https://www.leap.vc/"
+  ],
+  "confidence": "low",
+  "notes": "Financial crisis since 2019 (BDL Circular 331 VC scheme is effectively defunct). Funding is scarce; status of Flat6Labs Beirut unclear and omitted."
+ },
+ {
+  "country": "Syria",
+  "iso2": "SY",
+  "ecosystem_tier": "nascent",
+  "summary": "Tiny, fragile ecosystem emerging after the Dec 2024 change of government; most Syrian founders operate from Turkey, Jordan, the Gulf or Europe. Reconstruction and diaspora returns are early signals.",
+  "startup_visa": "none",
+  "company_setup": "Companies register via the Ministry of Economy; banking links remain limited. Most founders use a diaspora entity (UAE, Turkey, Estonia e-Residency, Delaware).",
+  "grants": [],
+  "accelerators": [],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "Syrian Investment Authority",
+    "type": "government_agency",
+    "url": "https://invest.gov.sy/",
+    "note": "investment licences and opportunity map"
+   },
+   {
+    "name": "UNDP Syria",
+    "type": "other",
+    "url": "https://www.undp.org/syria",
+    "note": "livelihoods and small-business recovery programs"
+   },
+   {
+    "name": "Jusoor",
+    "type": "community",
+    "url": "https://www.jusoor.ngo/",
+    "note": "diaspora NGO for education and entrepreneurship"
+   }
+  ],
+  "sources": [
+   "https://invest.gov.sy/",
+   "https://www.undp.org/syria"
+  ],
+  "confidence": "low",
+  "notes": "Sanctions: US lifted most Syria sanctions in mid-2025 and the EU eased economic sanctions, but compliance risk, de-risking by banks and conflict persist. No verified active accelerators or VCs inside Syria as of Oct 2026."
+ },
+ {
+  "country": "Palestine",
+  "iso2": "PS",
+  "ecosystem_tier": "nascent",
+  "summary": "Small tech scene in Ramallah, Nablus and (formerly) Gaza, focused on outsourcing and software; severely disrupted by the Gaza war since Oct 2023 and West Bank restrictions.",
+  "startup_visa": "none",
+  "company_setup": "Companies register with the Ministry of National Economy; movement and banking constraints lead many founders to incorporate in Jordan, UAE or Delaware.",
+  "grants": [],
+  "accelerators": [
+   {
+    "name": "Flat6Labs Nawah Pre-Accelerator",
+    "city": "Ramallah",
+    "type": "accelerator",
+    "investment": "no equity, pre-acceleration",
+    "sectors": "generalist",
+    "deadline": "last: 2026-03-28",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://flat6labs.com/program/nawah-pre-accelerator-program/"
+   },
+   {
+    "name": "Flow Accelerator",
+    "city": "Ramallah",
+    "type": "accelerator",
+    "investment": "incubation and pre-acceleration",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://flow.ps/"
+   },
+   {
+    "name": "Gaza Sky Geeks",
+    "city": "Gaza / remote",
+    "type": "incubator",
+    "investment": "no equity, training",
+    "sectors": "tech, freelancing",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://gazaskygeeks.com/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Ibtikar Fund",
+    "city": "Ramallah",
+    "stage": "seed",
+    "check_size": "US$50k-1M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.ibtikarfund.ps/"
+   },
+   {
+    "name": "Sadara Ventures",
+    "city": "Ramallah",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.sadaravc.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ministry of Telecom and IT",
+    "type": "government_agency",
+    "url": "https://www.mtit.gov.ps/",
+    "note": "ICT policy"
+   },
+   {
+    "name": "PITA",
+    "type": "startup_association",
+    "url": "https://www.pita.ps/",
+    "note": "Palestinian IT association"
+   },
+   {
+    "name": "UNDP Programme of Assistance to the Palestinian People",
+    "type": "other",
+    "url": "https://www.undp.org/papp",
+    "note": "livelihood and MSME support"
+   }
+  ],
+  "sources": [
+   "https://www.ibtikarfund.ps/",
+   "https://flat6labs.com/program/nawah-pre-accelerator-program/",
+   "https://gazaskygeeks.com/"
+  ],
+  "confidence": "low",
+  "notes": "War in Gaza since Oct 2023 has destroyed much infrastructure; Gaza Sky Geeks operates largely remotely/online. Ibtikar Fund II raised a US$15M first close."
+ },
+ {
+  "country": "Iraq",
+  "iso2": "IQ",
+  "ecosystem_tier": "nascent",
+  "summary": "Fast-growing but early ecosystem in Baghdad, Erbil and Basra, driven by a young population, fintech and delivery apps; heavily cash-based economy.",
+  "startup_visa": "none",
+  "company_setup": "LLC registration with the Companies Registrar (Baghdad) or KRG; foreigners usually need a local partner or investment licence; several weeks.",
+  "grants": [
+   {
+    "name": "Riyada initiative (SME lending)",
+    "agency": "Central Bank of Iraq",
+    "amount": "subsidised SME and startup loans via banks",
+    "amount_usd_max": null,
+    "eligibility": "Iraqi SMEs and youth projects",
+    "deadline": "rolling",
+    "status": "unknown",
+    "url": "https://www.cbi.iq/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "The Station",
+    "city": "Baghdad",
+    "type": "incubator",
+    "investment": "no equity, incubation and coworking",
+    "sectors": "generalist",
+    "deadline": "program-specific calls",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://the-station.iq/"
+   },
+   {
+    "name": "Five One Labs",
+    "city": "Erbil / Sulaymaniyah",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist, social",
+    "deadline": "cohort-based",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://fiveonelabs.org/"
+   },
+   {
+    "name": "Re:Coded",
+    "city": "Erbil / Baghdad",
+    "type": "incubator",
+    "investment": "no equity, tech training",
+    "sectors": "tech talent",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.re-coded.com/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Kapita",
+    "city": "Baghdad",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.kapita.iq/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "UNDP Iraq",
+    "type": "other",
+    "url": "https://www.undp.org/iraq",
+    "note": "entrepreneurship and private-sector programs"
+   }
+  ],
+  "sources": [
+   "https://the-station.iq/",
+   "https://fiveonelabs.org/",
+   "https://www.kapita.iq/"
+  ],
+  "confidence": "low",
+  "notes": "Security and political risk; Iraqi Development Fund status not verified and omitted."
+ },
+ {
+  "country": "Saudi Arabia",
+  "iso2": "SA",
+  "ecosystem_tier": "established",
+  "summary": "MENA's largest VC market by funding since 2023, centred on Riyadh, driven by Vision 2030, SVC fund-of-funds and Monsha'at; strengths in fintech, e-commerce, logistics and AI. Notable: Tabby, Tamara, Jahez IPO.",
+  "startup_visa": "Entrepreneur licence via Ministry of Investment (MISA) plus Premium Residency entrepreneur category, https://misa.gov.sa/",
+  "company_setup": "LLC with MISA licence for foreign owners (100% foreign ownership allowed in most sectors), commercial registration via Saudi Business Center; 1-4 weeks.",
+  "grants": [
+   {
+    "name": "SVC fund-of-funds and co-investment programs",
+    "agency": "Saudi Venture Capital Company",
+    "amount": "LP commitments to 65+ funds",
+    "amount_usd_max": null,
+    "eligibility": "funds and startups investing in Saudi",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://svc.com.sa/en/"
+   },
+   {
+    "name": "Monsha'at SME programs (Kafalah, incubators, AI incubator)",
+    "agency": "Monsha'at",
+    "amount": "loan guarantees, grants and support",
+    "amount_usd_max": null,
+    "eligibility": "Saudi SMEs and startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://monshaat.gov.sa/en"
+   },
+   {
+    "name": "RDIA R&D grants",
+    "agency": "Research, Development and Innovation Authority",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "Saudi entities doing R&D",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://rdia.gov.sa/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "KAUST Taqadam",
+    "city": "Thuwal",
+    "type": "university",
+    "investment": "up to US$140k (US$40k + US$100k follow-on), no equity stated",
+    "sectors": "deep tech",
+    "deadline": "register interest",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://taqadam.kaust.edu.sa/"
+   },
+   {
+    "name": "Flat6Labs Riyadh Seed Program",
+    "city": "Riyadh",
+    "type": "accelerator",
+    "investment": "seed investment for equity",
+    "sectors": "generalist",
+    "deadline": "last: 2025-08-16",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://flat6labs.com/program/riyadh-seed-program-page/"
+   },
+   {
+    "name": "The Garage",
+    "city": "Riyadh",
+    "type": "government",
+    "investment": "no equity, campus and programs",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://thegarage.sa/"
+   },
+   {
+    "name": "Misk Accelerator",
+    "city": "Riyadh",
+    "type": "accelerator",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://misk.org.sa/en/"
+   },
+   {
+    "name": "Sanabil 500 MENA Seed Accelerator",
+    "city": "Riyadh",
+    "type": "accelerator",
+    "investment": "seed investment for equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.sanabil500.com/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "STV",
+    "city": "Riyadh",
+    "stage": "multi",
+    "check_size": "US$1M-30M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://stv.vc/"
+   },
+   {
+    "name": "RAED Ventures",
+    "city": "Riyadh",
+    "stage": "seed",
+    "check_size": "US$0.5M-3M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://raed.vc/"
+   },
+   {
+    "name": "Merak Capital",
+    "city": "Riyadh",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://merak.capital/"
+   },
+   {
+    "name": "Sanabil Investments",
+    "city": "Riyadh",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.sanabil.com/en/"
+   },
+   {
+    "name": "Impact46",
+    "city": "Riyadh",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://impact46.sa/"
+   },
+   {
+    "name": "Nuwa Capital",
+    "city": "Riyadh",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://nuwa.capital/"
+   },
+   {
+    "name": "Shorooq Partners",
+    "city": "Riyadh / Abu Dhabi",
+    "stage": "multi",
+    "check_size": "US$0.5M-10M",
+    "sectors": "tech, fintech",
+    "type": "vc",
+    "url": "https://www.shorooq.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ministry of Investment (MISA)",
+    "type": "government_agency",
+    "url": "https://misa.gov.sa/",
+    "note": "licensing for foreign founders"
+   },
+   {
+    "name": "AstroLabs",
+    "type": "legal_tax",
+    "url": "https://astrolabs.com/",
+    "note": "company setup and market entry"
+   },
+   {
+    "name": "MAGNiTT",
+    "type": "database",
+    "url": "https://www.magnitt.com/",
+    "note": "MENA funding data"
+   }
+  ],
+  "sources": [
+   "https://svc.com.sa/en/",
+   "https://monshaat.gov.sa/en",
+   "https://taqadam.kaust.edu.sa/"
+  ],
+  "confidence": "medium",
+  "notes": "monshaat.gov.sa and misk.org.sa block non-Saudi traffic; content verified via search results. Monsha'at programs run in cohorts with no published deadlines found."
+ },
+ {
+  "country": "Kuwait",
+  "iso2": "KW",
+  "ecosystem_tier": "emerging",
+  "summary": "Small but wealthy market; notable startups include Talabat and Carriage (both acquired). Government National Fund for SMEs and family offices are main funders.",
+  "startup_visa": "none",
+  "company_setup": "WLL via Ministry of Commerce; 100% foreign ownership possible via KDIPA licence; several weeks.",
+  "grants": [
+   {
+    "name": "National Fund for SMEs Development",
+    "agency": "National Fund for SMEs Development",
+    "amount": "financing up to 80% of project capital",
+    "amount_usd_max": null,
+    "eligibility": "Kuwaiti nationals' SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://nationalfund.gov.kw/"
+   },
+   {
+    "name": "KFAS research and innovation grants",
+    "agency": "Kuwait Foundation for the Advancement of Sciences",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Kuwait-based researchers and companies",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.kfas.org.kw/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "Nuwa Capital",
+    "city": "Kuwait / Riyadh",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://nuwa.capital/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Kuwait Investment Authority",
+    "type": "government_agency",
+    "url": "https://www.kia.gov.kw/",
+    "note": "sovereign fund"
+   }
+  ],
+  "sources": [
+   "https://nationalfund.gov.kw/",
+   "https://www.kfas.org.kw/"
+  ],
+  "confidence": "low",
+  "notes": "Brilliant Lab domain no longer active; omitted."
+ },
+ {
+  "country": "Oman",
+  "iso2": "OM",
+  "ecosystem_tier": "emerging",
+  "summary": "Muscat-centred ecosystem backed by state funds (Oman Technology Fund, Future Fund Oman) and the SME Development Authority; focus on logistics, energy and tourism tech.",
+  "startup_visa": "none",
+  "company_setup": "LLC via Invest Easy portal; 100% foreign ownership allowed in most sectors; 1-2 weeks.",
+  "grants": [
+   {
+    "name": "Future Fund Oman (SME and startup allocation)",
+    "agency": "Oman Investment Authority",
+    "amount": "OMR 2B fund, 3% for startups",
+    "amount_usd_max": null,
+    "eligibility": "Oman-based startups and SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.futurefund.om/"
+   },
+   {
+    "name": "SME Development Authority (Riyada) support",
+    "agency": "SME Development Authority",
+    "amount": "financing, Riyada card benefits",
+    "amount_usd_max": null,
+    "eligibility": "Omani SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.sme.gov.om/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Shell Intilaaqah Oman (Flat6Labs)",
+    "city": "Muscat",
+    "type": "corporate",
+    "investment": "no equity, cash prizes",
+    "sectors": "generalist",
+    "deadline": "rolling (form open)",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://flat6labs.com/program/oman-shell-intilaaqah-2026/"
+   },
+   {
+    "name": "Sas for Entrepreneurship",
+    "city": "Muscat",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.sas.om/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Oman Technology Fund",
+    "city": "Muscat",
+    "stage": "multi",
+    "check_size": "US$0.1M-5M",
+    "sectors": "tech",
+    "type": "government_fund",
+    "url": "https://www.otf.om/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Oman Investment Authority",
+    "type": "government_agency",
+    "url": "https://www.oia.gov.om/",
+    "note": "sovereign fund, runs Future Fund Oman"
+   },
+   {
+    "name": "Ministry of Transport, Communications and IT",
+    "type": "government_agency",
+    "url": "https://www.mtcit.gov.om/",
+    "note": "digital economy policy"
+   }
+  ],
+  "sources": [
+   "https://www.futurefund.om/",
+   "https://www.otf.om/",
+   "https://www.sme.gov.om/"
+  ],
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "Yemen",
+  "iso2": "YE",
+  "ecosystem_tier": "nascent",
+  "summary": "Fragile, conflict-affected economy with a very small number of tech startups, mostly in Sanaa and Aden; support comes from donor-funded small-business programs.",
+  "startup_visa": "none",
+  "company_setup": "Registration is split between rival authorities; most founders use a diaspora entity (Saudi, UAE, Estonia e-Residency, Delaware).",
+  "grants": [
+   {
+    "name": "SMEPS small-business support",
+    "agency": "Small and Micro Enterprise Promotion Service",
+    "amount": "donor-funded grants and training",
+    "amount_usd_max": null,
+    "eligibility": "Yemeni micro and small enterprises",
+    "deadline": "program-specific",
+    "status": "unknown",
+    "url": "https://www.smeps.org.ye/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "UNDP Yemen",
+    "type": "other",
+    "url": "https://www.undp.org/yemen",
+    "note": "livelihoods and enterprise recovery"
+   }
+  ],
+  "sources": [
+   "https://www.smeps.org.ye/",
+   "https://www.undp.org/yemen"
+  ],
+  "confidence": "low",
+  "notes": "Ongoing civil war and Red Sea crisis; US sanctions and FTO designation of Ansar Allah (Houthis) complicate payments. No verified active VCs or accelerators."
+ },
+ {
+  "country": "United Arab Emirates",
+  "iso2": "AE",
+  "ecosystem_tier": "established",
+  "summary": "MENA's leading startup hub (Dubai, Abu Dhabi) with heavy state support, free zones and global talent; notable exits Careem (Uber) and Souq (Amazon). Strong in fintech, AI and proptech.",
+  "startup_visa": "Golden Visa (entrepreneur and skilled categories, 5-10 years), https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa",
+  "company_setup": "Free-zone LLC (DIFC, ADGM, DMCC, Hub71/ADGM, in5) or mainland LLC with 100% foreign ownership; can largely be done remotely in 1-3 weeks; US$3k-15k/year.",
+  "grants": [
+   {
+    "name": "Hub71 incentive package",
+    "agency": "Hub71 / Mubadala",
+    "amount": "AED 250k cash for equity (SAFE) + AED 250k in-kind",
+    "amount_usd_max": 68000,
+    "eligibility": "tech startups relocating to Abu Dhabi",
+    "deadline": "2027-02",
+    "status": "open",
+    "url": "https://www.hub71.com/program/access-programme"
+   },
+   {
+    "name": "Khalifa Fund for Enterprise Development",
+    "agency": "Khalifa Fund",
+    "amount": "loans and support",
+    "amount_usd_max": null,
+    "eligibility": "UAE nationals' SMEs (Abu Dhabi)",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.khalifafund.ae/"
+   },
+   {
+    "name": "Mohammed Bin Rashid Establishment for SME (Dubai SME)",
+    "agency": "Dubai Economy and Tourism",
+    "amount": "financing, licensing and procurement benefits",
+    "amount_usd_max": null,
+    "eligibility": "Emirati entrepreneurs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://sme.ae/"
+   },
+   {
+    "name": "MBRIF innovation accelerator",
+    "agency": "Ministry of Finance (Mohammed Bin Rashid Innovation Fund)",
+    "amount": "loan guarantees and acceleration",
+    "amount_usd_max": null,
+    "eligibility": "innovative UAE-based startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://mbrif.ae/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Hub71 Access Programme (Cohort 21)",
+    "city": "Abu Dhabi",
+    "type": "government",
+    "investment": "AED 250k for equity + AED 250k in-kind",
+    "sectors": "tech",
+    "deadline": "2027-02",
+    "next_cohort": "2027-09",
+    "status": "open",
+    "url": "https://www.hub71.com/program/access-programme"
+   },
+   {
+    "name": "Dubai Future Accelerators",
+    "city": "Dubai",
+    "type": "government",
+    "investment": "no equity, co-creation with government",
+    "sectors": "challenge-based",
+    "deadline": "rolling (open challenges)",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.dubaifuture.ae/initiatives/future-design-and-acceleration/dubai-future-accelerators/"
+   },
+   {
+    "name": "in5",
+    "city": "Dubai",
+    "type": "government",
+    "investment": "no equity, subsidised licence",
+    "sectors": "tech, media, design, science",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.in5.ae/"
+   },
+   {
+    "name": "DIFC FinTech Hive",
+    "city": "Dubai",
+    "type": "accelerator",
+    "investment": "no equity",
+    "sectors": "fintech, insurtech",
+    "deadline": "annual, check site",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.difc.com/business/fintech-hive"
+   },
+   {
+    "name": "Sheraa",
+    "city": "Sharjah",
+    "type": "government",
+    "investment": "no equity, grants",
+    "sectors": "generalist",
+    "deadline": "cohort-based",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.sheraa.ae/"
+   },
+   {
+    "name": "VentureOne",
+    "city": "Abu Dhabi",
+    "type": "government",
+    "investment": "tech commercialisation",
+    "sectors": "deep tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ventureone.ae/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "BECO Capital",
+    "city": "Dubai",
+    "stage": "seed",
+    "check_size": "US$1M-10M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.beco.vc/"
+   },
+   {
+    "name": "Global Ventures",
+    "city": "Dubai",
+    "stage": "multi",
+    "check_size": "US$1M-10M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.global.vc/"
+   },
+   {
+    "name": "Shorooq Partners",
+    "city": "Abu Dhabi",
+    "stage": "multi",
+    "check_size": "US$0.5M-10M",
+    "sectors": "tech, fintech",
+    "type": "vc",
+    "url": "https://www.shorooq.com/"
+   },
+   {
+    "name": "MEVP",
+    "city": "Dubai",
+    "stage": "multi",
+    "check_size": "US$1M-10M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://mevp.com/"
+   },
+   {
+    "name": "COTU Ventures",
+    "city": "Dubai",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.cotucapital.com/"
+   },
+   {
+    "name": "Plus VC",
+    "city": "Dubai",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://plus.vc/"
+   },
+   {
+    "name": "Nuwa Capital",
+    "city": "Dubai",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://nuwa.capital/"
+   },
+   {
+    "name": "Wamda",
+    "city": "Dubai",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.wamda.com/"
+   },
+   {
+    "name": "ADQ",
+    "city": "Abu Dhabi",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.adq.ae/"
+   },
+   {
+    "name": "Mubadala Capital",
+    "city": "Abu Dhabi",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.mubadalacapital.ae/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Abu Dhabi Investment Office",
+    "type": "government_agency",
+    "url": "https://www.investwithabudhabi.com/en",
+    "note": "incentives incl. innovation programme"
+   },
+   {
+    "name": "Dubai Future Foundation",
+    "type": "government_agency",
+    "url": "https://www.dubaifuture.ae/",
+    "note": "Area 2071, DFA and future programs"
+   },
+   {
+    "name": "Federal Authority for Identity, Citizenship (ICP)",
+    "type": "government_agency",
+    "url": "https://icp.gov.ae/",
+    "note": "visa processing"
+   },
+   {
+    "name": "MAGNiTT",
+    "type": "database",
+    "url": "https://www.magnitt.com/",
+    "note": "MENA funding data"
+   }
+  ],
+  "sources": [
+   "https://www.hub71.com/program/access-programme",
+   "https://www.dubaifuture.ae/",
+   "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa"
+  ],
+  "confidence": "high",
+  "notes": "Hub71 Cohort 20 deadline (Aug 2026) has passed; Cohort 21 deadline Feb 2027 per site. in5, sme.ae, DIFC sites block bots but are official."
+ },
+ {
+  "country": "Qatar",
+  "iso2": "QA",
+  "ecosystem_tier": "emerging",
+  "summary": "State-driven ecosystem around QSTP, Qatar Development Bank and the QIA US$1B fund-of-funds program; growing in fintech, sportstech and AI. Startup Qatar (Invest Qatar) is the one-stop portal.",
+  "startup_visa": "none dedicated; Startup Qatar portal facilitates residency for founders, https://startupqatar.qa/en",
+  "company_setup": "LLC via Ministry of Commerce or free-zone entity (QFC, QSTP, Qatar Free Zones); 100% foreign ownership in many sectors; 2-4 weeks.",
+  "grants": [
+   {
+    "name": "QSTP Tech Development Grant (TDG)",
+    "agency": "Qatar Science and Technology Park",
+    "amount": "co-funding of product development",
+    "amount_usd_max": null,
+    "eligibility": "QSTP-registered tech startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://qstp.qa/"
+   },
+   {
+    "name": "QRDI Open Innovation grants",
+    "agency": "Qatar Research, Development and Innovation Council",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "Qatar-based companies and researchers",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://qrdi.org.qa/"
+   },
+   {
+    "name": "QDB Ithmar seed co-investment and startup financing",
+    "agency": "Qatar Development Bank",
+    "amount": "co-investment and loans",
+    "amount_usd_max": null,
+    "eligibility": "Qatar-based SMEs and startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.qdb.qa/en"
+   },
+   {
+    "name": "QIA Fund of Funds program",
+    "agency": "Qatar Investment Authority",
+    "amount": "US$1B commitments to VCs establishing in Doha",
+    "amount_usd_max": 1000000000,
+    "eligibility": "VC funds with Qatar presence",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.qia.qa/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "QSTP XLR8",
+    "city": "Doha",
+    "type": "government",
+    "investment": "no equity, grants",
+    "sectors": "tech",
+    "deadline": "annual, usually Oct-Nov",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://qstp.qa/"
+   },
+   {
+    "name": "Alchemist Doha",
+    "city": "Doha",
+    "type": "accelerator",
+    "investment": "up to US$1M seed equity",
+    "sectors": "enterprise, deep tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.alchemistaccelerator.com/doha"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "QIA (Fund of Funds)",
+    "city": "Doha",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.qia.qa/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Startup Qatar",
+    "type": "government_agency",
+    "url": "https://startupqatar.qa/en",
+    "note": "Invest Qatar one-stop startup portal"
+   },
+   {
+    "name": "Qatar Free Zones",
+    "type": "government_agency",
+    "url": "https://qfz.gov.qa/",
+    "note": "free-zone incorporation"
+   },
+   {
+    "name": "Qatar Foundation",
+    "type": "other",
+    "url": "https://www.qf.org.qa/",
+    "note": "education city, research and innovation"
+   }
+  ],
+  "sources": [
+   "https://startupqatar.qa/en",
+   "https://qstp.qa/",
+   "https://www.qdb.qa/en"
+  ],
+  "confidence": "medium",
+  "notes": "QSTP and QDB sites block automated access; XLR8 2026 dates not published."
+ },
+ {
+  "country": "Bahrain",
+  "iso2": "BH",
+  "ecosystem_tier": "emerging",
+  "summary": "Compact, regulator-friendly hub for fintech (CBB sandbox, Bahrain FinTech Bay) with strong Tamkeen subsidies and the Al Waha fund of funds.",
+  "startup_visa": "Golden Residency (investor/talent categories); no dedicated startup visa",
+  "company_setup": "WLL or SPC via Sijilat portal; 100% foreign ownership in most sectors; can be done in days, largely remotely.",
+  "grants": [
+   {
+    "name": "Tamkeen enterprise support (SME Fund, Tamweel, Digital Enablement)",
+    "agency": "Tamkeen",
+    "amount": "wage and cost subsidies, financing support",
+    "amount_usd_max": null,
+    "eligibility": "Bahrain-registered enterprises",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.tamkeen.bh/"
+   },
+   {
+    "name": "Bahrain Development Bank financing",
+    "agency": "Bahrain Development Bank",
+    "amount": "SME and startup loans",
+    "amount_usd_max": null,
+    "eligibility": "Bahraini SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.bdb-bh.com/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "C5 Accelerate",
+    "city": "Manama",
+    "type": "accelerator",
+    "investment": "seed investment",
+    "sectors": "fintech, cloud",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.c5accelerate.com/"
+   },
+   {
+    "name": "Brinc",
+    "city": "Manama",
+    "type": "accelerator",
+    "investment": "seed investment for equity",
+    "sectors": "hardware, climate, web3",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://brinc.io/"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "StartUp Bahrain",
+    "type": "startup_association",
+    "url": "https://startupbahrain.com/",
+    "note": "national ecosystem platform"
+   },
+   {
+    "name": "Bahrain FinTech Bay",
+    "type": "coworking_hub",
+    "url": "https://www.bahrainfintechbay.com/",
+    "note": "fintech hub"
+   },
+   {
+    "name": "Bahrain Economic Development Board",
+    "type": "government_agency",
+    "url": "https://www.bahrainedb.com/",
+    "note": "investment promotion"
+   }
+  ],
+  "sources": [
+   "https://www.tamkeen.bh/",
+   "https://startupbahrain.com/",
+   "https://www.bdb-bh.com/"
+  ],
+  "confidence": "medium",
+  "notes": "Al Waha Fund of Funds site returned errors; omitted. Flat6Labs Bahrain activity not verified."
+ },
+ {
+  "country": "Egypt",
+  "iso2": "EG",
+  "ecosystem_tier": "established",
+  "summary": "Africa's top-3 startup market (Cairo, Alexandria) with strong fintech, logistics and e-commerce; notable startups Fawry (listed), MNT-Halan, Swvl. FX devaluations 2023-24 hit valuations.",
+  "startup_visa": "none dedicated; investor residency via GAFI",
+  "company_setup": "LLC or JSC via GAFI one-stop shop; 100% foreign ownership allowed; 1-3 weeks; many founders also use Delaware/UAE holdcos.",
+  "grants": [
+   {
+    "name": "ITAC Collaborative Funded Projects (Round 41)",
+    "agency": "ITIDA",
+    "amount": "R&D grant share",
+    "amount_usd_max": null,
+    "eligibility": "Egyptian ICT companies with university partners",
+    "deadline": "2026-10-29",
+    "status": "open",
+    "url": "https://itida.gov.eg/English/Programs/ITAC-CFP/Pages/default.aspx"
+   },
+   {
+    "name": "Innovation Clusters Initiative (iCi)",
+    "agency": "ITIDA",
+    "amount": "grants, loans and investments",
+    "amount_usd_max": null,
+    "eligibility": "startups in second-tier city tech parks",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://itida.gov.eg/English/Programs/ICI/Pages/default.aspx"
+   },
+   {
+    "name": "MSMEDA financing",
+    "agency": "Micro, Small and Medium Enterprise Development Agency",
+    "amount": "soft loans",
+    "amount_usd_max": null,
+    "eligibility": "Egyptian MSMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.msmeda.org.eg/"
+   },
+   {
+    "name": "ASRT innovation grants",
+    "agency": "Academy of Scientific Research and Technology",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "Egyptian researchers and startups",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.asrt.sci.eg/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "TIEC Incubation",
+    "city": "Cairo",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "ICT",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://itida.gov.eg/English/Pages/Incubation.aspx"
+   },
+   {
+    "name": "ITIDA Accelerator Program (TEA)",
+    "city": "Cairo",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://itida.gov.eg/English/Programs/AcceleratorProgram/Pages/default.aspx"
+   },
+   {
+    "name": "Flat6Labs Cairo",
+    "city": "Cairo",
+    "type": "accelerator",
+    "investment": "seed investment for equity",
+    "sectors": "generalist",
+    "deadline": "cohort-based",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://flat6labs.com/"
+   },
+   {
+    "name": "Egypt PropTech Challenge 2026 (Flat6Labs)",
+    "city": "Cairo",
+    "type": "accelerator",
+    "investment": "no equity, Cityscape exhibition prize",
+    "sectors": "proptech",
+    "deadline": "last: 2026-10-03 (final pitch)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://flat6labs.com/program/egypt-proptech-challenge-2026/"
+   },
+   {
+    "name": "Falak Startups",
+    "city": "Cairo",
+    "type": "accelerator",
+    "investment": "seed investment for equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.falakstartups.com/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Sawari Ventures",
+    "city": "Cairo",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://sawariventures.com/"
+   },
+   {
+    "name": "Algebra Ventures",
+    "city": "Cairo",
+    "stage": "series A",
+    "check_size": "US$0.5M-5M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.algebraventures.com/"
+   },
+   {
+    "name": "A15",
+    "city": "Cairo",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.a15.com/"
+   },
+   {
+    "name": "EgyptVentures",
+    "city": "Cairo",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "government_fund",
+    "url": "https://egyptventures.com/"
+   },
+   {
+    "name": "Partech Africa",
+    "city": "Paris / Dakar",
+    "stage": "series A",
+    "check_size": "US$1M-15M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://partechpartners.com/"
+   },
+   {
+    "name": "Global Ventures",
+    "city": "Dubai",
+    "stage": "multi",
+    "check_size": "US$1M-10M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.global.vc/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "ITIDA",
+    "type": "government_agency",
+    "url": "https://itida.gov.eg/English/Pages/default.aspx",
+    "note": "ICT industry agency"
+   },
+   {
+    "name": "TIEC",
+    "type": "government_agency",
+    "url": "https://tiec.gov.eg/English/Pages/default.aspx",
+    "note": "innovation and entrepreneurship centre"
+   },
+   {
+    "name": "Seedstars",
+    "type": "community",
+    "url": "https://www.seedstars.com/",
+    "note": "emerging-market investor and programs"
+   }
+  ],
+  "sources": [
+   "https://itida.gov.eg/English/Pages/default.aspx",
+   "https://tiec.gov.eg/English/Pages/default.aspx",
+   "https://www.msmeda.org.eg/"
+  ],
+  "confidence": "medium",
+  "notes": "ITAC CFP page lists Sep 1 - Oct 29 without year; assumed 2026."
+ },
+ {
+  "country": "Libya",
+  "iso2": "LY",
+  "ecosystem_tier": "nascent",
+  "summary": "Very early ecosystem in Tripoli and Benghazi, supported mainly by NGOs and donors; e-payments and delivery apps are emerging.",
+  "startup_visa": "none",
+  "company_setup": "Registration via Ministry of Economy; split governance and banking issues; diaspora entities (Tunisia, Malta, UAE) are common.",
+  "grants": [],
+  "accelerators": [
+   {
+    "name": "Tatweer Research",
+    "city": "Tripoli",
+    "type": "incubator",
+    "investment": "no equity, programs",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://tatweerresearch.org/"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "UNDP Libya",
+    "type": "other",
+    "url": "https://www.undp.org/libya",
+    "note": "economic recovery and entrepreneurship"
+   }
+  ],
+  "sources": [
+   "https://tatweerresearch.org/",
+   "https://www.undp.org/libya"
+  ],
+  "confidence": "low",
+  "notes": "Political division and periodic conflict; UN arms embargo and asset freezes on some entities. No verified active VCs."
+ },
+ {
+  "country": "Algeria",
+  "iso2": "DZ",
+  "ecosystem_tier": "nascent",
+  "summary": "Large, under-digitised market; since 2020 the state has built a startup framework (startup label, Algerian Startup Fund) centred in Algiers.",
+  "startup_visa": "none",
+  "company_setup": "SARL/SPA via CNRC; foreign ownership rules eased in 2020 (51/49 lifted for most sectors); labelled startups get tax benefits.",
+  "grants": [
+   {
+    "name": "Startup / Innovative Project label",
+    "agency": "Ministry of Knowledge Economy and Startups",
+    "amount": "tax exemptions and access to ASF",
+    "amount_usd_max": null,
+    "eligibility": "young innovative Algerian companies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://startup.dz/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [
+   {
+    "name": "Algerian Startup Fund (ASF)",
+    "city": "Algiers",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://asf.dz/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Startup.dz portal",
+    "type": "government_agency",
+    "url": "https://startup.dz/",
+    "note": "national startup label portal"
+   }
+  ],
+  "sources": [
+   "https://startup.dz/",
+   "https://asf.dz/"
+  ],
+  "confidence": "low",
+  "notes": "Algeria Venture accelerator site unreachable; omitted."
+ },
+ {
+  "country": "Tunisia",
+  "iso2": "TN",
+  "ecosystem_tier": "emerging",
+  "summary": "Pioneer of the 2018 Startup Act (label, salary support, founder leave), with Tunis as hub; strong engineering talent and exits like InstaDeep (BioNTech).",
+  "startup_visa": "none dedicated; Startup Act eases hiring foreigners and FX for labelled startups",
+  "company_setup": "SARL/SUARL via Registre National des Entreprises; can be done in about a week; Startup Act label gives tax and FX benefits.",
+  "grants": [
+   {
+    "name": "Startup Act label and benefits",
+    "agency": "Smart Capital / Startup Tunisia",
+    "amount": "tax exemption, founder salary grant, FX account",
+    "amount_usd_max": null,
+    "eligibility": "Tunisian startups under 8 years",
+    "deadline": "periodic label sessions",
+    "status": "rolling",
+    "url": "https://startup.gov.tn/en/startup_act/how_to_obtain_the_label"
+   },
+   {
+    "name": "Startup Invest / ANAVA Fund of Funds",
+    "agency": "Smart Capital",
+    "amount": "fund-of-funds target about EUR 100M",
+    "amount_usd_max": null,
+    "eligibility": "VC funds investing in Tunisian startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://startup.gov.tn/en/startup_invest/the_fund_of_funds/apply"
+   },
+   {
+    "name": "BFPME SME financing",
+    "agency": "Banque de Financement des PME",
+    "amount": "loans and co-financing",
+    "amount_usd_max": null,
+    "eligibility": "Tunisian SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.bfpme.com.tn/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Flat6Labs Tunis",
+    "city": "Tunis",
+    "type": "accelerator",
+    "investment": "seed investment for equity",
+    "sectors": "generalist",
+    "deadline": "cohort-based",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://flat6labs.com/"
+   },
+   {
+    "name": "Wiki Start Up",
+    "city": "Tunis",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://wikistartup.tn/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "216 Capital",
+    "city": "Tunis",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://216capital.vc/"
+   },
+   {
+    "name": "Smart Capital",
+    "city": "Tunis",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://smartcapital.tn/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Startup Tunisia",
+    "type": "government_agency",
+    "url": "https://startup.gov.tn/",
+    "note": "Startup Act portal"
+   }
+  ],
+  "sources": [
+   "https://startup.gov.tn/",
+   "https://smartcapital.tn/",
+   "https://216capital.vc/"
+  ],
+  "confidence": "medium",
+  "notes": "Last dated label session notice found: Oct 2025."
+ },
+ {
+  "country": "Morocco",
+  "iso2": "MA",
+  "ecosystem_tier": "emerging",
+  "summary": "Casablanca and Rabat-led ecosystem with strong state push (Digital Morocco 2030, Innov Invest Fund, UM6P); strengths in fintech, agritech and outsourcing.",
+  "startup_visa": "none dedicated",
+  "company_setup": "SARL via CRI online platform; 100% foreign ownership allowed; about 1-2 weeks.",
+  "grants": [
+   {
+    "name": "Fonds Innov Invest (Tech Start grant, Tech Boost honour loan)",
+    "agency": "Tamwilcom",
+    "amount": "grants and honour loans, 590 MDH deployed",
+    "amount_usd_max": null,
+    "eligibility": "Moroccan startups via labelled support structures",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.tamwilstartups.ma/"
+   },
+   {
+    "name": "IdeaWave call (Euromed Innovation Center)",
+    "agency": "Tamwilcom partner",
+    "amount": "ideation support",
+    "amount_usd_max": null,
+    "eligibility": "early-stage project holders",
+    "deadline": "2026-10-31",
+    "status": "open",
+    "url": "https://www.tamwilstartups.ma/"
+   },
+   {
+    "name": "Maroc PME programs",
+    "agency": "Maroc PME",
+    "amount": "subsidies for SME investment and digitalisation",
+    "amount_usd_max": null,
+    "eligibility": "Moroccan SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://marocpme.gov.ma/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Flat6Labs Ignite Morocco",
+    "city": "Casablanca",
+    "type": "accelerator",
+    "investment": "free 6-18 month support",
+    "sectors": "digital, agritech, fintech, cleantech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://flat6labs.com/program/ignite-morocco/"
+   },
+   {
+    "name": "UM6P StartGate",
+    "city": "Ben Guerir",
+    "type": "university",
+    "investment": "no equity, incubation",
+    "sectors": "deep tech, agritech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.startgate.ma/"
+   },
+   {
+    "name": "Technopark",
+    "city": "Casablanca",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.technopark.ma/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "UM6P Ventures",
+    "city": "Ben Guerir",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech",
+    "type": "cvc",
+    "url": "https://www.um6pventures.com/"
+   },
+   {
+    "name": "Azur Innovation",
+    "city": "Casablanca",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://azurinnovation.com/"
+   },
+   {
+    "name": "Outlierz Ventures",
+    "city": "Casablanca",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.outlierzventures.com/"
+   },
+   {
+    "name": "Partech Africa",
+    "city": "Paris / Dakar",
+    "stage": "series A",
+    "check_size": "US$1M-15M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://partechpartners.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ministry of Digital Transition",
+    "type": "government_agency",
+    "url": "https://www.mmsp.gov.ma/",
+    "note": "Digital Morocco 2030"
+   },
+   {
+    "name": "AMDIE (Morocco Now)",
+    "type": "government_agency",
+    "url": "https://www.amdie.gov.ma/",
+    "note": "investment promotion"
+   }
+  ],
+  "sources": [
+   "https://www.tamwilstartups.ma/",
+   "https://flat6labs.com/program/ignite-morocco/",
+   "https://www.technopark.ma/"
+  ],
+  "confidence": "medium",
+  "notes": "World Bank rated Innov Invest Fund I 'Highly Satisfactory' (Sep 2026); FII 2 selecting up to 20 support structures."
+ },
+ {
+  "country": "Mauritania",
+  "iso2": "MR",
+  "ecosystem_tier": "nascent",
+  "summary": "Very small digital ecosystem in Nouakchott; growth tied to mobile money and gas projects. Support mainly from donors.",
+  "startup_visa": "none",
+  "company_setup": "SARL via the one-stop guichet unique of APIM; low capital requirement; diaspora entities common.",
+  "grants": [],
+  "accelerators": [],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "APIM (Agence de Promotion des Investissements)",
+    "type": "government_agency",
+    "url": "https://apim.gov.mr/",
+    "note": "investment promotion and company setup"
+   },
+   {
+    "name": "UNDP Mauritania",
+    "type": "other",
+    "url": "https://www.undp.org/mauritania",
+    "note": "youth employment and entrepreneurship"
+   }
+  ],
+  "sources": [
+   "https://apim.gov.mr/",
+   "https://www.undp.org/mauritania"
+  ],
+  "confidence": "low",
+  "notes": "No verified local accelerators or VCs; regional funds (Partech Africa, Seedstars) rarely invest here."
+ },
+ {
+  "country": "Western Sahara",
+  "iso2": "EH",
+  "ecosystem_tier": "nascent",
+  "summary": "Disputed territory; the Moroccan-administered areas (Laayoune, Dakhla) follow Moroccan programs; essentially no startup ecosystem in Polisario-held areas.",
+  "startup_visa": "none",
+  "company_setup": "In Moroccan-administered areas, companies register under Moroccan law via regional investment centres.",
+  "grants": [],
+  "accelerators": [],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "CRI Laayoune-Sakia El Hamra",
+    "type": "government_agency",
+    "url": "https://laayouneinvest.ma/",
+    "note": "Moroccan regional investment centre"
+   },
+   {
+    "name": "CRI Dakhla-Oued Eddahab",
+    "type": "government_agency",
+    "url": "https://dakhlainvest.ma/",
+    "note": "Moroccan regional investment centre"
+   }
+  ],
+  "sources": [
+   "https://laayouneinvest.ma/",
+   "https://dakhlainvest.ma/"
+  ],
+  "confidence": "low",
+  "notes": "Sovereignty disputed (UN non-self-governing territory); Moroccan national programs (Tamwilcom, Maroc PME) apply in administered areas. EU court rulings affect trade."
+ },
+ {
+  "country": "Turkey",
+  "iso2": "TR",
+  "ecosystem_tier": "established",
+  "summary": "Large ecosystem led by Istanbul with Ankara and Izmir; gaming is a standout (Peak, Dream Games, Rollic), plus fintech and e-commerce (Getir, Trendyol). Strong state grants via TUBITAK and KOSGEB and 90+ technoparks.",
+  "startup_visa": "Turkiye Tech Visa (founders and tech talent), https://www.turkiyetechvisa.gov.tr/",
+  "company_setup": "Ltd. Sti. or A.S. via trade registry; 100% foreign ownership allowed; about 1 week; technopark companies get tax exemptions.",
+  "grants": [
+   {
+    "name": "BiGG Yatirim Programi (2026-2 call)",
+    "agency": "TUBITAK",
+    "amount": "up to TRY 1.35M investment",
+    "amount_usd_max": 33000,
+    "eligibility": "early-stage founders via implementing organisations",
+    "deadline": "last: 2026-09-30",
+    "status": "closed",
+    "url": "https://bigg.tubitak.gov.tr/"
+   },
+   {
+    "name": "BiGG+ Tohum Yatirim",
+    "agency": "TUBITAK",
+    "amount": "seed investment",
+    "amount_usd_max": null,
+    "eligibility": "BiGG graduates and early startups",
+    "deadline": "2026-11-20",
+    "status": "open",
+    "url": "https://bigg.tubitak.gov.tr/"
+   },
+   {
+    "name": "1501 / 1507 Industrial R&D grants",
+    "agency": "TUBITAK TEYDEB",
+    "amount": "grant share of R&D budget",
+    "amount_usd_max": null,
+    "eligibility": "Turkish companies and SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://tubitak.gov.tr/tr"
+   },
+   {
+    "name": "KOSGEB Girisimci Destek Programi",
+    "agency": "KOSGEB",
+    "amount": "up to TRY 2M, interest-free",
+    "amount_usd_max": 49000,
+    "eligibility": "new entrepreneurs registered with KOSGEB",
+    "deadline": "last: 2026-05-08 (2nd period)",
+    "status": "upcoming",
+    "url": "https://www.kosgeb.gov.tr/site/tr/genel/destekler/3/destekler"
+   },
+   {
+    "name": "TTGV technology development support",
+    "agency": "Turkish Technology Development Foundation",
+    "amount": "loans and grants",
+    "amount_usd_max": null,
+    "eligibility": "Turkish tech companies",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.ttgv.org.tr/tr"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "ITU Cekirdek",
+    "city": "Istanbul",
+    "type": "university",
+    "investment": "prize money and pre-seed",
+    "sectors": "generalist tech",
+    "deadline": "annual, check site",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://itucekirdek.com/"
+   },
+   {
+    "name": "ITU ARI Teknokent",
+    "city": "Istanbul",
+    "type": "university",
+    "investment": "technopark benefits",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.ariteknokent.com.tr/tr"
+   },
+   {
+    "name": "ODTU Teknokent",
+    "city": "Ankara",
+    "type": "university",
+    "investment": "technopark benefits",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.odtuteknokent.com.tr/"
+   },
+   {
+    "name": "Teknopark Istanbul",
+    "city": "Istanbul",
+    "type": "government",
+    "investment": "technopark benefits",
+    "sectors": "defence, tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.teknoparkistanbul.com.tr/"
+   },
+   {
+    "name": "BTM Istanbul",
+    "city": "Istanbul",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://btm.istanbul/"
+   },
+   {
+    "name": "Startup Wise Guys",
+    "city": "Istanbul / Tallinn",
+    "type": "accelerator",
+    "investment": "pre-seed for equity",
+    "sectors": "B2B SaaS",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://startupwiseguys.com/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "212",
+    "city": "Istanbul",
+    "stage": "series A",
+    "check_size": "US$1M-10M",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://212.vc/"
+   },
+   {
+    "name": "Revo Capital",
+    "city": "Istanbul",
+    "stage": "series A",
+    "check_size": "US$1M-10M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://revo.vc/"
+   },
+   {
+    "name": "Earlybird Digital East",
+    "city": "Istanbul / Berlin",
+    "stage": "multi",
+    "check_size": "US$1M-20M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://earlybird.com/"
+   },
+   {
+    "name": "Collective Spark",
+    "city": "Istanbul",
+    "stage": "seed",
+    "check_size": "US$0.25M-2M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://collectivespark.com/"
+   },
+   {
+    "name": "Diffusion Capital",
+    "city": "Istanbul",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.diffusion.capital/"
+   },
+   {
+    "name": "Logo Ventures",
+    "city": "Istanbul",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B software",
+    "type": "cvc",
+    "url": "https://www.logoventures.com/"
+   },
+   {
+    "name": "Sabanci Ventures",
+    "city": "Istanbul",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "tech",
+    "type": "cvc",
+    "url": "https://www.sabanciventures.com/en/"
+   },
+   {
+    "name": "Vestel Ventures",
+    "city": "Istanbul",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "hardware, IoT",
+    "type": "cvc",
+    "url": "https://www.vestelventures.com/"
+   },
+   {
+    "name": "Finberg",
+    "city": "Istanbul",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "fintech",
+    "type": "cvc",
+    "url": "https://finberg.com.tr/"
+   },
+   {
+    "name": "Galata Business Angels",
+    "city": "Istanbul",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://galatabusinessangels.com/tr/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Startup Istanbul",
+    "type": "event",
+    "url": "https://www.startupistanbul.com/",
+    "note": "annual international startup event"
+   },
+   {
+    "name": "Endeavor Turkiye",
+    "type": "community",
+    "url": "https://turkiye.endeavor.org/",
+    "note": "high-impact founder network"
+   },
+   {
+    "name": "startups.watch",
+    "type": "database",
+    "url": "https://www.startups.watch/",
+    "note": "Turkish startup data"
+   },
+   {
+    "name": "Webrazzi",
+    "type": "community",
+    "url": "https://webrazzi.com/",
+    "note": "tech news and events"
+   },
+   {
+    "name": "Invest in Turkiye",
+    "type": "government_agency",
+    "url": "https://www.invest.gov.tr/en/pages/home-page.aspx",
+    "note": "investment office"
+   }
+  ],
+  "sources": [
+   "https://bigg.tubitak.gov.tr/",
+   "https://www.kosgeb.gov.tr/",
+   "https://www.turkiyetechvisa.gov.tr/"
+  ],
+  "confidence": "medium",
+  "notes": "Lira volatility makes TRY amounts shrink in US$. BiGG+ Tohum window 5 Oct - 20 Nov 2026 reported via search; confirm on PRODIS."
+ },
+ {
+  "country": "Iran",
+  "iso2": "IR",
+  "ecosystem_tier": "emerging",
+  "summary": "Large, isolated domestic tech market (Tehran) with local champions like Digikala, Snapp and Cafe Bazaar, supported by the knowledge-based company law and state innovation funds.",
+  "startup_visa": "none",
+  "company_setup": "Private joint-stock or LLC via Iran's companies registration office; foreign founders face severe sanctions and banking barriers.",
+  "grants": [
+   {
+    "name": "Iran National Innovation Fund loans and guarantees",
+    "agency": "Iran National Innovation Fund",
+    "amount": "loans, guarantees, co-investment",
+    "amount_usd_max": null,
+    "eligibility": "certified knowledge-based companies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.inif.ir/"
+   },
+   {
+    "name": "Knowledge-based company certification",
+    "agency": "Vice-Presidency for Science, Technology and Knowledge-based Economy",
+    "amount": "tax exemptions and access to funding",
+    "amount_usd_max": null,
+    "eligibility": "Iranian tech companies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.daneshbonyan.ir/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "Vice-Presidency for Science and Technology",
+    "type": "government_agency",
+    "url": "https://isti.ir/",
+    "note": "national innovation policy"
+   }
+  ],
+  "sources": [
+   "https://www.inif.ir/",
+   "https://isti.ir/"
+  ],
+  "confidence": "low",
+  "notes": "Sanctions: comprehensive US sanctions and UN sanctions re-imposed via snapback (Sep 2025); EU measures; June 2025 Israel-Iran war. International VC and payments effectively unavailable; Iranian government sites geo-block foreign traffic, so URLs confirmed only by DNS/403 response."
+ }
+]

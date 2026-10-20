@@ -1,0 +1,1163 @@
+[
+ {
+  "country": "Kazakhstan",
+  "iso2": "KZ",
+  "ecosystem_tier": "emerging",
+  "summary": "Central Asia's largest startup ecosystem, centred on Astana Hub (Astana) and Almaty. About US$209m raised by Kazakh IT startups in 2025, dominated by AI. Notable successes include Kaspi.kz and Higgsfield AI.",
+  "startup_visa": "No standalone startup visa. Astana Hub participants get a simplified visa and labour regime, and Astana Hub runs a Digital Nomad Visa / Residency for IT specialists, https://astanahub.com/l/digital-nomad",
+  "company_setup": "LLP (TOO) registered online via egov.kz in 1-3 days. Foreigners usually incorporate in person or through a representative. AIFC (Astana) offers a common-law jurisdiction for funds and fintech. Astana Hub participants get 0% CIT/VAT on qualifying IT income.",
+  "grants": [
+   {
+    "name": "Innovation grant for technology commercialization",
+    "agency": "QazInnovations",
+    "amount": "Stage 1 up to KZT 20m (6 months); Stage 2 up to KZT 80m (18 months)",
+    "amount_usd_max": 215000,
+    "eligibility": "Small business with MVP/prototype, team, completed acceleration or incubation",
+    "deadline": "annual (2026 call opened 2026-03-17)",
+    "status": "closed",
+    "url": "https://astanahub.com/en/l/meanofsupportQazInnovations"
+   },
+   {
+    "name": "Innovation grants (technological development of enterprises and industries)",
+    "agency": "QazInnovations",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Operating Kazakh companies and industry projects",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://qazinn.kz"
+   },
+   {
+    "name": "Globalpreneurs (SAFE from Astana Hub Ventures)",
+    "agency": "Astana Hub",
+    "amount": "up to US$25,000 uncapped MFN SAFE",
+    "amount_usd_max": 25000,
+    "eligibility": "Kazakh founders accepted into a reputable international accelerator",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://astanahub.com/l/globalpreneurs"
+   },
+   {
+    "name": "Loan guarantees, interest-rate subsidies and preferential lending",
+    "agency": "DAMU Entrepreneurship Development Fund",
+    "amount": "guarantee up to 85% of loan; 40% rate subsidy",
+    "amount_usd_max": null,
+    "eligibility": "SMEs via partner banks and MFOs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://damu.kz"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "AI'preneurs",
+    "city": "Astana",
+    "type": "government",
+    "investment": "no equity; investor demo day",
+    "sectors": "AI",
+    "deadline": "last: 2026-08-17 (6th cohort)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://dknews.kz/en/articles-in-english/399591-astana-hub-opens-applications-for-sixth-ai-preneurs"
+   },
+   {
+    "name": "Astana Innovations Accelerator",
+    "city": "Astana",
+    "type": "government",
+    "investment": "SAFE investment from Astana Hub, pilots with Astana Akimat",
+    "sectors": "smart city, govtech",
+    "deadline": "last: 2026-06-15",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://astanahub.com/en/l/AIN2026"
+   },
+   {
+    "name": "Big Sky SEA Hub",
+    "city": "Astana / Southeast Asia",
+    "type": "accelerator",
+    "investment": "unknown",
+    "sectors": "generalist (expansion to Southeast Asia)",
+    "deadline": "last: 2026-08-24",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://astanahub.com/en/article/astana-hub-otkryvaet-priem-zaiavok-na-programmu-big-sky-sea-hub-dlia-startapov-tsentralnoi-azii-v-iugo"
+   },
+   {
+    "name": "HubSpace",
+    "city": "Astana",
+    "type": "incubator",
+    "investment": "no equity; office space",
+    "sectors": "IT",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://astanahub.com/l/hubspace"
+   },
+   {
+    "name": "nFactorial Incubator",
+    "city": "Almaty",
+    "type": "incubator",
+    "investment": "unknown",
+    "sectors": "AI",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://2026.nfactorial.school/"
+   },
+   {
+    "name": "EBRD Star Venture",
+    "city": "regional",
+    "type": "accelerator",
+    "investment": "no equity; 24-month advisory and investor access",
+    "sectors": "generalist (turnover under EUR 1m)",
+    "deadline": "periodic calls (last Central Asia call closed 2025-11-30)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Qazaqstan Investment Corporation (QIC)",
+    "city": "Astana",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist; fund of funds",
+    "type": "government_fund",
+    "url": "https://qic.kz/en/"
+   },
+   {
+    "name": "BGlobal Ventures",
+    "city": "Astana",
+    "stage": "multi",
+    "check_size": "US$5k-2M",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://bglobal.vc/en"
+   },
+   {
+    "name": "Tumar Venture Fund (White Hill Capital)",
+    "city": "Astana",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "fintech, e-commerce, edtech, healthtech, agritech",
+    "type": "vc",
+    "url": "https://tumar.vc"
+   },
+   {
+    "name": "Big Sky Capital",
+    "city": "Almaty / Fort Lauderdale",
+    "stage": "seed",
+    "check_size": "US$250k-500k (est.)",
+    "sectors": "enterprise AI, B2B SaaS, fintech",
+    "type": "vc",
+    "url": "https://bigskycapital.vc"
+   },
+   {
+    "name": "Sturgeon Capital",
+    "city": "Almaty / Astana",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist frontier tech",
+    "type": "vc",
+    "url": "https://www.sturgeoncapital.com"
+   },
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate, health, fintech, agritech impact",
+    "type": "government_fund",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Astana Hub",
+    "type": "government_agency",
+    "url": "https://astanahub.com/en/",
+    "note": "International IT technopark; tax regime, visas, accelerators"
+   },
+   {
+    "name": "QazInnovations",
+    "type": "government_agency",
+    "url": "https://qazinn.kz",
+    "note": "National innovation agency; grants"
+   },
+   {
+    "name": "Astana International Financial Centre (AIFC)",
+    "type": "legal_tax",
+    "url": "https://aifc.kz/",
+    "note": "Common-law zone; fintech licensing"
+   },
+   {
+    "name": "Kazakh Invest",
+    "type": "government_agency",
+    "url": "https://invest.gov.kz/",
+    "note": "National investment agency; one-stop shop and visa support"
+   },
+   {
+    "name": "Baiterek Holding",
+    "type": "government_agency",
+    "url": "https://baiterek.gov.kz",
+    "note": "State development holding (DAMU, QIC)"
+   },
+   {
+    "name": "Asian Development Bank - Kazakhstan",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/kazakhstan",
+    "note": "ADB country programme incl. SME and private sector finance"
+   },
+   {
+    "name": "World Bank - Kazakhstan",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/kazakhstan",
+    "note": "Country programme; private sector and innovation projects"
+   }
+  ],
+  "sources": [
+   "https://astanahub.com/en/service/",
+   "https://qazinn.kz",
+   "https://qic.kz/en/",
+   "https://bglobal.vc/en",
+   "https://damu.kz",
+   "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+  ],
+  "confidence": "medium",
+  "notes": "Oct 2026: no Astana Hub accelerator calls were open; check astanahub.com for new ones. Alem Ventures, a US$1bn-target fund of funds (first close US$115m, Oct 2025), was left out because no official site was found. Tech Garden (techgarden.kz) and Terricon Valley were left out because their sites were down or placeholders. MOST Ventures (most.vc) was left out because the domain is parked."
+ },
+ {
+  "country": "Uzbekistan",
+  "iso2": "UZ",
+  "ecosystem_tier": "emerging",
+  "summary": "Fast-growing ecosystem anchored by IT Park in Tashkent and the state fund of funds UzVC. Strengths are IT outsourcing, fintech and edtech. Uzum is the best-known tech company.",
+  "startup_visa": "No startup visa. Uzbekistan offers an IT visa for IT specialists, IT company owners and investors through IT Park, https://outsource.gov.uz/",
+  "company_setup": "LLC registered via the one-stop shop in about 1-3 days. 100% foreign ownership allowed. IT Park residents pay 0% corporate tax, 0% social payments and 7.5% personal income tax.",
+  "grants": [
+   {
+    "name": "UzVC direct startup investment",
+    "agency": "UzVC (Ministry of Economy and Finance)",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "Uzbek tech startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://uzvc.uz/application"
+   },
+   {
+    "name": "IT Park residency tax regime",
+    "agency": "IT Park Uzbekistan",
+    "amount": "0% CIT, 0% social tax, 7.5% PIT",
+    "amount_usd_max": null,
+    "eligibility": "IT companies registered in Uzbekistan",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.it-park.uz/en/itpark/residents"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "IT Park Incubation and Acceleration programs",
+    "city": "Tashkent",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "IT",
+    "deadline": "rolling (waitlist until next program)",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.it-park.uz/en/itpark/startups"
+   },
+   {
+    "name": "UzVC Startup Growth Program",
+    "city": "Tashkent",
+    "type": "government",
+    "investment": "unknown",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://uzvc.uz/"
+   },
+   {
+    "name": "Techstars Founder Catalyst (Uzbekistan community)",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "no equity, free",
+    "sectors": "generalist",
+    "deadline": "last: 2026-08-21",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.techstars.com/techstars-founder-catalyst-global-fall-2026-program"
+   },
+   {
+    "name": "Startup Garage",
+    "city": "Tashkent",
+    "type": "venture_studio",
+    "investment": "fee-based, with scholarships",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://startupgarage.uz/"
+   },
+   {
+    "name": "EBRD Star Venture",
+    "city": "regional",
+    "type": "accelerator",
+    "investment": "no equity; 24-month advisory and investor access",
+    "sectors": "generalist (turnover under EUR 1m)",
+    "deadline": "periodic calls (last Central Asia call closed 2025-11-30)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "UzVC",
+    "city": "Tashkent",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist; fund of funds",
+    "type": "government_fund",
+    "url": "https://uzvc.uz/"
+   },
+   {
+    "name": "Aloqa Ventures",
+    "city": "Tashkent",
+    "stage": "pre-seed",
+    "check_size": "up to US$1M",
+    "sectors": "fintech, edtech, e-commerce, mobility",
+    "type": "vc",
+    "url": "https://www.aloqaventures.uz/"
+   },
+   {
+    "name": "Imkon Ventures",
+    "city": "Tashkent",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "SaaS, B2B, AI, fintech, edtech",
+    "type": "vc",
+    "url": "https://imkon.vc/en"
+   },
+   {
+    "name": "Sarmo Ventures",
+    "city": "unknown",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist (Central Asian founders)",
+    "type": "vc",
+    "url": "https://sarmo.vc/"
+   },
+   {
+    "name": "Big Sky Capital",
+    "city": "Almaty / Fort Lauderdale",
+    "stage": "seed",
+    "check_size": "US$250k-500k (est.)",
+    "sectors": "enterprise AI, B2B SaaS, fintech",
+    "type": "vc",
+    "url": "https://bigskycapital.vc"
+   },
+   {
+    "name": "Sturgeon Capital",
+    "city": "Tashkent",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist frontier tech",
+    "type": "vc",
+    "url": "https://www.sturgeoncapital.com"
+   },
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate, health, fintech, agritech impact",
+    "type": "government_fund",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "IT Park Uzbekistan",
+    "type": "government_agency",
+    "url": "https://www.it-park.uz/",
+    "note": "Tech park; residency tax regime, startup programs"
+   },
+   {
+    "name": "IT Park for foreign companies",
+    "type": "government_agency",
+    "url": "https://outsource.gov.uz/",
+    "note": "IT visa, one-stop company setup"
+   },
+   {
+    "name": "Ministry of Digital Technologies",
+    "type": "government_agency",
+    "url": "https://digital.uz",
+    "note": "Digital policy"
+   },
+   {
+    "name": "Invest Uzbekistan (MIIT)",
+    "type": "government_agency",
+    "url": "https://invest.gov.uz/en",
+    "note": "Investment promotion"
+   },
+   {
+    "name": "Startupbase.uz",
+    "type": "database",
+    "url": "https://startupbase.uz",
+    "note": "IT Park startup platform"
+   },
+   {
+    "name": "Asian Development Bank - Uzbekistan",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/uzbekistan",
+    "note": "ADB country programme incl. SME and private sector finance"
+   },
+   {
+    "name": "World Bank - Uzbekistan",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/uzbekistan",
+    "note": "Country programme; private sector and innovation projects"
+   }
+  ],
+  "sources": [
+   "https://uzvc.uz/",
+   "https://www.it-park.uz/en/itpark",
+   "https://outsource.gov.uz/",
+   "https://www.aloqaventures.uz/",
+   "https://imkon.vc/en"
+  ],
+  "confidence": "medium",
+  "notes": "Oct 2026: no dated open accelerator calls found. The innovation ministry site (mininnovation.uz) returned 502 and is left out. UzVC also backs Big Sky Capital Fund II and Sarmo."
+ },
+ {
+  "country": "Turkmenistan",
+  "iso2": "TM",
+  "ecosystem_tier": "nascent",
+  "summary": "Very small, state-dominated private sector with no visible startup or VC ecosystem. Restricted internet and a tightly controlled currency regime limit tech entrepreneurship.",
+  "startup_visa": "none",
+  "company_setup": "Business entities register with the Ministry of Finance and Economy, with local presence required. Foreign founders face visa and currency-conversion restrictions. Remote incorporation is not available, so founders usually incorporate abroad.",
+  "grants": [],
+  "accelerators": [
+   {
+    "name": "EBRD Star Venture",
+    "city": "regional",
+    "type": "accelerator",
+    "investment": "no equity; 24-month advisory and investor access",
+    "sectors": "generalist (turnover under EUR 1m)",
+    "deadline": "periodic calls (last Central Asia call closed 2025-11-30)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate, health, fintech, agritech impact",
+    "type": "government_fund",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Union of Industrialists and Entrepreneurs of Turkmenistan (TSTB)",
+    "type": "startup_association",
+    "url": "https://tstb.gov.tm/",
+    "note": "Main private business association"
+   },
+   {
+    "name": "Asian Development Bank - Turkmenistan",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/turkmenistan",
+    "note": "ADB country programme incl. SME and private sector finance"
+   },
+   {
+    "name": "World Bank - Turkmenistan",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/turkmenistan/overview",
+    "note": "Country programme; private sector and innovation projects"
+   }
+  ],
+  "sources": [
+   "https://tstb.gov.tm/",
+   "https://www.adb.org/where-we-work/turkmenistan",
+   "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+  ],
+  "confidence": "low",
+  "notes": "Oct 2026: no national startup agency, grants or VCs could be verified. Government sites were unreachable. EBRD Star Venture covers Central Asia, but Turkmenistan's eligibility in any given call should be confirmed."
+ },
+ {
+  "country": "Tajikistan",
+  "iso2": "TJ",
+  "ecosystem_tier": "nascent",
+  "summary": "Nascent ecosystem centred on Dushanbe and Khujand. Support comes mainly from donor and development programs such as the Aga Khan network's Accelerate Prosperity, with little local VC.",
+  "startup_visa": "none (e-visa available, https://www.evisa.tj/)",
+  "company_setup": "LLC registered via a single window at the tax committee, typically in a few days. Foreigners can own 100%. Remote incorporation is not established.",
+  "grants": [],
+  "accelerators": [
+   {
+    "name": "Accelerate Prosperity Tajikistan",
+    "city": "Dushanbe / Khujand / Khorog",
+    "type": "accelerator",
+    "investment": "up to US$50,000 (debt/equity)",
+    "sectors": "generalist SMEs and startups",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://tj.accelerateprosperity.org/"
+   },
+   {
+    "name": "EBRD Star Venture",
+    "city": "regional",
+    "type": "accelerator",
+    "investment": "no equity; 24-month advisory and investor access",
+    "sectors": "generalist (turnover under EUR 1m)",
+    "deadline": "periodic calls (last Central Asia call closed 2025-11-30)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate, health, fintech, agritech impact",
+    "type": "government_fund",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "State Committee on Investment and State Property Management",
+    "type": "government_agency",
+    "url": "https://investcom.tj/",
+    "note": "Investment promotion; entrepreneurship support, Bizincubator"
+   },
+   {
+    "name": "Asian Development Bank - Tajikistan",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/tajikistan",
+    "note": "ADB country programme incl. SME and private sector finance"
+   },
+   {
+    "name": "World Bank - Tajikistan",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/tajikistan",
+    "note": "Country programme; private sector and innovation projects"
+   }
+  ],
+  "sources": [
+   "https://tj.accelerateprosperity.org/",
+   "https://investcom.tj/",
+   "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+  ],
+  "confidence": "low",
+  "notes": "Oct 2026: no government startup grant scheme or local VC could be verified. itpark.tj is a parked domain."
+ },
+ {
+  "country": "Kyrgyzstan",
+  "iso2": "KG",
+  "ecosystem_tier": "nascent",
+  "summary": "Small but active IT-export scene in Bishkek built around the High Technology Park's 0% tax regime. Outsourcing and dev shops (e.g. Mad Devs) dominate.",
+  "startup_visa": "none (visa-free for 60+ countries; investor residence from US$100k via invest.gov.kg)",
+  "company_setup": "LLC can be registered fully remotely in about 3 business days with 100% foreign ownership. HTP residents pay 0% CIT/VAT/sales tax, a 1% fee to HTP and 5% PIT.",
+  "grants": [
+   {
+    "name": "High Technology Park residency tax regime",
+    "agency": "High Technology Park",
+    "amount": "0% CIT, VAT, sales tax; 1% fee to HTP",
+    "amount_usd_max": null,
+    "eligibility": "Export-oriented IT companies",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://htp.kg/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Accelerate Prosperity Kyrgyzstan",
+    "city": "Bishkek",
+    "type": "accelerator",
+    "investment": "financing on flexible terms",
+    "sectors": "generalist SMEs and startups",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://apkgz.org/"
+   },
+   {
+    "name": "EBRD Star Venture",
+    "city": "regional",
+    "type": "accelerator",
+    "investment": "no equity; 24-month advisory and investor access",
+    "sectors": "generalist (turnover under EUR 1m)",
+    "deadline": "periodic calls (last Central Asia call closed 2025-11-30)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate, health, fintech, agritech impact",
+    "type": "government_fund",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "High Technology Park of the Kyrgyz Republic",
+    "type": "government_agency",
+    "url": "https://htp.kg/en/",
+    "note": "IT tax regime, remote setup"
+   },
+   {
+    "name": "National Investment Agency",
+    "type": "government_agency",
+    "url": "https://invest.gov.kg/ky",
+    "note": "Investor support, incentives, residence"
+   },
+   {
+    "name": "Kyrgyz e-Visa portal",
+    "type": "government_agency",
+    "url": "https://www.evisa.e-gov.kg/",
+    "note": "E-visas in about 3 days"
+   },
+   {
+    "name": "Asian Development Bank - Kyrgyz Republic",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/kyrgyz-republic",
+    "note": "ADB country programme incl. SME and private sector finance"
+   },
+   {
+    "name": "World Bank - Kyrgyz Republic",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/kyrgyzrepublic",
+    "note": "Country programme; private sector and innovation projects"
+   }
+  ],
+  "sources": [
+   "https://htp.kg/en/",
+   "https://invest.gov.kg/ky",
+   "https://accelerateprosperity.org/",
+   "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+  ],
+  "confidence": "low",
+  "notes": "Oct 2026: no local VC fund could be verified because web search hit its limit. Accelerate Prosperity KG terms couldn't be fetched (site blocked bots)."
+ },
+ {
+  "country": "Georgia",
+  "iso2": "GE",
+  "ecosystem_tier": "emerging",
+  "summary": "Tbilisi-centred ecosystem driven by the state agency GITA, which has funded 640+ startups with grants and runs accelerators with Plug and Play, Startupbootcamp, 500 Global and Founder Institute. Easy incorporation and low taxes attract relocating founders.",
+  "startup_visa": "No startup visa. Citizens of about 95 countries get visa-free stays of up to 1 year, https://www.evisa.gov.ge/GeoVisa/",
+  "company_setup": "LLC or Individual Entrepreneur registered at the Public Service Hall (NAPR) in 1 day, possible through a representative with power of attorney. Small Business status gives 1% turnover tax; Virtual Zone status gives 0% CIT on foreign IT income.",
+  "grants": [
+   {
+    "name": "Co-financing startup grants",
+    "agency": "GITA",
+    "amount": "up to GEL 150,000; larger grants up to GEL 650,000",
+    "amount_usd_max": 240000,
+    "eligibility": "Georgian innovative startups",
+    "deadline": "periodic rounds",
+    "status": "unknown",
+    "url": "https://gita.gov.ge/startups"
+   },
+   {
+    "name": "Small grants",
+    "agency": "GITA",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "Early-stage innovators",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://gita.gov.ge/"
+   },
+   {
+    "name": "Accelerator-linked grants (Innovative Startup Acceleration Program)",
+    "agency": "GITA",
+    "amount": "GEL 50,000 (phase II) + GEL 150,000 (phase III)",
+    "amount_usd_max": 74000,
+    "eligibility": "Startups selected into the GITA-funded accelerators",
+    "deadline": "2026-12-11",
+    "status": "open",
+    "url": "https://gita.gov.ge/programs/inovatsiuri-startapebis-akseleratsiis-programa-0OgxZ-r3C"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Plug and Play Georgia (GITA, 2nd cohort)",
+    "city": "Tbilisi",
+    "type": "accelerator",
+    "investment": "no equity; GITA grants up to GEL 200,000",
+    "sectors": "generalist",
+    "deadline": "2026-12-11",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://www.plugandplaytechcenter.com/georgia"
+   },
+   {
+    "name": "Startupbootcamp Georgia (GITA program)",
+    "city": "Tbilisi",
+    "type": "accelerator",
+    "investment": "no equity; GITA grants",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://startupbootcamp.org/"
+   },
+   {
+    "name": "GITA Regional Pre-Acceleration Program",
+    "city": "Imereti, Guria, Adjara",
+    "type": "government",
+    "investment": "no equity, free",
+    "sectors": "generalist",
+    "deadline": "open (opened 2026-10-06, close date not published)",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://gita.gov.ge/news/gita-s-regionuli-pre-akseleratsiis-programaze-ganatskhadebis-migheba-daitsqo-lQuldYd9S"
+   },
+   {
+    "name": "EBRD Star Venture",
+    "city": "regional",
+    "type": "accelerator",
+    "investment": "no equity; 24-month advisory and investor access",
+    "sectors": "generalist (turnover under EUR 1m)",
+    "deadline": "periodic calls (last Central Asia call closed 2025-11-30)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Sturgeon Capital",
+    "city": "Tbilisi",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist frontier tech",
+    "type": "vc",
+    "url": "https://www.sturgeoncapital.com"
+   },
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate, health, fintech, agritech impact",
+    "type": "government_fund",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Georgia's Innovation and Technology Agency (GITA)",
+    "type": "government_agency",
+    "url": "https://gita.gov.ge/",
+    "note": "Grants, accelerators, regional tech parks"
+   },
+   {
+    "name": "GITA coworking spaces",
+    "type": "coworking_hub",
+    "url": "https://gita.gov.ge/coworking-places",
+    "note": "Free state coworking"
+   },
+   {
+    "name": "Invest in Georgia",
+    "type": "government_agency",
+    "url": "https://www.investingeorgia.org/",
+    "note": "Investment promotion one-stop shop"
+   },
+   {
+    "name": "National Agency of Public Registry",
+    "type": "legal_tax",
+    "url": "https://napr.gov.ge/",
+    "note": "Company registration"
+   },
+   {
+    "name": "Revenue Service of Georgia",
+    "type": "legal_tax",
+    "url": "https://www.rs.ge/",
+    "note": "Small Business and Virtual Zone status"
+   },
+   {
+    "name": "Startup Grind Tbilisi",
+    "type": "community",
+    "url": "https://www.startupgrind.com/tbilisi/",
+    "note": "Active chapter, 4,400+ members"
+   },
+   {
+    "name": "Asian Development Bank - Georgia",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/georgia",
+    "note": "ADB country programme incl. SME and private sector finance"
+   },
+   {
+    "name": "World Bank - Georgia",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/georgia",
+    "note": "Country programme; private sector and innovation projects"
+   }
+  ],
+  "sources": [
+   "https://gita.gov.ge/",
+   "https://gita.gov.ge/news/plug-and-play-m-akseleratsiis-meore-tslis-nakadistvis-ganatskhadebis-migheba-daitsqo-t5hIQtUGv",
+   "https://gita.gov.ge/programs/inovatsiuri-startapebis-akseleratsiis-programa-0OgxZ-r3C",
+   "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+  ],
+  "confidence": "medium",
+  "notes": "Oct 2026: the Plug and Play deadline is 11 December (year inferred from the 2026-10-06 announcement). Enterprise Georgia (enterprise.gov.ge) was left out because its TLS certificate is invalid. Smart Capital and the Georgian angel networks were left out as unverified."
+ },
+ {
+  "country": "Armenia",
+  "iso2": "AM",
+  "ecosystem_tier": "emerging",
+  "summary": "Strong engineering talent base in Yerevan with globally known startups such as Picsart, Krisp and ServiceTitan (co-founded by Armenians). Supported by EIF, FAST, the Ministry of High-Tech Industry and an active diaspora angel scene.",
+  "startup_visa": "No startup visa. Many nationalities are visa-free for 180 days; e-visa at https://evisa.mfa.am/",
+  "company_setup": "LLC registered online via the e-register in 1-2 days, with free state registration. Foreigners can register through a representative. A turnover-tax regime is available for small businesses.",
+  "grants": [
+   {
+    "name": "From Idea to Business grant (Idea Stage component)",
+    "agency": "Ministry of High-Tech Industry",
+    "amount": "per call",
+    "amount_usd_max": null,
+    "eligibility": "Armenian legal entities with idea-stage tech products",
+    "deadline": "annual (last call published 2026-03-24)",
+    "status": "closed",
+    "url": "https://hightech.gov.am/from-idea-to-business"
+   },
+   {
+    "name": "State support for the high-tech sector",
+    "agency": "Ministry of High-Tech Industry",
+    "amount": "varies (employment and retraining support)",
+    "amount_usd_max": null,
+    "eligibility": "High-tech companies",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://hightech.gov.am/state-support-for-high-tech-sector"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "EIF Impact Acceleration Program",
+    "city": "Yerevan",
+    "type": "accelerator",
+    "investment": "US$30k-100k for equity",
+    "sectors": "impact, healthtech, climate, agritech, deep tech",
+    "deadline": "last: 2026-04-10",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "http://www.eif.am/arm/news/impact-acceleration-program/"
+   },
+   {
+    "name": "Impact Hub Yerevan programs (Three4ResilientArmenia, Ucom Fellowship)",
+    "city": "Yerevan",
+    "type": "incubator",
+    "investment": "unknown",
+    "sectors": "impact, generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://yerevan.impacthub.net/"
+   },
+   {
+    "name": "FAST (Foundation for Armenian Science and Technology)",
+    "city": "Yerevan",
+    "type": "accelerator",
+    "investment": "unknown",
+    "sectors": "deep tech, AI, science",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://fast.foundation"
+   },
+   {
+    "name": "EBRD Star Venture",
+    "city": "regional",
+    "type": "accelerator",
+    "investment": "no equity; 24-month advisory and investor access",
+    "sectors": "generalist (turnover under EUR 1m)",
+    "deadline": "periodic calls (last Central Asia call closed 2025-11-30)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "SmartGate VC",
+    "city": "Yerevan / Glendale",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "physical AI, secure edge, neurotech",
+    "type": "vc",
+    "url": "https://www.smartgate.vc/"
+   },
+   {
+    "name": "Granatus Ventures",
+    "city": "Yerevan",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "deep tech, AI, biotech, robotics",
+    "type": "vc",
+    "url": "https://www.granatusventures.com/"
+   },
+   {
+    "name": "Formula VC",
+    "city": "Yerevan",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "AI, deep tech, quantum, space",
+    "type": "vc",
+    "url": "https://formula.vc/"
+   },
+   {
+    "name": "BANA Angels",
+    "city": "Yerevan",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://bana.am/"
+   },
+   {
+    "name": "Science and Technology Angels Network (STAN)",
+    "city": "Yerevan",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "deep tech, women-led",
+    "type": "angel_network",
+    "url": "https://www.stan.am/"
+   },
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate, health, fintech, agritech impact",
+    "type": "government_fund",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Enterprise Incubator Foundation (EIF)",
+    "type": "government_agency",
+    "url": "https://www.eif.am/eng/",
+    "note": "ICT development agency; accelerators, advisory"
+   },
+   {
+    "name": "Ministry of High-Tech Industry",
+    "type": "government_agency",
+    "url": "https://hightech.gov.am/",
+    "note": "Startup grants and tech-sector support"
+   },
+   {
+    "name": "Engineering City",
+    "type": "coworking_hub",
+    "url": "https://www.engineeringcity.am/",
+    "note": "PPP engineering labs and prototyping"
+   },
+   {
+    "name": "Impact Hub Yerevan",
+    "type": "coworking_hub",
+    "url": "https://yerevan.impacthub.net/",
+    "note": "Coworking and impact programs"
+   },
+   {
+    "name": "State Register (e-register)",
+    "type": "legal_tax",
+    "url": "https://e-register.moj.am/en/",
+    "note": "Online company registration"
+   },
+   {
+    "name": "Asian Development Bank - Armenia",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/armenia",
+    "note": "ADB country programme incl. SME and private sector finance"
+   },
+   {
+    "name": "World Bank - Armenia",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/armenia",
+    "note": "Country programme; private sector and innovation projects"
+   }
+  ],
+  "sources": [
+   "https://hightech.gov.am/",
+   "http://www.eif.am/arm/news/impact-acceleration-program/",
+   "https://www.stan.am/",
+   "https://formula.vc/",
+   "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+  ],
+  "confidence": "medium",
+  "notes": "Oct 2026: FAST's site blocks automated access, so its program terms and deadlines are unverified. Hive Ventures was left out (domain not confirmed)."
+ },
+ {
+  "country": "Azerbaijan",
+  "iso2": "AZ",
+  "ecosystem_tier": "emerging",
+  "summary": "Baku-centred ecosystem led by the state Innovation and Digital Development Agency (IDDA), which absorbed the former Innovation Agency, and the SMB Development Agency (KOBIA). IDDA reports 750+ startups supported, but the private VC base is small.",
+  "startup_visa": "none (ASAN e-visa for many nationalities)",
+  "company_setup": "LLC registered via the State Tax Service e-registration or ASAN centres in about 1-3 days. Foreigners can own 100%. A KOBIA Startup Certificate gives a 3-year exemption on income from innovation activity, and Texnopark residents get 10-year tax benefits.",
+  "grants": [
+   {
+    "name": "Startup Certificate (3-year tax exemption)",
+    "agency": "SMB Development Agency (KOBIA)",
+    "amount": "income-tax exemption for 3 years",
+    "amount_usd_max": null,
+    "eligibility": "Micro/small businesses with innovative products",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://smb.gov.az/en/nav/startup-certificate"
+   },
+   {
+    "name": "KOBIA grant competition",
+    "agency": "SMB Development Agency (KOBIA)",
+    "amount": "up to AZN 20,000",
+    "amount_usd_max": 11800,
+    "eligibility": "MSMEs and individual entrepreneurs",
+    "deadline": "periodic rounds",
+    "status": "unknown",
+    "url": "https://smb.gov.az/en/nav/grant"
+   },
+   {
+    "name": "Texnopark residency (10-year tax benefit)",
+    "agency": "IDDA",
+    "amount": "10-year tax exemption",
+    "amount_usd_max": null,
+    "eligibility": "Tech companies admitted to the technopark",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://idda.az/az/innovasiya/aim/texnopark"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "INNOLAND",
+    "city": "Baku",
+    "type": "government",
+    "investment": "no equity; incubation, acceleration, virtual residency",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://innoland.az/"
+   },
+   {
+    "name": "ITU Regional Acceleration Center (IDDA)",
+    "city": "Baku",
+    "type": "government",
+    "investment": "unknown",
+    "sectors": "digital, ICT",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://idda.az/az/innovasiya/itu-regional-akselerasiya-merkezi"
+   },
+   {
+    "name": "SUP.VC",
+    "city": "Baku",
+    "type": "corporate",
+    "investment": "unknown",
+    "sectors": "corporate open innovation, generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://sup.vc/"
+   },
+   {
+    "name": "EBRD Star Venture",
+    "city": "regional",
+    "type": "accelerator",
+    "investment": "no equity; 24-month advisory and investor access",
+    "sectors": "generalist (turnover under EUR 1m)",
+    "deadline": "periodic calls (last Central Asia call closed 2025-11-30)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "PASHA Investments",
+    "city": "Baku",
+    "stage": "growth",
+    "check_size": "unknown",
+    "sectors": "mid-cap growth (AZ, GE, TR)",
+    "type": "family_office",
+    "url": "https://pasha-holding.az/en/investment-and-brokerage/pasha-investments/"
+   },
+   {
+    "name": "ADB Ventures",
+    "city": "Manila (regional)",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "climate, health, fintech, agritech impact",
+    "type": "government_fund",
+    "url": "https://ventures.adb.org"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Innovation and Digital Development Agency (IDDA)",
+    "type": "government_agency",
+    "url": "https://idda.az/az",
+    "note": "Startup support, Texnopark, IDDA Awards"
+   },
+   {
+    "name": "SMB Development Agency (KOBIA)",
+    "type": "government_agency",
+    "url": "https://www.smb.gov.az/en",
+    "note": "Startup certificate, grants, SMB Houses"
+   },
+   {
+    "name": "AZPROMO",
+    "type": "government_agency",
+    "url": "https://www.azpromo.az/az/",
+    "note": "Export and investment promotion"
+   },
+   {
+    "name": "ASAN Service",
+    "type": "government_agency",
+    "url": "https://www.asan.gov.az/",
+    "note": "Public service centres"
+   },
+   {
+    "name": "Asian Development Bank - Azerbaijan",
+    "type": "other",
+    "url": "https://www.adb.org/where-we-work/azerbaijan",
+    "note": "ADB country programme incl. SME and private sector finance"
+   },
+   {
+    "name": "World Bank - Azerbaijan",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/country/azerbaijan",
+    "note": "Country programme; private sector and innovation projects"
+   }
+  ],
+  "sources": [
+   "https://idda.az/az",
+   "https://smb.gov.az/en/nav/startup-certificate",
+   "https://smb.gov.az/en/nav/grant",
+   "https://innoland.az/",
+   "https://www.ebrd.com/home/what-we-do/products-and-services/support-for-start-ups-and-msmes/our-programmes/star-venture.html"
+  ],
+  "confidence": "medium",
+  "notes": "Oct 2026: no open IDDA startup call was found in its news feed. White Hill Capital announced a US$5m fund with IDDA in Sep 2025, but there is no standalone site. KOBIA's grant page shows old dates, so check the current round. PASHA Investments is private equity (typed family_office as the closest fit)."
+ }
+]

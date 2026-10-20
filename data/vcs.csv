@@ -1,0 +1,980 @@
+country,region,name,city,stage,check_size,sectors,type,url
+Albania,Europe,South Central Ventures,regional (Western Balkans),seed,unknown,generalist tech,vc,https://sc-ventures.com/
+Algeria,Middle East & North Africa,Algerian Startup Fund (ASF),Algiers,seed,unknown,generalist,government_fund,https://asf.dz/
+Angola,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Angola,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+Angola,Sub-Saharan Africa,Catalyst Fund,Pan-African,pre-seed,US$200k,climate adaptation and resilience,vc,https://www.thecatalystfund.com/
+Antigua & Barbuda,Latin America & Caribbean,FirstAngels Caribbean,Kingston,seed,unknown (each angel decides),generalist,angel_network,https://firstangelscaribbean.com
+Antigua & Barbuda,Latin America & Caribbean,Caribbean Angels,regional,seed,unknown,generalist,angel_network,https://www.caribbeanangels.com
+Argentina,Latin America & Caribbean,Kaszek,Buenos Aires,multi,US$1M–30M,generalist tech,vc,https://www.kaszek.com/
+Argentina,Latin America & Caribbean,NXTP Ventures,Buenos Aires,seed,US$150k–5M,B2B tech,vc,https://www.nxtp.vc/
+Argentina,Latin America & Caribbean,Kamay Ventures,Buenos Aires,seed,unknown,corporate-backed generalist tech,cvc,https://kamayventures.com/
+Argentina,Latin America & Caribbean,GRIDX,Buenos Aires,pre-seed,unknown,"biotech, deep tech",vc,https://www.gridexponential.com/
+Argentina,Latin America & Caribbean,Newtopia VC,Buenos Aires,pre-seed,unknown,generalist tech,vc,https://newtopia.vc/
+Argentina,Latin America & Caribbean,Globant Ventures,Buenos Aires,seed,unknown,"AI, enterprise tech",cvc,https://www.globantventures.com/
+Argentina,Latin America & Caribbean,South Ventures,Buenos Aires,seed,unknown,generalist tech,vc,https://www.southventures.com/
+Argentina,Latin America & Caribbean,The Collective,Buenos Aires,pre-seed,unknown,generalist,vc,https://www.thecollective.vc/
+Argentina,Latin America & Caribbean,Magma Partners,Buenos Aires,pre-seed,unknown,"generalist, fintech, insurtech, marketplaces",vc,https://magmapartners.com/
+Armenia,Central Asia & Caucasus,SmartGate VC,Yerevan / Glendale,pre-seed,unknown,"physical AI, secure edge, neurotech",vc,https://www.smartgate.vc/
+Armenia,Central Asia & Caucasus,Granatus Ventures,Yerevan,seed,unknown,"deep tech, AI, biotech, robotics",vc,https://www.granatusventures.com/
+Armenia,Central Asia & Caucasus,Formula VC,Yerevan,multi,unknown,"AI, deep tech, quantum, space",vc,https://formula.vc/
+Armenia,Central Asia & Caucasus,BANA Angels,Yerevan,pre-seed,unknown,generalist,angel_network,https://bana.am/
+Armenia,Central Asia & Caucasus,Science and Technology Angels Network (STAN),Yerevan,pre-seed,unknown,"deep tech, women-led",angel_network,https://www.stan.am/
+Armenia,Central Asia & Caucasus,ADB Ventures,Manila (regional),seed,unknown,"climate, health, fintech, agritech impact",government_fund,https://ventures.adb.org
+Australia,Oceania,Airtree Ventures,Sydney,multi,unknown,generalist,vc,https://www.airtree.vc
+Australia,Oceania,Blackbird Ventures,Sydney / Melbourne,multi,unknown,generalist,vc,https://www.blackbird.vc
+Australia,Oceania,Square Peg Capital,Melbourne / Sydney,multi,unknown,"AI, fintech, SaaS",vc,https://www.squarepeg.vc
+Australia,Oceania,Main Sequence,Sydney,multi,unknown,deep tech,vc,https://www.mseq.vc
+Australia,Oceania,OneVentures,Sydney,growth,venture debt A$1m-15m+,"technology, healthcare",vc,https://one-ventures.com.au
+Australia,Oceania,Folklore Ventures,Sydney,seed,unknown,generalist,vc,https://www.folklore.vc
+Australia,Oceania,Tidal Ventures,Australia,seed,unknown,AI,vc,https://www.tidalvc.com
+Australia,Oceania,Investible,Sydney,pre-seed,unknown,"generalist, climate",vc,https://www.investible.com
+Australia,Oceania,Rampersand,Sydney / Melbourne,pre-seed,unknown,generalist,vc,https://rampersand.vc
+Australia,Oceania,Giant Leap,Sydney,seed,unknown,"impact: climate, health, people",vc,https://www.giantleap.com.au
+Australia,Oceania,Skip Capital,Sydney,multi,unknown,"technology, infrastructure",family_office,https://www.skipcapital.com
+Australia,Oceania,Black Nova VC,Sydney,pre-seed,from A$100k,B2B SaaS,vc,https://blacknova.vc
+Australia,Oceania,Archangel Ventures,Sydney / Melbourne,pre-seed,A$250k-750k first cheque,generalist,vc,https://www.archangel.vc
+Australia,Oceania,Carthona Capital,Sydney,seed,unknown,"generalist, thematic",vc,https://www.carthonacapital.com
+Australia,Oceania,AfterWork Ventures,Sydney,pre-seed,unknown,generalist,vc,https://www.afterwork.vc
+Australia,Oceania,Brandon Capital,Melbourne,multi,unknown,life sciences,vc,https://www.brandon.capital
+Australia,Oceania,Uniseed,Australia,seed,unknown,deep tech university spinouts,vc,https://www.uniseed.com
+Australia,Oceania,Tenacious Ventures,Melbourne,seed,unknown,"agtech, climate",vc,https://tenacious.ventures
+Australia,Oceania,OIF Ventures,Sydney,seed,unknown,generalist tech,vc,https://www.oifventures.com.au
+Australia,Oceania,Sydney Angels,Sydney,pre-seed,unknown,generalist,angel_network,https://www.sydneyangels.net.au
+Australia,Oceania,Melbourne Angels,Melbourne,pre-seed,unknown,generalist,angel_network,https://www.melbourneangels.com
+Australia,Oceania,Innovation Victoria (formerly Breakthrough Victoria),Melbourne,multi,about A$150k pre-seed to A$15m growth (Breakthrough Victoria bands),"advanced manufacturing, health, clean economy, digital, agrifood",government_fund,https://www.innovationvictoria.com/submit-a-pitch
+Australia,Oceania,National Reconstruction Fund Corporation,Sydney,growth,unknown,NRF priority manufacturing sectors,government_fund,https://www.nrf.gov.au
+Austria,Europe,Speedinvest,Vienna,multi,unknown,generalist,vc,https://www.speedinvest.com/
+Austria,Europe,Apex Ventures,Vienna,seed,unknown,"deep tech, AI",vc,https://www.apex.ventures/
+Austria,Europe,Calm/Storm Ventures,Vienna,seed,unknown,"health, digital",vc,https://www.calmstorm.vc/
+Austria,Europe,Xista Science Ventures,Vienna,seed,unknown,science-based deep tech,vc,https://xista.vc/
+Austria,Europe,eQventure,Vienna,seed,unknown,generalist,vc,https://www.eqventure.com/
+Austria,Europe,Elevator Ventures (Raiffeisen),Vienna,series A,unknown,fintech,cvc,https://www.elevator-ventures.com/
+Austria,Europe,aws Gründungsfonds,Vienna,seed,unknown,Austrian start-ups,government_fund,https://aws.at/aws-eigenkapital/
+Austria,Europe,aws i2 Business Angels,Vienna,pre-seed,unknown,generalist,angel_network,https://www.aws.at/aws-i2-business-angels/
+Azerbaijan,Central Asia & Caucasus,PASHA Investments,Baku,growth,unknown,"mid-cap growth (AZ, GE, TR)",family_office,https://pasha-holding.az/en/investment-and-brokerage/pasha-investments/
+Azerbaijan,Central Asia & Caucasus,ADB Ventures,Manila (regional),seed,unknown,"climate, health, fintech, agritech impact",government_fund,https://ventures.adb.org
+Bahamas,Latin America & Caribbean,Bahamas Entrepreneurial Venture Fund,Nassau,seed,unknown,generalist,government_fund,https://www.bahamasventurefund.com
+Bahamas,Latin America & Caribbean,FirstAngels Caribbean,Kingston,seed,unknown (each angel decides),generalist,angel_network,https://firstangelscaribbean.com
+Bahamas,Latin America & Caribbean,Caribbean Angels,regional,seed,unknown,generalist,angel_network,https://www.caribbeanangels.com
+Bangladesh,South Asia,Startup Bangladesh Limited,Dhaka,seed,unknown,generalist tech,government_fund,https://startupbangladesh.vc/
+Bangladesh,South Asia,Anchorless Bangladesh,Dhaka,seed,unknown,generalist,vc,https://anchorless.vc/
+Bangladesh,South Asia,BD Venture,Dhaka,multi,unknown,generalist,vc,https://bdventure.com/
+Bangladesh,South Asia,Bangladesh Angels Network,Dhaka,pre-seed,unknown,generalist,angel_network,https://bangladeshangels.com/
+Barbados,Latin America & Caribbean,FirstAngels Caribbean,Kingston,seed,unknown (each angel decides),generalist,angel_network,https://firstangelscaribbean.com
+Barbados,Latin America & Caribbean,Caribbean Angels,regional,seed,unknown,generalist,angel_network,https://www.caribbeanangels.com
+Belarus,Europe,RBF Ventures,Minsk,multi,unknown,tech,government_fund,https://belinfund.by
+Belgium,Europe,PMV,Brussels,multi,unknown,Flemish companies,government_fund,https://www.pmv.eu/
+Belgium,Europe,Smartfin,Brussels,multi,unknown,B2B tech,vc,https://smartfinvc.com/
+Belgium,Europe,Hummingbird,Antwerp,multi,unknown,generalist,vc,https://www.hummingbird.vc/
+Belgium,Europe,Volta Ventures,Leuven,seed,unknown,B2B software,vc,https://www.volta.ventures/
+Belgium,Europe,Fortino Capital,Antwerp,multi,unknown,B2B software,vc,https://www.fortino.be/
+Belgium,Europe,imec.xpand,Leuven,seed,unknown,semiconductor-enabled deep tech,vc,https://www.imecxpand.com/
+Belgium,Europe,Qbic,Ghent,seed,unknown,university spin-offs,vc,https://www.qbic.be/
+Belgium,Europe,Capricorn Partners,Leuven,multi,unknown,"health, cleantech, digital",vc,https://www.capricorn.be/
+Belgium,Europe,BeAngels,Brussels,pre-seed,unknown,generalist,angel_network,https://www.beangels.eu/
+Belgium,Europe,Wallonie Entreprendre,Liège,multi,unknown,Walloon companies,government_fund,https://www.wallonie-entreprendre.be/
+Belize,Latin America & Caribbean,Caribbean Angels,regional,seed,unknown,generalist,angel_network,https://www.caribbeanangels.com
+Benin,Sub-Saharan Africa,Investisseurs & Partenaires (I&P),Paris / regional,seed to growth (SMEs),unknown,impact SMEs,vc,https://www.ietp.com/en
+Benin,Sub-Saharan Africa,Saviu Ventures,Paris / Abidjan,seed / series A,unknown,"tech, francophone Africa",vc,https://www.saviu.vc/
+Benin,Sub-Saharan Africa,Janngo Capital,Abidjan / Paris,seed / series A,unknown,"tech, gender-lens",vc,https://www.janngo.com/
+Benin,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Bolivia,Latin America & Caribbean,Escalatec,La Paz,pre-seed,up to ~US$70k (2024 programme),tech,vc,https://www.escalatec.vc
+Bolivia,Latin America & Caribbean,Babasu Ventures,Andean region,pre-seed,unknown,"women-led startups; fintech, SaaS, agtech, edtech, climate",vc,https://babasuventures.com
+Bolivia,Latin America & Caribbean,Carao Ventures,"San Jose, Costa Rica",seed,up to ~US$1M (directory est.),"generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",vc,https://www.caraov.com
+Bosnia & Herzegovina,Europe,South Central Ventures,Zagreb,seed,"EUR 500k initial, up to EUR 5M","generalist tech, Western Balkans",vc,https://sc-ventures.com
+Bosnia & Herzegovina,Europe,Fifth Quarter Ventures (5Q),Belgrade,seed,unknown,"AI, dev tools, open source, Industry 5.0, crypto",vc,https://fifthquarter.vc
+Bosnia & Herzegovina,Europe,StartLabs,Belgrade,pre-seed,up to US$50k,"generalist tech, Southeast Europe",vc,https://startlabs.co
+Bosnia & Herzegovina,Europe,Silicon Gardens,Ljubljana,seed,EUR 300k-1.5M,"marketplaces, SaaS, consumer, Adria region",vc,https://silicongardens.com
+Botswana,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Botswana,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+Botswana,Sub-Saharan Africa,Catalyst Fund,Pan-African,pre-seed,US$200k,climate adaptation and resilience,vc,https://www.thecatalystfund.com/
+Botswana,Sub-Saharan Africa,Partech Africa,Nairobi / Lagos / Dakar,seed to series B,US$1M–15M+,generalist tech,vc,https://partechpartners.com/
+Brazil,Latin America & Caribbean,monashees,São Paulo,multi,unknown,generalist tech,vc,https://www.monashees.com/
+Brazil,Latin America & Caribbean,Kaszek,São Paulo,multi,US$1M–30M,generalist tech,vc,https://www.kaszek.com/
+Brazil,Latin America & Caribbean,Valor Capital Group,São Paulo / New York,multi,unknown,generalist tech,vc,https://valorcapitalgroup.com/
+Brazil,Latin America & Caribbean,Canary,São Paulo,seed,unknown,generalist tech,vc,https://www.canary.com.br/
+Brazil,Latin America & Caribbean,Astella,São Paulo,seed,unknown,"B2B SaaS, generalist",vc,https://www.astella.com.br/
+Brazil,Latin America & Caribbean,Redpoint eventures,São Paulo,seed,unknown,generalist tech,vc,https://rpev.com.br/
+Brazil,Latin America & Caribbean,MAYA Capital,São Paulo,seed,unknown,generalist tech,vc,https://www.maya.capital/
+Brazil,Latin America & Caribbean,Atlantico,São Paulo,multi,unknown,generalist tech,vc,https://www.atlantico.vc/
+Brazil,Latin America & Caribbean,Alexia Ventures,São Paulo,seed,unknown,"fintech, B2B",vc,https://www.alexia.vc/
+Brazil,Latin America & Caribbean,DOMO.VC,São Paulo,seed,unknown,generalist tech,vc,https://domo.vc/
+Brazil,Latin America & Caribbean,Bossa Invest,São Paulo,pre-seed,unknown,generalist,vc,https://bossainvest.com/
+Brazil,Latin America & Caribbean,Vox Capital,São Paulo,multi,unknown,impact,vc,https://vox.capital/
+Brazil,Latin America & Caribbean,QED Investors,São Paulo / Alexandria,multi,unknown,fintech,vc,https://www.qedinvestors.com/
+Brazil,Latin America & Caribbean,NXTP Ventures,São Paulo,seed,US$150k–5M,B2B tech,vc,https://www.nxtp.vc/
+Brazil,Latin America & Caribbean,Anjos do Brasil,São Paulo,pre-seed,unknown,generalist,angel_network,https://anjosdobrasil.net/
+Bulgaria,Europe,LAUNCHub Ventures,Sofia,seed,unknown,"generalist tech, CEE",vc,https://launchub.com/
+Bulgaria,Europe,Vitosha Venture Partners,Sofia,multi,EUR 100k-1M,"B2B: AI, automation, commerce, defence, energy, fintech",vc,https://vitosha.vc/
+Bulgaria,Europe,BrightCap Ventures,Sofia,seed,unknown,"future of work, fintech, health",vc,https://www.brightcap.vc/
+Bulgaria,Europe,Morningside Hill Capital Management,Sofia,seed,"unknown (EUR 38.5M fund, 25-30 companies)",generalist,vc,https://www.morningsidehill.com/
+Bulgaria,Europe,Eleven Ventures,Sofia,seed,unknown,generalist tech,vc,https://www.11.me/
+Bulgaria,Europe,Fund Manager of Financial Instruments in Bulgaria (Fund of Funds),Sofia,multi,via appointed managers,generalist,government_fund,https://fmfib.bg/
+Burkina Faso,Sub-Saharan Africa,Néré Capital (ex-Sinergi Burkina),Ouagadougou,seed (SMEs),unknown,"SMEs, generalist",vc,https://nerecapital.com/
+Burkina Faso,Sub-Saharan Africa,Investisseurs & Partenaires (I&P),Paris / regional,seed to growth (SMEs),unknown,impact SMEs,vc,https://www.ietp.com/en
+Burkina Faso,Sub-Saharan Africa,Saviu Ventures,Paris / Abidjan,seed / series A,unknown,"tech, francophone Africa",vc,https://www.saviu.vc/
+Burkina Faso,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Cabo Verde,Sub-Saharan Africa,Pró Capital,Praia,seed / growth,unknown,generalist,government_fund,https://www.procapital.cv/
+Cabo Verde,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Cambodia,Southeast Asia,Canadia Impact Fund,Phnom Penh,multi,unknown,generalist,cvc,https://www.canadiaimpactfund.com/
+Cambodia,Southeast Asia,SmartScale (Smart Axiata),Phnom Penh,seed,unknown,digital,cvc,https://www.smartaxiata.com/smartscale
+Cambodia,Southeast Asia,Mekong Strategic Capital,Phnom Penh,growth,unknown,generalist,vc,https://www.mekongstrategic.com/
+Cambodia,Southeast Asia,Seedstars,Global / Phnom Penh,seed,unknown,emerging markets,vc,https://www.seedstars.com/
+Cameroon,Sub-Saharan Africa,Partech Africa,Dakar / Lagos,seed to series B,US$1M-15M,tech generalist,vc,https://partechpartners.com/funds
+Cameroon,Sub-Saharan Africa,Janngo Capital,Abidjan / Paris,seed / series A,unknown,"tech, gender-lens",vc,https://www.janngo.com/
+Cameroon,Sub-Saharan Africa,Saviu Ventures,Paris / Abidjan,seed / series A,unknown,"tech, francophone Africa",vc,https://www.saviu.vc/
+Cameroon,Sub-Saharan Africa,Investisseurs & Partenaires (I&P),Paris / regional,seed to growth (SMEs),unknown,impact SMEs,vc,https://www.ietp.com/en
+Cameroon,Sub-Saharan Africa,AfricInvest,regional,growth,unknown,"fintech, health, consumer",vc,https://www.africinvest.com/
+Cameroon,Sub-Saharan Africa,Launch Africa Ventures,remote,pre-seed / seed,unknown,B2B tech,vc,https://www.launchafrica.vc/
+Cameroon,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Canada,North America,BDC Capital,Montreal,multi,CA$250k–CA$10M+,"generalist tech, deep tech, health, climate",government_fund,https://www.bdc.ca/en/bdc-capital
+Canada,North America,Inovia Capital,Montreal,multi,unknown,generalist tech,vc,https://www.inovia.vc/
+Canada,North America,Georgian,Toronto,growth,unknown,"B2B software, AI",vc,https://georgian.io/
+Canada,North America,Real Ventures,Montreal,seed,unknown,generalist tech,vc,https://realventures.com/
+Canada,North America,Panache Ventures,Montreal,pre-seed,unknown,generalist tech,vc,https://www.panache.vc/
+Canada,North America,Golden Ventures,Toronto,seed,unknown,generalist tech,vc,https://www.golden.ventures/
+Canada,North America,Radical Ventures,Toronto,multi,unknown,AI,vc,https://radical.vc/
+Canada,North America,OMERS Ventures,Toronto,series A,unknown,generalist tech,cvc,https://www.omersventures.com/
+Canada,North America,Portage,Toronto,multi,unknown,"fintech, health, climate",vc,https://portageinvest.com/
+Canada,North America,Brightspark Ventures,Toronto,seed,unknown,generalist tech,vc,https://brightspark.com/en
+Canada,North America,Yaletown Partners,Vancouver,series A,unknown,"industrial tech, climate",vc,https://www.yaletown.com/
+Canada,North America,Version One Ventures,Vancouver,seed,unknown,generalist,vc,https://versionone.vc/
+Canada,North America,Amplitude Ventures,Montreal,multi,unknown,life sciences,vc,https://amplitudevc.com/
+Canada,North America,Luge Capital,Montreal,seed,unknown,fintech,vc,https://luge.vc/
+Canada,North America,Anges Québec,Montreal,pre-seed,unknown,generalist,angel_network,https://angesquebec.com/
+Central African Republic,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Chad,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Chile,Latin America & Caribbean,Kayyak Ventures,Santiago,seed,unknown,generalist tech,vc,https://www.kayyakventures.com/
+Chile,Latin America & Caribbean,Alaya Capital,Santiago,seed,unknown,generalist tech,vc,https://alaya-capital.com/
+Chile,Latin America & Caribbean,Chile Global Ventures,Santiago,seed,unknown,"deep tech, agtech",vc,https://chileglobalventures.cl/
+Chile,Latin America & Caribbean,Magma Partners,Santiago,pre-seed,unknown,"generalist, fintech, insurtech, marketplaces",vc,https://magmapartners.com/
+Chile,Latin America & Caribbean,Kaszek,Regional,multi,US$1M–30M,generalist tech,vc,https://www.kaszek.com/
+Chile,Latin America & Caribbean,Genesis Ventures,Santiago,multi,unknown,generalist,vc,https://www.genesisventures.com/
+Chile,Latin America & Caribbean,NXTP Ventures,Regional,seed,US$150k–5M,B2B tech,vc,https://www.nxtp.vc/
+China,East Asia,HongShan,Beijing,multi,unknown,"generalist, tech, consumer, health",vc,https://www.hongshan.com
+China,East Asia,Qiming Venture Partners,Shanghai,multi,unknown,"tech, healthcare",vc,https://www.qimingvc.com
+China,East Asia,IDG Capital,Beijing,multi,unknown,generalist,vc,https://idgcapital.com
+China,East Asia,Matrix Partners China,Beijing,multi,unknown,"tech, healthcare, consumer",vc,https://www.matrixpartners.com.cn
+China,East Asia,ZhenFund,Beijing,seed,US$100k-2M,"generalist, AI",vc,https://www.zhenfund.com/en
+China,East Asia,Inno Angel Fund,Beijing,seed,unknown,"hard tech, AI",vc,https://www.innoangel.com
+China,East Asia,Sinovation Ventures,Beijing,multi,unknown,"AI, deep tech, semiconductors",vc,https://www.sinovationventures.com
+China,East Asia,5Y Capital,Beijing,multi,unknown,"tech, consumer, health",vc,https://www.5ycap.com
+China,East Asia,Gaorong Ventures,Beijing,multi,unknown,"tech, consumer, healthcare",vc,https://www.gaorongvc.com
+China,East Asia,Vision Plus Capital,Beijing,seed,unknown,"tech, consumer",vc,https://www.vision-plus.com
+China,East Asia,Hillhouse Investment,Beijing,growth,unknown,generalist,vc,https://www.hillhouseinvestment.com
+China,East Asia,Legend Capital,Beijing,multi,unknown,"tech, healthcare",vc,https://www.legendcapital.com.cn
+China,East Asia,CDH Investments,Beijing,growth,unknown,generalist,vc,https://www.cdhfund.com
+China,East Asia,China Renaissance (New Economy Fund),Beijing,growth,unknown,new economy,vc,https://www.chinarenaissance.com
+China,East Asia,Source Code Capital,Beijing,multi,unknown,"tech, AI, consumer",vc,https://sourcecodecap.com
+China,East Asia,Banyan Tree Capital,Beijing,multi,unknown,"tech, consumer",vc,https://www.banyanvc.com
+China,East Asia,Shunwei Capital,Beijing,multi,unknown,"tech, smart hardware",vc,https://shunwei.com
+China,East Asia,CAS Star,Xi'an,seed,unknown,"hard tech, science spin-outs",vc,https://www.casstar.com.cn
+China,East Asia,Joy Capital,Beijing,multi,unknown,"tech, consumer, AI",vc,https://www.joycapital.com.cn
+China,East Asia,Shenzhen Capital Group,Shenzhen,multi,unknown,"generalist, hard tech",government_fund,https://www.szvc.com.cn
+China,East Asia,Linear Capital,Shanghai,seed,unknown,"frontier tech, AI",vc,https://www.linear.vc
+China,East Asia,K2VC,Beijing,seed,unknown,"generalist, tech",vc,https://www.k2vc.com
+China,East Asia,Monolith Management,Beijing,multi,unknown,"tech, consumer",vc,https://www.monolith.vc
+China,East Asia,Northern Light Venture Capital,Beijing,multi,unknown,"tech, healthcare",vc,https://nlvc.com
+China,East Asia,Capital Today,Shanghai,growth,unknown,"consumer, tech",vc,https://capitaltoday.com
+Colombia,Latin America & Caribbean,Veronorte,Medellín,seed,unknown,generalist tech,vc,https://www.veronorte.com/
+Colombia,Latin America & Caribbean,Magma Partners,Bogotá,pre-seed,unknown,"generalist, fintech, insurtech, marketplaces",vc,https://magmapartners.com/
+Colombia,Latin America & Caribbean,Kaszek,Regional,multi,US$1M–30M,generalist tech,vc,https://www.kaszek.com/
+Colombia,Latin America & Caribbean,NXTP Ventures,Regional,seed,US$150k–5M,B2B tech,vc,https://www.nxtp.vc/
+Colombia,Latin America & Caribbean,Acumen Colombia,Bogotá,seed,unknown,impact,vc,https://acumen.org/
+Congo (DRC),Sub-Saharan Africa,Partech Africa,Dakar / Lagos,seed to series B,US$1M-15M,tech generalist,vc,https://partechpartners.com/funds
+Congo (DRC),Sub-Saharan Africa,Saviu Ventures,Paris / Abidjan,seed / series A,unknown,"tech, francophone Africa",vc,https://www.saviu.vc/
+Congo (DRC),Sub-Saharan Africa,Investisseurs & Partenaires (I&P),Paris / regional,seed to growth (SMEs),unknown,impact SMEs,vc,https://www.ietp.com/en
+Congo (DRC),Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Costa Rica,Latin America & Caribbean,Carao Ventures,"San Jose, Costa Rica",seed,up to ~US$1M (directory est.),"generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",vc,https://www.caraov.com
+Costa Rica,Latin America & Caribbean,Caricaco Ventures,"San Jose, Costa Rica",pre-seed,"up to US$50k (Fondo Despegar, 2024)","generalist, Central America",vc,https://caricaco.vc
+Costa Rica,Latin America & Caribbean,Costa Rica Angels (ParqueTec),San Jose,pre-seed,under US$50k,generalist,angel_network,https://www.parquetec.org
+Costa Rica,Latin America & Caribbean,Newtopia VC,LatAm (remote),seed,US$100k-1M,"tech, LatAm founders",vc,https://newtopia.vc
+Costa Rica,Latin America & Caribbean,NXTP Ventures,LatAm,seed,unknown,B2B tech,vc,https://www.nxtp.vc
+Costa Rica,Latin America & Caribbean,Pomona Impact,Central America,growth,unknown (US$15M invested to date),"impact, agrifood, greentech",vc,https://pomonaimpact.com
+Croatia,Europe,Fil Rouge Capital,Zagreb,multi,EUR 10k-2M,generalist tech,vc,https://www.filrougecapital.com
+Croatia,Europe,AYMO Ventures,Zagreb,seed,unknown,generalist tech,vc,https://aymoventures.com
+Croatia,Europe,Feelsgood Capital,Zagreb,seed,unknown,social impact,vc,https://www.feelsgoodcapital.com
+Croatia,Europe,Vesna VC (Vesna Deep Tech Venture Fund),Zagreb,pre-seed,EUR 200k-700k,deep tech,vc,https://vesnavc.com
+Croatia,Europe,South Central Ventures,Zagreb,seed,"EUR 500k initial, up to EUR 5M",generalist tech,vc,https://sc-ventures.com
+Croatia,Europe,Silicon Gardens,Ljubljana,seed,EUR 300k-1.5M,"marketplaces, SaaS, consumer",vc,https://silicongardens.com
+Croatia,Europe,CRANE - Croatian Business Angels Network,Zagreb,pre-seed,unknown,generalist,angel_network,https://www.crane.hr
+Czechia,Europe,Credo Ventures,Prague,pre-seed,unknown,generalist tech,vc,https://credoventures.com
+Czechia,Europe,Rockaway Ventures,Prague,series A,unknown,"e-commerce, travel, logistics, cyber, defence, cleantech",vc,https://www.rockawayventures.com
+Czechia,Europe,Reflex Capital,Prague,multi,unknown,"software, data, health, consumer",vc,https://www.reflexcapital.com/
+Czechia,Europe,Presto Ventures,Prague,seed,EUR 0.5-5M,"security, defence, aerospace, dual-use",vc,https://prestoventures.com/
+Czechia,Europe,Purple Ventures,Brno,pre-seed,EUR 250-400k,"AI, fintech, health, energy",vc,https://purple-ventures.com/
+Czechia,Europe,J&T Ventures,Prague,multi,EUR 0.3-3M,generalist B2B/B2C,vc,https://www.jtventures.cz
+Czechia,Europe,Tilia Impact Ventures,Prague,seed,unknown,impact,vc,https://www.tilia.vc
+Czechia,Europe,DEPO Ventures,Prague,seed,unknown,"fintech, generalist",vc,https://depoventures.com/
+Czechia,Europe,Miton,Prague,seed,unknown,tech venture builder,vc,https://www.miton.cz/
+Czechia,Europe,KAYA,Prague,seed,US$1-3M,"digital, physical, consumer",vc,https://kaya.vc
+Côte d'Ivoire,Sub-Saharan Africa,Comoe Capital,Abidjan,seed (SMEs),unknown,"SMEs, generalist",vc,https://comoecapital.com/
+Côte d'Ivoire,Sub-Saharan Africa,Janngo Capital,Abidjan / Paris,seed / series A,unknown,"tech, gender-lens",vc,https://www.janngo.com/
+Côte d'Ivoire,Sub-Saharan Africa,Adiwale Partners,Abidjan,growth (SMEs),unknown,"generalist, West Africa",vc,https://www.adiwale.com/
+Côte d'Ivoire,Sub-Saharan Africa,Saviu Ventures,Paris / Abidjan,seed / series A,unknown,"tech, francophone Africa",vc,https://www.saviu.vc/
+Côte d'Ivoire,Sub-Saharan Africa,Investisseurs & Partenaires (I&P),Paris / regional,seed to growth (SMEs),unknown,impact SMEs,vc,https://www.ietp.com/en
+Côte d'Ivoire,Sub-Saharan Africa,Partech Africa,Dakar / Lagos,seed to series B,US$1M-15M,tech generalist,vc,https://partechpartners.com/funds
+Côte d'Ivoire,Sub-Saharan Africa,AfricInvest,regional,growth,unknown,"fintech, health, consumer",vc,https://www.africinvest.com/
+Côte d'Ivoire,Sub-Saharan Africa,Launch Africa Ventures,remote,pre-seed / seed,unknown,B2B tech,vc,https://www.launchafrica.vc/
+Côte d'Ivoire,Sub-Saharan Africa,4DX Ventures,remote,seed to series A,unknown,tech generalist,vc,https://www.4dxventures.com/
+Côte d'Ivoire,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Denmark,Europe,EIFO (venture),Copenhagen,multi,unknown,"generalist, life science, cleantech",government_fund,https://eifo.dk/en
+Denmark,Europe,Seed Capital,Copenhagen,seed,unknown,"tech, life science",vc,https://www.seedcapital.dk/
+Denmark,Europe,byFounders,Copenhagen,seed,unknown,generalist tech,vc,https://byfounders.vc/
+Denmark,Europe,Nordic Makers,Copenhagen,pre-seed,unknown,generalist tech,vc,https://www.nordicmakers.vc/
+Denmark,Europe,Heartcore,Copenhagen,seed,unknown,"consumer, software",vc,https://www.heartcore.com/
+Denmark,Europe,Nordic Alpha Partners,Aarhus / Copenhagen,growth,unknown,"hardtech, climate",vc,https://www.nordicalpha.com/
+Denmark,Europe,Northcap,Copenhagen,multi,unknown,life science,vc,https://www.northcap.com/
+Denmark,Europe,Novo Holdings,Copenhagen,multi,unknown,life science,cvc,https://novoholdings.com/
+Denmark,Europe,Unconventional Ventures,Copenhagen,pre-seed,unknown,impact tech,vc,https://www.unconventional.vc/
+Djibouti,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+Dominica,Latin America & Caribbean,FirstAngels Caribbean,Kingston,seed,unknown (each angel decides),generalist,angel_network,https://firstangelscaribbean.com
+Dominica,Latin America & Caribbean,Caribbean Angels,regional,seed,unknown,generalist,angel_network,https://www.caribbeanangels.com
+Dominican Republic,Latin America & Caribbean,Enlaces (Red de Inversionistas Angeles),Santo Domingo,seed,US$25k-150k,"SaaS, marketplaces, proptech, AI",angel_network,https://enlaces.org.do
+Dominican Republic,Latin America & Caribbean,Carao Ventures,"San Jose, Costa Rica",seed,up to ~US$1M (directory est.),"generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",vc,https://www.caraov.com
+Dominican Republic,Latin America & Caribbean,Newtopia VC,LatAm (remote),seed,US$100k-1M,"tech, LatAm founders",vc,https://newtopia.vc
+Ecuador,Latin America & Caribbean,BuenTrip Ventures,Quito / LatAm,seed,unknown,software,vc,https://www.buentrip.vc
+Ecuador,Latin America & Caribbean,IMPAQTO impact fund,Quito,seed,unknown,impact,vc,https://impaqto.net
+Ecuador,Latin America & Caribbean,Carao Ventures,"San Jose, Costa Rica",seed,up to ~US$1M (directory est.),"generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",vc,https://www.caraov.com
+Ecuador,Latin America & Caribbean,Babasu Ventures,Andean region,pre-seed,unknown,"women-led startups; fintech, SaaS, agtech, edtech, climate",vc,https://babasuventures.com
+Ecuador,Latin America & Caribbean,Pomona Impact,Central America,growth,unknown (US$15M invested to date),"impact, agrifood, greentech",vc,https://pomonaimpact.com
+Egypt,Middle East & North Africa,Sawari Ventures,Cairo,seed,unknown,tech,vc,https://sawariventures.com/
+Egypt,Middle East & North Africa,Algebra Ventures,Cairo,series A,US$0.5M-5M,tech,vc,https://www.algebraventures.com/
+Egypt,Middle East & North Africa,A15,Cairo,multi,unknown,tech,vc,https://www.a15.com/
+Egypt,Middle East & North Africa,EgyptVentures,Cairo,multi,unknown,tech,government_fund,https://egyptventures.com/
+Egypt,Middle East & North Africa,Partech Africa,Paris / Dakar,series A,US$1M-15M,tech,vc,https://partechpartners.com/
+Egypt,Middle East & North Africa,Global Ventures,Dubai,multi,US$1M-10M,tech,vc,https://www.global.vc/
+El Salvador,Latin America & Caribbean,Carao Ventures,"San Jose, Costa Rica",seed,up to ~US$1M (directory est.),"generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",vc,https://www.caraov.com
+El Salvador,Latin America & Caribbean,Caricaco Ventures,"San Jose, Costa Rica",pre-seed,"up to US$50k (Fondo Despegar, 2024)","generalist, Central America",vc,https://caricaco.vc
+El Salvador,Latin America & Caribbean,Pomona Impact,Central America,growth,unknown (US$15M invested to date),"impact, agrifood, greentech",vc,https://pomonaimpact.com
+Equatorial Guinea,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Estonia,Europe,Superangel,Tallinn,pre-seed,unknown,tech,vc,https://superangel.io/
+Estonia,Europe,Karma Ventures,Tallinn,seed,unknown,"deep tech, software",vc,https://www.karma.vc/
+Estonia,Europe,Specialist VC,Tallinn,seed,unknown,tech,vc,https://specialist.vc/
+Estonia,Europe,Trind Ventures,Tallinn,seed,unknown,consumer,vc,https://trind.vc/
+Estonia,Europe,Tera Ventures,Tallinn,seed,unknown,tech,vc,https://www.tera.vc/
+Estonia,Europe,Plural,Tallinn / London,seed,unknown,"deep tech, climate",vc,https://www.plural.vc/
+Estonia,Europe,EstBAN,Tallinn,pre-seed,unknown,generalist,angel_network,https://estban.ee/
+Eswatini,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Eswatini,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+Ethiopia,Sub-Saharan Africa,Renew Capital,Addis Ababa / East Africa,seed to series A,unknown,"generalist, angel syndicates",angel_network,https://www.renewcapital.com/
+Ethiopia,Sub-Saharan Africa,Novastar Ventures,Nairobi,seed to series B,US$1M–10M,"impact, climate, health, fintech",vc,https://www.novastarventures.com/
+Ethiopia,Sub-Saharan Africa,Partech Africa,Nairobi / Lagos / Dakar,seed to series B,US$1M–15M+,generalist tech,vc,https://partechpartners.com/
+Ethiopia,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+Ethiopia,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Ethiopia,Sub-Saharan Africa,Catalyst Fund,Pan-African,pre-seed,US$200k,climate adaptation and resilience,vc,https://www.thecatalystfund.com/
+Ethiopia,Sub-Saharan Africa,Acumen,Nairobi / pan-African,seed to growth,unknown,"agri, energy, impact",vc,https://acumen.org/
+Ethiopia,Sub-Saharan Africa,Development Bank of Ethiopia,Addis Ababa,multi,unknown,"priority sectors, SMEs",government_fund,https://dbe.com.et/
+Fiji,Oceania,ADB Ventures,Manila (regional),seed,unknown,"climate tech, inclusive tech",vc,https://ventures.adb.org
+Finland,Europe,Lifeline Ventures,Helsinki,seed,unknown,"generalist, health",vc,https://www.lifelineventures.com/
+Finland,Europe,Maki.vc,Helsinki,seed,unknown,"deep tech, brands",vc,https://maki.vc/
+Finland,Europe,Inventure,Helsinki,seed,unknown,"generalist tech (Nordics, Baltics)",vc,https://www.inventure.vc/
+Finland,Europe,Icebreaker.vc,Helsinki,pre-seed,unknown,generalist tech,vc,https://www.icebreaker.vc/
+Finland,Europe,Voima Ventures,Helsinki,seed,unknown,deep tech,vc,https://voimaventures.com/
+Finland,Europe,Vendep Capital,Helsinki,seed,unknown,B2B SaaS,vc,https://www.vendep.com/
+Finland,Europe,Butterfly Ventures,Helsinki,seed,unknown,"deep tech, industrial",vc,https://butterfly.vc/
+Finland,Europe,Sisu Game Ventures,Helsinki,seed,unknown,gaming,vc,https://sisu.vc/
+Finland,Europe,Innovestor,Helsinki,multi,unknown,"tech, life science",vc,https://innovestorgroup.com/
+Finland,Europe,Tesi (Finnish Industry Investment),Helsinki,multi,fund-of-funds and direct,generalist,government_fund,https://tesi.fi/en/
+Finland,Europe,FiBAN,Helsinki,pre-seed,unknown,generalist,angel_network,https://fiban.org/
+France,Europe,"Bpifrance (Large Venture, Digital Venture, Deeptech)",Paris,multi,unknown,generalist,government_fund,https://www.bpifrance.fr/
+France,Europe,Partech,Paris,multi,unknown,generalist,vc,https://partechpartners.com/
+France,Europe,Elaia,Paris,seed,unknown,"deep tech, B2B",vc,https://elaia.com/
+France,Europe,Kima Ventures,Paris,pre-seed,~€150k,generalist,vc,https://www.kima.vc/
+France,Europe,Serena,Paris,seed,unknown,"B2B, AI, climate",vc,https://www.serena.vc/
+France,Europe,Alven,Paris,seed,unknown,generalist,vc,https://alven.co/
+France,Europe,ISAI,Paris,seed,unknown,"digital, generalist",vc,https://www.isai.vc/
+France,Europe,Daphni,Paris,seed,unknown,generalist,vc,https://www.daphni.com/
+France,Europe,Newfund,Paris,seed,unknown,generalist,vc,https://www.newfund.com/
+France,Europe,Frst,Paris,pre-seed,unknown,generalist,vc,https://www.frst.vc/
+France,Europe,Headline,Paris,multi,unknown,generalist,vc,https://headline.com/
+France,Europe,Eurazeo (venture),Paris,multi,unknown,"digital, health, climate",vc,https://www.eurazeo.com/fr
+France,Europe,Otium Capital,Paris,multi,unknown,generalist,family_office,https://www.otium.vc/
+Gabon,Sub-Saharan Africa,Fonds Gabonais d'Investissements Stratégiques (FGIS),Libreville,multi,unknown,"strategic sectors, SMEs",government_fund,https://www.fgis-gabon.com/
+Gabon,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Gambia,Sub-Saharan Africa,Gambia Angel Network (GAIN),Banjul,seed,unknown,generalist,angel_network,https://vc4a.com/gambia-angel-network/
+Gambia,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Georgia,Central Asia & Caucasus,Sturgeon Capital,Tbilisi,multi,unknown,generalist frontier tech,vc,https://www.sturgeoncapital.com
+Georgia,Central Asia & Caucasus,ADB Ventures,Manila (regional),seed,unknown,"climate, health, fintech, agritech impact",government_fund,https://ventures.adb.org
+Germany,Europe,High-Tech Gründerfonds (HTGF),Bonn,seed,"€800k+ initial, up to €30M over lifetime","deep tech, industrial, life sciences, digital",government_fund,https://www.htgf.de/en/
+Germany,Europe,KfW Capital,Frankfurt,multi,fund-of-funds (via VC funds),generalist,government_fund,https://www.kfw-capital.de/
+Germany,Europe,Earlybird,Berlin,multi,unknown,"deep tech, digital, health",vc,https://earlybird.com/
+Germany,Europe,Point Nine,Berlin,pre-seed,unknown,"B2B SaaS, marketplaces",vc,https://www.pointnine.com/
+Germany,Europe,Cherry Ventures,Berlin,seed,unknown,generalist,vc,https://www.cherry.vc/
+Germany,Europe,HV Capital,Munich,multi,unknown,generalist,vc,https://www.hvcapital.com/
+Germany,Europe,Project A,Berlin,seed,unknown,"B2B software, fintech, defence",vc,https://www.project-a.vc/
+Germany,Europe,Lakestar,Munich,multi,unknown,"tech, defence, deep tech",vc,https://www.lakestar.com/
+Germany,Europe,UVC Partners,Munich,seed,unknown,"B2B tech, deep tech",vc,https://www.uvcpartners.com/
+Germany,Europe,La Famiglia,Berlin,seed,unknown,"B2B, industrial",vc,https://www.lafamiglia.vc/
+Germany,Europe,Picus Capital,Munich,pre-seed,unknown,generalist,vc,https://www.picuscap.com/
+Germany,Europe,Capnamic,Cologne,seed,unknown,B2B software,vc,https://capnamic.com/
+Germany,Europe,coparion,Cologne,seed,unknown,generalist (co-invest with private VCs),government_fund,https://www.coparion.vc/
+Germany,Europe,Visionaries Club,Berlin,multi,unknown,"B2B, industrial tech",vc,https://www.visionaries.vc/
+Germany,Europe,468 Capital,Berlin,seed,unknown,"AI, software",vc,https://468cap.com/
+Germany,Europe,IBB Ventures,Berlin,seed,unknown,Berlin tech and creative,government_fund,https://www.ibbventures.de/en
+Germany,Europe,Bayern Kapital,Landshut,seed,unknown,Bavarian tech,government_fund,https://bayernkapital.de/
+Ghana,Sub-Saharan Africa,Venture Capital Trust Fund,Accra,multi,funds VC managers,"SMEs, priority sectors",government_fund,https://venturecapitalghana.com.gh/
+Ghana,Sub-Saharan Africa,Injaro Investments,Accra,growth,unknown,agribusiness,vc,https://www.injaroinvestments.com/
+Ghana,Sub-Saharan Africa,Partech Africa,Dakar / Lagos,seed to series B,US$1M-15M,tech generalist,vc,https://partechpartners.com/funds
+Ghana,Sub-Saharan Africa,TLcom Capital,Lagos,series A,US$1M-10M,tech generalist,vc,https://www.tlcomcapital.com/
+Ghana,Sub-Saharan Africa,4DX Ventures,remote,seed to series A,unknown,tech generalist,vc,https://www.4dxventures.com/
+Ghana,Sub-Saharan Africa,Future Africa,Lagos,pre-seed / seed,unknown,tech generalist,vc,https://www.future.africa/
+Ghana,Sub-Saharan Africa,Launch Africa Ventures,remote,pre-seed / seed,unknown,B2B tech,vc,https://www.launchafrica.vc/
+Ghana,Sub-Saharan Africa,Norrsken22,remote,series A to growth,unknown,"fintech, health, edtech",vc,https://www.norrsken22.com/
+Ghana,Sub-Saharan Africa,Enza Capital,Nairobi,seed / series A,unknown,B2B tech,vc,https://www.enza.capital/
+Ghana,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Greece,Europe,Metavallon VC,Athens,seed,unknown,tech,vc,https://metavallon.vc/
+Greece,Europe,VentureFriends,Athens,seed,unknown,tech,vc,https://www.venturefriends.vc/
+Greece,Europe,Marathon Venture Capital,Athens,seed,unknown,software,vc,https://www.marathon.vc/
+Greece,Europe,Velocity.Partners,Athens,pre-seed,unknown,tech,vc,https://velocitypartners.vc/
+Greece,Europe,Big Pi Ventures,Athens,seed,unknown,deep tech,vc,https://bigpi.vc/
+Greece,Europe,BrightCap Ventures,Athens,seed,unknown,tech,vc,https://www.brightcap.vc/
+Greece,Europe,EquiFund / HDBI,Athens,multi,fund-of-funds,generalist,government_fund,https://equifund.gr/
+Greenland,North America,Nalik Ventures,Nuuk,multi,unknown,generalist land-based,government_fund,https://nalik.gl/
+Grenada,Latin America & Caribbean,FirstAngels Caribbean,Kingston,seed,unknown (each angel decides),generalist,angel_network,https://firstangelscaribbean.com
+Grenada,Latin America & Caribbean,Caribbean Angels,regional,seed,unknown,generalist,angel_network,https://www.caribbeanangels.com
+Guatemala,Latin America & Caribbean,Pomona Impact,Central America,growth,unknown (US$15M invested to date),"impact, agrifood, greentech",vc,https://pomonaimpact.com
+Guatemala,Latin America & Caribbean,Carao Ventures,"San Jose, Costa Rica",seed,up to ~US$1M (directory est.),"generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",vc,https://www.caraov.com
+Guatemala,Latin America & Caribbean,Caricaco Ventures,"San Jose, Costa Rica",pre-seed,"up to US$50k (Fondo Despegar, 2024)","generalist, Central America",vc,https://caricaco.vc
+Guinea,Sub-Saharan Africa,Investisseurs & Partenaires (I&P),Paris / regional,seed to growth (SMEs),unknown,impact SMEs,vc,https://www.ietp.com/en
+Guinea,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Guinea-Bissau,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Guyana,Latin America & Caribbean,FirstAngels Caribbean,Kingston,seed,unknown (each angel decides),generalist,angel_network,https://firstangelscaribbean.com
+Guyana,Latin America & Caribbean,Caribbean Angels,regional,seed,unknown,generalist,angel_network,https://www.caribbeanangels.com
+Honduras,Latin America & Caribbean,Carao Ventures,"San Jose, Costa Rica",seed,up to ~US$1M (directory est.),"generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",vc,https://www.caraov.com
+Honduras,Latin America & Caribbean,Caricaco Ventures,"San Jose, Costa Rica",pre-seed,"up to US$50k (Fondo Despegar, 2024)","generalist, Central America",vc,https://caricaco.vc
+Honduras,Latin America & Caribbean,Pomona Impact,Central America,growth,unknown (US$15M invested to date),"impact, agrifood, greentech",vc,https://pomonaimpact.com
+Hong Kong,East Asia,Hong Kong Investment Corporation,Hong Kong,multi,unknown,"strategic industries, deep tech",government_fund,https://www.hkic.org.hk
+Hong Kong,East Asia,Horizons Ventures,Hong Kong,multi,unknown,"deep tech, AI, food tech",vc,https://www.horizonsventures.com
+Hong Kong,East Asia,Gobi Partners,Hong Kong,multi,unknown,"generalist, Asia",vc,https://www.gobi.vc
+Hong Kong,East Asia,Vectr Ventures,Hong Kong,seed,unknown,"deep tech, web3",vc,https://vectr.co
+Hong Kong,East Asia,MindWorks Capital,Hong Kong,seed,unknown,"tech, Asia",vc,https://www.mindworks.vc
+Hong Kong,East Asia,Arbor Ventures,Hong Kong,multi,unknown,fintech,vc,https://www.arborventures.com
+Hong Kong,East Asia,Primavera Capital,Hong Kong,growth,unknown,"consumer, healthcare, tech",vc,https://www.primavera-capital.com
+Hong Kong,East Asia,Radiant Venture Capital,Hong Kong,multi,unknown,tech,vc,https://www.radiantvc.com
+Hong Kong,East Asia,Hong Kong Business Angel Network,Hong Kong,pre-seed,unknown,generalist,angel_network,http://www.hkban.org/index
+Hong Kong,East Asia,Cyberport Macro Fund,Hong Kong,seed,unknown,digital tech in Cyberport portfolio,government_fund,https://www.cyberport.hk
+Hungary,Europe,Hiventures,Budapest,multi,unknown,"AI, deeptech, medtech, fintech, greentech",government_fund,https://www.hiventures.hu/en
+Hungary,Europe,Day One Capital,Budapest,pre-seed,EUR 300k-2M,"AI, robotics, cyber, defence",vc,https://www.dayonecapital.com
+Hungary,Europe,Portfolion,Budapest,multi,EUR 0.5-3M (VC),generalist,vc,https://www.portfolion.com/
+Hungary,Europe,OXO Labs,Budapest,seed,unknown,tech,vc,https://oxolabs.eu/
+Iceland,Europe,Nyskopunarsjodurinn Kria,Reykjavik,multi,fund-of-funds plus direct early-stage,"generalist, health (Heilsu Kria)",government_fund,https://www.nyskopun.is/
+Iceland,Europe,Brunnur Ventures,Reykjavik,seed,unknown,generalist tech,vc,https://www.brunnur.vc/
+Iceland,Europe,Crowberry Capital,Reykjavik,seed,unknown,tech,vc,https://www.crowberrycapital.com/
+Iceland,Europe,Frumtak Ventures,Reykjavik,seed,unknown,tech,vc,https://frumtak.is/
+Iceland,Europe,Northstack,Reykjavik,seed,unknown,tech,vc,https://www.northstack.is/
+Iceland,Europe,ReykVC,Reykjavik,unknown,unknown,global-challenge tech,vc,https://reykvc.is/
+India,South Asia,Peak XV Partners,Bengaluru,multi,US$1M-50M+,generalist,vc,https://www.peakxv.com/
+India,South Asia,Accel India,Bengaluru,seed,US$0.5M-10M,"generalist, SaaS, consumer",vc,https://www.accel.com/
+India,South Asia,Blume Ventures,Mumbai,seed,US$0.5M-3M,generalist,vc,https://blume.vc/
+India,South Asia,Elevation Capital,Delhi NCR,series A,US$1M-15M,generalist,vc,https://elevationcapital.com/
+India,South Asia,Chiratae Ventures,Bengaluru,series A,US$1M-10M,"tech, health, consumer",vc,https://chiratae.com/
+India,South Asia,Lightspeed India,Delhi NCR,multi,US$1M-30M,generalist,vc,https://lsvp.com/
+India,South Asia,Nexus Venture Partners,Mumbai,series A,US$1M-15M,"SaaS, AI, fintech",vc,https://www.nexusvp.com/
+India,South Asia,Kalaari Capital,Bengaluru,seed,US$1M-5M,tech,vc,https://kalaari.com/
+India,South Asia,Z47 (formerly Matrix Partners India),Mumbai,series A,US$2M-15M,generalist,vc,https://www.z47.com/
+India,South Asia,Stellaris Venture Partners,Bengaluru,seed,US$1M-5M,"SaaS, consumer, fintech",vc,https://www.stellarisvp.com/
+India,South Asia,3one4 Capital,Bengaluru,seed,US$0.5M-5M,"generalist, deeptech",vc,https://www.3one4capital.com/
+India,South Asia,India Quotient,Mumbai,seed,US$0.5M-3M,"Bharat consumer, fintech",vc,https://www.indiaquotient.in/
+India,South Asia,Fireside Ventures,Bengaluru,seed,US$1M-5M,consumer brands,vc,https://www.fireside.vc/
+India,South Asia,Inflexor Ventures,Mumbai,seed,US$0.5M-3M,"deeptech, SaaS",vc,https://www.inflexor.vc/
+India,South Asia,Endiya Partners,Hyderabad,seed,US$0.5M-5M,"AI, deeptech, healthcare",vc,https://www.endiya.com/
+India,South Asia,Together Fund,Bengaluru,seed,US$1M-5M,"AI, SaaS",vc,https://www.together.fund/
+India,South Asia,Prime Venture Partners,Bengaluru,seed,US$1M-5M,"SaaS, fintech, healthtech",vc,https://www.primevp.in/
+India,South Asia,Lightbox,Mumbai,series A,US$2M-10M,consumer tech,vc,https://www.lightbox.vc/
+India,South Asia,IvyCap Ventures,Mumbai,series A,US$1M-10M,generalist,vc,https://www.ivycapventures.com/
+India,South Asia,Athera Venture Partners,Bengaluru,series A,US$1M-5M,tech,vc,https://www.atheravp.com/
+India,South Asia,Speciale Invest,Chennai,seed,US$0.5M-3M,deeptech,vc,https://www.specialeinvest.com/
+India,South Asia,Venture Catalysts,Mumbai,multi,unknown,generalist,angel_network,https://www.venturecatalysts.in/
+India,South Asia,Indian Angel Network (IAN Group),Delhi NCR,pre-seed,US$50k-1M,generalist,angel_network,https://iangroup.vc/
+India,South Asia,LVX (formerly LetsVenture),Bengaluru,pre-seed,unknown,generalist,angel_network,https://lvxventures.com/
+India,South Asia,ah! Ventures,Mumbai,seed,unknown,generalist,angel_network,https://www.ahventures.in/
+Indonesia,Southeast Asia,East Ventures,Jakarta,multi,US$100k–10M+,generalist,vc,https://east.vc/
+Indonesia,Southeast Asia,AC Ventures,Jakarta,seed,US$100k–3M,generalist,vc,https://acv.vc/
+Indonesia,Southeast Asia,Alpha JWC Ventures,Jakarta,series A,US$1M–10M,generalist,vc,https://www.alphajwc.com/
+Indonesia,Southeast Asia,MDI Ventures,Jakarta,growth,unknown,"digital, enterprise",cvc,https://mdi.vc/
+Indonesia,Southeast Asia,BRI Ventures,Jakarta,multi,unknown,"fintech, generalist",cvc,https://www.briventures.id/
+Indonesia,Southeast Asia,Mandiri Capital Indonesia,Jakarta,series A,unknown,fintech,cvc,https://www.mandiri-capital.co.id/
+Indonesia,Southeast Asia,Kejora Capital,Jakarta,multi,unknown,generalist,vc,https://www.kejora.com/
+Indonesia,Southeast Asia,Skystar Capital,Jakarta,seed,unknown,generalist,vc,https://skystarventures.com/
+Indonesia,Southeast Asia,Sinar Mas Digital Ventures,Jakarta,multi,unknown,generalist,cvc,https://www.smdv.com/
+Indonesia,Southeast Asia,Openspace,Jakarta / Singapore,multi,US$1M–10M,generalist,vc,https://www.openspacecapital.com/
+Iraq,Middle East & North Africa,Kapita,Baghdad,seed,unknown,generalist,vc,https://www.kapita.iq/
+Ireland,Europe,Frontline Ventures,Dublin,seed,unknown,B2B software,vc,https://frontline.vc/
+Ireland,Europe,Atlantic Bridge,Dublin,multi,unknown,"deep tech, AI, semiconductors",vc,https://www.abven.com/
+Ireland,Europe,Delta Partners,Dublin,seed,unknown,generalist tech,vc,https://www.deltapartners.com/
+Ireland,Europe,ACT Venture Partners,Dublin,seed,€500k–€1.5M,"AI, quantum, space, dual-use, health",vc,https://actvp.vc/
+Ireland,Europe,Enterprise Equity,Dublin,seed,unknown,generalist,vc,https://www.enterpriseequity.ie/
+Ireland,Europe,SVV (Sure Valley Ventures),Dublin,seed,unknown,"AI, immersive tech",vc,https://svv.ai/
+Ireland,Europe,Seroba Life Sciences,Dublin,multi,unknown,"life sciences, medtech",vc,https://serobavc.com/
+Ireland,Europe,Fountain Healthcare Partners,Dublin,multi,unknown,life sciences,vc,https://www.fh-partners.com/
+Ireland,Europe,BVP EIIS Fund,Dublin,seed,unknown,"generalist, EII-eligible SMEs",vc,https://www.bvp.ie/
+Ireland,Europe,HBAN (Halo Business Angel Network),Dublin,pre-seed,unknown,generalist,angel_network,https://www.hban.org/
+Ireland,Europe,Ireland Strategic Investment Fund,Dublin,multi,fund commitments and co-investment,generalist,government_fund,https://www.isif.ie/
+Israel,Middle East & North Africa,Pitango,Tel Aviv,multi,US$1M-20M,generalist,vc,https://www.pitango.com/
+Israel,Middle East & North Africa,Vertex Ventures Israel,Tel Aviv,seed,US$1M-10M,"enterprise, deep tech",vc,https://www.vertexventures.co.il/
+Israel,Middle East & North Africa,Grove Ventures,Tel Aviv,seed,US$1M-5M,"deep tech, semis",vc,https://www.grovevc.com/
+Israel,Middle East & North Africa,TLV Partners,Tel Aviv,seed,US$1M-10M,generalist tech,vc,https://www.tlv.partners/
+Israel,Middle East & North Africa,Israel Biotech Fund,Rehovot,series A,unknown,biotech,vc,https://www.ibf.co.il/
+Israel,Middle East & North Africa,Viola Ventures,Herzliya,multi,US$1M-30M,"enterprise, fintech",vc,https://www.viola-group.com/
+Israel,Middle East & North Africa,Aleph,Tel Aviv,seed,US$1M-10M,generalist,vc,https://www.aleph.vc/
+Israel,Middle East & North Africa,Glilot Capital Partners,Herzliya,seed,US$1M-10M,"cyber, enterprise",vc,https://www.glilot.com/
+Israel,Middle East & North Africa,Team8 Capital,Tel Aviv,seed,unknown,"cyber, data, fintech",vc,https://team8.vc/
+Israel,Middle East & North Africa,Entree Capital,Tel Aviv,seed,US$0.5M-10M,generalist,vc,https://entreecap.com/
+Israel,Middle East & North Africa,lool ventures,Tel Aviv,pre-seed,US$0.5M-2M,generalist,vc,https://www.lool.vc/
+Israel,Middle East & North Africa,F2 Venture Capital,Tel Aviv,pre-seed,US$0.5M-3M,generalist tech,vc,https://www.f2vc.com/
+Israel,Middle East & North Africa,JVP,Jerusalem,multi,US$1M-20M,"cyber, media, health",vc,https://jvpvc.com/
+Israel,Middle East & North Africa,OurCrowd,Jerusalem,multi,unknown,generalist,angel_network,https://www.ourcrowd.com/
+Italy,Europe,CDP Venture Capital,Rome,multi,unknown,generalist (National Innovation Fund),government_fund,https://www.cdpventurecapital.it/en/cdp_venture_homepage.page
+Italy,Europe,United Ventures,Milan,series A,unknown,"software, deep tech",vc,https://unitedventures.com/
+Italy,Europe,P101,Milan,multi,unknown,digital,vc,https://p101.it/
+Italy,Europe,360 Capital,Milan,multi,unknown,"deep tech, digital",vc,https://www.360cap.vc/
+Italy,Europe,Primo Capital,Milan,seed,unknown,"space, tech",vc,https://www.primo.capital/
+Italy,Europe,Indaco Venture Partners,Milan,multi,unknown,deep tech,vc,https://www.indacosgr.com/
+Italy,Europe,Panakès Partners,Milan,multi,unknown,life sciences,vc,https://www.panakes.it/
+Italy,Europe,Vertis SGR,Naples,multi,unknown,tech,vc,https://www.vertis.it/
+Italy,Europe,Innogest Capital,Turin,multi,unknown,"digital, life sciences",vc,https://www.innogestcapital.com/
+Italy,Europe,Italian Angels for Growth,Milan,pre-seed,unknown,generalist,angel_network,https://www.italianangels.net/
+Italy,Europe,Club degli Investitori,Turin,pre-seed,unknown,generalist,angel_network,https://clubdeglinvestitori.it/
+Italy,Europe,Zest,Rome,seed,unknown,digital,vc,https://zestgroup.vc/en
+Jamaica,Latin America & Caribbean,FirstAngels Caribbean,Kingston,seed,unknown (each angel decides),generalist,angel_network,https://firstangelscaribbean.com
+Jamaica,Latin America & Caribbean,Caribbean Angels,regional,seed,unknown,generalist,angel_network,https://www.caribbeanangels.com
+Japan,East Asia,Japan Investment Corporation (JIC),Tokyo,multi,unknown,"generalist, strategic industries",government_fund,https://www.jic.co.jp
+Japan,East Asia,JAFCO Group,Tokyo,multi,unknown,generalist,vc,https://www.jafco.co.jp/english/
+Japan,East Asia,Globis Capital Partners,Tokyo,multi,unknown,tech,vc,https://www.globiscapital.co.jp
+Japan,East Asia,Coral Capital,Tokyo,seed,US$0.5-3M,"generalist, tech",vc,https://www.coralcap.co
+Japan,East Asia,ANRI,Tokyo,seed,unknown,"internet, deep tech",vc,https://anri.vc
+Japan,East Asia,Incubate Fund,Tokyo,seed,unknown,generalist,vc,https://incubatefund.com
+Japan,East Asia,One Capital,Tokyo,seed,unknown,B2B SaaS,vc,https://onecapital.jp
+Japan,East Asia,Global Brain,Tokyo,multi,unknown,"generalist, deep tech",vc,https://globalbrains.com
+Japan,East Asia,WiL,Tokyo,multi,unknown,"generalist, cross-border",vc,https://www.wil.co
+Japan,East Asia,UTEC (University of Tokyo Edge Capital),Tokyo,seed,unknown,"deep tech, life science",vc,https://www.utec.co.jp
+Japan,East Asia,UTokyo Innovation Platform (UTokyo IPC),Tokyo,seed,unknown,university spin-outs,government_fund,https://www.utokyo-ipc.co.jp
+Japan,East Asia,Kyoto University Innovation Capital,Kyoto,seed,unknown,university spin-outs,government_fund,https://www.kyoto-unicap.co.jp
+Japan,East Asia,Beyond Next Ventures,Tokyo,seed,unknown,"deep tech, life science",vc,https://beyondnextventures.com
+Japan,East Asia,Genesia Ventures,Tokyo,seed,unknown,"generalist, Japan and Southeast Asia",vc,https://www.genesiaventures.com
+Japan,East Asia,Skyland Ventures,Tokyo,pre-seed,unknown,"internet, web3",vc,https://www.skyland.vc
+Japan,East Asia,DNX Ventures,Tokyo,seed,unknown,"B2B, enterprise",vc,https://www.dnx.vc
+Japan,East Asia,DCM Ventures,Tokyo,multi,unknown,tech,vc,https://www.dcm.com
+Japan,East Asia,Sozo Ventures,Tokyo,growth,unknown,"tech, cross-border",vc,https://sozo-ventures.com
+Japan,East Asia,Archetype Ventures,Tokyo,seed,unknown,"B2B, SaaS",vc,https://www.archetypeventures.com
+Japan,East Asia,CyberAgent Capital,Tokyo,seed,unknown,internet,cvc,https://www.cyberagentcapital.com
+Japan,East Asia,Spiral Capital,Tokyo,multi,unknown,"B2B, SaaS",vc,https://spiral-ventures.com
+Japan,East Asia,SMBC Venture Capital,Tokyo,multi,unknown,generalist,cvc,https://www.smbc-vc.co.jp
+Japan,East Asia,Mitsubishi UFJ Capital,Tokyo,multi,unknown,"generalist, life science",cvc,https://www.mucap.co.jp
+Japan,East Asia,Sony Innovation Fund,Tokyo,multi,unknown,"tech, entertainment",cvc,https://www.sonyinnovationfund.com
+Japan,East Asia,Development Bank of Japan,Tokyo,growth,unknown,generalist,government_fund,https://www.dbj.jp
+Jordan,Middle East & North Africa,Silicon Badia,Amman,seed,unknown,generalist tech,vc,https://www.siliconbadia.com/
+Jordan,Middle East & North Africa,Sadara Ventures,Amman,seed,unknown,tech,vc,https://www.sadaravc.com/
+Kazakhstan,Central Asia & Caucasus,Qazaqstan Investment Corporation (QIC),Astana,multi,unknown,generalist; fund of funds,government_fund,https://qic.kz/en/
+Kazakhstan,Central Asia & Caucasus,BGlobal Ventures,Astana,multi,US$5k-2M,generalist,government_fund,https://bglobal.vc/en
+Kazakhstan,Central Asia & Caucasus,Tumar Venture Fund (White Hill Capital),Astana,seed,unknown,"fintech, e-commerce, edtech, healthtech, agritech",vc,https://tumar.vc
+Kazakhstan,Central Asia & Caucasus,Big Sky Capital,Almaty / Fort Lauderdale,seed,US$250k-500k (est.),"enterprise AI, B2B SaaS, fintech",vc,https://bigskycapital.vc
+Kazakhstan,Central Asia & Caucasus,Sturgeon Capital,Almaty / Astana,multi,unknown,generalist frontier tech,vc,https://www.sturgeoncapital.com
+Kazakhstan,Central Asia & Caucasus,ADB Ventures,Manila (regional),seed,unknown,"climate, health, fintech, agritech impact",government_fund,https://ventures.adb.org
+Kenya,Sub-Saharan Africa,Novastar Ventures,Nairobi,seed to series B,US$1M–10M,"impact, climate, health, fintech",vc,https://www.novastarventures.com/
+Kenya,Sub-Saharan Africa,TLcom Capital,Nairobi / Lagos,seed to series B,US$1M–10M,generalist tech,vc,https://www.tlcomcapital.com/
+Kenya,Sub-Saharan Africa,Partech Africa,Nairobi / Lagos / Dakar,seed to series B,US$1M–15M+,generalist tech,vc,https://partechpartners.com/
+Kenya,Sub-Saharan Africa,4DX Ventures,Nairobi / pan-African,seed to series A,unknown,generalist tech,vc,https://www.4dxventures.com/
+Kenya,Sub-Saharan Africa,Norrsken22,"Pan-African (Kenya, Nigeria, SA)",series A to growth,US$5M–20M,tech growth,vc,https://www.norrsken22.com/
+Kenya,Sub-Saharan Africa,Acumen,Nairobi / pan-African,seed to growth,unknown,"agri, energy, impact",vc,https://acumen.org/
+Kenya,Sub-Saharan Africa,DOB Equity,East Africa (Nairobi),series A to growth,unknown,"impact, agri, health",family_office,https://www.dobequity.nl/
+Kenya,Sub-Saharan Africa,Goodwell Investments,Nairobi / Johannesburg,seed to growth,unknown,"financial inclusion, impact",vc,https://goodwell.nl/
+Kenya,Sub-Saharan Africa,Verod-Kepple Africa Ventures,Pan-African,pre-seed to seed,unknown,generalist tech,vc,https://vkav.vc/
+Kenya,Sub-Saharan Africa,Renew Capital,Addis Ababa / East Africa,seed to series A,unknown,"generalist, angel syndicates",angel_network,https://www.renewcapital.com/
+Kenya,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+Kenya,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Kenya,Sub-Saharan Africa,Catalyst Fund,Pan-African,pre-seed,US$200k,climate adaptation and resilience,vc,https://www.thecatalystfund.com/
+Kenya,Sub-Saharan Africa,Antler (Africa fund),Nairobi,pre-seed,US$100k–250k,generalist,vc,https://www.antler.co/location/kenya
+Kiribati,Oceania,ADB Ventures,Manila (regional),seed,unknown,"climate tech, inclusive tech",vc,https://ventures.adb.org
+Kosovo,Europe,South Central Ventures,regional (Western Balkans),seed,unknown,generalist tech,vc,https://sc-ventures.com/
+Kuwait,Middle East & North Africa,Nuwa Capital,Kuwait / Riyadh,seed,unknown,tech,vc,https://nuwa.capital/
+Kyrgyzstan,Central Asia & Caucasus,ADB Ventures,Manila (regional),seed,unknown,"climate, health, fintech, agritech impact",government_fund,https://ventures.adb.org
+Laos,Southeast Asia,Seedstars,Global,seed,unknown,emerging markets,vc,https://www.seedstars.com/
+Latvia,Europe,ALTUM venture capital funds,Riga,multi,fund-of-funds,generalist,government_fund,https://www.altum.lv/en/services/investment-funds/
+Latvia,Europe,Overkill Ventures,Riga,pre-seed,unknown,tech,vc,https://www.overkill.vc/
+Latvia,Europe,FlyCap,Riga,growth,unknown,generalist,venture_debt,https://www.flycap.lv/
+Latvia,Europe,LatBAN,Riga,pre-seed,unknown,generalist,angel_network,https://latban.lv/
+Lebanon,Middle East & North Africa,LEAP Ventures,Beirut,series A,US$1M-5M,tech,vc,https://www.leap.vc/
+Lebanon,Middle East & North Africa,MEVP,Beirut,multi,US$1M-10M,tech,vc,https://mevp.com/
+Lebanon,Middle East & North Africa,Cedar Mundi Ventures,Beirut,seed,unknown,tech,vc,https://www.cedarmundi.com/
+Lesotho,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Liberia,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Lithuania,Europe,Contrarian Ventures,Vilnius,seed,EUR 1-4M,climate tech,vc,https://www.cventures.vc/
+Lithuania,Europe,Practica Capital,Vilnius,seed,unknown,tech,vc,https://www.practica.vc/
+Lithuania,Europe,Coinvest Capital,Vilnius,seed,unknown,generalist,vc,https://www.coinvest.lt/
+Lithuania,Europe,FIRSTPICK,Vilnius,pre-seed,unknown,tech,vc,https://firstpick.vc/
+Lithuania,Europe,Zinc,Vilnius,multi,unknown,generalist,vc,https://www.zinc.vc/
+Luxembourg,Europe,Expon Capital,Luxembourg City,seed,unknown,digital tech,vc,https://expon.capital/
+Luxembourg,Europe,Mangrove Capital Partners,Luxembourg City,multi,unknown,generalist,vc,https://www.mangrove.vc/
+Luxembourg,Europe,LBAN,Luxembourg City,pre-seed,unknown,generalist,angel_network,https://www.lban.lu/
+Luxembourg,Europe,SNCI,Luxembourg City,multi,unknown,Luxembourg companies,government_fund,https://www.snci.lu/
+Madagascar,Sub-Saharan Africa,Miarakap,Antananarivo,seed to growth,unknown,"impact SMEs, biodiversity and climate",vc,https://miarakap.com/
+Madagascar,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Madagascar,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+Madagascar,Sub-Saharan Africa,Catalyst Fund,Pan-African,pre-seed,US$200k,climate adaptation and resilience,vc,https://www.thecatalystfund.com/
+Malawi,Sub-Saharan Africa,Goodwell Investments,Nairobi / Johannesburg,seed to growth,unknown,"financial inclusion, impact",vc,https://goodwell.nl/
+Malawi,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Malawi,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+Malawi,Sub-Saharan Africa,Catalyst Fund,Pan-African,pre-seed,US$200k,climate adaptation and resilience,vc,https://www.thecatalystfund.com/
+Malaysia,Southeast Asia,Gobi Partners,Kuala Lumpur,multi,US$500k–10M,generalist,vc,https://www.gobi.vc/
+Malaysia,Southeast Asia,1337 Ventures,Kuala Lumpur,pre-seed,unknown,generalist,vc,https://1337.ventures/
+Malaysia,Southeast Asia,NEXEA,Kuala Lumpur,seed,unknown,generalist,angel_network,https://www.nexea.co/
+Malaysia,Southeast Asia,Cradle Fund,Kuala Lumpur,pre-seed,grant / co-investment,tech,government_fund,https://www.cradle.com.my/
+Malaysia,Southeast Asia,"Khazanah Nasional (Dana Impak, Dana Pemacu)",Kuala Lumpur,growth,unknown,"strategic, tech",government_fund,https://www.khazanah.com.my/
+Malaysia,Southeast Asia,Malaysia Debt Ventures,Kuala Lumpur,multi,venture debt,tech,venture_debt,https://www.mdv.com.my/v3/
+Malaysia,Southeast Asia,Vynn Capital,Kuala Lumpur,series A,unknown,"mobility, logistics, generalist",vc,https://vynncapital.com/
+Malaysia,Southeast Asia,Antler Malaysia,Kuala Lumpur,pre-seed,unknown,generalist,vc,https://www.antler.co/location/malaysia
+Mali,Sub-Saharan Africa,Investisseurs & Partenaires (I&P),Paris / regional,seed to growth (SMEs),unknown,impact SMEs,vc,https://www.ietp.com/en
+Mali,Sub-Saharan Africa,Saviu Ventures,Paris / Abidjan,seed / series A,unknown,"tech, francophone Africa",vc,https://www.saviu.vc/
+Mali,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Malta,Europe,Malta Development Bank,Floriana,multi,loans and guarantees,generalist,government_fund,https://mdb.org.mt/
+Malta,Europe,ZAAR,Malta,pre-seed,crowdfunding,generalist,angel_network,https://zaar.com.mt/
+Marshall Islands,Oceania,ADB Ventures,Manila (regional),seed,unknown,"climate tech, inclusive tech",vc,https://ventures.adb.org
+Mauritius,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Mauritius,Sub-Saharan Africa,Development Bank of Mauritius,Port Louis,multi,unknown,SMEs,government_fund,https://www.dbm.mu/
+Mauritius,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+Mauritius,Sub-Saharan Africa,Partech Africa,Nairobi / Lagos / Dakar,seed to series B,US$1M–15M+,generalist tech,vc,https://partechpartners.com/
+Mexico,Latin America & Caribbean,DILA Capital,Mexico City,seed,unknown,generalist tech,vc,https://www.dilacapital.com/
+Mexico,Latin America & Caribbean,Angel Ventures,Mexico City,multi,unknown,generalist tech,vc,https://www.angelventures.vc/
+Mexico,Latin America & Caribbean,Cometa,Mexico City,seed,unknown,generalist tech,vc,https://www.cometa.vc/
+Mexico,Latin America & Caribbean,IGNIA,Monterrey,multi,unknown,generalist,vc,https://www.ignia.vc/
+Mexico,Latin America & Caribbean,Hi Ventures (allvp.vc now redirects here),Mexico City,multi,unknown,generalist tech,vc,https://www.hi.vc/
+Mexico,Latin America & Caribbean,Wollef (formerly Jaguar Ventures),Mexico City,seed,unknown,generalist tech,vc,https://www.wollefvc.com/
+Mexico,Latin America & Caribbean,NXTP Ventures,Mexico City,seed,US$150k–5M,B2B tech,vc,https://www.nxtp.vc/
+Mexico,Latin America & Caribbean,Kaszek,Mexico City (regional),multi,US$1M–30M,generalist tech,vc,https://www.kaszek.com/
+Mexico,Latin America & Caribbean,Magma Partners,Mexico City,pre-seed,unknown,"generalist, fintech, insurtech, marketplaces",vc,https://magmapartners.com/
+Micronesia,Oceania,ADB Ventures,Manila (regional),seed,unknown,"climate tech, inclusive tech",vc,https://ventures.adb.org
+Moldova,Europe,u.ventures (UMAEF),Chisinau / Kyiv,seed,unknown,tech,vc,https://umaef.org/
+Moldova,Europe,Horizon Capital,Kyiv / Chisinau,growth,unknown,"tech, export-focused (private equity)",vc,https://horizoncapital.com.ua/
+Mongolia,East Asia,ADB Ventures,Manila (regional),seed,unknown,"climate, inclusion tech in ADB member countries",government_fund,https://ventures.adb.org
+Mongolia,East Asia,EBRD (venture and small business programs),London (regional),multi,unknown,SMEs and growth firms in EBRD countries incl. Mongolia,government_fund,https://www.ebrd.com
+Montenegro,Europe,South Central Ventures,Belgrade / regional,seed,unknown,generalist tech,vc,https://sc-ventures.com/
+Morocco,Middle East & North Africa,UM6P Ventures,Ben Guerir,seed,unknown,deep tech,cvc,https://www.um6pventures.com/
+Morocco,Middle East & North Africa,Azur Innovation,Casablanca,seed,unknown,tech,vc,https://azurinnovation.com/
+Morocco,Middle East & North Africa,Outlierz Ventures,Casablanca,seed,unknown,tech,vc,https://www.outlierzventures.com/
+Morocco,Middle East & North Africa,Partech Africa,Paris / Dakar,series A,US$1M-15M,tech,vc,https://partechpartners.com/
+Mozambique,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Mozambique,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+Mozambique,Sub-Saharan Africa,Catalyst Fund,Pan-African,pre-seed,US$200k,climate adaptation and resilience,vc,https://www.thecatalystfund.com/
+Namibia,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Namibia,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+Namibia,Sub-Saharan Africa,Catalyst Fund,Pan-African,pre-seed,US$200k,climate adaptation and resilience,vc,https://www.thecatalystfund.com/
+Nauru,Oceania,ADB Ventures,Manila (regional),seed,unknown,"climate tech, inclusive tech",vc,https://ventures.adb.org
+Netherlands,Europe,Invest-NL,Amsterdam,multi,unknown,"deep tech, energy transition",government_fund,https://www.investnl.nl/
+Netherlands,Europe,Peak,Amsterdam,seed,unknown,"SaaS, marketplaces",vc,https://peak.capital/
+Netherlands,Europe,henQ,Amsterdam,seed,unknown,B2B software,vc,https://www.henq.vc/
+Netherlands,Europe,Inkef,Amsterdam,seed,unknown,"deep tech, software",vc,https://www.inkef.com/
+Netherlands,Europe,Newion,Amsterdam,seed,unknown,B2B software,vc,https://www.newion.com/
+Netherlands,Europe,Endeit Capital,Amsterdam,growth,unknown,tech,vc,https://www.endeit.com/
+Netherlands,Europe,Keadyn,Amsterdam,seed,unknown,"software, marketplaces",vc,https://www.keadyn.com/
+Netherlands,Europe,Prime Ventures,Amsterdam,growth,unknown,tech,vc,https://www.primeventures.com/
+Netherlands,Europe,Forbion,Naarden,multi,unknown,life sciences,vc,https://forbion.com/
+Netherlands,Europe,SHIFT Invest,Amsterdam,series A,unknown,"food, sustainability, health",vc,https://shiftinvest.com/
+Netherlands,Europe,Borski Fund,Amsterdam,seed,unknown,female-led startups,vc,https://borskifund.com/
+Netherlands,Europe,SET Ventures,Amsterdam,series A,unknown,digital energy,vc,https://setventures.com/
+Netherlands,Europe,Curiosity VC,Amsterdam,seed,unknown,B2B software,vc,https://www.curiosityvc.com/
+Netherlands,Europe,UNIIQ,Delft,pre-seed,unknown,South Holland tech,government_fund,https://www.uniiq.nl/
+New Zealand,Oceania,Icehouse Ventures,Auckland,multi,unknown,generalist,vc,https://www.icehouseventures.co.nz
+New Zealand,Oceania,Blackbird Ventures (NZ),Auckland,multi,unknown,generalist,vc,https://www.blackbird.vc
+New Zealand,Oceania,Movac,Wellington,multi,unknown,technology,vc,https://movac.co.nz
+New Zealand,Oceania,GD1,Auckland,multi,pre-seed to Series B,technology,vc,https://gd1.vc
+New Zealand,Oceania,Pacific Channel,Auckland,seed,unknown,"deep tech: health, food, sustainability",vc,https://www.pacificchannel.com
+New Zealand,Oceania,Matū,Auckland,seed,unknown,science and deep tech,vc,https://matu.co.nz
+New Zealand,Oceania,Punakaiki Fund,Auckland,growth,unknown,technology,vc,https://punakaikifund.co.nz
+New Zealand,Oceania,WNT Ventures,Tauranga / Auckland,pre-seed,unknown,deep tech,vc,https://wntventures.co.nz
+New Zealand,Oceania,Outset Ventures Momentum Fund,Auckland,seed,unknown,deep tech,vc,https://outset.ventures/
+New Zealand,Oceania,Sprout Fund II,national,pre-seed,unknown,"agritech, foodtech",vc,https://www.sproutagritech.com/sprout-investment/
+New Zealand,Oceania,Square Peg Capital,ANZ,multi,unknown,"AI, fintech, SaaS",vc,https://www.squarepeg.vc
+New Zealand,Oceania,AfterWork Ventures,ANZ,pre-seed,unknown,generalist,vc,https://www.afterwork.vc
+New Zealand,Oceania,Aspire NZ Seed Fund (NZGCP),Auckland,seed,no fixed cap,deep tech weighted generalist,government_fund,https://www.nzgcp.co.nz/funding/aspire-seed-fund
+New Zealand,Oceania,Elevate NZ Venture Fund (NZGCP),Auckland,series A,fund of funds (NZ$300m),generalist via VC funds,government_fund,https://www.nzgcp.co.nz/funding/elevate-venture-fund
+New Zealand,Oceania,Angel Association New Zealand,national,pre-seed,unknown,generalist,angel_network,https://www.angelassociation.co.nz
+Niger,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Nigeria,Sub-Saharan Africa,Ventures Platform,Abuja,pre-seed to series A,unknown,tech generalist,vc,https://www.ventures-platform.com/
+Nigeria,Sub-Saharan Africa,Microtraction,Lagos,pre-seed,unknown,tech generalist,vc,https://www.microtraction.com/
+Nigeria,Sub-Saharan Africa,LoftyInc Capital,Lagos,pre-seed / seed,unknown,tech generalist,vc,https://loftyinc.vc/
+Nigeria,Sub-Saharan Africa,Ingressive Capital,Lagos,pre-seed / seed,unknown,tech generalist,vc,https://ingressivecapital.com/
+Nigeria,Sub-Saharan Africa,Verod-Kepple Africa Ventures,Lagos,pre-seed / seed,unknown,tech generalist,vc,https://vkav.vc/
+Nigeria,Sub-Saharan Africa,Aruwa Capital Management,Lagos,growth,unknown,gender-lens SMEs,vc,https://aruwacapital.com/
+Nigeria,Sub-Saharan Africa,Sahel Capital,Lagos,growth,unknown,agribusiness,vc,https://sahelcapital.com/
+Nigeria,Sub-Saharan Africa,Nigeria Sovereign Investment Authority,Abuja,multi,unknown,manages Startup Act seed fund,government_fund,https://nsia.com.ng/
+Nigeria,Sub-Saharan Africa,Future Africa,Lagos,pre-seed / seed,unknown,tech generalist,vc,https://www.future.africa/
+Nigeria,Sub-Saharan Africa,TLcom Capital,Lagos,series A,US$1M-10M,tech generalist,vc,https://www.tlcomcapital.com/
+Nigeria,Sub-Saharan Africa,Partech Africa,Dakar / Lagos,seed to series B,US$1M-15M,tech generalist,vc,https://partechpartners.com/funds
+Nigeria,Sub-Saharan Africa,4DX Ventures,remote,seed to series A,unknown,tech generalist,vc,https://www.4dxventures.com/
+Nigeria,Sub-Saharan Africa,Launch Africa Ventures,remote,pre-seed / seed,unknown,B2B tech,vc,https://www.launchafrica.vc/
+Nigeria,Sub-Saharan Africa,Norrsken22,remote,series A to growth,unknown,"fintech, health, edtech",vc,https://www.norrsken22.com/
+Nigeria,Sub-Saharan Africa,Flourish Ventures,remote,multi,unknown,fintech,vc,https://flourishventures.com/
+Nigeria,Sub-Saharan Africa,Lightrock,remote,growth,unknown,impact tech,vc,https://www.lightrock.com/
+Nigeria,Sub-Saharan Africa,Novastar Ventures,remote,series A / growth,unknown,"impact, mass market",vc,https://www.novastarventures.com/
+Nigeria,Sub-Saharan Africa,Enza Capital,Nairobi,seed / series A,unknown,B2B tech,vc,https://www.enza.capital/
+Nigeria,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+North Macedonia,Europe,South Central Ventures,Skopje / Belgrade / Zagreb,seed,unknown,generalist tech,vc,https://sc-ventures.com/
+Norway,Europe,Investinor,Trondheim / Oslo,multi,unknown,generalist,government_fund,https://investinor.no/en/
+Norway,Europe,Alliance Venture,Oslo,seed,unknown,tech,vc,https://alliance.vc/
+Norway,Europe,Idekapital,Oslo,seed,unknown,software,vc,https://idekapital.com/
+Norway,Europe,Katapult VC,Oslo,seed,unknown,"impact, climate",vc,https://katapult.vc/
+Norway,Europe,Skyfall Ventures,Oslo,pre-seed,unknown,tech,vc,https://www.skyfall.vc/
+Norway,Europe,Nordic Ninja,Oslo / Helsinki,seed,unknown,"tech, climate",vc,https://nordicninja.com/
+Oman,Middle East & North Africa,Oman Technology Fund,Muscat,multi,US$0.1M-5M,tech,government_fund,https://www.otf.om/
+Pakistan,South Asia,Sarmayacar,Karachi,seed,US$250k-2M,"generalist, fintech",vc,https://www.sarmayacar.com/
+Pakistan,South Asia,Zayn VC,Karachi,seed,unknown,generalist,vc,https://zayn.vc/
+Pakistan,South Asia,Fatima Gobi Ventures,Karachi,seed,unknown,generalist,vc,https://fatimagobi.vc/
+Pakistan,South Asia,Shorooq,Abu Dhabi,multi,US$0.5M-5M,"fintech, generalist; active in Pakistan",vc,https://www.shorooq.com/
+Palau,Oceania,ADB Ventures,Manila (regional),seed,unknown,"climate tech, inclusive tech",vc,https://ventures.adb.org
+Palestine,Middle East & North Africa,Ibtikar Fund,Ramallah,seed,US$50k-1M,tech,vc,https://www.ibtikarfund.ps/
+Palestine,Middle East & North Africa,Sadara Ventures,Ramallah,seed,unknown,tech,vc,https://www.sadaravc.com/
+Panama,Latin America & Caribbean,Carao Ventures,"San Jose, Costa Rica",seed,up to ~US$1M (directory est.),"generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",vc,https://www.caraov.com
+Panama,Latin America & Caribbean,Magma Partners,LatAm,seed,unknown,"fintech, B2B tech",vc,https://magmapartners.com
+Panama,Latin America & Caribbean,NXTP Ventures,LatAm,seed,unknown,B2B tech,vc,https://www.nxtp.vc
+Panama,Latin America & Caribbean,Pomona Impact,Central America,growth,unknown (US$15M invested to date),"impact, agrifood, greentech",vc,https://pomonaimpact.com
+Papua New Guinea,Oceania,ADB Ventures,Manila (regional),seed,unknown,"climate tech, inclusive tech",vc,https://ventures.adb.org
+Paraguay,Latin America & Caribbean,Babasu Ventures,Andean region,pre-seed,unknown,"women-led startups; fintech, SaaS, agtech, edtech, climate",vc,https://babasuventures.com
+Paraguay,Latin America & Caribbean,Carao Ventures,"San Jose, Costa Rica",seed,up to ~US$1M (directory est.),"generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",vc,https://www.caraov.com
+Peru,Latin America & Caribbean,Kaszek,Regional,multi,US$1M–30M,generalist tech,vc,https://www.kaszek.com/
+Peru,Latin America & Caribbean,Magma Partners,Regional,pre-seed,unknown,"generalist, fintech, insurtech, marketplaces",vc,https://magmapartners.com/
+Peru,Latin America & Caribbean,NXTP Ventures,Regional,seed,US$150k–5M,B2B tech,vc,https://www.nxtp.vc/
+Philippines,Southeast Asia,Kickstart Ventures,Manila,multi,unknown,generalist,cvc,https://kickstart.ph/
+Philippines,Southeast Asia,Foxmont Capital Partners,Manila,seed,unknown,generalist,vc,https://foxmontcapital.com/
+Philippines,Southeast Asia,Brainsparks,Manila,pre-seed,unknown,generalist,vc,https://brainsparks.ph/
+Philippines,Southeast Asia,917Ventures,Manila,seed,unknown,generalist,cvc,https://www.917ventures.com/
+Philippines,Southeast Asia,Wavemaker Partners,Manila / Singapore,seed,US$250k–2M,"B2B, generalist",vc,https://wavemaker.vc/
+Poland,Europe,PFR Ventures,Warsaw,multi,fund-of-funds (via private VCs),generalist,government_fund,https://pfrventures.pl
+Poland,Europe,Inovo Venture Partners,Warsaw,seed,EUR 0.5-4M,"B2B software, AI, devtools, health",vc,https://inovo.vc
+Poland,Europe,OTB Ventures,Warsaw,series A,unknown,"deeptech, AI, spacetech",vc,https://otb.vc
+Poland,Europe,SMOK Ventures,Warsaw,pre-seed,EUR 100k-1M,"devtools, AI",vc,https://smok.vc
+Poland,Europe,Movens Capital,Warsaw,multi,EUR 0.25-3M,generalist tech,vc,https://movenscapital.com
+Poland,Europe,Sunfish Partners,Warsaw,seed,unknown,deeptech,vc,https://sunfish.vc
+Poland,Europe,Innovation Nest,Krakow,seed,unknown,B2B software,vc,https://innovationnest.com/
+Poland,Europe,Bitspiration VC,Krakow,pre-seed,US$50k-1M,"AI, biotech, defense, robotics",vc,https://bitspiration.vc/
+Poland,Europe,Simpact Ventures,Warsaw,seed,up to EUR 2M,"impact, medtech, edtech",vc,https://www.simpact.vc/
+Poland,Europe,KAYA,Warsaw,seed,US$1-3M,"digital, physical, consumer",vc,https://kaya.vc
+Poland,Europe,Unfold.vc,Wroclaw,seed,unknown,tech,vc,https://unfold.vc
+Poland,Europe,RKKVC,Warsaw,seed,unknown,tech,vc,https://rkkvc.com
+Poland,Europe,Black Pearls VC,Wroclaw,seed,unknown,tech,vc,https://blackpearls.vc
+Poland,Europe,SpeedUp Venture Capital Group,Poznan,seed,unknown,tech,vc,https://speedupgroup.com
+Poland,Europe,EEC Ventures,Warsaw,seed,unknown,industrial and energy tech,vc,https://eecventures.com/
+Portugal,Europe,Portugal Ventures,Porto,seed,unknown,"tech, tourism, life sciences",government_fund,https://www.portugalventures.pt/
+Portugal,Europe,Indico Capital Partners,Lisbon,seed,unknown,"tech, sustainability",vc,https://www.indicocapital.com/
+Portugal,Europe,Shilling,Lisbon,pre-seed,unknown,generalist,vc,https://www.shilling.vc/
+Portugal,Europe,Faber,Lisbon,seed,unknown,"AI, data, deep tech",vc,https://www.faber.vc/
+Portugal,Europe,Armilar Venture Partners,Lisbon,series A,unknown,tech,vc,https://www.armilar.com/
+Portugal,Europe,Bynd Venture Capital,Lisbon,seed,unknown,tech,vc,https://www.bynd.vc/
+Portugal,Europe,Iberis Capital,Lisbon,multi,unknown,generalist,vc,https://iberiscapital.com/
+Portugal,Europe,Banco Português de Fomento,Porto,multi,fund-of-funds and co-investment,generalist,government_fund,https://www.bpfomento.pt/
+Qatar,Middle East & North Africa,QIA (Fund of Funds),Doha,multi,unknown,generalist,government_fund,https://www.qia.qa/
+Republic of the Congo,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Romania,Europe,GapMinder VC,Bucharest / Amsterdam,seed,EUR 0.5M-5M,"B2B AI, deep tech, SaaS",vc,https://gapminder.vc/
+Romania,Europe,Early Game Ventures,Bucharest,multi,"EUR 0.5M-2M first ticket, up to EUR 6M",generalist tech,vc,https://earlygame.vc/
+Romania,Europe,Sparking Capital,Bucharest,pre-seed,EUR 300k-1.5M,"AI-native B2B, cybersecurity, fintech",vc,https://www.sparkingcapital.com/
+Romania,Europe,Underline Ventures,Bucharest,seed,about US$500k average,"agentic AI, industrial, space, defence tech",vc,https://underline.vc/
+Romania,Europe,Catalyst Romania,Bucharest,series A,EUR 1M-3M,"enterprise IT, e-commerce, platforms",vc,https://catalystromania.com/
+Romania,Europe,Cleverage VC,Bucharest,seed,EUR 50k-500k,healthtech,vc,https://cleverage.vc/
+Romania,Europe,BrightCap Ventures,Sofia / Bucharest,seed,unknown,"future of work, fintech, health",vc,https://www.brightcap.vc/
+Romania,Europe,TechAngels Romania,Bucharest,pre-seed,EUR 10k-200k,tech,angel_network,https://techangels.ro/
+Russia,Europe,IIDF (Internet Initiatives Development Fund),Moscow,pre-seed,up to RUB 35M,IT,government_fund,https://www.iidf.ru
+Russia,Europe,RVC (Russian Venture Company),Moscow,multi,fund of funds,tech,government_fund,https://www.rvc.ru
+Russia,Europe,Voskhod Fund,Moscow,multi,unknown,"deep tech, microelectronics, biotech, robotics",vc,https://voskhod.vc
+Russia,Europe,Kama Flow,Moscow,multi,unknown,"IT, industrial tech, life sciences",family_office,https://kamaflow.com
+Russia,Europe,Rusnano,Moscow,growth,unknown,"nanotech, materials, energy",government_fund,https://www.rusnano.com
+Rwanda,Sub-Saharan Africa,Novastar Ventures,Nairobi,seed to series B,US$1M–10M,"impact, climate, health, fintech",vc,https://www.novastarventures.com/
+Rwanda,Sub-Saharan Africa,Partech Africa,Nairobi / Lagos / Dakar,seed to series B,US$1M–15M+,generalist tech,vc,https://partechpartners.com/
+Rwanda,Sub-Saharan Africa,TLcom Capital,Nairobi / Lagos,seed to series B,US$1M–10M,generalist tech,vc,https://www.tlcomcapital.com/
+Rwanda,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+Rwanda,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Rwanda,Sub-Saharan Africa,Catalyst Fund,Pan-African,pre-seed,US$200k,climate adaptation and resilience,vc,https://www.thecatalystfund.com/
+Rwanda,Sub-Saharan Africa,Acumen,Nairobi / pan-African,seed to growth,unknown,"agri, energy, impact",vc,https://acumen.org/
+Rwanda,Sub-Saharan Africa,DOB Equity,East Africa (Nairobi),series A to growth,unknown,"impact, agri, health",family_office,https://www.dobequity.nl/
+Rwanda,Sub-Saharan Africa,Verod-Kepple Africa Ventures,Pan-African,pre-seed to seed,unknown,generalist tech,vc,https://vkav.vc/
+Rwanda,Sub-Saharan Africa,Development Bank of Rwanda (BRD),Kigali,multi,unknown,"SMEs, priority sectors",government_fund,https://www.brd.rw/
+Samoa,Oceania,ADB Ventures,Manila (regional),seed,unknown,"climate tech, inclusive tech",vc,https://ventures.adb.org
+Sao Tome & Principe,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Saudi Arabia,Middle East & North Africa,STV,Riyadh,multi,US$1M-30M,tech,vc,https://stv.vc/
+Saudi Arabia,Middle East & North Africa,RAED Ventures,Riyadh,seed,US$0.5M-3M,tech,vc,https://raed.vc/
+Saudi Arabia,Middle East & North Africa,Merak Capital,Riyadh,multi,unknown,tech,vc,https://merak.capital/
+Saudi Arabia,Middle East & North Africa,Sanabil Investments,Riyadh,multi,unknown,generalist,government_fund,https://www.sanabil.com/en/
+Saudi Arabia,Middle East & North Africa,Impact46,Riyadh,multi,unknown,tech,vc,https://impact46.sa/
+Saudi Arabia,Middle East & North Africa,Nuwa Capital,Riyadh,seed,unknown,tech,vc,https://nuwa.capital/
+Saudi Arabia,Middle East & North Africa,Shorooq Partners,Riyadh / Abu Dhabi,multi,US$0.5M-10M,"tech, fintech",vc,https://www.shorooq.com/
+Senegal,Sub-Saharan Africa,Catalyst DER/FJ startup fund,Dakar,pre-seed / seed,US$50M fund,tech,government_fund,https://www.der.sn/
+Senegal,Sub-Saharan Africa,FONSIS,Dakar,multi,unknown,strategic sectors,government_fund,https://www.fonsis.org/fr/
+Senegal,Sub-Saharan Africa,Teranga Capital,Dakar,seed (SMEs),unknown,"SMEs, generalist",vc,https://terangacapitalpartners.com/
+Senegal,Sub-Saharan Africa,Partech Africa,Dakar / Lagos,seed to series B,US$1M-15M,tech generalist,vc,https://partechpartners.com/funds
+Senegal,Sub-Saharan Africa,Janngo Capital,Abidjan / Paris,seed / series A,unknown,"tech, gender-lens",vc,https://www.janngo.com/
+Senegal,Sub-Saharan Africa,Saviu Ventures,Paris / Abidjan,seed / series A,unknown,"tech, francophone Africa",vc,https://www.saviu.vc/
+Senegal,Sub-Saharan Africa,Investisseurs & Partenaires (I&P),Paris / regional,seed to growth (SMEs),unknown,impact SMEs,vc,https://www.ietp.com/en
+Senegal,Sub-Saharan Africa,Launch Africa Ventures,remote,pre-seed / seed,unknown,B2B tech,vc,https://www.launchafrica.vc/
+Senegal,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Serbia,Europe,South Central Ventures,Belgrade,seed,"EUR 500k initial, up to EUR 5M",generalist tech,vc,https://sc-ventures.com
+Serbia,Europe,Fifth Quarter Ventures (5Q),Belgrade,seed,unknown,"AI, dev tools, open source, Industry 5.0, crypto",vc,https://fifthquarter.vc
+Serbia,Europe,StartLabs,Belgrade,pre-seed,up to US$50k,generalist tech,vc,https://startlabs.co
+Serbia,Europe,Silicon Gardens,Ljubljana,seed,EUR 300k-1.5M,"marketplaces, SaaS, consumer",vc,https://silicongardens.com
+Serbia,Europe,ABAS - Association of Business Angels of Serbia,Belgrade,pre-seed,unknown,generalist,angel_network,https://www.serbianbusinessangels.com
+Serbia,Europe,Serbia Ventures / Serbia Ventures AI (fund-of-funds),Belgrade,multi,up to EUR 5M per VC fund (LP),generalist; AI track,government_fund,https://www.inovacionifond.rs/cir/program/serbia-ventures
+Seychelles,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Sierra Leone,Sub-Saharan Africa,Redsalt Angel Investment Network,Freetown,pre-seed / seed,unknown,generalist,angel_network,https://www.redsalt.org/
+Sierra Leone,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Singapore,Southeast Asia,Jungle Ventures,Singapore,series A,US$1M–10M,"generalist, B2B, consumer",vc,https://www.jungle.vc/
+Singapore,Southeast Asia,Vertex Ventures Southeast Asia & India,Singapore,multi,US$1M–10M,generalist,cvc,https://www.vertexventures.sg/
+Singapore,Southeast Asia,East Ventures,Singapore / Jakarta,multi,US$100k–10M+,generalist,vc,https://east.vc/
+Singapore,Southeast Asia,Antler,Singapore,pre-seed,US$150k+,generalist,vc,https://www.antler.co/location/singapore
+Singapore,Southeast Asia,Iterative,Singapore,pre-seed,US$150k–500k,generalist,vc,https://www.iterative.vc/
+Singapore,Southeast Asia,Golden Gate Ventures,Singapore,seed,US$500k–3M,generalist,vc,https://www.goldengate.vc/
+Singapore,Southeast Asia,Monk's Hill Ventures,Singapore,series A,US$1M–5M,generalist,vc,https://www.monkshill.com/
+Singapore,Southeast Asia,Wavemaker Partners,Singapore,seed,US$250k–2M,"B2B, deep tech, sustainability",vc,https://wavemaker.vc/
+Singapore,Southeast Asia,Openspace,Singapore,multi,US$1M–10M,generalist,vc,https://www.openspacecapital.com/
+Singapore,Southeast Asia,Insignia Ventures Partners,Singapore,seed,US$1M–10M,generalist,vc,https://www.insignia.vc/
+Singapore,Southeast Asia,Peak XV Partners,Singapore,multi,US$500k–50M,generalist,vc,https://www.peakxv.com/
+Singapore,Southeast Asia,Qualgro,Singapore,series A,US$2M–8M,"B2B, SaaS",vc,https://qualgro.com/
+Singapore,Southeast Asia,Saison Capital,Singapore,pre-seed,unknown,"fintech, web3",cvc,https://www.saisoncapital.com/
+Singapore,Southeast Asia,SEEDS Capital,Singapore,seed,co-investment,deep tech,government_fund,https://www.seedscapital.sg/
+Singapore,Southeast Asia,SGInnovate,Singapore,seed,unknown,deep tech,government_fund,https://www.sginnovate.com/
+Singapore,Southeast Asia,Vertex Holdings,Singapore,multi,unknown,generalist (Temasek-backed platform),government_fund,https://vertexholdings.com/
+Singapore,Southeast Asia,BEENEXT,Singapore,seed,unknown,generalist,vc,https://www.beenext.com/
+Singapore,Southeast Asia,Cocoon Capital,Singapore,seed,unknown,"B2B, deep tech",vc,https://cocoon-capital.com/
+Singapore,Southeast Asia,Hustle Fund,Singapore / US,pre-seed,US$50k–150k,"software, generalist",vc,https://www.hustlefund.vc/
+Singapore,Southeast Asia,TNB Aura,Singapore,series A,unknown,generalist,vc,https://www.tnbaura.vc/
+Singapore,Southeast Asia,KK Fund,Singapore,seed,unknown,generalist,vc,https://kkfund.co/
+Singapore,Southeast Asia,500 Global,Singapore,seed,unknown,generalist,vc,https://500.co/
+Singapore,Southeast Asia,Circulate Capital,Singapore,multi,unknown,"circular economy, climate",vc,https://www.circulatecapital.com/
+Singapore,Southeast Asia,AngelCentral,Singapore,pre-seed,unknown,generalist,angel_network,https://www.angelcentral.co/
+Slovakia,Europe,Vision Ventures,Bratislava,pre-seed,EUR 100-800k,generalist,vc,https://visionventures.vc/
+Slovakia,Europe,CB Investment Management,Bratislava,seed,unknown,"startups, SMEs, impact",vc,https://www.cbim.sk/
+Slovakia,Europe,Neulogy Ventures,Bratislava,seed,unknown,"deeptech, medtech, SaaS, cleantech",vc,https://www.neulogy.vc
+Slovakia,Europe,Limerock,Bratislava,multi,unknown,generalist,vc,https://www.limerock.sk
+Slovakia,Europe,Slovak Investment Holding,Bratislava,seed,EUR 0.25-2M,generalist,government_fund,https://www.sih.sk/
+Slovenia,Europe,Silicon Gardens,Ljubljana,seed,EUR 300k-1.5M initial,"marketplaces, B2B SaaS, consumer digital, D2C",vc,https://silicongardens.com
+Slovenia,Europe,AlpVent,Ziri,seed,unknown,generalist,vc,https://www.alpvent.com
+Slovenia,Europe,South Central Ventures,Ljubljana,seed,"EUR 500k initial, up to EUR 5M per company",generalist tech,vc,https://sc-ventures.com
+Slovenia,Europe,Vesna VC (Vesna Deep Tech Venture Fund),Ljubljana,pre-seed,up to EUR 80k for projects; EUR 200k-700k for companies,"deep tech: climate, advanced materials, AI/ICT",vc,https://vesnavc.com
+Slovenia,Europe,Fil Rouge Capital,Zagreb,multi,EUR 10k-2M,generalist tech,vc,https://www.filrougecapital.com
+Slovenia,Europe,Business Angels of Slovenia (Poslovni angeli Slovenije),Ljubljana,pre-seed,unknown,generalist,angel_network,https://www.poslovniangeli.si
+Slovenia,Europe,Slovene Enterprise Fund (SI-SK co-investment),Maribor,seed,EUR 100k-600k matching,generalist,government_fund,https://podjetniskisklad.si/en/
+Solomon Islands,Oceania,ADB Ventures,Manila (regional),seed,unknown,"climate tech, inclusive tech",vc,https://ventures.adb.org
+Somalia,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+South Africa,Sub-Saharan Africa,Knife Capital,Cape Town,series A,unknown,"tech, IP-driven",vc,https://www.knife.capital/
+South Africa,Sub-Saharan Africa,4Di Capital,Cape Town,seed to series A,unknown,tech,vc,https://www.4dicapital.com/
+South Africa,Sub-Saharan Africa,Kalon Venture Partners,Cape Town,seed to series A,unknown,tech,vc,https://www.kalonvp.com/
+South Africa,Sub-Saharan Africa,HAVAIC,Cape Town,seed to series A,unknown,generalist tech,vc,https://www.havaic.com/
+South Africa,Sub-Saharan Africa,Crossfin,Johannesburg,growth,unknown,"fintech, payments",vc,https://www.crossfin.co.za/
+South Africa,Sub-Saharan Africa,Hlayisani Capital,Johannesburg,seed to series A,unknown,tech,vc,https://hlayisani.com/
+South Africa,Sub-Saharan Africa,Convergence Partners,Johannesburg,growth,unknown,"digital infrastructure, ICT",vc,https://convergencepartners.com/
+South Africa,Sub-Saharan Africa,Industrial Development Corporation (IDC),Johannesburg,multi,unknown,"industrial, venture",government_fund,https://www.idc.co.za/
+South Africa,Sub-Saharan Africa,Norrsken22,"Pan-African (Kenya, Nigeria, SA)",series A to growth,US$5M–20M,tech growth,vc,https://www.norrsken22.com/
+South Africa,Sub-Saharan Africa,Partech Africa,Nairobi / Lagos / Dakar,seed to series B,US$1M–15M+,generalist tech,vc,https://partechpartners.com/
+South Africa,Sub-Saharan Africa,TLcom Capital,Nairobi / Lagos,seed to series B,US$1M–10M,generalist tech,vc,https://www.tlcomcapital.com/
+South Africa,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+South Africa,Sub-Saharan Africa,Future Africa,Lagos,pre-seed to seed,US$100k–500k,generalist tech,vc,https://www.future.africa/
+South Africa,Sub-Saharan Africa,Ventures Platform,Abuja,pre-seed to series A,US$100k–5M,generalist tech,vc,https://www.venturesplatform.com/
+South Africa,Sub-Saharan Africa,Goodwell Investments,Nairobi / Johannesburg,seed to growth,unknown,"financial inclusion, impact",vc,https://goodwell.nl/
+South Korea,East Asia,Korea Venture Investment Corp (KVIC),Seoul,multi,fund-of-funds,generalist,government_fund,https://www.kvic.or.kr
+South Korea,East Asia,Korea Investment Partners,Seoul,multi,unknown,"generalist, bio, ICT",vc,https://partners.koreainvestment.com
+South Korea,East Asia,Kakao Ventures,Seoul,seed,unknown,"tech, AI",cvc,https://www.kakao.vc
+South Korea,East Asia,Altos Ventures,Seoul,multi,unknown,"consumer internet, gaming",vc,https://altos.vc
+South Korea,East Asia,Stonebridge Ventures,Seoul,multi,unknown,"ICT, bio",vc,https://www.stonebridge.co.kr
+South Korea,East Asia,Strong Ventures,Seoul,seed,unknown,"generalist, cross-border",vc,https://strongvc.com
+South Korea,East Asia,Bon Angels Venture Partners,Seoul,seed,unknown,internet,vc,https://www.bonangels.net
+South Korea,East Asia,Atinum Investment,Seoul,multi,unknown,generalist,vc,https://www.atinum.com
+South Korea,East Asia,LB Investment,Seoul,multi,unknown,"ICT, bio, content",vc,https://lbinvestment.com/kor/
+South Korea,East Asia,Hashed,Seoul,seed,unknown,"web3, AI",vc,https://www.hashed.com
+South Korea,East Asia,Krew Capital,Seoul,seed,unknown,generalist,vc,https://www.krewcapital.com
+South Korea,East Asia,Smilegate Investment,Seoul,multi,unknown,"content, ICT, bio",vc,https://www.smilegateinvestment.com
+South Korea,East Asia,Kakao Investment,Seoul,multi,unknown,tech,cvc,https://www.kakaoinvestment.com
+South Korea,East Asia,Yellowdog,Seoul,seed,unknown,impact,vc,https://www.yellowdog.kr
+South Korea,East Asia,Korea Business Angels Network (KBAN),Seoul,pre-seed,unknown,generalist,angel_network,https://www.kban.or.kr
+Spain,Europe,K Fund,Madrid,seed,unknown,generalist,vc,https://www.kfund.vc/
+Spain,Europe,Seaya,Madrid,multi,unknown,"tech, climate",vc,https://www.seaya.vc/
+Spain,Europe,Kibo Ventures,Madrid,series A,unknown,tech,vc,https://www.kiboventures.com/
+Spain,Europe,JME Ventures,Madrid,seed,unknown,generalist,vc,https://www.jme.vc/
+Spain,Europe,Adara Ventures,Madrid,series A,unknown,"deep tech, B2B",vc,https://www.adaraventures.com/
+Spain,Europe,Big Sur Ventures,Madrid,seed,unknown,"internet, SaaS",vc,https://www.bigsurventures.vc/
+Spain,Europe,Encomenda,Barcelona,pre-seed,unknown,generalist,vc,https://encomenda.com/
+Spain,Europe,Bonsai Partners,Madrid,seed,unknown,digital,vc,https://www.bonsaipartners.com/
+Spain,Europe,Inveready,Barcelona,multi,unknown,"tech, biotech",vc,https://inveready.com/
+Spain,Europe,Ysios Capital,Barcelona,multi,unknown,life sciences,vc,https://ysioscapital.com/
+Spain,Europe,Axis (ICO),Madrid,multi,fund-of-funds and direct,generalist,government_fund,https://www.axispart.com/
+St. Kitts & Nevis,Latin America & Caribbean,FirstAngels Caribbean,Kingston,seed,unknown (each angel decides),generalist,angel_network,https://firstangelscaribbean.com
+St. Kitts & Nevis,Latin America & Caribbean,Caribbean Angels,regional,seed,unknown,generalist,angel_network,https://www.caribbeanangels.com
+St. Lucia,Latin America & Caribbean,FirstAngels Caribbean,Kingston,seed,unknown (each angel decides),generalist,angel_network,https://firstangelscaribbean.com
+St. Lucia,Latin America & Caribbean,Caribbean Angels,regional,seed,unknown,generalist,angel_network,https://www.caribbeanangels.com
+St. Vincent & Grenadines,Latin America & Caribbean,FirstAngels Caribbean,Kingston,seed,unknown (each angel decides),generalist,angel_network,https://firstangelscaribbean.com
+St. Vincent & Grenadines,Latin America & Caribbean,Caribbean Angels,regional,seed,unknown,generalist,angel_network,https://www.caribbeanangels.com
+Suriname,Latin America & Caribbean,Caribbean Angels,regional,seed,unknown,generalist,angel_network,https://www.caribbeanangels.com
+Sweden,Europe,Creandum,Stockholm,seed,unknown,generalist tech,vc,https://creandum.com/
+Sweden,Europe,EQT Ventures,Stockholm,multi,unknown,generalist tech,vc,https://eqtgroup.com/private-capital/eqt-ventures
+Sweden,Europe,Northzone,Stockholm / London,multi,unknown,generalist tech,vc,https://www.northzone.com/
+Sweden,Europe,Norrsken VC,Stockholm,multi,unknown,"impact, climate, health",vc,https://www.norrsken.vc/
+Sweden,Europe,Luminar Ventures,Stockholm,seed,unknown,software,vc,https://www.luminarventures.com/
+Sweden,Europe,Industrifonden,Stockholm,multi,unknown,"deep tech, life science, climate",government_fund,https://industrifonden.com/
+Sweden,Europe,Almi Invest,Stockholm (regional offices),pre-seed,unknown,generalist,government_fund,https://www.almi.se/en/venture-capital/
+Sweden,Europe,Saminvest,Stockholm,multi,fund-of-funds,generalist,government_fund,https://www.saminvest.se/en/
+Sweden,Europe,Backingminds,Stockholm,pre-seed,unknown,"generalist, underrepresented founders",vc,https://www.backingminds.com/
+Sweden,Europe,Wellstreet,Stockholm,pre-seed,unknown,generalist tech,vc,https://wellstreet.se/
+Sweden,Europe,Kinnevik,Stockholm,growth,unknown,"healthcare, software, climate",family_office,https://www.kinnevik.com/
+Sweden,Europe,Propel Capital (Sting),Stockholm,pre-seed,up to SEK 500k,generalist,angel_network,https://propelcapital.sting.co
+Switzerland,Europe,Redalpine,Zurich,seed,unknown,"deep tech, health, fintech",vc,https://www.redalpine.com/
+Switzerland,Europe,Founderful (formerly Wingman),Zurich,pre-seed,unknown,generalist,vc,https://www.founderful.com/
+Switzerland,Europe,Verve Ventures,Zurich,seed,unknown,deep tech,vc,https://www.verve.vc/
+Switzerland,Europe,b2venture,St. Gallen,seed,unknown,generalist,vc,https://www.b2venture.vc/
+Switzerland,Europe,Swisscom Ventures,Zurich,multi,unknown,"ICT, deep tech",cvc,https://ventures.swisscom.com/
+Switzerland,Europe,Swiss Founders Fund,Zurich,seed,unknown,generalist,vc,https://sff.vc/
+Switzerland,Europe,Emerald Technology Ventures,Zurich,series A,unknown,"industrial, energy",vc,https://www.emerald.vc/
+Switzerland,Europe,Kickfund,Zurich,pre-seed,unknown,deep tech,vc,https://www.kickfund.ch/
+Switzerland,Europe,Tomahawk.VC,Zurich,seed,unknown,"software, deep tech",vc,https://www.tomahawk.vc/
+Switzerland,Europe,Lakestar (Zurich office),Zurich,multi,unknown,tech,vc,https://www.lakestar.com/
+Taiwan,East Asia,AppWorks Funds,Taipei,multi,unknown,"AI, web3, Southeast Asia and Greater China tech",vc,https://appworks.tw
+Taiwan,East Asia,National Development Fund,Taipei,multi,co-investment,"generalist, strategic industries",government_fund,https://www.df.gov.tw
+Taiwan,East Asia,Taiwania Capital,Taipei,multi,unknown,"biotech, IoT, AI",government_fund,https://www.taiwaniacapital.com
+Taiwan,East Asia,CDIB Capital Group,Taipei,multi,unknown,generalist,vc,https://www.cdibcapitalgroup.com/zh-tw
+Taiwan,East Asia,Cherubic Ventures,Taipei,seed,unknown,"consumer, tech",vc,https://cherubic.com
+Taiwan,East Asia,Darwin Venture Management,Taipei,multi,unknown,tech,vc,https://darwinvc.com
+Taiwan,East Asia,WI Harper Group,Taipei,multi,unknown,"tech, health, cross-border",vc,https://wiharper.com
+Tajikistan,Central Asia & Caucasus,ADB Ventures,Manila (regional),seed,unknown,"climate, health, fintech, agritech impact",government_fund,https://ventures.adb.org
+Tanzania,Sub-Saharan Africa,Novastar Ventures,Nairobi,seed to series B,US$1M–10M,"impact, climate, health, fintech",vc,https://www.novastarventures.com/
+Tanzania,Sub-Saharan Africa,Partech Africa,Nairobi / Lagos / Dakar,seed to series B,US$1M–15M+,generalist tech,vc,https://partechpartners.com/
+Tanzania,Sub-Saharan Africa,Acumen,Nairobi / pan-African,seed to growth,unknown,"agri, energy, impact",vc,https://acumen.org/
+Tanzania,Sub-Saharan Africa,DOB Equity,East Africa (Nairobi),series A to growth,unknown,"impact, agri, health",family_office,https://www.dobequity.nl/
+Tanzania,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+Tanzania,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Tanzania,Sub-Saharan Africa,Catalyst Fund,Pan-African,pre-seed,US$200k,climate adaptation and resilience,vc,https://www.thecatalystfund.com/
+Thailand,Southeast Asia,SCB 10X,Bangkok,multi,unknown,"fintech, AI, web3",cvc,https://www.scb10x.com/
+Thailand,Southeast Asia,Beacon Venture Capital (Kasikornbank),Bangkok,multi,unknown,"fintech, generalist",cvc,https://www.beaconvc.fund/
+Thailand,Southeast Asia,Krungsri Finnovate,Bangkok,multi,unknown,fintech,cvc,https://www.krungsrifinnovate.com/en
+Thailand,Southeast Asia,AddVentures by SCG,Bangkok,multi,unknown,"industrial, climate, generalist",cvc,https://www.addventures.co.th/
+Thailand,Southeast Asia,STV (Siam Technology Ventures),Bangkok,growth,unknown,generalist,vc,https://www.stv.vc/
+Thailand,Southeast Asia,KBTG,Bangkok,multi,unknown,"AI, fintech",cvc,https://www.kbtg.tech/
+Togo,Sub-Saharan Africa,Investisseurs & Partenaires (I&P),Paris / regional,seed to growth (SMEs),unknown,impact SMEs,vc,https://www.ietp.com/en
+Togo,Sub-Saharan Africa,Saviu Ventures,Paris / Abidjan,seed / series A,unknown,"tech, francophone Africa",vc,https://www.saviu.vc/
+Togo,Sub-Saharan Africa,Janngo Capital,Abidjan / Paris,seed / series A,unknown,"tech, gender-lens",vc,https://www.janngo.com/
+Togo,Sub-Saharan Africa,Digital Africa Fuze,Paris (French public),pre-seed / seed,up to EUR 100k (~US$115k),"tech, any sector",government_fund,https://digital-africa.co/fuze
+Tonga,Oceania,ADB Ventures,Manila (regional),seed,unknown,"climate tech, inclusive tech",vc,https://ventures.adb.org
+Trinidad & Tobago,Latin America & Caribbean,FirstAngels Caribbean,Kingston,seed,unknown (each angel decides),generalist,angel_network,https://firstangelscaribbean.com
+Trinidad & Tobago,Latin America & Caribbean,Caribbean Angels,regional,seed,unknown,generalist,angel_network,https://www.caribbeanangels.com
+Tunisia,Middle East & North Africa,216 Capital,Tunis,seed,unknown,tech,vc,https://216capital.vc/
+Tunisia,Middle East & North Africa,Smart Capital,Tunis,multi,unknown,generalist,government_fund,https://smartcapital.tn/
+Turkey,Middle East & North Africa,212,Istanbul,series A,US$1M-10M,B2B tech,vc,https://212.vc/
+Turkey,Middle East & North Africa,Revo Capital,Istanbul,series A,US$1M-10M,tech,vc,https://revo.vc/
+Turkey,Middle East & North Africa,Earlybird Digital East,Istanbul / Berlin,multi,US$1M-20M,tech,vc,https://earlybird.com/
+Turkey,Middle East & North Africa,Collective Spark,Istanbul,seed,US$0.25M-2M,tech,vc,https://collectivespark.com/
+Turkey,Middle East & North Africa,Diffusion Capital,Istanbul,seed,unknown,tech,vc,https://www.diffusion.capital/
+Turkey,Middle East & North Africa,Logo Ventures,Istanbul,seed,unknown,B2B software,cvc,https://www.logoventures.com/
+Turkey,Middle East & North Africa,Sabanci Ventures,Istanbul,multi,unknown,tech,cvc,https://www.sabanciventures.com/en/
+Turkey,Middle East & North Africa,Vestel Ventures,Istanbul,seed,unknown,"hardware, IoT",cvc,https://www.vestelventures.com/
+Turkey,Middle East & North Africa,Finberg,Istanbul,seed,unknown,fintech,cvc,https://finberg.com.tr/
+Turkey,Middle East & North Africa,Galata Business Angels,Istanbul,pre-seed,unknown,generalist,angel_network,https://galatabusinessangels.com/tr/
+Turkmenistan,Central Asia & Caucasus,ADB Ventures,Manila (regional),seed,unknown,"climate, health, fintech, agritech impact",government_fund,https://ventures.adb.org
+Tuvalu,Oceania,ADB Ventures,Manila (regional),seed,unknown,"climate tech, inclusive tech",vc,https://ventures.adb.org
+Uganda,Sub-Saharan Africa,Novastar Ventures,Nairobi,seed to series B,US$1M–10M,"impact, climate, health, fintech",vc,https://www.novastarventures.com/
+Uganda,Sub-Saharan Africa,Partech Africa,Nairobi / Lagos / Dakar,seed to series B,US$1M–15M+,generalist tech,vc,https://partechpartners.com/
+Uganda,Sub-Saharan Africa,Acumen,Nairobi / pan-African,seed to growth,unknown,"agri, energy, impact",vc,https://acumen.org/
+Uganda,Sub-Saharan Africa,DOB Equity,East Africa (Nairobi),series A to growth,unknown,"impact, agri, health",family_office,https://www.dobequity.nl/
+Uganda,Sub-Saharan Africa,Renew Capital,Addis Ababa / East Africa,seed to series A,unknown,"generalist, angel syndicates",angel_network,https://www.renewcapital.com/
+Uganda,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+Uganda,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Uganda,Sub-Saharan Africa,Catalyst Fund,Pan-African,pre-seed,US$200k,climate adaptation and resilience,vc,https://www.thecatalystfund.com/
+Uganda,Sub-Saharan Africa,Pearl Capital Partners,Kampala,growth,unknown,agriculture,vc,https://pearlcapital.net/
+Uganda,Sub-Saharan Africa,Uganda Development Bank,Kampala,multi,unknown,"SMEs, priority sectors",government_fund,https://www.udbl.co.ug/
+Ukraine,Europe,Flyer One Ventures,Kyiv,seed,up to US$1.5M,software,vc,https://flyerone.vc
+Ukraine,Europe,SMRK,Kyiv,seed,US$0.5-1.5M,IT products,vc,https://smrk.vc
+Ukraine,Europe,u.ventures,Kyiv,seed,unknown,generalist tech,vc,https://u.ventures
+Ukraine,Europe,TA Ventures,Kyiv,seed,US$300k-1.5M,"tech, health",vc,https://www.taventures.vc
+Ukraine,Europe,Angel One Fund,Lviv,seed,unknown,civilian and defence tech,vc,https://angelone.fund
+Ukraine,Europe,AVentures Capital,Kyiv,series A,unknown,generalist tech,vc,https://www.aventurescapital.com
+Ukraine,Europe,Roosh Ventures,Kyiv,multi,unknown,"AI, generalist tech",vc,https://roosh.vc
+Ukraine,Europe,Horizon Capital,Kyiv,growth,unknown,"tech, generalist",vc,https://horizoncapital.com.ua
+Ukraine,Europe,MITS Capital,Kyiv,seed,from US$100k,defence and security tech,vc,https://mits.capital
+Ukraine,Europe,Resist.UA,Kyiv,multi,unknown,defence and dual-use,vc,https://resist.ua
+Ukraine,Europe,D3 (Dare to Defend Democracy),unknown,seed,US$500k-1.5M,"drones, EW, autonomy, AI, demining",vc,https://d3.vc
+Ukraine,Europe,1991 Ventures,Kyiv / London,seed,up to GBP 400k,"defence, AI, fintech, energy, health",vc,https://www.1991.vc
+Ukraine,Europe,"UMAEF (Ukraine-Moldova American Enterprise Fund, ex-WNISEF)",Kyiv,multi,unknown,generalist SMEs and tech,government_fund,https://www.wnisef.org
+United Arab Emirates,Middle East & North Africa,BECO Capital,Dubai,seed,US$1M-10M,tech,vc,https://www.beco.vc/
+United Arab Emirates,Middle East & North Africa,Global Ventures,Dubai,multi,US$1M-10M,tech,vc,https://www.global.vc/
+United Arab Emirates,Middle East & North Africa,Shorooq Partners,Abu Dhabi,multi,US$0.5M-10M,"tech, fintech",vc,https://www.shorooq.com/
+United Arab Emirates,Middle East & North Africa,MEVP,Dubai,multi,US$1M-10M,tech,vc,https://mevp.com/
+United Arab Emirates,Middle East & North Africa,COTU Ventures,Dubai,seed,unknown,tech,vc,https://www.cotucapital.com/
+United Arab Emirates,Middle East & North Africa,Plus VC,Dubai,seed,unknown,tech,vc,https://plus.vc/
+United Arab Emirates,Middle East & North Africa,Nuwa Capital,Dubai,seed,unknown,tech,vc,https://nuwa.capital/
+United Arab Emirates,Middle East & North Africa,Wamda,Dubai,multi,unknown,tech,vc,https://www.wamda.com/
+United Arab Emirates,Middle East & North Africa,ADQ,Abu Dhabi,growth,unknown,generalist,government_fund,https://www.adq.ae/
+United Arab Emirates,Middle East & North Africa,Mubadala Capital,Abu Dhabi,growth,unknown,generalist,government_fund,https://www.mubadalacapital.ae/
+United Kingdom,Europe,Balderton Capital,London,multi,US$1M–30M,generalist tech,vc,https://www.balderton.com/
+United Kingdom,Europe,Atomico,London,series A,US$5M–50M,generalist tech,vc,https://www.atomico.com/
+United Kingdom,Europe,Index Ventures,London,multi,unknown,generalist tech,vc,https://www.indexventures.com/
+United Kingdom,Europe,Accel (London),London,multi,unknown,generalist tech,vc,https://www.accel.com/
+United Kingdom,Europe,LocalGlobe (Phoenix Court),London,seed,US$0.5M–3M,generalist,vc,https://www.phoenixcourt.vc/funds/localglobe
+United Kingdom,Europe,Lightspeed Venture Partners (London),London,multi,unknown,generalist tech,vc,https://www.lsvp.com/
+United Kingdom,Europe,Northzone,London,multi,unknown,generalist tech,vc,https://www.northzone.com/
+United Kingdom,Europe,Notion Capital,London,series A,unknown,B2B software,vc,https://www.notioncapital.com/
+United Kingdom,Europe,MMC Ventures,London,series A,unknown,"AI, B2B, fintech",vc,https://mmc.vc/
+United Kingdom,Europe,Octopus Ventures,London,multi,unknown,"health, fintech, deep tech, B2B",vc,https://www.octopusventures.com/
+United Kingdom,Europe,Molten Ventures,London,growth,unknown,generalist tech,vc,https://www.moltenventures.com/
+United Kingdom,Europe,IP Group,London,multi,unknown,"university spinouts, deep tech, life sciences",vc,https://www.ipgroupplc.com/
+United Kingdom,Europe,Oxford Science Enterprises,Oxford,multi,unknown,"Oxford spinouts, life sciences, deep tech",vc,https://www.oxfordscienceenterprises.com/
+United Kingdom,Europe,Cambridge Innovation Capital,Cambridge,multi,unknown,"deep tech, life sciences",vc,https://www.cic.vc/
+United Kingdom,Europe,Amadeus Capital Partners,Cambridge,multi,unknown,deep tech,vc,https://www.amadeuscapital.com/
+United Kingdom,Europe,Parkwalk,London,multi,unknown,university spinouts (EIS funds),vc,https://parkwalk.vc/
+United Kingdom,Europe,Kindred Capital,London,seed,unknown,generalist,vc,https://kindredcapital.vc/
+United Kingdom,Europe,Playfair Capital,London,pre-seed,unknown,generalist,vc,https://www.playfair.vc/
+United Kingdom,Europe,Ada Ventures,London,pre-seed,unknown,"generalist, inclusive",vc,https://www.adaventures.com/
+United Kingdom,Europe,Connect Ventures,London,seed,unknown,consumer and B2B product-led,vc,https://www.connectventures.co/
+United Kingdom,Europe,Episode 1,London,seed,unknown,software,vc,https://www.episode1.com/
+United Kingdom,Europe,Blossom Capital,London,series A,unknown,generalist tech,vc,https://www.blossomcap.com/
+United Kingdom,Europe,firstminute capital,London,seed,unknown,generalist,vc,https://www.firstminute.capital/
+United Kingdom,Europe,Mercia Ventures,Birmingham,multi,unknown,"regional, generalist",vc,https://www.mercia.co.uk/
+United Kingdom,Europe,British Patient Capital / British Business Bank,London,multi,fund-of-funds and co-investment,generalist,government_fund,https://www.british-business-bank.co.uk/
+United States,North America,Sequoia Capital,Menlo Park,multi,unknown,generalist,vc,https://www.sequoiacap.com/
+United States,North America,Andreessen Horowitz (a16z),Menlo Park,multi,unknown,generalist,vc,https://a16z.com/
+United States,North America,Accel,Palo Alto,multi,unknown,generalist,vc,https://www.accel.com/
+United States,North America,Benchmark,San Francisco,series A,unknown,generalist,vc,https://www.benchmark.com/
+United States,North America,Lightspeed Venture Partners,Menlo Park,multi,unknown,generalist,vc,https://lsvp.com/
+United States,North America,Founders Fund,San Francisco,multi,unknown,"generalist, deep tech",vc,https://foundersfund.com/
+United States,North America,General Catalyst,"Cambridge, San Francisco",multi,unknown,generalist,vc,https://www.generalcatalyst.com/
+United States,North America,Kleiner Perkins,Menlo Park,multi,unknown,generalist,vc,https://www.kleinerperkins.com/
+United States,North America,Greylock,Menlo Park,multi,unknown,"enterprise, consumer, AI",vc,https://greylock.com/
+United States,North America,Khosla Ventures,Menlo Park,multi,unknown,"deep tech, climate, health, AI",vc,https://www.khoslaventures.com/
+United States,North America,NEA,Menlo Park,multi,unknown,"generalist, healthcare",vc,https://www.nea.com/
+United States,North America,Bessemer Venture Partners,San Francisco,multi,unknown,generalist,vc,https://www.bvp.com/
+United States,North America,Index Ventures,San Francisco,multi,unknown,generalist,vc,https://www.indexventures.com/
+United States,North America,GV,Mountain View,multi,unknown,"generalist, life sciences",cvc,https://www.gv.com/
+United States,North America,Thrive Capital,New York,multi,unknown,generalist,vc,https://thrivecap.com/
+United States,North America,Union Square Ventures,New York,seed,unknown,generalist,vc,https://www.usv.com/
+United States,North America,Insight Partners,New York,growth,unknown,software,vc,https://www.insightpartners.com/
+United States,North America,Redpoint Ventures,San Francisco,multi,unknown,"enterprise, consumer",vc,https://www.redpoint.com/
+United States,North America,Felicis,Menlo Park,multi,unknown,generalist,vc,https://www.felicis.com/
+United States,North America,Lux Capital,New York,multi,unknown,deep tech,vc,https://www.luxcapital.com/
+United States,North America,8VC,Austin,multi,unknown,"enterprise, defense, health",vc,https://8vc.com/
+United States,North America,First Round Capital,San Francisco,seed,unknown,generalist,vc,https://firstround.com/
+United States,North America,Initialized Capital,San Francisco,seed,unknown,generalist,vc,https://initialized.com/
+United States,North America,SV Angel,San Francisco,seed,unknown,generalist,vc,https://svangel.com/
+United States,North America,Precursor Ventures,San Francisco,pre-seed,unknown,generalist,vc,https://precursorvc.com/
+Uruguay,Latin America & Caribbean,Cardumen Capital,Montevideo,seed,unknown,generalist tech,vc,https://www.cardumencapital.com/
+Uruguay,Latin America & Caribbean,Big Sur Ventures,Montevideo,seed,unknown,"SaaS, internet",vc,https://www.bigsurventures.vc/
+Uruguay,Latin America & Caribbean,NXTP Ventures,Regional,seed,US$150k–5M,B2B tech,vc,https://www.nxtp.vc/
+Uruguay,Latin America & Caribbean,Kaszek,Regional,multi,US$1M–30M,generalist tech,vc,https://www.kaszek.com/
+Uzbekistan,Central Asia & Caucasus,UzVC,Tashkent,multi,unknown,generalist; fund of funds,government_fund,https://uzvc.uz/
+Uzbekistan,Central Asia & Caucasus,Aloqa Ventures,Tashkent,pre-seed,up to US$1M,"fintech, edtech, e-commerce, mobility",vc,https://www.aloqaventures.uz/
+Uzbekistan,Central Asia & Caucasus,Imkon Ventures,Tashkent,pre-seed,unknown,"SaaS, B2B, AI, fintech, edtech",vc,https://imkon.vc/en
+Uzbekistan,Central Asia & Caucasus,Sarmo Ventures,unknown,pre-seed,unknown,generalist (Central Asian founders),vc,https://sarmo.vc/
+Uzbekistan,Central Asia & Caucasus,Big Sky Capital,Almaty / Fort Lauderdale,seed,US$250k-500k (est.),"enterprise AI, B2B SaaS, fintech",vc,https://bigskycapital.vc
+Uzbekistan,Central Asia & Caucasus,Sturgeon Capital,Tashkent,multi,unknown,generalist frontier tech,vc,https://www.sturgeoncapital.com
+Uzbekistan,Central Asia & Caucasus,ADB Ventures,Manila (regional),seed,unknown,"climate, health, fintech, agritech impact",government_fund,https://ventures.adb.org
+Vanuatu,Oceania,ADB Ventures,Manila (regional),seed,unknown,"climate tech, inclusive tech",vc,https://ventures.adb.org
+Venezuela,Latin America & Caribbean,Carao Ventures,"San Jose, Costa Rica",seed,up to ~US$1M (directory est.),"generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",vc,https://www.caraov.com
+Vietnam,Southeast Asia,Do Ventures,Ho Chi Minh City,seed,US$500k–3M,generalist,vc,https://doventures.vc/
+Vietnam,Southeast Asia,Ascend Vietnam Ventures (AVV),Ho Chi Minh City,seed,unknown,generalist,vc,https://avv.co/
+Vietnam,Southeast Asia,ThinkZone Ventures,Hanoi,seed,unknown,generalist,vc,https://www.thinkzone.vn/
+Vietnam,Southeast Asia,Genesia Ventures,Tokyo / Ho Chi Minh City,seed,unknown,generalist,vc,https://www.genesiaventures.com/
+Vietnam,Southeast Asia,CyberAgent Capital,Tokyo / Ho Chi Minh City,seed,unknown,generalist,cvc,https://www.cyberagentcapital.com/
+Vietnam,Southeast Asia,VSV Capital,Hanoi,pre-seed,unknown,generalist,vc,https://www.vsvcapital.com.vn/
+Vietnam,Southeast Asia,VinaCapital Ventures,Ho Chi Minh City,series A,unknown,generalist,vc,https://www.vinacapital.com/
+Vietnam,Southeast Asia,Mekong Capital,Ho Chi Minh City,growth,unknown,consumer,vc,https://www.mekongcapital.com/
+Zambia,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Zambia,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+Zambia,Sub-Saharan Africa,Catalyst Fund,Pan-African,pre-seed,US$200k,climate adaptation and resilience,vc,https://www.thecatalystfund.com/
+Zambia,Sub-Saharan Africa,Partech Africa,Nairobi / Lagos / Dakar,seed to series B,US$1M–15M+,generalist tech,vc,https://partechpartners.com/
+Zimbabwe,Sub-Saharan Africa,Launch Africa Ventures,Pan-African (Mauritius-domiciled),pre-seed to seed,US$100k–1M,generalist tech,vc,https://www.launchafrica.vc/
+Zimbabwe,Sub-Saharan Africa,Seedstars Africa Ventures,Pan-African,seed,US$100k–1M,"generalist, emerging markets",vc,https://www.seedstars.com/
+Zimbabwe,Sub-Saharan Africa,Catalyst Fund,Pan-African,pre-seed,US$200k,climate adaptation and resilience,vc,https://www.thecatalystfund.com/
+Zimbabwe,Sub-Saharan Africa,Goodwell Investments,Nairobi / Johannesburg,seed to growth,unknown,"financial inclusion, impact",vc,https://goodwell.nl/

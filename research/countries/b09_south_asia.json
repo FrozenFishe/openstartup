@@ -1,0 +1,1294 @@
+[
+ {
+  "country": "India",
+  "iso2": "IN",
+  "ecosystem_tier": "global_hub",
+  "summary": "World's third-largest startup ecosystem with 150k+ DPIIT-recognised startups and 100+ unicorns; hubs in Bengaluru, Delhi NCR, Mumbai, Hyderabad, Pune, Chennai. Strong in SaaS, fintech, consumer internet and deeptech; notable IPOs include Zomato (Eternal), Swiggy and Ola Electric.",
+  "startup_visa": "No dedicated startup visa; foreign founders use the e-Business/Business visa (multi-year, multiple entry) or Employment visa. DPIIT recognition is available to Indian-incorporated entities with foreign founders.",
+  "company_setup": "Private Limited Company via MCA SPICe+ online form; 100% FDI under automatic route in most sectors; needs at least one resident director and Indian registered office; DSC can be obtained remotely; typically 1-3 weeks and under US$500 in government fees.",
+  "grants": [
+   {
+    "name": "Startup India Seed Fund Scheme (SISFS)",
+    "agency": "DPIIT via approved incubators",
+    "amount": "Up to INR 20 lakh grant (PoC/prototype) plus up to INR 50 lakh convertible debt/debentures",
+    "amount_usd_max": 57000,
+    "eligibility": "DPIIT-recognised startups under 2 years old, applying through an SISFS incubator",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://seedfund.startupindia.gov.in/"
+   },
+   {
+    "name": "Biotechnology Ignition Grant (BIG)",
+    "agency": "BIRAC (DBT)",
+    "amount": "Up to INR 50 lakh over 18 months",
+    "amount_usd_max": 57000,
+    "eligibility": "Early-stage biotech/medtech startups and researchers with PoC-stage ideas",
+    "deadline": "last: 2025-11-30 (25th call); calls roughly once or twice a year",
+    "status": "upcoming",
+    "url": "https://birac.nic.in/cfp.php"
+   },
+   {
+    "name": "BIRAC E-YUVA Innovation Fellowship call",
+    "agency": "BIRAC (DBT)",
+    "amount": "Fellowship and support grant via E-YUVA centres",
+    "amount_usd_max": null,
+    "eligibility": "Students/young researchers and E-YUVA fellows",
+    "deadline": "2026-10-31",
+    "status": "open",
+    "url": "https://birac.nic.in/cfp.php"
+   },
+   {
+    "name": "MeitY SAMRIDH",
+    "agency": "MeitY Startup Hub",
+    "amount": "Matching investment up to INR 40 lakh via selected accelerators",
+    "amount_usd_max": 45000,
+    "eligibility": "Product-market-fit software/IT startups selected by SAMRIDH accelerators",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://msh.meity.gov.in/schemes/samridh"
+   },
+   {
+    "name": "NIDHI-PRAYAS",
+    "agency": "DST (NSTEDB)",
+    "amount": "Up to INR 10 lakh prototype grant",
+    "amount_usd_max": 11000,
+    "eligibility": "Individual innovators via PRAYAS centres at TBIs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://nidhi.dst.gov.in/"
+   },
+   {
+    "name": "NIDHI Seed Support System (SSS)",
+    "agency": "DST (NSTEDB)",
+    "amount": "Seed support via DST-backed TBIs, typically up to INR 1 crore",
+    "amount_usd_max": 114000,
+    "eligibility": "Startups incubated at DST-supported TBIs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://nidhi.dst.gov.in/"
+   },
+   {
+    "name": "Atal New India Challenge / Atal Incubation support",
+    "agency": "Atal Innovation Mission (NITI Aayog)",
+    "amount": "Grants up to INR 1 crore (ANIC); incubator grants",
+    "amount_usd_max": 114000,
+    "eligibility": "Tech startups solving sectoral challenges; incubators",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://aim.gov.in/"
+   },
+   {
+    "name": "ELEVATE NxT 2026-27 (DeepTech)",
+    "agency": "Government of Karnataka, Dept of Electronics IT BT",
+    "amount": "Grant up to INR 1 crore",
+    "amount_usd_max": 114000,
+    "eligibility": "Karnataka-registered deeptech startups, TRL 3-8",
+    "deadline": "2026-11-13",
+    "status": "open",
+    "url": "https://eitbt.karnataka.gov.in/"
+   },
+   {
+    "name": "ELEVATE (Idea2PoC) incl. Aspire, Unnati, Shakti tracks",
+    "agency": "Government of Karnataka",
+    "amount": "Grant up to INR 50 lakh",
+    "amount_usd_max": 57000,
+    "eligibility": "Karnataka-registered startups; tracks for non-Bengaluru, SC/ST and women founders",
+    "deadline": "last: 2026 call (opened 2026-05-25); annual",
+    "status": "closed",
+    "url": "https://eitbt.karnataka.gov.in/"
+   },
+   {
+    "name": "KSUM Early Stage Funding and Productisation Grants",
+    "agency": "Kerala Startup Mission",
+    "amount": "Innovation/productisation/scale-up grants (lakh-level); Women Productisation Grant",
+    "amount_usd_max": null,
+    "eligibility": "Kerala-registered startups; women/transgender-led for the women grant",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://startupmission.kerala.gov.in/"
+   },
+   {
+    "name": "TANSEED",
+    "agency": "StartupTN (Government of Tamil Nadu)",
+    "amount": "Equity-linked seed grant, roughly INR 10-15 lakh",
+    "amount_usd_max": 17000,
+    "eligibility": "Tamil Nadu-based DPIIT-recognised startups",
+    "deadline": "unknown (periodic editions)",
+    "status": "unknown",
+    "url": "https://startuptn.in/"
+   },
+   {
+    "name": "Fund of Funds for Startups (FFS) / SIDBI schemes",
+    "agency": "SIDBI on behalf of DPIIT",
+    "amount": "INR 10,000 crore FoF corpus invested through SEBI-registered AIFs",
+    "amount_usd_max": null,
+    "eligibility": "Startups funded via FFS-backed VC funds; SIDBI also offers venture debt",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.sidbi.in/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Surge",
+    "city": "Bengaluru",
+    "type": "accelerator",
+    "investment": "Peak XV seed investment (typically US$1-3M)",
+    "sectors": "generalist",
+    "deadline": "rolling (applications reviewed in 2-3 weeks)",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://surge.peakxv.com/apply"
+   },
+   {
+    "name": "Antler India Residency",
+    "city": "Bengaluru",
+    "type": "accelerator",
+    "investment": "INR 4 crore (about US$425-470k) for 11%",
+    "sectors": "generalist",
+    "deadline": "unknown (next residency to be announced)",
+    "next_cohort": "unknown",
+    "status": "upcoming",
+    "url": "https://www.antler.co/location/india"
+   },
+   {
+    "name": "Google for Startups Accelerator: India",
+    "city": "Bengaluru",
+    "type": "corporate",
+    "investment": "no equity",
+    "sectors": "AI, generalist tech",
+    "deadline": "last: 2026-04-19; annual",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://startup.google.com/programs/accelerator/india/"
+   },
+   {
+    "name": "T-Hub",
+    "city": "Hyderabad",
+    "type": "government",
+    "investment": "varies by program; Kotak Bizlabs grants up to INR 30 lakh",
+    "sectors": "generalist, semiconductors, spacetech, AI, mobility, healthcare",
+    "deadline": "rolling (program-specific calls)",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.t-hub.co/"
+   },
+   {
+    "name": "Kerala Startup Mission (KSUM) incubation",
+    "city": "Kochi",
+    "type": "government",
+    "investment": "grants, no equity",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://startupmission.kerala.gov.in/"
+   },
+   {
+    "name": "WE Hub",
+    "city": "Hyderabad",
+    "type": "government",
+    "investment": "no equity; grants and market access",
+    "sectors": "women-led startups",
+    "deadline": "rolling (program-specific calls)",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://wehub.telangana.gov.in/"
+   },
+   {
+    "name": "100X.VC",
+    "city": "Mumbai",
+    "type": "accelerator",
+    "investment": "iSAFE note investment (about INR 1.25 crore historically)",
+    "sectors": "generalist",
+    "deadline": "class-based, rolling applications",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.100x.vc/"
+   },
+   {
+    "name": "Huddle",
+    "city": "Delhi NCR",
+    "type": "accelerator",
+    "investment": "accelerator plus fund cheque",
+    "sectors": "generalist early stage",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://huddle.work/"
+   },
+   {
+    "name": "Axilor Ventures",
+    "city": "Bengaluru",
+    "type": "accelerator",
+    "investment": "pre-seed/seed investment",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.axilor.com/"
+   },
+   {
+    "name": "NSRCEL (IIM Bangalore)",
+    "city": "Bengaluru",
+    "type": "university",
+    "investment": "grants/incubation, no equity for most programs",
+    "sectors": "generalist, women, social",
+    "deadline": "cohort-based",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://nsrcel.org/"
+   },
+   {
+    "name": "SINE IIT Bombay",
+    "city": "Mumbai",
+    "type": "university",
+    "investment": "incubation, seed support via NIDHI/BIRAC",
+    "sectors": "deeptech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://www.sineiitb.org/"
+   },
+   {
+    "name": "IIMA Ventures (formerly CIIE.CO)",
+    "city": "Ahmedabad",
+    "type": "university",
+    "investment": "grants and seed investment",
+    "sectors": "generalist, climate, fintech, health",
+    "deadline": "program-specific",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://iimaventures.com/"
+   },
+   {
+    "name": "Villgro",
+    "city": "Chennai",
+    "type": "incubator",
+    "investment": "grant/seed funding",
+    "sectors": "social impact: health, agri, climate",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://villgro.org/"
+   },
+   {
+    "name": "Zone Startups India",
+    "city": "Mumbai",
+    "type": "accelerator",
+    "investment": "no equity in core program",
+    "sectors": "fintech, tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.zonestartups.com/"
+   },
+   {
+    "name": "Maharashtra State Innovation Society (MSInS)",
+    "city": "Mumbai",
+    "type": "government",
+    "investment": "grants/work orders up to about INR 15 lakh via Startup Week",
+    "sectors": "generalist",
+    "deadline": "annual (Maharashtra Startup Week)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://msins.in/"
+   },
+   {
+    "name": "StartinUP",
+    "city": "Lucknow",
+    "type": "government",
+    "investment": "incubator support and sustenance allowance",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://startinup.up.gov.in/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Peak XV Partners",
+    "city": "Bengaluru",
+    "stage": "multi",
+    "check_size": "US$1M-50M+",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.peakxv.com/"
+   },
+   {
+    "name": "Accel India",
+    "city": "Bengaluru",
+    "stage": "seed",
+    "check_size": "US$0.5M-10M",
+    "sectors": "generalist, SaaS, consumer",
+    "type": "vc",
+    "url": "https://www.accel.com/"
+   },
+   {
+    "name": "Blume Ventures",
+    "city": "Mumbai",
+    "stage": "seed",
+    "check_size": "US$0.5M-3M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://blume.vc/"
+   },
+   {
+    "name": "Elevation Capital",
+    "city": "Delhi NCR",
+    "stage": "series A",
+    "check_size": "US$1M-15M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://elevationcapital.com/"
+   },
+   {
+    "name": "Chiratae Ventures",
+    "city": "Bengaluru",
+    "stage": "series A",
+    "check_size": "US$1M-10M",
+    "sectors": "tech, health, consumer",
+    "type": "vc",
+    "url": "https://chiratae.com/"
+   },
+   {
+    "name": "Lightspeed India",
+    "city": "Delhi NCR",
+    "stage": "multi",
+    "check_size": "US$1M-30M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://lsvp.com/"
+   },
+   {
+    "name": "Nexus Venture Partners",
+    "city": "Mumbai",
+    "stage": "series A",
+    "check_size": "US$1M-15M",
+    "sectors": "SaaS, AI, fintech",
+    "type": "vc",
+    "url": "https://www.nexusvp.com/"
+   },
+   {
+    "name": "Kalaari Capital",
+    "city": "Bengaluru",
+    "stage": "seed",
+    "check_size": "US$1M-5M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://kalaari.com/"
+   },
+   {
+    "name": "Z47 (formerly Matrix Partners India)",
+    "city": "Mumbai",
+    "stage": "series A",
+    "check_size": "US$2M-15M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.z47.com/"
+   },
+   {
+    "name": "Stellaris Venture Partners",
+    "city": "Bengaluru",
+    "stage": "seed",
+    "check_size": "US$1M-5M",
+    "sectors": "SaaS, consumer, fintech",
+    "type": "vc",
+    "url": "https://www.stellarisvp.com/"
+   },
+   {
+    "name": "3one4 Capital",
+    "city": "Bengaluru",
+    "stage": "seed",
+    "check_size": "US$0.5M-5M",
+    "sectors": "generalist, deeptech",
+    "type": "vc",
+    "url": "https://www.3one4capital.com/"
+   },
+   {
+    "name": "India Quotient",
+    "city": "Mumbai",
+    "stage": "seed",
+    "check_size": "US$0.5M-3M",
+    "sectors": "Bharat consumer, fintech",
+    "type": "vc",
+    "url": "https://www.indiaquotient.in/"
+   },
+   {
+    "name": "Fireside Ventures",
+    "city": "Bengaluru",
+    "stage": "seed",
+    "check_size": "US$1M-5M",
+    "sectors": "consumer brands",
+    "type": "vc",
+    "url": "https://www.fireside.vc/"
+   },
+   {
+    "name": "Inflexor Ventures",
+    "city": "Mumbai",
+    "stage": "seed",
+    "check_size": "US$0.5M-3M",
+    "sectors": "deeptech, SaaS",
+    "type": "vc",
+    "url": "https://www.inflexor.vc/"
+   },
+   {
+    "name": "Endiya Partners",
+    "city": "Hyderabad",
+    "stage": "seed",
+    "check_size": "US$0.5M-5M",
+    "sectors": "AI, deeptech, healthcare",
+    "type": "vc",
+    "url": "https://www.endiya.com/"
+   },
+   {
+    "name": "Together Fund",
+    "city": "Bengaluru",
+    "stage": "seed",
+    "check_size": "US$1M-5M",
+    "sectors": "AI, SaaS",
+    "type": "vc",
+    "url": "https://www.together.fund/"
+   },
+   {
+    "name": "Prime Venture Partners",
+    "city": "Bengaluru",
+    "stage": "seed",
+    "check_size": "US$1M-5M",
+    "sectors": "SaaS, fintech, healthtech",
+    "type": "vc",
+    "url": "https://www.primevp.in/"
+   },
+   {
+    "name": "Lightbox",
+    "city": "Mumbai",
+    "stage": "series A",
+    "check_size": "US$2M-10M",
+    "sectors": "consumer tech",
+    "type": "vc",
+    "url": "https://www.lightbox.vc/"
+   },
+   {
+    "name": "IvyCap Ventures",
+    "city": "Mumbai",
+    "stage": "series A",
+    "check_size": "US$1M-10M",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://www.ivycapventures.com/"
+   },
+   {
+    "name": "Athera Venture Partners",
+    "city": "Bengaluru",
+    "stage": "series A",
+    "check_size": "US$1M-5M",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.atheravp.com/"
+   },
+   {
+    "name": "Speciale Invest",
+    "city": "Chennai",
+    "stage": "seed",
+    "check_size": "US$0.5M-3M",
+    "sectors": "deeptech",
+    "type": "vc",
+    "url": "https://www.specialeinvest.com/"
+   },
+   {
+    "name": "Venture Catalysts",
+    "city": "Mumbai",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.venturecatalysts.in/"
+   },
+   {
+    "name": "Indian Angel Network (IAN Group)",
+    "city": "Delhi NCR",
+    "stage": "pre-seed",
+    "check_size": "US$50k-1M",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://iangroup.vc/"
+   },
+   {
+    "name": "LVX (formerly LetsVenture)",
+    "city": "Bengaluru",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://lvxventures.com/"
+   },
+   {
+    "name": "ah! Ventures",
+    "city": "Mumbai",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.ahventures.in/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Startup India (DPIIT recognition)",
+    "type": "government_agency",
+    "url": "https://www.startupindia.gov.in/",
+    "note": "DPIIT recognition unlocks tax holiday (80-IAC), angel-tax relief and self-certification"
+   },
+   {
+    "name": "DPIIT",
+    "type": "government_agency",
+    "url": "https://www.dpiit.gov.in/",
+    "note": "Ministry department running Startup India and FFS"
+   },
+   {
+    "name": "MeitY Startup Hub",
+    "type": "government_agency",
+    "url": "https://msh.meity.gov.in/",
+    "note": "National tech startup platform; SAMRIDH, GENESIS"
+   },
+   {
+    "name": "SIDBI",
+    "type": "government_agency",
+    "url": "https://www.sidbi.in/en/",
+    "note": "Manages Fund of Funds for Startups; venture debt"
+   },
+   {
+    "name": "NASSCOM",
+    "type": "startup_association",
+    "url": "https://www.nasscom.in/",
+    "note": "IT industry body; 10,000 Startups program"
+   },
+   {
+    "name": "TiE",
+    "type": "community",
+    "url": "https://tie.org/",
+    "note": "Founder/angel network with Indian chapters"
+   },
+   {
+    "name": "Headstart Network",
+    "type": "community",
+    "url": "https://www.headstart.in/",
+    "note": "Early-stage startup community and events"
+   },
+   {
+    "name": "Inc42",
+    "type": "database",
+    "url": "https://inc42.com/",
+    "note": "Startup news and funding data"
+   },
+   {
+    "name": "Venture Intelligence",
+    "type": "database",
+    "url": "https://www.ventureintelligence.com/",
+    "note": "PE/VC deal database for India"
+   },
+   {
+    "name": "Startup Haryana",
+    "type": "government_agency",
+    "url": "https://startupharyana.gov.in/",
+    "note": "Haryana state startup policy portal"
+   }
+  ],
+  "sources": [
+   "https://seedfund.startupindia.gov.in/",
+   "https://birac.nic.in/cfp.php",
+   "https://msh.meity.gov.in/schemes/samridh",
+   "https://www.antler.co/location/india",
+   "https://startup.google.com/programs/accelerator/india/",
+   "https://www.t-hub.co/"
+  ],
+  "confidence": "medium",
+  "notes": "As of 2026-10-20. Karnataka ELEVATE NxT deadline from secondary sources (aggregators); confirm on the state portal. startup.karnataka.gov.in did not resolve, so the dept site is used. BIRAC BIG 26th call not yet announced. Web-search quota ran out mid-research, so several deadlines are pattern-based."
+ },
+ {
+  "country": "Pakistan",
+  "iso2": "PK",
+  "ecosystem_tier": "emerging",
+  "summary": "Growing ecosystem centred on Karachi, Lahore and Islamabad; fintech, e-commerce and logistics lead. Funding fell sharply after the 2022 peak; Ignite runs a national network of incubation centres.",
+  "startup_visa": "none (business visa via Board of Investment; no dedicated startup visa)",
+  "company_setup": "Private limited company via SECP eServices online, typically 1-3 days and low fees; foreigners can own 100% in most sectors but foreign directors/shareholders need security clearance.",
+  "grants": [
+   {
+    "name": "National Incubation Center acceleration grant",
+    "agency": "Ignite / MoITT",
+    "amount": "PKR 5 million per selected startup",
+    "amount_usd_max": 18000,
+    "eligibility": "Startups selected into an NIC acceleration cohort",
+    "deadline": "per NIC cohort",
+    "status": "rolling",
+    "url": "https://nickarachi.com/"
+   },
+   {
+    "name": "Pakistan Startup Fund",
+    "agency": "Ignite",
+    "amount": "Equity-free co-investment grant alongside private investors",
+    "amount_usd_max": null,
+    "eligibility": "Pakistani startups raising from eligible investors",
+    "deadline": "rolling",
+    "status": "unknown",
+    "url": "https://ignite.org.pk/"
+   },
+   {
+    "name": "Ignite Tech Innovation Grants",
+    "agency": "Ignite",
+    "amount": "Project grants for deep-tech R&D",
+    "amount_usd_max": null,
+    "eligibility": "Startups, academia and companies in AI, IoT, robotics, blockchain etc.",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://ignite.org.pk/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "NIC Karachi",
+    "city": "Karachi",
+    "type": "government",
+    "investment": "PKR 5M grant, no equity, AWS credits",
+    "sectors": "generalist",
+    "deadline": "rolling (Cohort 16 recruiting)",
+    "next_cohort": "unknown",
+    "status": "open",
+    "url": "https://nickarachi.com/"
+   },
+   {
+    "name": "NIC Lahore",
+    "city": "Lahore",
+    "type": "government",
+    "investment": "grant, no equity",
+    "sectors": "generalist",
+    "deadline": "cohort-based",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://niclahore.com/"
+   },
+   {
+    "name": "NIC Islamabad",
+    "city": "Islamabad",
+    "type": "government",
+    "investment": "grant, no equity",
+    "sectors": "generalist",
+    "deadline": "cohort-based",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://nicislamabad.com/"
+   },
+   {
+    "name": "NIC Peshawar",
+    "city": "Peshawar",
+    "type": "government",
+    "investment": "grant, no equity",
+    "sectors": "generalist",
+    "deadline": "cohort-based",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://nicpeshawar.pk/"
+   },
+   {
+    "name": "Plan9 (PITB)",
+    "city": "Lahore",
+    "type": "government",
+    "investment": "no equity, incubation",
+    "sectors": "tech",
+    "deadline": "cohort-based",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://plan9.pitb.gov.pk/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Sarmayacar",
+    "city": "Karachi",
+    "stage": "seed",
+    "check_size": "US$250k-2M",
+    "sectors": "generalist, fintech",
+    "type": "vc",
+    "url": "https://www.sarmayacar.com/"
+   },
+   {
+    "name": "Zayn VC",
+    "city": "Karachi",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://zayn.vc/"
+   },
+   {
+    "name": "Fatima Gobi Ventures",
+    "city": "Karachi",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://fatimagobi.vc/"
+   },
+   {
+    "name": "Shorooq",
+    "city": "Abu Dhabi",
+    "stage": "multi",
+    "check_size": "US$0.5M-5M",
+    "sectors": "fintech, generalist; active in Pakistan",
+    "type": "vc",
+    "url": "https://www.shorooq.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ignite National Technology Fund",
+    "type": "government_agency",
+    "url": "https://ignite.org.pk/",
+    "note": "Runs NICs, Pakistan Startup Fund, DigiSkills"
+   },
+   {
+    "name": "Pakistan Software Export Board (Tech Destination)",
+    "type": "government_agency",
+    "url": "https://techdestination.com/",
+    "note": "IT company registration and export incentives"
+   },
+   {
+    "name": "SECP",
+    "type": "government_agency",
+    "url": "https://www.secp.gov.pk/",
+    "note": "Online company incorporation"
+   },
+   {
+    "name": "Board of Investment",
+    "type": "government_agency",
+    "url": "https://invest.gov.pk/",
+    "note": "FDI facilitation and business visas"
+   },
+   {
+    "name": "SMEDA",
+    "type": "government_agency",
+    "url": "https://smeda.org/",
+    "note": "SME development authority"
+   },
+   {
+    "name": "Punjab IT Board",
+    "type": "government_agency",
+    "url": "https://pitb.gov.pk/",
+    "note": "Runs Plan9 and digital programs"
+   },
+   {
+    "name": "National Center of Artificial Intelligence",
+    "type": "other",
+    "url": "https://ncai.pk/",
+    "note": "National AI research centre"
+   }
+  ],
+  "sources": [
+   "https://ignite.org.pk/",
+   "https://nickarachi.com/",
+   "https://niclahore.com/",
+   "https://nicislamabad.com/"
+  ],
+  "confidence": "medium",
+  "notes": "As of 2026-10-20. NIC deadlines not published; cohorts recruit on rolling basis. LUMS NEST and Indus Valley Capital sites did not resolve during checks and were left out."
+ },
+ {
+  "country": "Bangladesh",
+  "iso2": "BD",
+  "ecosystem_tier": "emerging",
+  "summary": "Dhaka-centred ecosystem with large consumer market; fintech (bKash, Nagad), logistics and e-commerce lead. Government supports startups via ICT Division (iDEA) and the state VC Startup Bangladesh Limited.",
+  "startup_visa": "none",
+  "company_setup": "Private limited company via RJSC online; foreign investors register with BIDA; 100% foreign ownership allowed in most sectors; about 1-2 weeks.",
+  "grants": [
+   {
+    "name": "iDEA Pre-Seed Startup Grant",
+    "agency": "iDEA Project, ICT Division",
+    "amount": "Grant, around BDT 10 lakh per startup",
+    "amount_usd_max": 8200,
+    "eligibility": "Early-stage Bangladeshi startups",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://idea.gov.bd/"
+   },
+   {
+    "name": "iDEA Grant for SME Entrepreneurs",
+    "agency": "iDEA Project, ICT Division",
+    "amount": "Grant (amount not published)",
+    "amount_usd_max": null,
+    "eligibility": "ICT-based SMEs seeking expansion",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://idea.gov.bd/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "iDEA incubation and co-working",
+    "city": "Dhaka",
+    "type": "government",
+    "investment": "no equity; co-working, lab, mentoring",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://idea.gov.bd/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Startup Bangladesh Limited",
+    "city": "Dhaka",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist tech",
+    "type": "government_fund",
+    "url": "https://startupbangladesh.vc/"
+   },
+   {
+    "name": "Anchorless Bangladesh",
+    "city": "Dhaka",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://anchorless.vc/"
+   },
+   {
+    "name": "BD Venture",
+    "city": "Dhaka",
+    "stage": "multi",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "vc",
+    "url": "https://bdventure.com/"
+   },
+   {
+    "name": "Bangladesh Angels Network",
+    "city": "Dhaka",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://bangladeshangels.com/"
+   }
+  ],
+  "resources": [
+   {
+    "name": "ICT Division",
+    "type": "government_agency",
+    "url": "https://ictd.gov.bd/",
+    "note": "Ministry overseeing iDEA and Startup Bangladesh"
+   },
+   {
+    "name": "Bangladesh Hi-Tech Park Authority",
+    "type": "government_agency",
+    "url": "https://bhtpa.gov.bd/",
+    "note": "Tech parks and incentives"
+   },
+   {
+    "name": "BIDA",
+    "type": "government_agency",
+    "url": "https://www.bida.gov.bd/",
+    "note": "Foreign investment registration"
+   },
+   {
+    "name": "BASIS",
+    "type": "startup_association",
+    "url": "https://basis.org.bd/",
+    "note": "Software and IT services association"
+   },
+   {
+    "name": "EDGE Bangladesh",
+    "type": "government_agency",
+    "url": "https://edge.gov.bd/",
+    "note": "Digital skills and hire-and-train programs"
+   },
+   {
+    "name": "LightCastle Partners",
+    "type": "database",
+    "url": "https://lightcastlepartners.com/",
+    "note": "Ecosystem research and data"
+   }
+  ],
+  "sources": [
+   "https://idea.gov.bd/",
+   "https://anchorless.vc/",
+   "https://bdventure.com/"
+  ],
+  "confidence": "low",
+  "notes": "As of 2026-10-20. Startup Bangladesh Limited's site (startupbangladesh.vc redirects to startupbangladesh.gov.bd) returned errors during checks; verify before relying on it. Political transition since Aug 2024 may affect government schemes."
+ },
+ {
+  "country": "Sri Lanka",
+  "iso2": "LK",
+  "ecosystem_tier": "emerging",
+  "summary": "Small ecosystem centred on Colombo with strong IT/BPO talent; recovering from the 2022 economic crisis. Notable startups include PickMe and Kapruka.",
+  "startup_visa": "none",
+  "company_setup": "Private limited company via Registrar of Companies eROC online; 100% foreign ownership allowed in most sectors; BOI registration for incentives; about 1-2 weeks.",
+  "grants": [
+   {
+    "name": "National Science Foundation research and technology grants",
+    "agency": "National Science Foundation",
+    "amount": "Research grants (amount varies)",
+    "amount_usd_max": null,
+    "eligibility": "Researchers and institutions; limited startup applicability",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.nsf.gov.lk/index.php/en/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Hatch",
+    "city": "Colombo",
+    "type": "incubator",
+    "investment": "no equity; programs and coworking",
+    "sectors": "generalist",
+    "deadline": "program-specific",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.hatch.lk/"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "ICTA",
+    "type": "government_agency",
+    "url": "https://www.icta.lk/",
+    "note": "ICT agency; digital economy and startup programs"
+   },
+   {
+    "name": "SLASSCOM",
+    "type": "startup_association",
+    "url": "https://www.slasscom.lk/",
+    "note": "IT/BPM industry chamber"
+   },
+   {
+    "name": "Board of Investment (Invest Sri Lanka)",
+    "type": "government_agency",
+    "url": "https://investsrilanka.com/",
+    "note": "FDI approvals and incentives"
+   },
+   {
+    "name": "Export Development Board",
+    "type": "government_agency",
+    "url": "https://www.edb.gov.lk/",
+    "note": "Export support"
+   },
+   {
+    "name": "Inland Revenue Department",
+    "type": "legal_tax",
+    "url": "https://www.ird.gov.lk/",
+    "note": "Tax registration"
+   },
+   {
+    "name": "Yarl IT Hub",
+    "type": "community",
+    "url": "https://yarlithub.org/",
+    "note": "Northern Sri Lanka tech community"
+   },
+   {
+    "name": "SLINTEC",
+    "type": "other",
+    "url": "https://www.slintec.lk/",
+    "note": "Nanotech research and commercialization"
+   }
+  ],
+  "sources": [
+   "https://www.icta.lk/",
+   "https://www.hatch.lk/",
+   "https://investsrilanka.com/"
+  ],
+  "confidence": "low",
+  "notes": "As of 2026-10-20. Lanka Angel Network, Blue Chip Venture Capital and Startup Sri Lanka sites could not be verified and were left out; local VC activity is thin."
+ },
+ {
+  "country": "Nepal",
+  "iso2": "NP",
+  "ecosystem_tier": "nascent",
+  "summary": "Kathmandu-based nascent ecosystem; fintech, e-commerce and IT outsourcing. Government introduced concessional startup loans and the Startup Enterprise program.",
+  "startup_visa": "none",
+  "company_setup": "Private limited company via Office of Company Registrar online; foreign investment needs Department of Industry or IBN approval and a minimum FDI threshold (NPR 20 million as of 2024); repatriation regulated by Nepal Rastra Bank.",
+  "grants": [
+   {
+    "name": "Startup Enterprise Concessional Loan",
+    "agency": "Department of Industry",
+    "amount": "Collateral-free concessional loan, up to about NPR 25 lakh",
+    "amount_usd_max": 18000,
+    "eligibility": "Registered Nepali startup enterprises selected via annual call",
+    "deadline": "annual (call by Dept of Industry)",
+    "status": "unknown",
+    "url": "https://doind.gov.np/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "Investment Board Nepal",
+    "type": "government_agency",
+    "url": "https://ibn.gov.np/",
+    "note": "Large-project FDI approvals"
+   },
+   {
+    "name": "Department of Industry",
+    "type": "government_agency",
+    "url": "https://doind.gov.np/",
+    "note": "FDI approval and startup loan program"
+   },
+   {
+    "name": "Office of Company Registrar",
+    "type": "government_agency",
+    "url": "https://ocr.gov.np/",
+    "note": "Online company registration"
+   },
+   {
+    "name": "Nepal Rastra Bank",
+    "type": "government_agency",
+    "url": "https://www.nrb.org.np/",
+    "note": "Central bank; FX and VC fund rules"
+   },
+   {
+    "name": "Ministry of Industry, Commerce and Supplies",
+    "type": "government_agency",
+    "url": "https://www.moics.gov.np/",
+    "note": "Startup policy"
+   },
+   {
+    "name": "FNCCI",
+    "type": "startup_association",
+    "url": "https://www.fncci.org/",
+    "note": "Federation of chambers of commerce"
+   },
+   {
+    "name": "UNDP Nepal",
+    "type": "other",
+    "url": "https://www.undp.org/nepal",
+    "note": "Entrepreneurship and MSME programs"
+   },
+   {
+    "name": "Seedstars",
+    "type": "other",
+    "url": "https://www.seedstars.com/",
+    "note": "Emerging-market investor/program network"
+   }
+  ],
+  "sources": [
+   "https://doind.gov.np/",
+   "https://ibn.gov.np/",
+   "https://ocr.gov.np/"
+  ],
+  "confidence": "low",
+  "notes": "As of 2026-10-20. No local VC or accelerator site could be verified (Zerohub, NEST, True Venture links failed). Diaspora route: incorporate abroad (e.g. Delaware via Stripe Atlas) given FDI thresholds."
+ },
+ {
+  "country": "Bhutan",
+  "iso2": "BT",
+  "ecosystem_tier": "nascent",
+  "summary": "Very small ecosystem centred on Thimphu; government-led support via MoICE and Thimphu TechPark. Gelephu Mindfulness City is a new special administrative region targeting investors.",
+  "startup_visa": "none nationally; Gelephu Mindfulness City SAR runs its own business and residency framework",
+  "company_setup": "Domestic firms register via MoICE; FDI governed by FDI Policy with sector restrictions and minimum project costs, so most small startups are Bhutanese-owned.",
+  "grants": [
+   {
+    "name": "Loden Entrepreneurship Programme",
+    "agency": "Loden Foundation",
+    "amount": "Interest-free, collateral-free seed loans",
+    "amount_usd_max": null,
+    "eligibility": "Young Bhutanese entrepreneurs",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.loden.org/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Thimphu TechPark incubation",
+    "city": "Thimphu",
+    "type": "government",
+    "investment": "no equity; space and incubation",
+    "sectors": "tech",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://thimphutechpark.bt/"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "Ministry of Industry, Commerce and Employment",
+    "type": "government_agency",
+    "url": "https://www.moice.gov.bt/",
+    "note": "Business licensing and startup support"
+   },
+   {
+    "name": "Druk Holding and Investments",
+    "type": "other",
+    "url": "https://www.dhi.bt/",
+    "note": "State investment arm"
+   },
+   {
+    "name": "Gelephu Mindfulness City",
+    "type": "government_agency",
+    "url": "https://www.gmc.bt/",
+    "note": "Special administrative region for investors"
+   },
+   {
+    "name": "Bhutan Development Bank",
+    "type": "government_agency",
+    "url": "https://www.bdbl.bt/",
+    "note": "Cottage and small industry loans"
+   },
+   {
+    "name": "G2C Citizen Services",
+    "type": "government_agency",
+    "url": "https://www.citizenservices.gov.bt/",
+    "note": "Online government services"
+   },
+   {
+    "name": "UNDP Bhutan",
+    "type": "other",
+    "url": "https://www.undp.org/bhutan",
+    "note": "Youth entrepreneurship programs"
+   }
+  ],
+  "sources": [
+   "https://www.moice.gov.bt/",
+   "https://thimphutechpark.bt/",
+   "https://www.loden.org/",
+   "https://www.gmc.bt/"
+  ],
+  "confidence": "low",
+  "notes": "As of 2026-10-20. startup.bt is suspended. No VCs active locally."
+ },
+ {
+  "country": "Maldives",
+  "iso2": "MV",
+  "ecosystem_tier": "nascent",
+  "summary": "Tiny Malé-centred ecosystem dominated by tourism; digital startups are few, supported mainly by SME finance and government business registration.",
+  "startup_visa": "none",
+  "company_setup": "Register a private company online via the Ministry business portal; foreign investment needs approval via Invest Maldives and is restricted in some sectors.",
+  "grants": [
+   {
+    "name": "SDFC SME loans",
+    "agency": "SME Development Finance Corporation",
+    "amount": "Concessional SME loans",
+    "amount_usd_max": null,
+    "eligibility": "Maldivian SMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://sdfc.mv/"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "Ministry of Economic Development and Trade",
+    "type": "government_agency",
+    "url": "https://trade.gov.mv/",
+    "note": "Business registration and SME policy"
+   },
+   {
+    "name": "Business Portal",
+    "type": "government_agency",
+    "url": "https://www.business.gov.mv/",
+    "note": "Online company registration"
+   },
+   {
+    "name": "Invest Maldives",
+    "type": "government_agency",
+    "url": "https://investmaldives.gov.mv/",
+    "note": "FDI one-stop shop"
+   },
+   {
+    "name": "Maldives Monetary Authority",
+    "type": "government_agency",
+    "url": "https://www.mma.gov.mv/",
+    "note": "Central bank"
+   },
+   {
+    "name": "Maldives Inland Revenue Authority",
+    "type": "legal_tax",
+    "url": "https://www.mira.gov.mv/",
+    "note": "Tax registration"
+   },
+   {
+    "name": "UNDP Maldives",
+    "type": "other",
+    "url": "https://www.undp.org/maldives",
+    "note": "Youth and SME entrepreneurship programs"
+   }
+  ],
+  "sources": [
+   "https://trade.gov.mv/",
+   "https://investmaldives.gov.mv/",
+   "https://www.mma.gov.mv/"
+  ],
+  "confidence": "low",
+  "notes": "As of 2026-10-20. No accelerators or VCs found. Diaspora/remote route: incorporate abroad (Delaware or Estonia e-Residency)."
+ },
+ {
+  "country": "Afghanistan",
+  "iso2": "AF",
+  "ecosystem_tier": "nascent",
+  "summary": "Since August 2021 the Taliban de facto authorities govern; the government is not internationally recognised, international banking is heavily constrained and women face severe restrictions on work and education. Startup activity is minimal and mostly diaspora-led or donor-supported.",
+  "startup_visa": "none",
+  "company_setup": "Domestic registration through de facto Ministry of Commerce/ACCI; foreign investment and international payments are severely constrained by sanctions and banking de-risking. Diaspora founders typically incorporate abroad (Delaware via Stripe Atlas, Estonia e-Residency).",
+  "grants": [
+   {
+    "name": "UNDP Afghanistan MSME and livelihoods support (ABADEI)",
+    "agency": "UNDP",
+    "amount": "In-kind and cash grants to micro and small businesses",
+    "amount_usd_max": null,
+    "eligibility": "Afghan MSMEs, including women-led enterprises",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.undp.org/afghanistan"
+   }
+  ],
+  "accelerators": [],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "Afghanistan Chamber of Commerce and Investment",
+    "type": "startup_association",
+    "url": "https://www.acci.org.af/",
+    "note": "Business registration and trade support"
+   },
+   {
+    "name": "Afghanistan Women's Chamber of Commerce and Industry",
+    "type": "startup_association",
+    "url": "https://www.awcci.af/",
+    "note": "Support for women-owned businesses"
+   },
+   {
+    "name": "Da Afghanistan Bank",
+    "type": "government_agency",
+    "url": "https://www.dab.gov.af/",
+    "note": "Central bank under de facto authorities"
+   },
+   {
+    "name": "Stripe Atlas",
+    "type": "legal_tax",
+    "url": "https://stripe.com/atlas",
+    "note": "Remote Delaware incorporation for diaspora founders"
+   },
+   {
+    "name": "Estonia e-Residency",
+    "type": "legal_tax",
+    "url": "https://www.e-resident.gov.ee/",
+    "note": "Remote EU company formation"
+   }
+  ],
+  "sources": [
+   "https://www.acci.org.af/",
+   "https://www.awcci.af/",
+   "https://www.undp.org/afghanistan"
+  ],
+  "confidence": "low",
+  "notes": "As of 2026-10-20. Taliban de facto rule, sanctions and banking restrictions; international VC effectively unavailable. AISA (investment agency) site did not resolve. Check sanctions compliance before any transaction."
+ }
+]

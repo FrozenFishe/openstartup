@@ -1,0 +1,3396 @@
+[
+ {
+  "country": "Cuba",
+  "iso2": "CU",
+  "ecosystem_tier": "nascent",
+  "summary": "Private MSMEs (mipymes) legal only since 2021 and now number in the thousands; tech startups are few and informal. The Havana Science and Technology Park incubates a small number of firms. No VC or startup funding market.",
+  "startup_visa": "none",
+  "company_setup": "Mipyme (private SME) under Decree-Law 46/2021, approved by the Ministry of Economy and Planning. Foreigners cannot own mipymes; foreign investment goes through joint ventures or the Mariel ZED.",
+  "grants": [],
+  "accelerators": [],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "Ministerio de Economia y Planificacion (MEP)",
+    "type": "government_agency",
+    "url": "https://www.mep.gob.cu/es",
+    "note": "Approves and registers mipymes"
+   },
+   {
+    "name": "Zona Especial de Desarrollo Mariel",
+    "type": "government_agency",
+    "url": "https://www.zedmariel.com",
+    "note": "Special zone for foreign investment, incl. tech"
+   },
+   {
+    "name": "Camara de Comercio de Cuba",
+    "type": "other",
+    "url": "https://www.camaracuba.cu",
+    "note": "Chamber of commerce; trade and business contacts"
+   },
+   {
+    "name": "Caribbean Export Development Agency",
+    "type": "government_agency",
+    "url": "https://www.carib-export.com",
+    "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+   }
+  ],
+  "sources": [
+   "https://www.mep.gob.cu/es",
+   "https://www.zedmariel.com",
+   "https://www.carib-export.com"
+  ],
+  "confidence": "low",
+  "notes": "US embargo and OFAC rules (as of Oct 2026) block most US investors, platforms and payments; international VC effectively unavailable. Cuba is not an IDB member. A UNDP/MEP entrepreneur training programme was reported in 2026, but no official page was confirmed."
+ },
+ {
+  "country": "Jamaica",
+  "iso2": "JM",
+  "ecosystem_tier": "emerging",
+  "summary": "Largest English-speaking Caribbean ecosystem, centred on Kingston. Support comes from DBJ's BIGEE programme, UTech's Technology Innovation Centre, the Caribbean Climate Innovation Centre and the FirstAngels Caribbean network. Junior Market listings on the JSE give SMEs a capital route.",
+  "startup_visa": "none",
+  "company_setup": "Private company limited by shares, registered online with the Companies Office of Jamaica (BizRegistration); foreigners can own 100%. Usually a few days.",
+  "grants": [
+   {
+    "name": "BIGEE grants, loans and programmes",
+    "agency": "Development Bank of Jamaica",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Jamaican innovation-driven MSMEs and startups",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://thinkbigee.com"
+   },
+   {
+    "name": "MIIC MSME grants (Tools of Trade, FASST BIZ)",
+    "agency": "Ministry of Industry, Investment and Commerce",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Jamaican micro and small businesses",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.miic.gov.jm"
+   },
+   {
+    "name": "Compete Caribbean+ calls for proposals",
+    "agency": "Compete Caribbean+ (IDB, FCDO, Global Affairs Canada, CDB)",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "private firms, clusters and value chains in Caribbean member countries",
+    "deadline": "last: 2026-05-29 (3rd cluster call)",
+    "status": "closed",
+    "url": "https://www.competecaribbean.org"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Technology Innovation Centre (UTech)",
+    "city": "Kingston",
+    "type": "university",
+    "investment": "no equity; incubation",
+    "sectors": "tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.utech.edu.jm"
+   },
+   {
+    "name": "Caribbean Climate Innovation Centre ScaleItUp Accelerator",
+    "city": "Kingston",
+    "type": "incubator",
+    "investment": "no equity; 8-week programme",
+    "sectors": "cleantech, climate",
+    "deadline": "last: 2025-06-30",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.src.gov.jm"
+   },
+   {
+    "name": "Founder Institute Caribbean (Fall 2026, virtual)",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "no investment; program fee US$749",
+    "sectors": "generalist, pre-seed",
+    "deadline": "2026-10-20",
+    "next_cohort": "2026-10",
+    "status": "open",
+    "url": "https://fi.co/apply/14634"
+   },
+   {
+    "name": "RevUP Caribbean Incubation Programme",
+    "city": "virtual (Kingston)",
+    "type": "incubator",
+    "investment": "no equity; training, mentoring, investor intros (CDB-backed)",
+    "sectors": "generalist; women-led and climate-smart priority",
+    "deadline": "last: 2026-06-30 (Cohort 8)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.revupcaribbean.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "FirstAngels Caribbean",
+    "city": "Kingston",
+    "stage": "seed",
+    "check_size": "unknown (each angel decides)",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://firstangelscaribbean.com"
+   },
+   {
+    "name": "Caribbean Angels",
+    "city": "regional",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.caribbeanangels.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Development Bank of Jamaica",
+    "type": "government_agency",
+    "url": "https://dbankjm.com",
+    "note": "Runs BIGEE; MSME finance and VC/angel fund plans"
+   },
+   {
+    "name": "JAMPRO (Do Business Jamaica)",
+    "type": "government_agency",
+    "url": "https://dobusinessjamaica.com",
+    "note": "Investment and export promotion agency"
+   },
+   {
+    "name": "Jamaica Business Development Corporation",
+    "type": "government_agency",
+    "url": "https://www.jbdc.net",
+    "note": "MSME support; partners with FirstAngels"
+   },
+   {
+    "name": "Companies Office of Jamaica",
+    "type": "legal_tax",
+    "url": "https://www.orcjamaica.com",
+    "note": "Company registration"
+   },
+   {
+    "name": "Kingston Creative",
+    "type": "community",
+    "url": "https://kingstoncreative.org",
+    "note": "Creative-economy hub and programmes"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "Caribbean Development Bank",
+    "type": "other",
+    "url": "https://www.caribank.org",
+    "note": "Regional DFI; funds RevUP and MSME programmes"
+   },
+   {
+    "name": "Caribbean Export Development Agency",
+    "type": "government_agency",
+    "url": "https://www.carib-export.com",
+    "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+   }
+  ],
+  "sources": [
+   "https://thinkbigee.com",
+   "https://firstangelscaribbean.com",
+   "https://fi.co/apply/14634",
+   "https://jamaica-gleaner.com/article/news/20260414/new-partnership-targets-startup-growth-innovation",
+   "https://www.caribank.org/node/11571"
+  ],
+  "confidence": "medium",
+  "notes": "BIGEE's IDB-backed IGNITE/IGF grants paused when the disbursement window ended in March 2025. J$900M+ budgeted for BIGEE in FY2026/27, incl. a planned SME VC fund (not yet launched as of Oct 2026). In March 2026 UTech TIC, RevUP and FirstAngels signed a 3-year pipeline MOU."
+ },
+ {
+  "country": "Bahamas",
+  "iso2": "BS",
+  "ecosystem_tier": "nascent",
+  "summary": "Small ecosystem in Nassau built around the government's SBDC/Access Accelerator and the Bahamas Entrepreneurial Venture Fund. Digital-asset regulation (DARE Act) has drawn fintech and crypto firms; the University of The Bahamas runs the UB Ignite incubator.",
+  "startup_visa": "none (BEATS 1-year remote-work permit exists)",
+  "company_setup": "IBC or domestic company. Foreign ownership in some sectors needs Bahamas Investment Authority approval; reserved sectors are for Bahamians. Registration takes about a week or more.",
+  "grants": [
+   {
+    "name": "Guaranteed Loan Programme (grant, loan, equity)",
+    "agency": "Small Business Development Centre / Access Accelerator",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Bahamian startups and existing businesses on all islands",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://sbdcbahamas.com"
+   },
+   {
+    "name": "Compete Caribbean+ calls for proposals",
+    "agency": "Compete Caribbean+ (IDB, FCDO, Global Affairs Canada, CDB)",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "private firms, clusters and value chains in Caribbean member countries",
+    "deadline": "last: 2026-05-29 (3rd cluster call)",
+    "status": "closed",
+    "url": "https://www.competecaribbean.org"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "SBDC Blue Economy Accelerator Programme",
+    "city": "Nassau",
+    "type": "government",
+    "investment": "no equity; 8 weeks plus funding access",
+    "sectors": "blue economy",
+    "deadline": "unknown",
+    "next_cohort": "unknown (first cohort started 2026-06-23)",
+    "status": "unknown",
+    "url": "https://sbdcbahamas.com"
+   },
+   {
+    "name": "UB Ignite (University of The Bahamas)",
+    "city": "Nassau",
+    "type": "university",
+    "investment": "no equity; 7-week accelerator and pitch",
+    "sectors": "fintech, generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.ub.edu.bs"
+   },
+   {
+    "name": "Founder Institute Caribbean (Fall 2026, virtual)",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "no investment; program fee US$749",
+    "sectors": "generalist, pre-seed",
+    "deadline": "2026-10-20",
+    "next_cohort": "2026-10",
+    "status": "open",
+    "url": "https://fi.co/apply/14634"
+   },
+   {
+    "name": "RevUP Caribbean Incubation Programme",
+    "city": "virtual (Kingston)",
+    "type": "incubator",
+    "investment": "no equity; training, mentoring, investor intros (CDB-backed)",
+    "sectors": "generalist; women-led and climate-smart priority",
+    "deadline": "last: 2026-06-30 (Cohort 8)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.revupcaribbean.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Bahamas Entrepreneurial Venture Fund",
+    "city": "Nassau",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "government_fund",
+    "url": "https://www.bahamasventurefund.com"
+   },
+   {
+    "name": "FirstAngels Caribbean",
+    "city": "Kingston",
+    "stage": "seed",
+    "check_size": "unknown (each angel decides)",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://firstangelscaribbean.com"
+   },
+   {
+    "name": "Caribbean Angels",
+    "city": "regional",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.caribbeanangels.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Bahamas Development Bank",
+    "type": "government_agency",
+    "url": "https://bahamasdevelopmentbank.com",
+    "note": "Development lending to Bahamian businesses"
+   },
+   {
+    "name": "Securities Commission of The Bahamas",
+    "type": "government_agency",
+    "url": "https://scb.gov.bs",
+    "note": "Digital assets (DARE) and fintech regulation"
+   },
+   {
+    "name": "BISX",
+    "type": "other",
+    "url": "https://www.bisxbahamas.com",
+    "note": "Bahamas International Securities Exchange"
+   },
+   {
+    "name": "Bahamas Chamber of Commerce",
+    "type": "startup_association",
+    "url": "https://www.thebahamaschamber.com",
+    "note": "Business association"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "Caribbean Development Bank",
+    "type": "other",
+    "url": "https://www.caribank.org",
+    "note": "Regional DFI; funds RevUP and MSME programmes"
+   },
+   {
+    "name": "Caribbean Export Development Agency",
+    "type": "government_agency",
+    "url": "https://www.carib-export.com",
+    "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+   }
+  ],
+  "sources": [
+   "https://sbdcbahamas.com",
+   "https://www.bahamasventurefund.com",
+   "https://tribune242.com/news/2026/aug/31/growing-fintech-ecosystem-should-be-pipeline-for-homegrown-businesses/"
+  ],
+  "confidence": "medium",
+  "notes": "SBDC grant/loan amounts are not published online; contact the SBDC. In 2026 UB Ignite ran a fintech pitch with OKX Bahamas (114 applicants)."
+ },
+ {
+  "country": "Barbados",
+  "iso2": "BB",
+  "ecosystem_tier": "nascent",
+  "summary": "Small, policy-led ecosystem. FutureBarbados (incubator Catapult, accelerator Flight), Export Barbados and TEN Habitat support founders. The IDB is preparing a pre-seed venture studio. The Welcome Stamp has drawn remote workers.",
+  "startup_visa": "none (Barbados Welcome Stamp 12-month remote-work visa: https://www.visitbarbados.org/barbados-welcome-stamp)",
+  "company_setup": "Private company registered with CAIPO, mostly online; foreigners can own 100%. Typically 1-2 weeks.",
+  "grants": [
+   {
+    "name": "Compete Caribbean+ calls for proposals",
+    "agency": "Compete Caribbean+ (IDB, FCDO, Global Affairs Canada, CDB)",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "private firms, clusters and value chains in Caribbean member countries",
+    "deadline": "last: 2026-05-29 (3rd cluster call)",
+    "status": "closed",
+    "url": "https://www.competecaribbean.org"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "FutureBarbados (Catapult incubator / Flight accelerator)",
+    "city": "Bridgetown",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "science, emerging tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://futurebarbados.bb"
+   },
+   {
+    "name": "TEN Habitat / Venture Habitat",
+    "city": "Bridgetown",
+    "type": "incubator",
+    "investment": "unknown",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://tenhabitat.com"
+   },
+   {
+    "name": "Founder Institute Caribbean (Fall 2026, virtual)",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "no investment; program fee US$749",
+    "sectors": "generalist, pre-seed",
+    "deadline": "2026-10-20",
+    "next_cohort": "2026-10",
+    "status": "open",
+    "url": "https://fi.co/apply/14634"
+   },
+   {
+    "name": "RevUP Caribbean Incubation Programme",
+    "city": "virtual (Kingston)",
+    "type": "incubator",
+    "investment": "no equity; training, mentoring, investor intros (CDB-backed)",
+    "sectors": "generalist; women-led and climate-smart priority",
+    "deadline": "last: 2026-06-30 (Cohort 8)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.revupcaribbean.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "FirstAngels Caribbean",
+    "city": "Kingston",
+    "stage": "seed",
+    "check_size": "unknown (each angel decides)",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://firstangelscaribbean.com"
+   },
+   {
+    "name": "Caribbean Angels",
+    "city": "regional",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.caribbeanangels.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Export Barbados",
+    "type": "government_agency",
+    "url": "https://www.exportbarbados.org",
+    "note": "Government enterprise and export development agency"
+   },
+   {
+    "name": "Invest Barbados",
+    "type": "government_agency",
+    "url": "https://www.investbarbados.org",
+    "note": "Investment promotion agency"
+   },
+   {
+    "name": "CAIPO",
+    "type": "legal_tax",
+    "url": "https://caipo.gov.bb",
+    "note": "Company registry"
+   },
+   {
+    "name": "Barbados Stock Exchange",
+    "type": "other",
+    "url": "https://bse.com.bb",
+    "note": "Includes junior/innovation market"
+   },
+   {
+    "name": "Caribbean Investment Forum",
+    "type": "event",
+    "url": "https://caribbeaninvestmentforum.com",
+    "note": "Held in Bridgetown 2026-10-05 to 07"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "Caribbean Development Bank",
+    "type": "other",
+    "url": "https://www.caribank.org",
+    "note": "Regional DFI; funds RevUP and MSME programmes"
+   },
+   {
+    "name": "Caribbean Export Development Agency",
+    "type": "government_agency",
+    "url": "https://www.carib-export.com",
+    "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+   }
+  ],
+  "sources": [
+   "https://futurebarbados.bb",
+   "https://www.iadb.org/en/project/BA-G1009",
+   "https://www.exportbarbados.org",
+   "https://www.visitbarbados.org/barbados-welcome-stamp"
+  ],
+  "confidence": "medium",
+  "notes": "IDB project BA-G1009 (US$1.25M, in preparation in 2026) plans a pre-seed venture studio for digital startups. The FutureBarbados site appears not updated since 2023; check for current calls."
+ },
+ {
+  "country": "Trinidad & Tobago",
+  "iso2": "TT",
+  "ecosystem_tier": "nascent",
+  "summary": "Energy-driven economy with a small tech scene in Port of Spain. Government support is mostly MSME grants and loans (SEED, NEDCO) plus the Ministry of Trade's Scale Up accelerator. Angel and VC activity is thin; the IDB is piloting CARIBEquity 'Ignite the World' here.",
+  "startup_visa": "none",
+  "company_setup": "Private limited company registered online via TTBizLink (Companies Registry). Foreigners may incorporate; land ownership needs a licence. About 1-2 weeks.",
+  "grants": [
+   {
+    "name": "SEED grant (Sowing Empowerment through Entrepreneurial Development)",
+    "agency": "Government of T&T",
+    "amount": "up to TT$15,000 in goods/equipment",
+    "amount_usd_max": 2200,
+    "eligibility": "citizens/residents 18+, means-tested micro-businesses",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://ttconnect.gov.tt/seed"
+   },
+   {
+    "name": "NEDCO small business loans",
+    "agency": "National Entrepreneurship Development Company",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "T&T micro and small enterprises",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://nedco.gov.tt"
+   },
+   {
+    "name": "Compete Caribbean+ calls for proposals",
+    "agency": "Compete Caribbean+ (IDB, FCDO, Global Affairs Canada, CDB)",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "private firms, clusters and value chains in Caribbean member countries",
+    "deadline": "last: 2026-05-29 (3rd cluster call)",
+    "status": "closed",
+    "url": "https://www.competecaribbean.org"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Scale Up Trinidad and Tobago Business Accelerator",
+    "city": "Port of Spain",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "generalist SMEs",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://tradeind.gov.tt"
+   },
+   {
+    "name": "uSTART (UTT incubator)",
+    "city": "Arima",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "tech; UTT students, alumni, staff",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://utt.edu.tt"
+   },
+   {
+    "name": "CARIBEquity Ignite the World (IDB pilot)",
+    "city": "Port of Spain",
+    "type": "government",
+    "investment": "no equity; mentoring, networks, skills",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.iadb.org/en/project/TT-T1172"
+   },
+   {
+    "name": "Founder Institute Caribbean (Fall 2026, virtual)",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "no investment; program fee US$749",
+    "sectors": "generalist, pre-seed",
+    "deadline": "2026-10-20",
+    "next_cohort": "2026-10",
+    "status": "open",
+    "url": "https://fi.co/apply/14634"
+   },
+   {
+    "name": "RevUP Caribbean Incubation Programme",
+    "city": "virtual (Kingston)",
+    "type": "incubator",
+    "investment": "no equity; training, mentoring, investor intros (CDB-backed)",
+    "sectors": "generalist; women-led and climate-smart priority",
+    "deadline": "last: 2026-06-30 (Cohort 8)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.revupcaribbean.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "FirstAngels Caribbean",
+    "city": "Kingston",
+    "stage": "seed",
+    "check_size": "unknown (each angel decides)",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://firstangelscaribbean.com"
+   },
+   {
+    "name": "Caribbean Angels",
+    "city": "regional",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.caribbeanangels.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ministry of Trade and Industry",
+    "type": "government_agency",
+    "url": "https://tradeind.gov.tt",
+    "note": "Runs Scale Up accelerator and grant facilities"
+   },
+   {
+    "name": "CARIRI",
+    "type": "other",
+    "url": "https://www.cariri.com",
+    "note": "Caribbean Industrial Research Institute; DIA Lab youth innovation"
+   },
+   {
+    "name": "TTBizLink",
+    "type": "legal_tax",
+    "url": "https://www.ttbizlink.gov.tt",
+    "note": "Online company registration and trade services"
+   },
+   {
+    "name": "T&T Chamber of Industry and Commerce",
+    "type": "startup_association",
+    "url": "https://chamber.org.tt",
+    "note": "Business association"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "Caribbean Development Bank",
+    "type": "other",
+    "url": "https://www.caribank.org",
+    "note": "Regional DFI; funds RevUP and MSME programmes"
+   },
+   {
+    "name": "Caribbean Export Development Agency",
+    "type": "government_agency",
+    "url": "https://www.carib-export.com",
+    "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+   }
+  ],
+  "sources": [
+   "https://ttconnect.gov.tt/seed",
+   "https://www.iadb.org/en/project/TT-T1172",
+   "https://tradeind.gov.tt",
+   "https://nedco.gov.tt"
+  ],
+  "confidence": "medium",
+  "notes": "idea2Innovation and the Tech Beach TBR Lab could not be confirmed active in 2025-26, so they are left out. The CARIBEquity pilot was approved Nov 2025."
+ },
+ {
+  "country": "Antigua & Barbuda",
+  "iso2": "AG",
+  "ecosystem_tier": "nascent",
+  "summary": "Very small ecosystem; the economy rests on tourism and financial services. The Investment Authority offers SME services; there are no local accelerators or VCs.",
+  "startup_visa": "none",
+  "company_setup": "IBC or local company under the Companies Act; foreign ownership allowed. Citizenship by Investment can be obtained through business investment.",
+  "grants": [
+   {
+    "name": "Compete Caribbean+ calls for proposals",
+    "agency": "Compete Caribbean+ (IDB, FCDO, Global Affairs Canada, CDB)",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "private firms, clusters and value chains in Caribbean member countries",
+    "deadline": "last: 2026-05-29 (3rd cluster call)",
+    "status": "closed",
+    "url": "https://www.competecaribbean.org"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Founder Institute Caribbean (Fall 2026, virtual)",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "no investment; program fee US$749",
+    "sectors": "generalist, pre-seed",
+    "deadline": "2026-10-20",
+    "next_cohort": "2026-10",
+    "status": "open",
+    "url": "https://fi.co/apply/14634"
+   },
+   {
+    "name": "RevUP Caribbean Incubation Programme",
+    "city": "virtual (Kingston)",
+    "type": "incubator",
+    "investment": "no equity; training, mentoring, investor intros (CDB-backed)",
+    "sectors": "generalist; women-led and climate-smart priority",
+    "deadline": "last: 2026-06-30 (Cohort 8)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.revupcaribbean.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "FirstAngels Caribbean",
+    "city": "Kingston",
+    "stage": "seed",
+    "check_size": "unknown (each angel decides)",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://firstangelscaribbean.com"
+   },
+   {
+    "name": "Caribbean Angels",
+    "city": "regional",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.caribbeanangels.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Antigua & Barbuda Investment Authority",
+    "type": "government_agency",
+    "url": "https://investantiguabarbuda.org",
+    "note": "Investment promotion and SME services"
+   },
+   {
+    "name": "Citizenship by Investment Unit",
+    "type": "legal_tax",
+    "url": "https://cip.gov.ag",
+    "note": "CBI incl. approved business investment route"
+   },
+   {
+    "name": "OECS Commission",
+    "type": "government_agency",
+    "url": "https://www.oecs.int/en",
+    "note": "Regional body; runs youth and MSME programmes"
+   },
+   {
+    "name": "Eastern Caribbean Central Bank",
+    "type": "government_agency",
+    "url": "https://www.eccb-centralbank.org",
+    "note": "Monetary authority (EC$); fintech sandbox and regulation"
+   },
+   {
+    "name": "Caribbean Development Bank",
+    "type": "other",
+    "url": "https://www.caribank.org",
+    "note": "Regional DFI; funds RevUP and MSME programmes"
+   },
+   {
+    "name": "Caribbean Export Development Agency",
+    "type": "government_agency",
+    "url": "https://www.carib-export.com",
+    "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+   }
+  ],
+  "sources": [
+   "https://investantiguabarbuda.org",
+   "https://cip.gov.ag",
+   "https://www.competecaribbean.org"
+  ],
+  "confidence": "low",
+  "notes": "OECS member, not an IDB borrowing member; regional support comes via CDB, Compete Caribbean, OECS and Caribbean Export. OECS Youth Empowerment Project small grants (US$5k) closed 2026-08-14. A Nomad Digital Residence remote-work visa exists; its official URL was not verified."
+ },
+ {
+  "country": "Grenada",
+  "iso2": "GD",
+  "ecosystem_tier": "nascent",
+  "summary": "Micro ecosystem; small-business finance comes from the Grenada Development Bank. A 2024 World Bank OECS project targets entrepreneurs in Grenada and Saint Lucia.",
+  "startup_visa": "none",
+  "company_setup": "Company under the Companies Act via the Corporate Affairs and Intellectual Property Office; foreign ownership allowed. Grenada CBI includes approved business projects.",
+  "grants": [
+   {
+    "name": "Compete Caribbean+ calls for proposals",
+    "agency": "Compete Caribbean+ (IDB, FCDO, Global Affairs Canada, CDB)",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "private firms, clusters and value chains in Caribbean member countries",
+    "deadline": "last: 2026-05-29 (3rd cluster call)",
+    "status": "closed",
+    "url": "https://www.competecaribbean.org"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Founder Institute Caribbean (Fall 2026, virtual)",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "no investment; program fee US$749",
+    "sectors": "generalist, pre-seed",
+    "deadline": "2026-10-20",
+    "next_cohort": "2026-10",
+    "status": "open",
+    "url": "https://fi.co/apply/14634"
+   },
+   {
+    "name": "RevUP Caribbean Incubation Programme",
+    "city": "virtual (Kingston)",
+    "type": "incubator",
+    "investment": "no equity; training, mentoring, investor intros (CDB-backed)",
+    "sectors": "generalist; women-led and climate-smart priority",
+    "deadline": "last: 2026-06-30 (Cohort 8)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.revupcaribbean.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "FirstAngels Caribbean",
+    "city": "Kingston",
+    "stage": "seed",
+    "check_size": "unknown (each angel decides)",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://firstangelscaribbean.com"
+   },
+   {
+    "name": "Caribbean Angels",
+    "city": "regional",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.caribbeanangels.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Grenada Development Bank",
+    "type": "government_agency",
+    "url": "https://www.grenadadevelopmentbank.com",
+    "note": "Development and small-business lending"
+   },
+   {
+    "name": "World Bank OECS youth skills and innovation project",
+    "type": "other",
+    "url": "https://www.worldbank.org/en/news/press-release/2024/01/11/-world-bank-supports-investment-in-youth-skills-and-innovation-in-oecs-countries",
+    "note": "US$36M (2024) for Grenada, Saint Lucia and OECS; 120+ entrepreneurs"
+   },
+   {
+    "name": "OECS Commission",
+    "type": "government_agency",
+    "url": "https://www.oecs.int/en",
+    "note": "Regional body; runs youth and MSME programmes"
+   },
+   {
+    "name": "Eastern Caribbean Central Bank",
+    "type": "government_agency",
+    "url": "https://www.eccb-centralbank.org",
+    "note": "Monetary authority (EC$); fintech sandbox and regulation"
+   },
+   {
+    "name": "Caribbean Development Bank",
+    "type": "other",
+    "url": "https://www.caribank.org",
+    "note": "Regional DFI; funds RevUP and MSME programmes"
+   },
+   {
+    "name": "Caribbean Export Development Agency",
+    "type": "government_agency",
+    "url": "https://www.carib-export.com",
+    "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+   }
+  ],
+  "sources": [
+   "https://www.grenadadevelopmentbank.com",
+   "https://www.worldbank.org/en/news/press-release/2024/01/11/-world-bank-supports-investment-in-youth-skills-and-innovation-in-oecs-countries"
+  ],
+  "confidence": "low",
+  "notes": "OECS member, not an IDB borrowing member; regional support comes via CDB, Compete Caribbean, OECS and Caribbean Export. OECS Youth Empowerment Project small grants (US$5k) closed 2026-08-14. The GIDC (investment agency) website did not resolve in Oct 2026, so it is left out."
+ },
+ {
+  "country": "St. Kitts & Nevis",
+  "iso2": "KN",
+  "ecosystem_tier": "nascent",
+  "summary": "Micro ecosystem; finance comes from the Development Bank of St Kitts and Nevis, and SKIPA promotes investment. Citizenship by Investment brings foreign capital.",
+  "startup_visa": "none",
+  "company_setup": "Company under the Companies Act (St Kitts) or a Nevis LLC/IBC (common offshore vehicle, formed remotely through agents).",
+  "grants": [
+   {
+    "name": "Compete Caribbean+ calls for proposals",
+    "agency": "Compete Caribbean+ (IDB, FCDO, Global Affairs Canada, CDB)",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "private firms, clusters and value chains in Caribbean member countries",
+    "deadline": "last: 2026-05-29 (3rd cluster call)",
+    "status": "closed",
+    "url": "https://www.competecaribbean.org"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Founder Institute Caribbean (Fall 2026, virtual)",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "no investment; program fee US$749",
+    "sectors": "generalist, pre-seed",
+    "deadline": "2026-10-20",
+    "next_cohort": "2026-10",
+    "status": "open",
+    "url": "https://fi.co/apply/14634"
+   },
+   {
+    "name": "RevUP Caribbean Incubation Programme",
+    "city": "virtual (Kingston)",
+    "type": "incubator",
+    "investment": "no equity; training, mentoring, investor intros (CDB-backed)",
+    "sectors": "generalist; women-led and climate-smart priority",
+    "deadline": "last: 2026-06-30 (Cohort 8)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.revupcaribbean.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "FirstAngels Caribbean",
+    "city": "Kingston",
+    "stage": "seed",
+    "check_size": "unknown (each angel decides)",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://firstangelscaribbean.com"
+   },
+   {
+    "name": "Caribbean Angels",
+    "city": "regional",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.caribbeanangels.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "St. Kitts Investment Promotion Agency (SKIPA)",
+    "type": "government_agency",
+    "url": "https://investstkitts.kn",
+    "note": "Investment promotion"
+   },
+   {
+    "name": "Development Bank of St. Kitts Nevis",
+    "type": "government_agency",
+    "url": "https://skndb.com",
+    "note": "Business and development loans"
+   },
+   {
+    "name": "Citizenship by Investment Unit",
+    "type": "legal_tax",
+    "url": "https://ciu.gov.kn",
+    "note": "CBI programme"
+   },
+   {
+    "name": "OECS Commission",
+    "type": "government_agency",
+    "url": "https://www.oecs.int/en",
+    "note": "Regional body; runs youth and MSME programmes"
+   },
+   {
+    "name": "Eastern Caribbean Central Bank",
+    "type": "government_agency",
+    "url": "https://www.eccb-centralbank.org",
+    "note": "Monetary authority (EC$); fintech sandbox and regulation"
+   },
+   {
+    "name": "Caribbean Development Bank",
+    "type": "other",
+    "url": "https://www.caribank.org",
+    "note": "Regional DFI; funds RevUP and MSME programmes"
+   },
+   {
+    "name": "Caribbean Export Development Agency",
+    "type": "government_agency",
+    "url": "https://www.carib-export.com",
+    "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+   }
+  ],
+  "sources": [
+   "https://investstkitts.kn",
+   "https://skndb.com",
+   "https://ciu.gov.kn"
+  ],
+  "confidence": "low",
+  "notes": "OECS member, not an IDB borrowing member; regional support comes via CDB, Compete Caribbean, OECS and Caribbean Export. OECS Youth Empowerment Project small grants (US$5k) closed 2026-08-14. "
+ },
+ {
+  "country": "St. Lucia",
+  "iso2": "LC",
+  "ecosystem_tier": "nascent",
+  "summary": "Micro ecosystem. The Saint Lucia Development Bank runs a Youth Enterprises Equity Fund and Invest Saint Lucia promotes investment. Covered by the 2024 World Bank OECS entrepreneurship project.",
+  "startup_visa": "none",
+  "company_setup": "Company under the Companies Act via the Registry of Companies; foreign ownership allowed; CBI includes enterprise projects.",
+  "grants": [
+   {
+    "name": "Youth Enterprises Equity Fund (YEEF)",
+    "agency": "Saint Lucia Development Bank",
+    "amount": "unknown",
+    "amount_usd_max": null,
+    "eligibility": "young Saint Lucian entrepreneurs",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.sldb.lc"
+   },
+   {
+    "name": "Compete Caribbean+ calls for proposals",
+    "agency": "Compete Caribbean+ (IDB, FCDO, Global Affairs Canada, CDB)",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "private firms, clusters and value chains in Caribbean member countries",
+    "deadline": "last: 2026-05-29 (3rd cluster call)",
+    "status": "closed",
+    "url": "https://www.competecaribbean.org"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Founder Institute Caribbean (Fall 2026, virtual)",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "no investment; program fee US$749",
+    "sectors": "generalist, pre-seed",
+    "deadline": "2026-10-20",
+    "next_cohort": "2026-10",
+    "status": "open",
+    "url": "https://fi.co/apply/14634"
+   },
+   {
+    "name": "RevUP Caribbean Incubation Programme",
+    "city": "virtual (Kingston)",
+    "type": "incubator",
+    "investment": "no equity; training, mentoring, investor intros (CDB-backed)",
+    "sectors": "generalist; women-led and climate-smart priority",
+    "deadline": "last: 2026-06-30 (Cohort 8)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.revupcaribbean.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "FirstAngels Caribbean",
+    "city": "Kingston",
+    "stage": "seed",
+    "check_size": "unknown (each angel decides)",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://firstangelscaribbean.com"
+   },
+   {
+    "name": "Caribbean Angels",
+    "city": "regional",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.caribbeanangels.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Invest Saint Lucia",
+    "type": "government_agency",
+    "url": "https://www.investstlucia.com",
+    "note": "Investment promotion agency"
+   },
+   {
+    "name": "Saint Lucia Development Bank",
+    "type": "government_agency",
+    "url": "https://www.sldb.lc",
+    "note": "Development lending; EE/RE grants"
+   },
+   {
+    "name": "Citizenship by Investment Saint Lucia",
+    "type": "legal_tax",
+    "url": "https://www.cipsaintlucia.com",
+    "note": "CBI programme"
+   },
+   {
+    "name": "OECS Commission",
+    "type": "government_agency",
+    "url": "https://www.oecs.int/en",
+    "note": "Regional body; runs youth and MSME programmes"
+   },
+   {
+    "name": "Eastern Caribbean Central Bank",
+    "type": "government_agency",
+    "url": "https://www.eccb-centralbank.org",
+    "note": "Monetary authority (EC$); fintech sandbox and regulation"
+   },
+   {
+    "name": "Caribbean Development Bank",
+    "type": "other",
+    "url": "https://www.caribank.org",
+    "note": "Regional DFI; funds RevUP and MSME programmes"
+   },
+   {
+    "name": "Caribbean Export Development Agency",
+    "type": "government_agency",
+    "url": "https://www.carib-export.com",
+    "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+   }
+  ],
+  "sources": [
+   "https://www.sldb.lc",
+   "https://www.investstlucia.com"
+  ],
+  "confidence": "low",
+  "notes": "OECS member, not an IDB borrowing member; regional support comes via CDB, Compete Caribbean, OECS and Caribbean Export. OECS Youth Empowerment Project small grants (US$5k) closed 2026-08-14. "
+ },
+ {
+  "country": "St. Vincent & Grenadines",
+  "iso2": "VC",
+  "ecosystem_tier": "nascent",
+  "summary": "Micro ecosystem; Invest SVG offers startup and new-venture support. No local accelerators or VCs.",
+  "startup_visa": "none",
+  "company_setup": "Company under the Companies Act via CIPO; IBCs/LLCs available; foreign ownership allowed.",
+  "grants": [
+   {
+    "name": "Compete Caribbean+ calls for proposals",
+    "agency": "Compete Caribbean+ (IDB, FCDO, Global Affairs Canada, CDB)",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "private firms, clusters and value chains in Caribbean member countries",
+    "deadline": "last: 2026-05-29 (3rd cluster call)",
+    "status": "closed",
+    "url": "https://www.competecaribbean.org"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Founder Institute Caribbean (Fall 2026, virtual)",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "no investment; program fee US$749",
+    "sectors": "generalist, pre-seed",
+    "deadline": "2026-10-20",
+    "next_cohort": "2026-10",
+    "status": "open",
+    "url": "https://fi.co/apply/14634"
+   },
+   {
+    "name": "RevUP Caribbean Incubation Programme",
+    "city": "virtual (Kingston)",
+    "type": "incubator",
+    "investment": "no equity; training, mentoring, investor intros (CDB-backed)",
+    "sectors": "generalist; women-led and climate-smart priority",
+    "deadline": "last: 2026-06-30 (Cohort 8)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.revupcaribbean.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "FirstAngels Caribbean",
+    "city": "Kingston",
+    "stage": "seed",
+    "check_size": "unknown (each angel decides)",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://firstangelscaribbean.com"
+   },
+   {
+    "name": "Caribbean Angels",
+    "city": "regional",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.caribbeanangels.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Invest SVG",
+    "type": "government_agency",
+    "url": "https://investsvg.com",
+    "note": "Investment promotion; new venture and startup support"
+   },
+   {
+    "name": "OECS Commission",
+    "type": "government_agency",
+    "url": "https://www.oecs.int/en",
+    "note": "Regional body; runs youth and MSME programmes"
+   },
+   {
+    "name": "Eastern Caribbean Central Bank",
+    "type": "government_agency",
+    "url": "https://www.eccb-centralbank.org",
+    "note": "Monetary authority (EC$); fintech sandbox and regulation"
+   },
+   {
+    "name": "Caribbean Development Bank",
+    "type": "other",
+    "url": "https://www.caribank.org",
+    "note": "Regional DFI; funds RevUP and MSME programmes"
+   },
+   {
+    "name": "Caribbean Export Development Agency",
+    "type": "government_agency",
+    "url": "https://www.carib-export.com",
+    "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+   }
+  ],
+  "sources": [
+   "https://investsvg.com"
+  ],
+  "confidence": "low",
+  "notes": "OECS member, not an IDB borrowing member; regional support comes via CDB, Compete Caribbean, OECS and Caribbean Export. OECS Youth Empowerment Project small grants (US$5k) closed 2026-08-14. The Centre for Enterprise Development (ced.vc) site did not resolve in Oct 2026."
+ },
+ {
+  "country": "Dominica",
+  "iso2": "DM",
+  "ecosystem_tier": "nascent",
+  "summary": "Micro ecosystem; finance comes from AID Bank and Invest Dominica Authority supports startups. The WIN (Work in Nature) visa targets remote workers.",
+  "startup_visa": "none (WIN 'Work in Nature' remote-work visa: https://windominica.gov.dm)",
+  "company_setup": "Company under the Companies Act; foreign ownership allowed; CBI includes approved business projects.",
+  "grants": [
+   {
+    "name": "Compete Caribbean+ calls for proposals",
+    "agency": "Compete Caribbean+ (IDB, FCDO, Global Affairs Canada, CDB)",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "private firms, clusters and value chains in Caribbean member countries",
+    "deadline": "last: 2026-05-29 (3rd cluster call)",
+    "status": "closed",
+    "url": "https://www.competecaribbean.org"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Founder Institute Caribbean (Fall 2026, virtual)",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "no investment; program fee US$749",
+    "sectors": "generalist, pre-seed",
+    "deadline": "2026-10-20",
+    "next_cohort": "2026-10",
+    "status": "open",
+    "url": "https://fi.co/apply/14634"
+   },
+   {
+    "name": "RevUP Caribbean Incubation Programme",
+    "city": "virtual (Kingston)",
+    "type": "incubator",
+    "investment": "no equity; training, mentoring, investor intros (CDB-backed)",
+    "sectors": "generalist; women-led and climate-smart priority",
+    "deadline": "last: 2026-06-30 (Cohort 8)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.revupcaribbean.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "FirstAngels Caribbean",
+    "city": "Kingston",
+    "stage": "seed",
+    "check_size": "unknown (each angel decides)",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://firstangelscaribbean.com"
+   },
+   {
+    "name": "Caribbean Angels",
+    "city": "regional",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.caribbeanangels.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Invest Dominica Authority",
+    "type": "government_agency",
+    "url": "https://investdominica.com",
+    "note": "Investment promotion and startup support"
+   },
+   {
+    "name": "AID Bank",
+    "type": "government_agency",
+    "url": "https://www.aidbank.com",
+    "note": "Agricultural, Industrial and Development Bank; SME loans"
+   },
+   {
+    "name": "Citizenship by Investment Unit",
+    "type": "legal_tax",
+    "url": "https://cbiu.gov.dm",
+    "note": "CBI programme"
+   },
+   {
+    "name": "OECS Commission",
+    "type": "government_agency",
+    "url": "https://www.oecs.int/en",
+    "note": "Regional body; runs youth and MSME programmes"
+   },
+   {
+    "name": "Eastern Caribbean Central Bank",
+    "type": "government_agency",
+    "url": "https://www.eccb-centralbank.org",
+    "note": "Monetary authority (EC$); fintech sandbox and regulation"
+   },
+   {
+    "name": "Caribbean Development Bank",
+    "type": "other",
+    "url": "https://www.caribank.org",
+    "note": "Regional DFI; funds RevUP and MSME programmes"
+   },
+   {
+    "name": "Caribbean Export Development Agency",
+    "type": "government_agency",
+    "url": "https://www.carib-export.com",
+    "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+   }
+  ],
+  "sources": [
+   "https://investdominica.com",
+   "https://www.aidbank.com",
+   "https://windominica.gov.dm"
+  ],
+  "confidence": "low",
+  "notes": "OECS member, not an IDB borrowing member; regional support comes via CDB, Compete Caribbean, OECS and Caribbean Export. OECS Youth Empowerment Project small grants (US$5k) closed 2026-08-14. "
+ },
+ {
+  "country": "Dominican Republic",
+  "iso2": "DO",
+  "ecosystem_tier": "emerging",
+  "summary": "Fast-growing Caribbean hub centred on Santo Domingo. StartupBlink's 2026 index reported 52.9% ecosystem growth, the highest in the Caribbean. The Enlaces angel network, Promipyme's EmprendeLab and ProDominicana lead support, and regional VCs such as Carao are active.",
+  "startup_visa": "none",
+  "company_setup": "SRL (sociedad de responsabilidad limitada) registered with the Chamber of Commerce and DGII; foreigners can own 100%; about 2-4 weeks.",
+  "grants": [
+   {
+    "name": "Prestamos de Emprendimiento / EmprendeLab",
+    "agency": "Promipyme",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Dominican entrepreneurs and MSMEs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://promipyme.gob.do"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Founder Institute Caribbean / Dominican Republic (Fall 2026, virtual)",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "no investment; program fee US$749",
+    "sectors": "generalist, pre-seed",
+    "deadline": "2026-10-20",
+    "next_cohort": "2026-10",
+    "status": "open",
+    "url": "https://fi.co/apply/14634"
+   },
+   {
+    "name": "EmprendeLab (Promipyme)",
+    "city": "Santo Domingo",
+    "type": "government",
+    "investment": "no equity; training plus loan access",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://promipyme.gob.do"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Enlaces (Red de Inversionistas Angeles)",
+    "city": "Santo Domingo",
+    "stage": "seed",
+    "check_size": "US$25k-150k",
+    "sectors": "SaaS, marketplaces, proptech, AI",
+    "type": "angel_network",
+    "url": "https://enlaces.org.do"
+   },
+   {
+    "name": "Carao Ventures",
+    "city": "San Jose, Costa Rica",
+    "stage": "seed",
+    "check_size": "up to ~US$1M (directory est.)",
+    "sectors": "generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",
+    "type": "vc",
+    "url": "https://www.caraov.com"
+   },
+   {
+    "name": "Newtopia VC",
+    "city": "LatAm (remote)",
+    "stage": "seed",
+    "check_size": "US$100k-1M",
+    "sectors": "tech, LatAm founders",
+    "type": "vc",
+    "url": "https://newtopia.vc"
+   }
+  ],
+  "resources": [
+   {
+    "name": "ProDominicana",
+    "type": "government_agency",
+    "url": "https://prodominicana.gob.do",
+    "note": "Export and investment agency; industrial startup acceleration"
+   },
+   {
+    "name": "MICM",
+    "type": "government_agency",
+    "url": "https://micm.gob.do",
+    "note": "Ministry of Industry, Commerce and MSMEs"
+   },
+   {
+    "name": "MESCyT",
+    "type": "government_agency",
+    "url": "https://mescyt.gob.do",
+    "note": "Science and technology ministry; R&D funding"
+   },
+   {
+    "name": "OGTIC",
+    "type": "government_agency",
+    "url": "https://ogtic.gob.do",
+    "note": "Government ICT and innovation office"
+   },
+   {
+    "name": "Startup World Cup (Pegasus Tech Ventures)",
+    "type": "event",
+    "url": "https://www.startupworldcup.io",
+    "note": "National rounds; winner goes to SF final for US$1M"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "CABEI / BCIE",
+    "type": "other",
+    "url": "https://www.bcie.org",
+    "note": "Central American development bank; MSME and seed-capital programmes"
+   },
+   {
+    "name": "CAF Development Bank of Latin America",
+    "type": "other",
+    "url": "https://www.caf.com",
+    "note": "Regional DFI; VC fund investments and innovation programmes"
+   },
+   {
+    "name": "Caribbean Export Development Agency",
+    "type": "government_agency",
+    "url": "https://www.carib-export.com",
+    "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+   }
+  ],
+  "sources": [
+   "https://www.descubre.vc/angeles-enlaces",
+   "https://promipyme.gob.do",
+   "https://fi.co/apply/14634",
+   "https://eldinero.com.do/?p=367186"
+  ],
+  "confidence": "medium",
+  "notes": "Startup World Cup DR national round was held 2026-10-13. The Santo Domingo FI chapter page was not enrolling; the Caribbean virtual cohort covers DR."
+ },
+ {
+  "country": "Haiti",
+  "iso2": "HT",
+  "ecosystem_tier": "nascent",
+  "summary": "Fragile state with a severe security crisis. Startup activity is small, centred on Port-au-Prince and Cap-Haitien, and driven by diaspora events (Haiti Tech Summit), IDB Lab pilots and new youth labs such as AyitiLab (launched June 2026).",
+  "startup_visa": "none",
+  "company_setup": "SA (societe anonyme) registered with the Ministry of Commerce and Industry; the CFI one-stop shop helps foreign investors. Many diaspora founders incorporate in the US and operate in Haiti.",
+  "grants": [
+   {
+    "name": "Compete Caribbean+ calls for proposals",
+    "agency": "Compete Caribbean+ (IDB, FCDO, Global Affairs Canada, CDB)",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "private firms, clusters and value chains in Caribbean member countries",
+    "deadline": "last: 2026-05-29 (3rd cluster call)",
+    "status": "closed",
+    "url": "https://www.competecaribbean.org"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "Centre de Facilitation des Investissements (CFI)",
+    "type": "government_agency",
+    "url": "https://cfi.ht",
+    "note": "National investment promotion agency"
+   },
+   {
+    "name": "Ministere du Commerce et de l'Industrie",
+    "type": "government_agency",
+    "url": "https://www.mci.gouv.ht",
+    "note": "Company registration; AyitiLab partner"
+   },
+   {
+    "name": "Haiti Tech Summit",
+    "type": "event",
+    "url": "https://haititechsummit.com",
+    "note": "Diaspora tech and investment event; hosts IDB Lab accelerator cohorts"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "Caribbean Development Bank",
+    "type": "other",
+    "url": "https://www.caribank.org",
+    "note": "Regional DFI; funds RevUP and MSME programmes"
+   },
+   {
+    "name": "Caribbean Export Development Agency",
+    "type": "government_agency",
+    "url": "https://www.carib-export.com",
+    "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+   }
+  ],
+  "sources": [
+   "https://cfi.ht",
+   "https://haititechsummit.com",
+   "https://lenouvelliste.com/en/article/269214/ayitilab-launch-of-a-technology-startup-accelerator-for-haitian-youth"
+  ],
+  "confidence": "low",
+  "notes": "As of Oct 2026, insecurity in Port-au-Prince severely limits operations. AyitiLab (Avenir Foundation, MCI, ESIH) launched 2026-06-29; no working official URL was found. IDB projects (Haiti Startup Talent, CARIBEquity ANGAJE) are in preparation. Diaspora and US incorporation are the main routes."
+ },
+ {
+  "country": "Guatemala",
+  "iso2": "GT",
+  "ecosystem_tier": "emerging",
+  "summary": "Largest Central American economy, with a growing scene in Guatemala City and Quetzaltenango. Impact investing (Pomona, Alterna), university programmes (UFM) and regional VCs drive it. It hosts a Startup World Cup round and the Volcano Innovation Summit.",
+  "startup_visa": "none",
+  "company_setup": "Sociedad Anonima registered with the Registro Mercantil (online via MINECO); foreigners can own 100%; about 2-4 weeks.",
+  "grants": [
+   {
+    "name": "Premio Nacional de Innovacion 2026",
+    "agency": "SENACYT Guatemala",
+    "amount": "prize",
+    "amount_usd_max": null,
+    "eligibility": "Guatemalan innovators and firms",
+    "deadline": "last: 2026-09-15",
+    "status": "closed",
+    "url": "https://senacyt.gob.gt"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Alterna",
+    "city": "Quetzaltenango",
+    "type": "accelerator",
+    "investment": "unknown",
+    "sectors": "social and environmental impact",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.alterna.pro"
+   },
+   {
+    "name": "Pomona Impact Foundation accelerators (Escala etc.)",
+    "city": "Guatemala City",
+    "type": "accelerator",
+    "investment": "no equity; acceleration and capital access",
+    "sectors": "social enterprise, agrifood, greentech, energy",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://pomonaimpact.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Pomona Impact",
+    "city": "Central America",
+    "stage": "growth",
+    "check_size": "unknown (US$15M invested to date)",
+    "sectors": "impact, agrifood, greentech",
+    "type": "vc",
+    "url": "https://pomonaimpact.com"
+   },
+   {
+    "name": "Carao Ventures",
+    "city": "San Jose, Costa Rica",
+    "stage": "seed",
+    "check_size": "up to ~US$1M (directory est.)",
+    "sectors": "generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",
+    "type": "vc",
+    "url": "https://www.caraov.com"
+   },
+   {
+    "name": "Caricaco Ventures",
+    "city": "San Jose, Costa Rica",
+    "stage": "pre-seed",
+    "check_size": "up to US$50k (Fondo Despegar, 2024)",
+    "sectors": "generalist, Central America",
+    "type": "vc",
+    "url": "https://caricaco.vc"
+   }
+  ],
+  "resources": [
+   {
+    "name": "MINECO",
+    "type": "government_agency",
+    "url": "https://www.mineco.gob.gt",
+    "note": "Ministry of Economy; MSME programmes and business registry"
+   },
+   {
+    "name": "SENACYT Guatemala",
+    "type": "government_agency",
+    "url": "https://senacyt.gob.gt",
+    "note": "Science and innovation funding and awards"
+   },
+   {
+    "name": "Universidad Francisco Marroquin",
+    "type": "other",
+    "url": "https://www.ufm.edu",
+    "note": "Entrepreneurship programmes"
+   },
+   {
+    "name": "Impact Hub Antigua Guatemala",
+    "type": "coworking_hub",
+    "url": "https://antigua.impacthub.net",
+    "note": "Coworking, community and impact programmes"
+   },
+   {
+    "name": "Volcano Innovation Summit",
+    "type": "event",
+    "url": "https://www.volcanosummit.com",
+    "note": "Regional startup and investor summit"
+   },
+   {
+    "name": "Startup World Cup (Pegasus Tech Ventures)",
+    "type": "event",
+    "url": "https://www.startupworldcup.io",
+    "note": "National rounds; winner goes to SF final for US$1M"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "CABEI / BCIE",
+    "type": "other",
+    "url": "https://www.bcie.org",
+    "note": "Central American development bank; MSME and seed-capital programmes"
+   }
+  ],
+  "sources": [
+   "https://pomonaimpact.com",
+   "https://www.caraov.com",
+   "https://agn.gt/abren-convocatoria-para-financiar-proyectos-de-ciencia-tecnologia-e-innovacion",
+   "https://ecosistemastartup.com/?p=89874"
+  ],
+  "confidence": "low",
+  "notes": "Startup World Cup Guatemala 2026 was held 2026-06-23. Invest Guatemala's domain now redirects elsewhere, so it is left out. AGEXPORT's site timed out."
+ },
+ {
+  "country": "Belize",
+  "iso2": "BZ",
+  "ecosystem_tier": "nascent",
+  "summary": "Micro ecosystem. Support comes from BELTRAIDE (incl. SBDC Belize), BEEP seed grants and the Development Finance Corporation, plus Caribbean and Central American regional programmes (CDB, CABEI, RevUP).",
+  "startup_visa": "none",
+  "company_setup": "Local company or IBC via the Belize Companies and Corporate Affairs Registry (online); foreign ownership allowed; about 1-2 weeks.",
+  "grants": [
+   {
+    "name": "Belize Enterprise Empowerment Project (BEEP)",
+    "agency": "BELTRAIDE (CARICOM Development Fund)",
+    "amount": "BZ$5,000 startup grants",
+    "amount_usd_max": 2500,
+    "eligibility": "100% Belizean-owned, under 3 years old, 18+",
+    "deadline": "last: 2026-04-05",
+    "status": "closed",
+    "url": "https://beltraide.bz/?p=12819"
+   },
+   {
+    "name": "DFC business loans",
+    "agency": "Development Finance Corporation",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Belizean businesses",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.dfcbelize.org"
+   },
+   {
+    "name": "Compete Caribbean+ calls for proposals",
+    "agency": "Compete Caribbean+ (IDB, FCDO, Global Affairs Canada, CDB)",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "private firms, clusters and value chains in Caribbean member countries",
+    "deadline": "last: 2026-05-29 (3rd cluster call)",
+    "status": "closed",
+    "url": "https://www.competecaribbean.org"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "RevUP Caribbean Incubation Programme",
+    "city": "virtual (Kingston)",
+    "type": "incubator",
+    "investment": "no equity; training, mentoring, investor intros (CDB-backed)",
+    "sectors": "generalist; women-led and climate-smart priority",
+    "deadline": "last: 2026-06-30 (Cohort 8)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.revupcaribbean.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Caribbean Angels",
+    "city": "regional",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.caribbeanangels.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "BELTRAIDE",
+    "type": "government_agency",
+    "url": "https://beltraide.bz",
+    "note": "Trade and investment agency; runs SBDC Belize"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "Caribbean Development Bank",
+    "type": "other",
+    "url": "https://www.caribank.org",
+    "note": "Regional DFI; funds RevUP and MSME programmes"
+   },
+   {
+    "name": "CABEI / BCIE",
+    "type": "other",
+    "url": "https://www.bcie.org",
+    "note": "Central American development bank; MSME and seed-capital programmes"
+   },
+   {
+    "name": "Caribbean Export Development Agency",
+    "type": "government_agency",
+    "url": "https://www.carib-export.com",
+    "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+   }
+  ],
+  "sources": [
+   "https://beltraide.bz/?p=12819",
+   "https://amandala.com.bz/news/?p=365413",
+   "https://www.dfcbelize.org"
+  ],
+  "confidence": "medium",
+  "notes": "BEEP's 2026 cohort: 22 startups each got BZ$5,000 (July 2026). RevUP ran training for Belizean entrepreneurs."
+ },
+ {
+  "country": "El Salvador",
+  "iso2": "SV",
+  "ecosystem_tier": "nascent",
+  "summary": "Small ecosystem in San Salvador that the government markets as a tech hub (bitcoin law, Freedom Visa). CoreNest launched a US$25M accelerator fund, Impact Hub San Salvador runs investment-readiness programmes, and it hosts a Startup World Cup round.",
+  "startup_visa": "none (Freedom Visa: residency/citizenship for US$1M+ investment in BTC/USDT, https://www.freedomvisa.com)",
+  "company_setup": "Sociedad Anonima de Capital Variable registered via the online one-stop shop (MiEmpresa/CNR); foreigners can own 100%; about 1-3 weeks.",
+  "grants": [
+   {
+    "name": "CONAMYPE entrepreneur programmes",
+    "agency": "CONAMYPE",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Salvadoran entrepreneurs and MSMEs",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.conamype.gob.sv"
+   },
+   {
+    "name": "BANDESAL development credit lines",
+    "agency": "Banco de Desarrollo de El Salvador",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Salvadoran businesses via banks",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.bandesal.gob.sv"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "CoreNest Accelerator",
+    "city": "San Salvador",
+    "type": "accelerator",
+    "investment": "US$125k reported per startup; 12 weeks",
+    "sectors": "tech",
+    "deadline": "unknown (founder waitlist)",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://corenest.com/sv"
+   },
+   {
+    "name": "Espaciotec (Davivienda)",
+    "city": "San Salvador",
+    "type": "corporate",
+    "investment": "no equity; competition and training",
+    "sectors": "tech",
+    "deadline": "unknown (annual)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://espaciotec.com"
+   },
+   {
+    "name": "Pomona Impact Foundation accelerators (Escala etc.)",
+    "city": "Central America",
+    "type": "accelerator",
+    "investment": "no equity; acceleration and capital access",
+    "sectors": "social enterprise, agrifood, greentech, energy",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://pomonaimpact.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Carao Ventures",
+    "city": "San Jose, Costa Rica",
+    "stage": "seed",
+    "check_size": "up to ~US$1M (directory est.)",
+    "sectors": "generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",
+    "type": "vc",
+    "url": "https://www.caraov.com"
+   },
+   {
+    "name": "Caricaco Ventures",
+    "city": "San Jose, Costa Rica",
+    "stage": "pre-seed",
+    "check_size": "up to US$50k (Fondo Despegar, 2024)",
+    "sectors": "generalist, Central America",
+    "type": "vc",
+    "url": "https://caricaco.vc"
+   },
+   {
+    "name": "Pomona Impact",
+    "city": "Central America",
+    "stage": "growth",
+    "check_size": "unknown (US$15M invested to date)",
+    "sectors": "impact, agrifood, greentech",
+    "type": "vc",
+    "url": "https://pomonaimpact.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Impact Hub San Salvador",
+    "type": "coworking_hub",
+    "url": "https://sansalvador.impacthub.net",
+    "note": "Coworking; Investment Readiness Lab with US Embassy"
+   },
+   {
+    "name": "Ministerio de Economia",
+    "type": "government_agency",
+    "url": "https://economia.gob.sv",
+    "note": "Ministry of Economy"
+   },
+   {
+    "name": "Startup World Cup (Pegasus Tech Ventures)",
+    "type": "event",
+    "url": "https://www.startupworldcup.io",
+    "note": "National rounds; winner goes to SF final for US$1M"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "CABEI / BCIE",
+    "type": "other",
+    "url": "https://www.bcie.org",
+    "note": "Central American development bank; MSME and seed-capital programmes"
+   },
+   {
+    "name": "CAF Development Bank of Latin America",
+    "type": "other",
+    "url": "https://www.caf.com",
+    "note": "Regional DFI; VC fund investments and innovation programmes"
+   }
+  ],
+  "sources": [
+   "https://corenest.com/sv",
+   "https://diario.elmundo.sv/economia/corenest-lanza-fondo-de-25-millones-como-capital-de-riesgo-para-startups-en-el-salvador",
+   "https://www.conamype.gob.sv",
+   "https://www.freedomvisa.com"
+  ],
+  "confidence": "low",
+  "notes": "Startupbootcamp announced plans (2025) to invest up to US$3.5M in 30 Salvadoran startups, but no official programme page was found. PROESA's site timed out in Oct 2026. Startup World Cup SV 2026 winner: DiiMO (July 2026)."
+ },
+ {
+  "country": "Honduras",
+  "iso2": "HN",
+  "ecosystem_tier": "nascent",
+  "summary": "Small ecosystem in Tegucigalpa and San Pedro Sula. The Founder Institute runs a virtual chapter and Davivienda brought Espaciotec here in 2026. SENPRENDE and BANHPROVI provide public support, and CABEI is headquartered in Tegucigalpa.",
+  "startup_visa": "none",
+  "company_setup": "Sociedad Anonima or S. de R.L. via the Chamber of Commerce one-stop shop; foreigners can own; about 2-4 weeks.",
+  "grants": [
+   {
+    "name": "BANHPROVI MSME credit lines",
+    "agency": "BANHPROVI",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Honduran MSMEs via banks",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://web.banhprovi.gob.hn"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Founder Institute Honduras (Latam Fall 2026, virtual)",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "no investment; program fee",
+    "sectors": "generalist, pre-seed",
+    "deadline": "2026-10-27",
+    "next_cohort": "2026-11",
+    "status": "open",
+    "url": "https://fi.co/apply/14731"
+   },
+   {
+    "name": "Espaciotec 2026 (Davivienda)",
+    "city": "Tegucigalpa",
+    "type": "corporate",
+    "investment": "no equity; competition and training",
+    "sectors": "tech",
+    "deadline": "unknown (annual)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://espaciotec.com"
+   },
+   {
+    "name": "Pomona Impact Foundation accelerators (Escala etc.)",
+    "city": "Central America",
+    "type": "accelerator",
+    "investment": "no equity; acceleration and capital access",
+    "sectors": "social enterprise, agrifood, greentech, energy",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://pomonaimpact.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Carao Ventures",
+    "city": "San Jose, Costa Rica",
+    "stage": "seed",
+    "check_size": "up to ~US$1M (directory est.)",
+    "sectors": "generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",
+    "type": "vc",
+    "url": "https://www.caraov.com"
+   },
+   {
+    "name": "Caricaco Ventures",
+    "city": "San Jose, Costa Rica",
+    "stage": "pre-seed",
+    "check_size": "up to US$50k (Fondo Despegar, 2024)",
+    "sectors": "generalist, Central America",
+    "type": "vc",
+    "url": "https://caricaco.vc"
+   },
+   {
+    "name": "Pomona Impact",
+    "city": "Central America",
+    "stage": "growth",
+    "check_size": "unknown (US$15M invested to date)",
+    "sectors": "impact, agrifood, greentech",
+    "type": "vc",
+    "url": "https://pomonaimpact.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "SENPRENDE",
+    "type": "government_agency",
+    "url": "https://senprende.hn",
+    "note": "National entrepreneurship and MSME service"
+   },
+   {
+    "name": "Secretaria de Desarrollo Economico",
+    "type": "government_agency",
+    "url": "https://sde.gob.hn",
+    "note": "Economy ministry"
+   },
+   {
+    "name": "Impact Hub Tegucigalpa",
+    "type": "coworking_hub",
+    "url": "https://tegucigalpa.impacthub.net",
+    "note": "Coworking, community and impact programmes"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "CABEI / BCIE",
+    "type": "other",
+    "url": "https://www.bcie.org",
+    "note": "Central American development bank; MSME and seed-capital programmes"
+   },
+   {
+    "name": "CAF Development Bank of Latin America",
+    "type": "other",
+    "url": "https://www.caf.com",
+    "note": "Regional DFI; VC fund investments and innovation programmes"
+   }
+  ],
+  "sources": [
+   "https://fi.co/apply/14731",
+   "https://senprende.hn",
+   "https://newsinamerica.com/pdcc/boletin/2026/davivienda-presenta-espaciotec-2026-en-honduras/"
+  ],
+  "confidence": "medium",
+  "notes": "The government's long-running Honduras StartUp seed programme (IHCIETI) has no current official page. The BCIE/KfW/EU DINAMICA II seed grants selected 50 Honduran firms in 2025."
+ },
+ {
+  "country": "Nicaragua",
+  "iso2": "NI",
+  "ecosystem_tier": "nascent",
+  "summary": "Very limited startup activity under an authoritarian political climate. Impact Hub Managua and university incubators (UNAN) are among the few actors. Mostly small-business fairs.",
+  "startup_visa": "none",
+  "company_setup": "Sociedad Anonima registered via the Ventanilla Unica de Inversiones and Registro Mercantil; foreigners can own; about 2-4 weeks.",
+  "grants": [],
+  "accelerators": [],
+  "vcs": [],
+  "resources": [
+   {
+    "name": "MIFIC",
+    "type": "government_agency",
+    "url": "https://www.mific.gob.ni",
+    "note": "Ministry of Development, Industry and Trade"
+   },
+   {
+    "name": "Impact Hub Managua",
+    "type": "coworking_hub",
+    "url": "https://managua.impacthub.net",
+    "note": "Coworking, courses and community"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "CABEI / BCIE",
+    "type": "other",
+    "url": "https://www.bcie.org",
+    "note": "Central American development bank; MSME and seed-capital programmes"
+   }
+  ],
+  "sources": [
+   "https://managua.impacthub.net",
+   "https://www.mific.gob.ni",
+   "https://www.telesurtv.net/nicaragua-emprende-nuevas-tecnologias/"
+  ],
+  "confidence": "low",
+  "notes": "As of Oct 2026, mass closure of NGOs and universities, plus US/EU sanctions on officials, deter foreign investors and donors. Regional VCs such as Carao say they cover all Spanish-speaking LatAm, but no Nicaraguan deals were verified."
+ },
+ {
+  "country": "Costa Rica",
+  "iso2": "CR",
+  "ecosystem_tier": "emerging",
+  "summary": "One of Central America's most developed ecosystems, around San Jose, built on multinational tech and life-science operations (CINDE). SBD funds seed capital through operators such as ParqueTec, Impact Hub and CAMTIC. Carao Ventures is the main local seed VC, and the Costa Rica Angels network launched in May 2026.",
+  "startup_visa": "none (digital nomad visa under Ley 10008 via Migracion: https://www.migracion.go.cr)",
+  "company_setup": "Sociedad Anonima or SRL registered with the Registro Nacional (digital signature/notary); foreigners can own 100%; about 1-3 weeks.",
+  "grants": [
+   {
+    "name": "SBD Capital Semilla: Prototipado and Puesta en Marcha 2026",
+    "agency": "Sistema de Banca para el Desarrollo (SBD)",
+    "amount": "CRC 3-10 million non-reimbursable",
+    "amount_usd_max": 20000,
+    "eligibility": "CR ventures up to 12 months old (prototyping) or 42 months (launch), via operators",
+    "deadline": "annual calls via operators",
+    "status": "unknown",
+    "url": "https://www.sbdcr.com"
+   },
+   {
+    "name": "SBD Capital Semilla Inclusion / Asociativo",
+    "agency": "Sistema de Banca para el Desarrollo (SBD)",
+    "amount": "up to CRC 4 million",
+    "amount_usd_max": 8000,
+    "eligibility": "inclusive and associative ventures",
+    "deadline": "annual calls via operators",
+    "status": "unknown",
+    "url": "https://www.sbdcr.com"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "ParqueTec (incubation, Investment Readiness Accelerator)",
+    "city": "Cartago / San Jose",
+    "type": "accelerator",
+    "investment": "no equity; SBD seed-capital operator",
+    "sectors": "tech, generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.parquetec.org"
+   },
+   {
+    "name": "Caricaco Ventures programme",
+    "city": "San Jose",
+    "type": "accelerator",
+    "investment": "up to US$50k (Fondo Despegar)",
+    "sectors": "generalist",
+    "deadline": "rolling",
+    "next_cohort": "unknown",
+    "status": "rolling",
+    "url": "https://caricaco.vc"
+   },
+   {
+    "name": "Pomona Impact Greentech accelerator (Costa Rica)",
+    "city": "San Jose",
+    "type": "accelerator",
+    "investment": "no equity; acceleration and capital access",
+    "sectors": "social enterprise, agrifood, greentech, energy",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://pomonaimpact.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Carao Ventures",
+    "city": "San Jose, Costa Rica",
+    "stage": "seed",
+    "check_size": "up to ~US$1M (directory est.)",
+    "sectors": "generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",
+    "type": "vc",
+    "url": "https://www.caraov.com"
+   },
+   {
+    "name": "Caricaco Ventures",
+    "city": "San Jose, Costa Rica",
+    "stage": "pre-seed",
+    "check_size": "up to US$50k (Fondo Despegar, 2024)",
+    "sectors": "generalist, Central America",
+    "type": "vc",
+    "url": "https://caricaco.vc"
+   },
+   {
+    "name": "Costa Rica Angels (ParqueTec)",
+    "city": "San Jose",
+    "stage": "pre-seed",
+    "check_size": "under US$50k",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.parquetec.org"
+   },
+   {
+    "name": "Newtopia VC",
+    "city": "LatAm (remote)",
+    "stage": "seed",
+    "check_size": "US$100k-1M",
+    "sectors": "tech, LatAm founders",
+    "type": "vc",
+    "url": "https://newtopia.vc"
+   },
+   {
+    "name": "NXTP Ventures",
+    "city": "LatAm",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://www.nxtp.vc"
+   },
+   {
+    "name": "Pomona Impact",
+    "city": "Central America",
+    "stage": "growth",
+    "check_size": "unknown (US$15M invested to date)",
+    "sectors": "impact, agrifood, greentech",
+    "type": "vc",
+    "url": "https://pomonaimpact.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "MICITT",
+    "type": "government_agency",
+    "url": "https://www.micitt.go.cr",
+    "note": "Science, innovation and telecom ministry"
+   },
+   {
+    "name": "PROCOMER",
+    "type": "government_agency",
+    "url": "https://procomer.com",
+    "note": "Export promotion agency"
+   },
+   {
+    "name": "CINDE",
+    "type": "government_agency",
+    "url": "https://www.cinde.org/en",
+    "note": "FDI investment promotion agency"
+   },
+   {
+    "name": "CAMTIC",
+    "type": "startup_association",
+    "url": "https://www.camtic.org",
+    "note": "ICT chamber; SBD operator"
+   },
+   {
+    "name": "CRUSA",
+    "type": "other",
+    "url": "https://crusa.cr",
+    "note": "Foundation co-funding startup ecosystem initiatives"
+   },
+   {
+    "name": "Impact Hub San Jose",
+    "type": "coworking_hub",
+    "url": "https://sanjose.impacthub.net",
+    "note": "Coworking and SBD seed-capital operator"
+   },
+   {
+    "name": "Costa Rica Tech Week",
+    "type": "event",
+    "url": "https://costaricatechweek.com",
+    "note": "Annual tech week (May)"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "CABEI / BCIE",
+    "type": "other",
+    "url": "https://www.bcie.org",
+    "note": "Central American development bank; MSME and seed-capital programmes"
+   },
+   {
+    "name": "CAF Development Bank of Latin America",
+    "type": "other",
+    "url": "https://www.caf.com",
+    "note": "Regional DFI; VC fund investments and innovation programmes"
+   }
+  ],
+  "sources": [
+   "https://delfino.cr/2026/07/mas-de-200-emprendimientos-y-empresas-competiran-por-185-millones-en-fondos-no-reembolsables",
+   "https://observador.cr/sistema-de-banca-para-el-desarrollo-destinara-3-850-millones-a-emprendimientos-y-mipymes/amp/",
+   "https://www.caraov.com",
+   "https://www.bloomberglinea.com/latinoamerica/costa-rica/costa-rica-construye-red-de-angeles-para-invertir-en-startups-de-alto-potencial/",
+   "https://www.parquetec.org"
+  ],
+  "confidence": "medium",
+  "notes": "CRC converted at ~500/US$. The SBD site blocks automated access, so check calls with each operator. The LEAPCR (IDB Lab, PCII, CRUSA, SBD) high-potential startup initiative was announced June 2026; no official page was found."
+ },
+ {
+  "country": "Panama",
+  "iso2": "PA",
+  "ecosystem_tier": "emerging",
+  "summary": "Regional logistics and finance hub. Ciudad del Saber (City of Knowledge) is the main incubator and accelerator, with 150+ firms incubated. SENACYT funds innovation, and regional VCs (Carao, Magma, NXTP) invest. Fintech and logistics lead.",
+  "startup_visa": "none (Remote worker short-stay visa and Friendly Nations residency via Migracion: https://www.migracion.gob.pa)",
+  "company_setup": "Sociedad Anonima or SRL via a Panamanian lawyer (registered agent) at the Registro Publico; can be done remotely; about 1-2 weeks.",
+  "grants": [
+   {
+    "name": "SENACYT innovation calls (Direccion de Innovacion Empresarial)",
+    "agency": "SENACYT Panama",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "Panamanian firms and entrepreneurs",
+    "deadline": "see call calendar",
+    "status": "unknown",
+    "url": "https://www.senacyt.gob.pa/convocatoriassenacyt/"
+   },
+   {
+    "name": "Capital Semilla",
+    "agency": "AMPYME",
+    "amount": "up to B/.2,000 non-reimbursable",
+    "amount_usd_max": 2000,
+    "eligibility": "new Panamanian micro-entrepreneurs",
+    "deadline": "unknown",
+    "status": "closed",
+    "url": "https://ampyme.gob.pa"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Ciudad del Saber: Centro de Innovacion (incubation and acceleration)",
+    "city": "Panama City",
+    "type": "incubator",
+    "investment": "no equity; access to US$25-50k funding (directory est.)",
+    "sectors": "generalist, tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://ciudaddelsaber.org"
+   },
+   {
+    "name": "Pomona Impact Foundation accelerators (Escala etc.)",
+    "city": "Central America",
+    "type": "accelerator",
+    "investment": "no equity; acceleration and capital access",
+    "sectors": "social enterprise, agrifood, greentech, energy",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://pomonaimpact.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Carao Ventures",
+    "city": "San Jose, Costa Rica",
+    "stage": "seed",
+    "check_size": "up to ~US$1M (directory est.)",
+    "sectors": "generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",
+    "type": "vc",
+    "url": "https://www.caraov.com"
+   },
+   {
+    "name": "Magma Partners",
+    "city": "LatAm",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "fintech, B2B tech",
+    "type": "vc",
+    "url": "https://magmapartners.com"
+   },
+   {
+    "name": "NXTP Ventures",
+    "city": "LatAm",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "B2B tech",
+    "type": "vc",
+    "url": "https://www.nxtp.vc"
+   },
+   {
+    "name": "Pomona Impact",
+    "city": "Central America",
+    "stage": "growth",
+    "check_size": "unknown (US$15M invested to date)",
+    "sectors": "impact, agrifood, greentech",
+    "type": "vc",
+    "url": "https://pomonaimpact.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "MICI",
+    "type": "government_agency",
+    "url": "https://mici.gob.pa",
+    "note": "Ministry of Commerce and Industries"
+   },
+   {
+    "name": "AMPYME",
+    "type": "government_agency",
+    "url": "https://ampyme.gob.pa",
+    "note": "MSME authority; Sociedad de Emprendimiento regime"
+   },
+   {
+    "name": "Autoridad de Innovacion Gubernamental",
+    "type": "government_agency",
+    "url": "https://aig.gob.pa",
+    "note": "Government digital and innovation authority"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "CABEI / BCIE",
+    "type": "other",
+    "url": "https://www.bcie.org",
+    "note": "Central American development bank; MSME and seed-capital programmes"
+   },
+   {
+    "name": "CAF Development Bank of Latin America",
+    "type": "other",
+    "url": "https://www.caf.com",
+    "note": "Regional DFI; VC fund investments and innovation programmes"
+   }
+  ],
+  "sources": [
+   "https://ciudaddelsaber.org",
+   "https://ampyme.gob.pa",
+   "https://www.senacyt.gob.pa/convocatoriassenacyt/",
+   "https://www.ellty.com/investors/panama-city-seed-investors"
+  ],
+  "confidence": "medium",
+  "notes": "AMPYME marked Capital Semilla 'inactive' (Oct 2026). SENACYT call listings load dynamically and could not be read. Venture Club Panama (angel pitch days) exists but its official URL was not verified."
+ },
+ {
+  "country": "Venezuela",
+  "iso2": "VE",
+  "ecosystem_tier": "nascent",
+  "summary": "Small, recovering ecosystem in Caracas. A 2026 market map counts about 105 active startups. Casa212 offers a US$150k founder residency, the first Venezuela Tech Week ran in May 2026, and the Startup Venezuela Summit runs 2026-10-21 to 23.",
+  "startup_visa": "none",
+  "company_setup": "Compania Anonima (C.A.) registered at the Registro Mercantil (SAREN) plus RIF tax ID; slow and bureaucratic. Many founders incorporate in the US or Delaware.",
+  "grants": [],
+  "accelerators": [
+   {
+    "name": "Casa212 Founder Residency",
+    "city": "Caracas",
+    "type": "accelerator",
+    "investment": "US$150k post-money SAFE; 12-week residency",
+    "sectors": "tech",
+    "deadline": "last: 2026-08-15",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://casa212.com"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Carao Ventures",
+    "city": "San Jose, Costa Rica",
+    "stage": "seed",
+    "check_size": "up to ~US$1M (directory est.)",
+    "sectors": "generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",
+    "type": "vc",
+    "url": "https://www.caraov.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Impact Hub Caracas",
+    "type": "coworking_hub",
+    "url": "https://caracas.impacthub.net",
+    "note": "Coworking and entrepreneurship programmes; 9,000+ ventures supported"
+   },
+   {
+    "name": "Startup Venezuela Summit",
+    "type": "event",
+    "url": "https://startupvenezuelasummit.com",
+    "note": "Caracas, 2026-10-21 to 23; investor day"
+   },
+   {
+    "name": "Venezuela Tech Week",
+    "type": "event",
+    "url": "https://venezuelatechweek.com",
+    "note": "First edition May 2026"
+   },
+   {
+    "name": "Venecapital",
+    "type": "community",
+    "url": "https://venecapital.org",
+    "note": "Investor community; 2026 startup market map with Innoven"
+   },
+   {
+    "name": "CONAPRI",
+    "type": "other",
+    "url": "https://conapri.org",
+    "note": "Investment promotion council (private)"
+   },
+   {
+    "name": "CAF Development Bank of Latin America",
+    "type": "other",
+    "url": "https://www.caf.com",
+    "note": "Regional DFI; VC fund investments and innovation programmes"
+   }
+  ],
+  "sources": [
+   "https://ecosistemastartup.com/?p=94575",
+   "https://forbes.co/2026/04/15/emprendedores/nace-en-venezuela-la-primera-tech-week-buscando-abrir-la-puerta-al-capital-internacional/",
+   "https://startupvenezuelasummit.com",
+   "https://casa212.com"
+  ],
+  "confidence": "low",
+  "notes": "US sanctions (OFAC) on the government and PDVSA complicate dealings with state entities and banking, as of Oct 2026. Most founders use offshore holding companies. Venezuela is an IDB member but IDB lending has been frozen for years. The FONACIT site was unreachable."
+ },
+ {
+  "country": "Ecuador",
+  "iso2": "EC",
+  "ecosystem_tier": "emerging",
+  "summary": "Ecosystem centred on Quito, Guayaquil and Cuenca. Its first unicorn is Kushki (payments). Endeavor Ecuador, AEI, ConQuito (FonQuito seed fund), EPICO and Prendho support founders, and BuenTrip and IMPAQTO invest. The IDB GET Forum was held in Quito in Oct 2026.",
+  "startup_visa": "none (digital nomad visa via Cancilleria: https://www.cancilleria.gob.ec)",
+  "company_setup": "SAS (sociedad por acciones simplificada) registered online with the Superintendencia de Companias in about 1-3 days at low cost; foreigners can be shareholders.",
+  "grants": [
+   {
+    "name": "FonQuito capital semilla",
+    "agency": "ConQuito (Municipality of Quito)",
+    "amount": "up to US$40,000",
+    "amount_usd_max": 40000,
+    "eligibility": "Quito-based ventures",
+    "deadline": "last: 2026-04-07 (annual)",
+    "status": "closed",
+    "url": "https://www.conquito.org.ec/fonquito/"
+   },
+   {
+    "name": "CFN business credit",
+    "agency": "Corporacion Financiera Nacional",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Ecuadorian businesses",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.cfn.fin.ec"
+   },
+   {
+    "name": "BanEcuador entrepreneur credit",
+    "agency": "BanEcuador",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "micro-entrepreneurs",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.banecuador.fin.ec"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Founder Institute Ecuador (Latam Fall 2026, virtual)",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "no investment; program fee",
+    "sectors": "generalist, pre-seed",
+    "deadline": "2026-10-27",
+    "next_cohort": "2026-11",
+    "status": "open",
+    "url": "https://fi.co/apply/14729"
+   },
+   {
+    "name": "Prendho",
+    "city": "Cuenca",
+    "type": "incubator",
+    "investment": "no equity",
+    "sectors": "generalist, creative industries",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://prendho.com"
+   },
+   {
+    "name": "EPICO business incubation (Ruta EPICA)",
+    "city": "Guayaquil",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://epico.gob.ec"
+   },
+   {
+    "name": "ConQuito incubation",
+    "city": "Quito",
+    "type": "government",
+    "investment": "no equity; seed via FonQuito",
+    "sectors": "generalist",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.conquito.org.ec"
+   },
+   {
+    "name": "Pomona Impact Foundation accelerators (Escala etc.)",
+    "city": "Central America",
+    "type": "accelerator",
+    "investment": "no equity; acceleration and capital access",
+    "sectors": "social enterprise, agrifood, greentech, energy",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://pomonaimpact.com"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "BuenTrip Ventures",
+    "city": "Quito / LatAm",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "software",
+    "type": "vc",
+    "url": "https://www.buentrip.vc"
+   },
+   {
+    "name": "IMPAQTO impact fund",
+    "city": "Quito",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "impact",
+    "type": "vc",
+    "url": "https://impaqto.net"
+   },
+   {
+    "name": "Carao Ventures",
+    "city": "San Jose, Costa Rica",
+    "stage": "seed",
+    "check_size": "up to ~US$1M (directory est.)",
+    "sectors": "generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",
+    "type": "vc",
+    "url": "https://www.caraov.com"
+   },
+   {
+    "name": "Babasu Ventures",
+    "city": "Andean region",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "women-led startups; fintech, SaaS, agtech, edtech, climate",
+    "type": "vc",
+    "url": "https://babasuventures.com"
+   },
+   {
+    "name": "Pomona Impact",
+    "city": "Central America",
+    "stage": "growth",
+    "check_size": "unknown (US$15M invested to date)",
+    "sectors": "impact, agrifood, greentech",
+    "type": "vc",
+    "url": "https://pomonaimpact.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Endeavor Ecuador",
+    "type": "startup_association",
+    "url": "https://endeavorecuador.org",
+    "note": "High-impact entrepreneur network (since 2017)"
+   },
+   {
+    "name": "AEI (Alianza para el Emprendimiento e Innovacion)",
+    "type": "startup_association",
+    "url": "https://aei.ec",
+    "note": "Ecosystem alliance; publishes calls"
+   },
+   {
+    "name": "Ministerio de Produccion (MPCEIP)",
+    "type": "government_agency",
+    "url": "https://www.produccion.gob.ec",
+    "note": "Production and investment ministry"
+   },
+   {
+    "name": "ProEcuador",
+    "type": "government_agency",
+    "url": "https://www.proecuador.gob.ec",
+    "note": "Export and investment promotion"
+   },
+   {
+    "name": "iThink VC",
+    "type": "community",
+    "url": "https://ithink.vc",
+    "note": "VC education and events"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "CAF Development Bank of Latin America",
+    "type": "other",
+    "url": "https://www.caf.com",
+    "note": "Regional DFI; VC fund investments and innovation programmes"
+   }
+  ],
+  "sources": [
+   "https://www.conquito.org.ec/fonquito/",
+   "https://fi.co/apply/14729",
+   "https://ecosistemastartup.com/?p=110337",
+   "https://endeavorecuador.org",
+   "https://aei.ec"
+  ],
+  "confidence": "medium",
+  "notes": "Uses the US dollar. Ecuador's regulation is often cited as a VC deterrent (2025). The CREAS impact fund closed in 2023."
+ },
+ {
+  "country": "Bolivia",
+  "iso2": "BO",
+  "ecosystem_tier": "nascent",
+  "summary": "Nascent ecosystem (IDB 2026 diagnostic) in Santa Cruz and La Paz, maturing over 2022-25 with new local VC (Escalatec), angels and accelerators (Solydes/Acelerate). The state bank BDP runs a Fondo STARTUP.",
+  "startup_visa": "none",
+  "company_setup": "SRL or S.A. registered with SEPREC plus NIT tax ID; foreigners can own; about 2-4 weeks.",
+  "grants": [
+   {
+    "name": "Fondo STARTUP",
+    "agency": "Banco de Desarrollo Productivo (BDP)",
+    "amount": "case by case (loan-style risk capital, 6.5-10.5% rates)",
+    "amount_usd_max": null,
+    "eligibility": "innovative ICT-based ventures in exports or import substitution",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://www.bdp.com.bo/fondo-startup/"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "Founder Institute Bolivia (Latam Fall 2026, virtual)",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "no investment; program fee",
+    "sectors": "generalist, pre-seed",
+    "deadline": "2026-10-27",
+    "next_cohort": "2026-11",
+    "status": "open",
+    "url": "https://fi.co/apply/14727"
+   },
+   {
+    "name": "Solydes / Acelerate",
+    "city": "Santa Cruz / La Paz",
+    "type": "accelerator",
+    "investment": "unknown",
+    "sectors": "tech",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.solydes.com"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Escalatec",
+    "city": "La Paz",
+    "stage": "pre-seed",
+    "check_size": "up to ~US$70k (2024 programme)",
+    "sectors": "tech",
+    "type": "vc",
+    "url": "https://www.escalatec.vc"
+   },
+   {
+    "name": "Babasu Ventures",
+    "city": "Andean region",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "women-led startups; fintech, SaaS, agtech, edtech, climate",
+    "type": "vc",
+    "url": "https://babasuventures.com"
+   },
+   {
+    "name": "Carao Ventures",
+    "city": "San Jose, Costa Rica",
+    "stage": "seed",
+    "check_size": "up to ~US$1M (directory est.)",
+    "sectors": "generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",
+    "type": "vc",
+    "url": "https://www.caraov.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ministerio de Desarrollo Productivo y Economia Plural",
+    "type": "government_agency",
+    "url": "https://produccion.gob.bo",
+    "note": "Production ministry; MSME policy"
+   },
+   {
+    "name": "Banco de Desarrollo Productivo",
+    "type": "government_agency",
+    "url": "https://www.bdp.com.bo",
+    "note": "State development bank"
+   },
+   {
+    "name": "IDB Bolivia ecosystem diagnostic (2026)",
+    "type": "database",
+    "url": "https://publications.iadb.org/es/diagnostico-del-ecosistema-de-emprendimiento-innovador-e-inversion-en-etapas-tempranas-en-bolivia",
+    "note": "Ecosystem study"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "CAF Development Bank of Latin America",
+    "type": "other",
+    "url": "https://www.caf.com",
+    "note": "Regional DFI; VC fund investments and innovation programmes"
+   }
+  ],
+  "sources": [
+   "https://www.bdp.com.bo/fondo-startup/",
+   "https://fi.co/apply/14727",
+   "https://publications.iadb.org/es/diagnostico-del-ecosistema-de-emprendimiento-innovador-e-inversion-en-etapas-tempranas-en-bolivia"
+  ],
+  "confidence": "medium",
+  "notes": "FX controls and a dollar shortage (2024-26) complicate foreign investment and repatriation."
+ },
+ {
+  "country": "Guyana",
+  "iso2": "GY",
+  "ecosystem_tier": "nascent",
+  "summary": "Oil-boom economy with fast GDP growth but a tiny startup scene in Georgetown. Support is mostly SME loans and grants from the Small Business Bureau, plus Caribbean regional programmes.",
+  "startup_visa": "none",
+  "company_setup": "Company under the Companies Act via the Deeds and Commercial Registries Authority; foreigners can own; about 1-3 weeks.",
+  "grants": [
+   {
+    "name": "Small Business Development Loans and grants",
+    "agency": "Small Business Bureau",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Guyanese small businesses",
+    "deadline": "rolling",
+    "status": "rolling",
+    "url": "https://sbb.gov.gy"
+   },
+   {
+    "name": "Compete Caribbean+ calls for proposals",
+    "agency": "Compete Caribbean+ (IDB, FCDO, Global Affairs Canada, CDB)",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "private firms, clusters and value chains in Caribbean member countries",
+    "deadline": "last: 2026-05-29 (3rd cluster call)",
+    "status": "closed",
+    "url": "https://www.competecaribbean.org"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "RevUP Caribbean Incubation Programme",
+    "city": "virtual (Kingston)",
+    "type": "incubator",
+    "investment": "no equity; training, mentoring, investor intros (CDB-backed)",
+    "sectors": "generalist; women-led and climate-smart priority",
+    "deadline": "last: 2026-06-30 (Cohort 8)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.revupcaribbean.com"
+   },
+   {
+    "name": "Founder Institute Caribbean (Fall 2026, virtual)",
+    "city": "virtual",
+    "type": "accelerator",
+    "investment": "no investment; program fee US$749",
+    "sectors": "generalist, pre-seed",
+    "deadline": "2026-10-20",
+    "next_cohort": "2026-10",
+    "status": "open",
+    "url": "https://fi.co/apply/14634"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "FirstAngels Caribbean",
+    "city": "Kingston",
+    "stage": "seed",
+    "check_size": "unknown (each angel decides)",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://firstangelscaribbean.com"
+   },
+   {
+    "name": "Caribbean Angels",
+    "city": "regional",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.caribbeanangels.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Small Business Bureau",
+    "type": "government_agency",
+    "url": "https://sbb.gov.gy",
+    "note": "National SME agency; loans, pitch events"
+   },
+   {
+    "name": "Georgetown Chamber of Commerce and Industry",
+    "type": "startup_association",
+    "url": "https://gcci.gy",
+    "note": "Business association"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "Caribbean Development Bank",
+    "type": "other",
+    "url": "https://www.caribank.org",
+    "note": "Regional DFI; funds RevUP and MSME programmes"
+   },
+   {
+    "name": "Caribbean Export Development Agency",
+    "type": "government_agency",
+    "url": "https://www.carib-export.com",
+    "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+   }
+  ],
+  "sources": [
+   "https://sbb.gov.gy",
+   "https://gcci.gy",
+   "https://www.competecaribbean.org"
+  ],
+  "confidence": "low",
+  "notes": "The GO-Invest (investment agency) site refused connections in Oct 2026, so it is left out. Local-content rules favour Guyanese-owned firms in oil and gas supply."
+ },
+ {
+  "country": "Suriname",
+  "iso2": "SR",
+  "ecosystem_tier": "nascent",
+  "summary": "Micro ecosystem in Paramaribo. The World Bank-funded SURGE programme gives matching grants to growth SMEs, and the Ministry of Economic Affairs (EZ) promotes ICT and FabLab initiatives. Expected oil revenue from 2028 may lift investment.",
+  "startup_visa": "none",
+  "company_setup": "NV (naamloze vennootschap) via notary and KKF (Chamber of Commerce) registration; foreigners can own; several weeks.",
+  "grants": [
+   {
+    "name": "SURGE matching grants and BDS",
+    "agency": "SURGE (World Bank / Government of Suriname)",
+    "amount": "matching grants",
+    "amount_usd_max": null,
+    "eligibility": "existing Surinamese firms with growth potential",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://surge.sr"
+   },
+   {
+    "name": "Compete Caribbean+ calls for proposals",
+    "agency": "Compete Caribbean+ (IDB, FCDO, Global Affairs Canada, CDB)",
+    "amount": "varies by call",
+    "amount_usd_max": null,
+    "eligibility": "private firms, clusters and value chains in Caribbean member countries",
+    "deadline": "last: 2026-05-29 (3rd cluster call)",
+    "status": "closed",
+    "url": "https://www.competecaribbean.org"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "RevUP Caribbean Incubation Programme",
+    "city": "virtual (Kingston)",
+    "type": "incubator",
+    "investment": "no equity; training, mentoring, investor intros (CDB-backed)",
+    "sectors": "generalist; women-led and climate-smart priority",
+    "deadline": "last: 2026-06-30 (Cohort 8)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://www.revupcaribbean.com"
+   },
+   {
+    "name": "Parallel18 (P18), Puerto Rico",
+    "city": "San Juan, Puerto Rico",
+    "type": "accelerator",
+    "investment": "US$100k via SAFE",
+    "sectors": "generalist",
+    "deadline": "unknown (Gen 15 applications reopen 2027; waitlist open)",
+    "next_cohort": "2027",
+    "status": "upcoming",
+    "url": "https://parallel18.com/p18/"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Caribbean Angels",
+    "city": "regional",
+    "stage": "seed",
+    "check_size": "unknown",
+    "sectors": "generalist",
+    "type": "angel_network",
+    "url": "https://www.caribbeanangels.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Kamer van Koophandel en Fabrieken (KKF)",
+    "type": "government_agency",
+    "url": "https://www.surinamechamber.com",
+    "note": "Chamber of commerce and business registry"
+   },
+   {
+    "name": "Government of Suriname (EZ ministry)",
+    "type": "government_agency",
+    "url": "https://www.gov.sr",
+    "note": "Economic Affairs, Entrepreneurship and Technological Innovation"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "Caribbean Development Bank",
+    "type": "other",
+    "url": "https://www.caribank.org",
+    "note": "Regional DFI; funds RevUP and MSME programmes"
+   },
+   {
+    "name": "Caribbean Export Development Agency",
+    "type": "government_agency",
+    "url": "https://www.carib-export.com",
+    "note": "CARIFORUM export/investment agency; grants and startup partnerships"
+   }
+  ],
+  "sources": [
+   "https://surge.sr",
+   "https://www.surinamechamber.com",
+   "https://www.gov.sr"
+  ],
+  "confidence": "low",
+  "notes": "Dutch is the business language. No local VC found; the KMO (SME) fund was relaunched but has no verified page."
+ },
+ {
+  "country": "Paraguay",
+  "iso2": "PY",
+  "ecosystem_tier": "emerging",
+  "summary": "Small but active ecosystem in Asuncion. Public programmes include MITIC's InnovandoPY seed capital, CONACYT's PROINNOVA and incubators (INCUNA, PTI, Koga). Corporate programmes such as ueno/itti Moonshot are growing, and Paraguay Tech Week links founders to regional funds.",
+  "startup_visa": "none",
+  "company_setup": "S.A. or SRL; EAS (Empresa por Acciones Simplificada) can be registered online quickly; foreigners can own 100%; low territorial tax regime.",
+  "grants": [
+   {
+    "name": "InnovandoPY capital semilla",
+    "agency": "MITIC (with MIC)",
+    "amount": "US$20,000 per startup",
+    "amount_usd_max": 20000,
+    "eligibility": "Paraguayan digital startups after incubation",
+    "deadline": "annual (unknown)",
+    "status": "closed",
+    "url": "https://mitic.gov.py"
+   },
+   {
+    "name": "PROINNOVA (innovation projects, EBT creation, incubator support)",
+    "agency": "CONACYT Paraguay",
+    "amount": "varies",
+    "amount_usd_max": null,
+    "eligibility": "Paraguayan firms, EBTs and incubators",
+    "deadline": "unknown",
+    "status": "unknown",
+    "url": "https://www.conacyt.gov.py"
+   }
+  ],
+  "accelerators": [
+   {
+    "name": "INCUNA BOOTSTART (Universidad Nacional de Asuncion)",
+    "city": "San Lorenzo",
+    "type": "university",
+    "investment": "no equity",
+    "sectors": "tech-based",
+    "deadline": "unknown (2026 cohort selected Sep 2026)",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://incuna.una.py/bootstart/"
+   },
+   {
+    "name": "Koga Impact Lab",
+    "city": "Asuncion",
+    "type": "incubator",
+    "investment": "no equity; pre-incubation to acceleration",
+    "sectors": "impact",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://koga.com.py"
+   },
+   {
+    "name": "Parque Tecnologico Itaipu (PTI) incubator",
+    "city": "Hernandarias",
+    "type": "government",
+    "investment": "no equity",
+    "sectors": "tech, energy",
+    "deadline": "unknown",
+    "next_cohort": "unknown",
+    "status": "unknown",
+    "url": "https://www.pti.org.py"
+   },
+   {
+    "name": "Moonshot (ueno bank / itti)",
+    "city": "Asuncion",
+    "type": "corporate",
+    "investment": "prizes US$5k-30k",
+    "sectors": "tech",
+    "deadline": "last: 2026-04-12",
+    "next_cohort": "unknown",
+    "status": "closed",
+    "url": "https://moonshot.ueno.com.py"
+   }
+  ],
+  "vcs": [
+   {
+    "name": "Babasu Ventures",
+    "city": "Andean region",
+    "stage": "pre-seed",
+    "check_size": "unknown",
+    "sectors": "women-led startups; fintech, SaaS, agtech, edtech, climate",
+    "type": "vc",
+    "url": "https://babasuventures.com"
+   },
+   {
+    "name": "Carao Ventures",
+    "city": "San Jose, Costa Rica",
+    "stage": "seed",
+    "check_size": "up to ~US$1M (directory est.)",
+    "sectors": "generalist; Spanish-speaking LatAm, focus Central America, DR, Ecuador",
+    "type": "vc",
+    "url": "https://www.caraov.com"
+   }
+  ],
+  "resources": [
+   {
+    "name": "Ministerio de Industria y Comercio (MIC)",
+    "type": "government_agency",
+    "url": "https://www.mic.gov.py",
+    "note": "Industry ministry; MSME and entrepreneurship"
+   },
+   {
+    "name": "MITIC",
+    "type": "government_agency",
+    "url": "https://mitic.gov.py",
+    "note": "ICT ministry; runs InnovandoPY"
+   },
+   {
+    "name": "REDIEX",
+    "type": "government_agency",
+    "url": "https://www.rediex.gov.py",
+    "note": "Investment and export network"
+   },
+   {
+    "name": "Agencia Financiera de Desarrollo (AFD)",
+    "type": "government_agency",
+    "url": "https://www.afd.gov.py",
+    "note": "Second-tier development bank"
+   },
+   {
+    "name": "Paraguay Tech Week",
+    "type": "event",
+    "url": "https://www.paraguaytechweek.com",
+    "note": "Startup-investor week (Aug 2026)"
+   },
+   {
+    "name": "IDB Lab",
+    "type": "other",
+    "url": "https://bidlab.org/en",
+    "note": "IDB innovation arm: grants, loans, equity, fund investments; periodic challenges"
+   },
+   {
+    "name": "CAF Development Bank of Latin America",
+    "type": "other",
+    "url": "https://www.caf.com",
+    "note": "Regional DFI; VC fund investments and innovation programmes"
+   }
+  ],
+  "sources": [
+   "https://www.ultimahora.com/innovandopy-otorga-usd-140-000-en-capital-semilla-a-siete-startups-paraguayas",
+   "https://incuna.una.py/bootstart/",
+   "https://www.conacyt.gov.py",
+   "https://www.lanacion.com.py/negocios/2026/04/09/programa-moonshot-2026-busca-talentos-innovadores-y-ofrece-capital-semilla-de-hasta-usd-30000/"
+  ],
+  "confidence": "medium",
+  "notes": "InnovandoPY 9th edition awarded 7 startups US$20k each (July 2026). No Founder Institute Paraguay programme found for 2026."
+ }
+]
