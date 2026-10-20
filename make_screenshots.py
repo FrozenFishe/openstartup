@@ -2,7 +2,7 @@
 """Render README screenshots of the atlas (docs/index.html) with headless Chrome.
 
 Adapted from OpenCharity's make_screenshots.py. Writes
-docs/screenshots/{desktop-light,desktop-dark,deadlines,mobile}.png.
+docs/screenshots/{desktop-light,map,deadlines,mobile}.png.
 macOS: uses Google Chrome from /Applications and `sips` to crop the phone shot
 (Chrome's headless window cannot be narrower than 500px, so the phone view is
 rendered in a 390px iframe and cropped).
@@ -24,6 +24,7 @@ POST = {
     "plain": "",
     "country": '<script>select("Australia", false); window.scrollTo(0, 0);</script>',
     "deadlines": '<script>show("deadlines"); window.scrollTo(0, 0);</script>',
+    "region": '<script>const m = document.querySelector("#mode"); m.value = "region"; m.dispatchEvent(new Event("change")); window.scrollTo(0, 0);</script>',
 }
 
 
@@ -52,6 +53,6 @@ def shot(name, theme, post, size, crop=None):
 
 if __name__ == "__main__":
     shot("desktop-light", "light", "country", (1440, 960))
-    shot("desktop-dark", "dark", "plain", (1440, 960))
+    shot("map", "light", "region", (1440, 960))
     shot("deadlines", "light", "deadlines", (1440, 960))
     shot("mobile", "light", "plain", (600, 1400), crop=(390, 1400))

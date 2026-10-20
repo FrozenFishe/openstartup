@@ -6,15 +6,15 @@
 
 **202 countries · 769 accelerators · 979 investors · 659 grants · 1,165 local resources · 100 global programs · 77 databases · deadlines checked 20 October 2026**
 
-[![Live atlas](https://img.shields.io/badge/🗺️_live_atlas-open_the_map-0d6b66?style=for-the-badge)](https://openstartup-qz7.pages.dev/)
+[![Live atlas](https://img.shields.io/badge/🗺️_live_atlas-open_the_map-1d4ed8?style=for-the-badge)](https://openstartup-qz7.pages.dev/)
 [![Download Excel](https://img.shields.io/badge/📗_workbook-Excel-217346?style=for-the-badge)](https://openstartup-qz7.pages.dev/data/openstartup.xlsx)
 [![Download JSON](https://img.shields.io/badge/🧾_data-JSON-555?style=for-the-badge)](https://openstartup-qz7.pages.dev/data/openstartup.json)
 
-[![Countries](https://img.shields.io/badge/countries-202-0d6b66)](#-at-a-glance)
-[![Accelerators](https://img.shields.io/badge/accelerators-769-4a9e95)](#-at-a-glance)
-[![Investors](https://img.shields.io/badge/investors-979-4a9e95)](#-at-a-glance)
-[![Grants](https://img.shields.io/badge/grants-659-4a9e95)](#-at-a-glance)
-[![Deadlines in 30 days](https://img.shields.io/badge/deadlines_next_30_days-50-d7263d)](#-closing-soon)
+[![Countries](https://img.shields.io/badge/countries-202-0b2a6f)](#-at-a-glance)
+[![Accelerators](https://img.shields.io/badge/accelerators-769-1d4ed8)](#-at-a-glance)
+[![Investors](https://img.shields.io/badge/investors-979-2f63e0)](#-at-a-glance)
+[![Grants](https://img.shields.io/badge/grants-659-4a7ff0)](#-at-a-glance)
+[![Deadlines in 30 days](https://img.shields.io/badge/deadlines_next_30_days-50-1d4ed8)](#-closing-soon)
 [![Hosted on Cloudflare Pages](https://img.shields.io/badge/hosted_on-Cloudflare_Pages-F38020?logo=cloudflare&logoColor=white)](https://openstartup-qz7.pages.dev/)
 [![No build step](https://img.shields.io/badge/build-plain_Python_3-3776AB?logo=python&logoColor=white)](#%EF%B8%8F-run-it-yourself)
 [![D3](https://img.shields.io/badge/map-D3_v7-F9A03C?logo=d3dotjs&logoColor=white)](https://d3js.org/)
@@ -33,14 +33,14 @@
 
 | | Feature | Details |
 |---|---|---|
-| 🗺️ | **World map** | Colour every country by all listings, region, ecosystem tier, accelerators, VCs, grants, upcoming deadlines, startup visa or **startups hiring on Wellfound**. Counts use a nine-step rainbow scale (grey → purple → blue → cyan → green → lime → yellow → orange → red) so neighbouring bands are easy to tell apart. Zoom, pan and tap any country. |
-| 🎨 | **Colour-coded everything** | Each region, tier and listing type has its own colour: 🟢 grants · 🟠 accelerators · 🔵 investors · 🟣 resources · 🩷 global programs. Deadlines are coloured by urgency: 🔴 within 7 days · 🟠 within 30 · 🟡 within 90 · 🟢 later · 🔵 rolling · ⚪ closed or unpublished. Confidence shows 🟢 high · 🟡 medium · 🔴 low. |
+| 🗺️ | **World map** | Colour every country by all listings, region, ecosystem tier, accelerators, VCs, grants, upcoming deadlines or startup visa. Counts run from pale to deep blue in nine steps. Zoom, pan and tap any country. |
+| 🎨 | **Shades of blue** | A white page where every distinction is a different blue: each region, ecosystem tier and listing type (teal-blue grants, royal-blue accelerators, navy investors, indigo resources, sky-blue global programs) has its own shade. Deadlines darken as they get closer: navy within 7 days, royal blue within 30, lighter blues further out, indigo for rolling, grey for closed. |
 | 📅 | **Deadline ledger** | Every dated application call in the atlas (country accelerators and grants plus global programs), soonest first, grouped by month. Window: 30 days, 90 days, 12 months, all dated, or rolling only. A program listed for many countries (EIC Accelerator, YC, Techstars) shows once with every country named. |
 | 📄 | **Country dossier** | Ecosystem summary, startup visa, how to set up the company, caveats, upcoming deadlines, then tabs for grants, accelerators, investors and resources, each with its deadline badge and official link, plus sources. |
 | 🌍 | **Global programs** | 100 accelerators, fellowships, competitions and perks open to founders anywhere: YC, Techstars, a16z speedrun, Antler, EF, Google for Startups, the EIC Accelerator, Thiel, Emergent Ventures, cloud credits and more. |
 | 🧰 | **Databases** | 77 cross-border tools: OpenVC, Airtree's open-source lists, Crunchbase, Dealroom, Signal, Grants.gov, the EU Funding & Tenders portal, Stripe Atlas, e-Residency, and others. |
 | 🎛️ | **Stackable filters** | Region, ecosystem tier, and must-haves (startup visa, upcoming deadline, accelerators, local VCs, grants) with live counts, plus free-text search across every program and fund name. |
-| 📱 | **Phones, light & dark** | Filters fold away on small screens. Follows your system theme or switch with the Theme button. Your filters are remembered in your browser. |
+| 📱 | **Works on phones** | Filters fold away on small screens. Your filters are remembered in your browser. |
 
 🔗 Link straight to a country with its name as the anchor, e.g. [`#australia`](https://openstartup-qz7.pages.dev/#australia), [`#nigeria`](https://openstartup-qz7.pages.dev/#nigeria) or [`#united-kingdom`](https://openstartup-qz7.pages.dev/#united-kingdom). Open a view with [`#deadlines`](https://openstartup-qz7.pages.dev/#deadlines), [`#global`](https://openstartup-qz7.pages.dev/#global) or [`#databases`](https://openstartup-qz7.pages.dev/#databases).
 
@@ -50,7 +50,7 @@
 
 <table>
 <tr>
-<td width="62%"><b>🌙 Dark mode</b><br><img src="docs/screenshots/desktop-dark.png" alt="Atlas in dark mode"></td>
+<td width="62%"><b>🗺️ Coloured by region</b><br><img src="docs/screenshots/map.png" alt="World map with each region in its own shade of blue"></td>
 <td width="38%" rowspan="2"><b>📱 On a phone</b><br><img src="docs/screenshots/mobile.png" alt="Atlas on a 390px-wide phone screen"></td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@ All files are in [`data/`](data/) and served from the live site under `/data/`.
 
 | File | Rows | What it holds |
 |---|---:|---|
-| `countries.csv` | 202 | Region, ecosystem tier, counts, Wellfound hiring count, startup visa, company setup, summary, caveats, confidence, sources |
+| `countries.csv` | 202 | Region, ecosystem tier, counts, startup visa, company setup, summary, caveats, confidence, sources |
 | `accelerators.csv` | 769 | Name, city, type, investment terms, sectors, **deadline**, next cohort, status, URL |
 | `vcs.csv` | 979 | Name, city, stage, cheque size, sectors, type (VC, CVC, angel network, government fund, venture debt), URL |
 | `grants.csv` | 659 | Name, agency, amount, max in US$, eligibility, **deadline**, status, URL |
@@ -131,8 +131,6 @@ All files are in [`data/`](data/) and served from the live site under `/data/`.
 
 **📅 Deadline format.** `YYYY-MM-DD` is the next published deadline on or after 20 Oct 2026. `last: YYYY-MM-DD` is the most recent past deadline when no new one is published. Otherwise the field says `rolling`, gives the usual pattern (e.g. `annual, usually March`), or says `unknown`. Dates are never guessed.
 
-**💼 Wellfound.** The number of startups hiring in each country comes from Wellfound's public location pages (`wellfound.com/startups/location/<country>`), checked 20 Oct 2026. It counts companies with open roles there, including global companies with a local office, so read it as a hiring signal, not a census of local startups. Canada, South Korea, Pakistan and Georgia have no Wellfound country page, so they show Toronto, Seoul, Karachi and Tbilisi. See [`research/wellfound/`](research/wellfound/).
-
 ---
 
 ## 🔬 How it was researched
@@ -142,9 +140,8 @@ All files are in [`data/`](data/) and served from the live site under `/data/`.
 | 1️⃣ Schema | One schema for every country ([`research/SCHEMA.md`](research/SCHEMA.md)) with coverage targets by ecosystem tier |
 | 2️⃣ Regional research | 15 research agents worked through regional batches ([`research/batches.json`](research/batches.json)), checking each entity on its official site and recording the next deadline |
 | 3️⃣ Global layer | One agent covered cross-border programs and databases (`research/global/`) |
-| 4️⃣ Hiring signal | Wellfound location pages for all 202 countries, one request at a time (`research/wellfound/`) |
-| 5️⃣ Merge & validate | `build.py` drops entries without names, rejects malformed URLs, removes duplicates, and lists problems in `research/build_problems.txt` |
-| 6️⃣ Spot checks | Conflicts between agents checked against the official page (e.g. a16z speedrun SR008: 1 Nov 2026) |
+| 4️⃣ Merge & validate | `build.py` drops entries without names, rejects malformed URLs, removes duplicates, and lists problems in `research/build_problems.txt` |
+| 5️⃣ Spot checks | Conflicts between agents checked against the official page (e.g. a16z speedrun SR008: 1 Nov 2026) |
 
 **Known gaps.** The research session ran out of web searches early, so later batches verified entities by opening official sites directly rather than by searching. Coverage is strongest for global hubs and established ecosystems and thinnest for small and fragile states: **93 of 202 countries are low confidence**, and many accelerator deadlines say `rolling` or `unknown` because the program publishes no date. Entities whose sites were parked, dead or unverifiable were left out, not guessed. Each country's `notes` say what changed (e.g. Techstars Sydney closed, LaunchVic merged into Innovation Victoria, Canada's Start-up Visa paused, Innovate UK Smart grants closed).
 
@@ -191,8 +188,7 @@ openstartup/
 └── 🔬 research/
     ├── SCHEMA.md · batches.json
     ├── countries/b01…b15_*.json   # per-region research
-    ├── global/                    # accelerators.json, resources.json
-    └── wellfound/                 # startups hiring by country
+    └── global/                    # accelerators.json, resources.json
 ```
 
 ---
@@ -217,9 +213,8 @@ Found a new deadline, a closed program or a missing fund? 🙌
 - 📜 Code: [MIT](LICENSE). Data: CC BY 4.0.
 - 🌍 Modelled on [OpenCharity](https://github.com/OpenCharity-org/OpenCharity) ([atlas](https://opencharity-org.github.io/OpenCharity/)), whose map approach, country list and screenshot script this project reuses.
 - 💡 Resource lists inspired by [OpenVC](https://www.openvc.app/) and [Airtree's Open Source VC](https://www.airtree.vc/open-source-vc-categories/lists-and-databases) lists and databases.
-- 💼 Hiring counts from [Wellfound](https://wellfound.com/startups)'s public location pages.
 - 🗺️ Map geometry: [Natural Earth](https://www.naturalearthdata.com/) via [world-atlas](https://github.com/topojson/world-atlas) · 📈 [D3](https://d3js.org/) · 🧩 [TopoJSON](https://github.com/topojson/topojson-client)
-- 🔤 Type: Schibsted Grotesk, Source Sans 3 and IBM Plex Mono (Google Fonts)
+- 🔤 Type: Geist and Geist Mono (Google Fonts)
 
 <div align="center">
 

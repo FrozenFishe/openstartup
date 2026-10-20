@@ -3,7 +3,6 @@
 
 research/countries/*.json  (one array per regional batch, see research/SCHEMA.md)
 research/global/accelerators.json, research/global/resources.json
-research/wellfound/startups_by_country.json  (public Wellfound location pages, see research/wellfound/README.md)
         |
         v
 data/*.csv, data/openstartup.json, data/openstartup.xlsx
@@ -97,13 +96,7 @@ def dedupe(items):
     return out
 
 
-def load_wellfound():
-    f = RESEARCH / "wellfound" / "startups_by_country.json"
-    return json.loads(f.read_text(encoding="utf-8")) if f.exists() else {}
-
-
 def load_countries(problems):
-    wf = load_wellfound()
     batches = json.loads((RESEARCH / "batches.json").read_text(encoding="utf-8"))
     want = {c: b for b, cs in batches.items() for c in cs}
     got = {}
@@ -135,7 +128,6 @@ def load_countries(problems):
             "confidence": clean(r.get("confidence")).lower(),
             "sources": [u for u in (clean(s) for s in r.get("sources") or []) if URL_RE.match(u)],
             "researched": name in got,
-            "wellfound": wf.get(name),
         }
         for k in LISTS:
             items = [tidy(x, FIELDS[k], problems, f"{name}/{k}") for x in (r.get(k) or []) if isinstance(x, dict)]
@@ -172,11 +164,9 @@ def write_data(countries, glob):
     DATA.mkdir(exist_ok=True)
     files = []
     head = ["country", "iso2", "region", "ecosystem_tier", "accelerators", "vcs", "grants", "resources",
-            "wellfound_startups_hiring", "wellfound_url",
             "startup_visa", "company_setup", "summary", "notes", "confidence", "sources"]
     write_csv(DATA / "countries.csv", head, [[d["country"], d["iso2"], d["region"], d["tier"],
               *(len(d[k]) for k in ("accelerators", "vcs", "grants", "resources")),
-              (d["wellfound"] or {}).get("count", ""), (d["wellfound"] or {}).get("url", ""),
               d["startup_visa"], d["company_setup"], d["summary"], d["notes"], d["confidence"], "; ".join(d["sources"])]
               for d in countries])
     files.append("countries.csv")
@@ -225,9 +215,9 @@ def write_xlsx(countries, glob):
         return ws
 
     ws = sheet("Countries", ["Country", "Region", "Ecosystem", "Accelerators", "VCs", "Grants", "Resources",
-                             "Wellfound startups hiring", "Startup visa", "Company setup", "Summary", "Confidence"],
+                             "Startup visa", "Company setup", "Summary", "Confidence"],
                [[d["country"], d["region"], d["tier"], len(d["accelerators"]), len(d["vcs"]), len(d["grants"]),
-                 len(d["resources"]), (d["wellfound"] or {}).get("count", ""), d["startup_visa"], d["company_setup"], d["summary"], d["confidence"]] for d in countries],
+                 len(d["resources"]), d["startup_visa"], d["company_setup"], d["summary"], d["confidence"]] for d in countries],
                {"Startup visa": 40, "Company setup": 40, "Summary": 60})
     for row in ws.iter_rows(min_row=2):
         col = tier_fill.get(row[2].value)
