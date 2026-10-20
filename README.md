@@ -16,7 +16,7 @@
 [![University programs](https://img.shields.io/badge/university_programs-1308-3b82f6)](#-what-you-can-do)
 [![Private equity](https://img.shields.io/badge/private_equity-207-075985)](#-at-a-glance)
 [![Grants](https://img.shields.io/badge/grants-664-4a7ff0)](#-at-a-glance)
-[![Deadlines in 30 days](https://img.shields.io/badge/deadlines_next_30_days-52-1d4ed8)](#-closing-soon)
+[![Deadlines in 30 days](https://img.shields.io/badge/deadlines_next_30_days-114-1d4ed8)](#-closing-soon)
 [![Hosted on Cloudflare Pages](https://img.shields.io/badge/hosted_on-Cloudflare_Pages-F38020?logo=cloudflare&logoColor=white)](https://openstartup-qz7.pages.dev/)
 [![No build step](https://img.shields.io/badge/build-plain_Python_3-3776AB?logo=python&logoColor=white)](#%EF%B8%8F-run-it-yourself)
 [![D3](https://img.shields.io/badge/map-D3_v7-F9A03C?logo=d3dotjs&logoColor=white)](https://d3js.org/)
