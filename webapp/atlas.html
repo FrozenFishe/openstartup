@@ -26,6 +26,14 @@
   --closed-soft: #e8ecec;
   --nodata: #dde3e4;
   --m0: #e4efed; --m1: #b9dbd6; --m2: #82c0b8; --m3: #4a9e95; --m4: #1f7a72; --m5: #0b4f4b;
+  /* colour coding: one hue per meaning so categories read at a glance */
+  --c0: #d9dde3; --c1: #6a3d9a; --c2: #3f5fd6; --c3: #1aa3c8; --c4: #23a26b; --c5: #9cc13a; --c6: #f0b323; --c7: #ec6a24; --c8: #d7263d;
+  --k-grant: #1f9d5c; --k-acc: #e5631c; --k-vc: #3f5fd6; --k-res: #8e44ad; --k-global: #d63a9b;
+  --tier-hub: #d7263d; --tier-est: #ec6a24; --tier-emg: #3f5fd6; --tier-nas: #8e7cc3;
+  --u-now: #d7263d; --u-soon: #ec6a24; --u-mid: #d39b00; --u-later: #1f9d5c; --u-roll: #3f5fd6; --u-none: #7a8589;
+  --cf-high: #1f9d5c; --cf-med: #d39b00; --cf-low: #d7263d;
+  --rg-cac: #b5651d; --rg-eas: #d7263d; --rg-eur: #3f5fd6; --rg-lac: #1f9d5c; --rg-mena: #d39b00;
+  --rg-nam: #6a3d9a; --rg-oce: #1aa3c8; --rg-sas: #ec6a24; --rg-sea: #d63a9b; --rg-ssa: #6f8f12;
   --f-display: "Schibsted Grotesk", "Helvetica Neue", Arial, sans-serif;
   --f-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
   --f-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
@@ -38,6 +46,13 @@
     --due: #f0b544; --due-soft: #3a2c0e; --open: #5fcf88; --open-soft: #133222; --rolling: #86aef0; --rolling-soft: #182944;
     --closed: #8a979b; --closed-soft: #1c2a2e; --nodata: #1d2a2e;
     --m0: #17302f; --m1: #1d4744; --m2: #23625c; --m3: #2f8b81; --m4: #4fb5a8; --m5: #8fe0d4;
+    --c0: #2a3338; --c1: #9a6fd6; --c2: #6f8cf0; --c3: #3cc3e6; --c4: #3fcf8e; --c5: #b8dc52; --c6: #f7c948; --c7: #f5894a; --c8: #f0566a;
+    --k-grant: #3fcf8e; --k-acc: #f5894a; --k-vc: #7f98f5; --k-res: #c08ae0; --k-global: #f06cbc;
+    --tier-hub: #f0566a; --tier-est: #f5894a; --tier-emg: #6f8cf0; --tier-nas: #a99be0;
+    --u-now: #f0566a; --u-soon: #f5894a; --u-mid: #f7c948; --u-later: #3fcf8e; --u-roll: #7f98f5; --u-none: #8a979b;
+    --cf-high: #3fcf8e; --cf-med: #f7c948; --cf-low: #f0566a;
+    --rg-cac: #d99155; --rg-eas: #f0566a; --rg-eur: #6f8cf0; --rg-lac: #3fcf8e; --rg-mena: #f7c948;
+    --rg-nam: #b08ae6; --rg-oce: #3cc3e6; --rg-sas: #f5894a; --rg-sea: #f06cbc; --rg-ssa: #a9cc3c;
     color-scheme: dark;
   }
 }
@@ -47,6 +62,13 @@
   --due: #f0b544; --due-soft: #3a2c0e; --open: #5fcf88; --open-soft: #133222; --rolling: #86aef0; --rolling-soft: #182944;
   --closed: #8a979b; --closed-soft: #1c2a2e; --nodata: #1d2a2e;
   --m0: #17302f; --m1: #1d4744; --m2: #23625c; --m3: #2f8b81; --m4: #4fb5a8; --m5: #8fe0d4;
+  --c0: #2a3338; --c1: #9a6fd6; --c2: #6f8cf0; --c3: #3cc3e6; --c4: #3fcf8e; --c5: #b8dc52; --c6: #f7c948; --c7: #f5894a; --c8: #f0566a;
+  --k-grant: #3fcf8e; --k-acc: #f5894a; --k-vc: #7f98f5; --k-res: #c08ae0; --k-global: #f06cbc;
+  --tier-hub: #f0566a; --tier-est: #f5894a; --tier-emg: #6f8cf0; --tier-nas: #a99be0;
+  --u-now: #f0566a; --u-soon: #f5894a; --u-mid: #f7c948; --u-later: #3fcf8e; --u-roll: #7f98f5; --u-none: #8a979b;
+  --cf-high: #3fcf8e; --cf-med: #f7c948; --cf-low: #f0566a;
+  --rg-cac: #d99155; --rg-eas: #f0566a; --rg-eur: #6f8cf0; --rg-lac: #3fcf8e; --rg-mena: #f7c948;
+  --rg-nam: #b08ae6; --rg-oce: #3cc3e6; --rg-sas: #f5894a; --rg-sea: #f06cbc; --rg-ssa: #a9cc3c;
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
@@ -91,6 +113,9 @@ h1, h2, h3 { font-family: var(--f-display); text-wrap: balance; margin: 0; line-
 .chip { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 3px 10px; font-size: 13px; cursor: pointer; display: inline-flex; gap: 6px; align-items: center; }
 .chip .c { font: 400 11px var(--f-mono); color: var(--muted); }
 .chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+.chip[style*="--x"] { border-color: color-mix(in srgb, var(--x) 55%, var(--line)); }
+.chip[style*="--x"][aria-pressed="true"] { background: var(--x); border-color: var(--x); color: var(--surface); }
+.chip[style*="--x"][aria-pressed="true"] .dot { background: var(--surface); }
 .chip[aria-pressed="true"] .c { color: inherit; opacity: .8; }
 .field { display: grid; gap: 4px; }
 .field input, .field select { border: 1px solid var(--line); background: var(--surface); border-radius: var(--r); padding: 7px 9px; width: 100%; }
@@ -128,14 +153,28 @@ tr.row.sel td { background: var(--accent-soft); }
 .cname small { display: block; color: var(--muted); font-weight: 400; font-size: 12px; }
 
 .pill { display: inline-block; font: 600 11px/1 var(--f-body); letter-spacing: .04em; padding: 4px 7px; border-radius: 3px; white-space: nowrap; }
-.t-global_hub { background: var(--m5); color: var(--paper); }
-.t-established { background: var(--m4); color: var(--paper); }
-.t-emerging { background: var(--m2); color: var(--ink); }
-.t-nascent { background: var(--m0); color: var(--ink); border: 1px solid var(--line); }
-.d-open { background: var(--open-soft); color: var(--open); }
-.d-soon { background: var(--due-soft); color: var(--due); }
-.d-rolling { background: var(--rolling-soft); color: var(--rolling); }
-.d-closed, .d-unknown { background: var(--closed-soft); color: var(--closed); }
+.pill { --x: var(--u-none); background: color-mix(in srgb, var(--x) 20%, var(--surface)); color: color-mix(in srgb, var(--x) 72%, var(--ink)); }
+.pill.solid { background: var(--x); color: var(--surface); }
+.dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; background: var(--x); flex: none; vertical-align: 0; margin-right: 6px; }
+.t-global_hub { --x: var(--tier-hub); }
+.t-established { --x: var(--tier-est); }
+.t-emerging { --x: var(--tier-emg); }
+.t-nascent { --x: var(--tier-nas); }
+.d-now { --x: var(--u-now); }
+.d-soon { --x: var(--u-soon); }
+.d-mid { --x: var(--u-mid); }
+.d-open { --x: var(--u-later); }
+.d-rolling { --x: var(--u-roll); }
+.d-closed, .d-unknown { --x: var(--u-none); }
+.cf-high { --x: var(--cf-high); } .cf-medium { --x: var(--cf-med); } .cf-low { --x: var(--cf-low); }
+.k-grant, .k-grants { --x: var(--k-grant); } .k-accelerator, .k-accelerators { --x: var(--k-acc); }
+.k-vcs { --x: var(--k-vc); } .k-resources { --x: var(--k-res); } .k-global { --x: var(--k-global); }
+td.num.k-accelerators, td.num.k-vcs, td.num.k-grants { color: color-mix(in srgb, var(--x) 80%, var(--ink)); font-weight: 500; }
+td.num.zero { color: var(--muted); font-weight: 400; }
+th .dot { margin-right: 4px; }
+.item { border-left: 3px solid var(--x, var(--line)); }
+.cname small { display: flex; align-items: center; }
+
 
 /* dossier */
 .dossier { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 70px); max-height: calc(100vh - 90px); overflow: auto; }
@@ -148,13 +187,14 @@ tr.row.sel td { background: var(--accent-soft); }
 .fact { display: grid; gap: 2px; }
 .fact div { font-size: 14px; overflow-wrap: anywhere; }
 .counts { display: grid; grid-template-columns: repeat(4, 1fr); border: 1px solid var(--line); border-radius: var(--r); }
-.counts button { border: 0; border-right: 1px solid var(--line); background: none; padding: 8px 6px; cursor: pointer; text-align: left; }
+.counts button { border: 0; border-right: 1px solid var(--line); border-top: 4px solid var(--x); background: none; padding: 8px 6px; cursor: pointer; text-align: left; }
+.counts b { color: color-mix(in srgb, var(--x) 80%, var(--ink)); }
 .counts button:last-child { border-right: 0; }
 .counts b { display: block; font: 500 20px/1.1 var(--f-mono); }
 .counts span { font-size: 12px; color: var(--muted); }
-.counts button[aria-selected="true"] { background: var(--accent-soft); }
+.counts button[aria-selected="true"] { background: color-mix(in srgb, var(--x) 16%, var(--surface)); }
 .items { display: grid; gap: 0; }
-.item { padding: 10px 0; border-bottom: 1px solid var(--line); display: grid; gap: 3px; }
+.item { padding: 10px 0 10px 12px; border-bottom: 1px solid var(--line); display: grid; gap: 3px; }
 .item:last-child { border-bottom: 0; }
 .item .ih { display: flex; gap: 8px; justify-content: space-between; align-items: baseline; }
 .item .ih a { font-weight: 600; overflow-wrap: anywhere; }
@@ -240,6 +280,7 @@ tr.row.sel td { background: var(--accent-soft); }
             <label class="field"><span class="label">Colour by</span>
               <select id="mode">
                 <option value="total">All listings</option>
+                <option value="region">Region</option>
                 <option value="tier">Ecosystem tier</option>
                 <option value="accelerators">Accelerators</option>
                 <option value="vcs">VCs &amp; investors</option>
@@ -273,7 +314,7 @@ tr.row.sel td { background: var(--accent-soft); }
             </label>
           </div>
           <div class="tablewrap"><table>
-            <thead><tr><th>Country</th><th class="hide-sm">Ecosystem</th><th class="num" title="Accelerators">Accel.</th><th class="num">VCs</th><th class="num">Grants</th><th class="num hide-sm" title="Startups hiring on Wellfound">Hiring</th><th>Next deadline</th></tr></thead>
+            <thead><tr><th>Country</th><th class="hide-sm">Ecosystem</th><th class="num" title="Accelerators"><span class="dot" style="--x:var(--k-acc)"></span>Accel.</th><th class="num"><span class="dot" style="--x:var(--k-vc)"></span>VCs</th><th class="num"><span class="dot" style="--x:var(--k-grant)"></span>Grants</th><th class="num hide-sm" title="Startups hiring on Wellfound">Hiring</th><th>Next deadline</th></tr></thead>
             <tbody id="list"></tbody>
           </table></div>
         </div>
@@ -349,6 +390,11 @@ const META = {"today":"2026-10-20","files":["countries.csv","grants.csv","accele
 const TODAY = new Date(META.today + "T00:00:00Z");
 const TIERS = ["global_hub", "established", "emerging", "nascent"];
 const TIER_LABEL = { global_hub: "Global hub", established: "Established", emerging: "Emerging", nascent: "Nascent" };
+const REGION_VAR = { "Central Asia & Caucasus": "--rg-cac", "East Asia": "--rg-eas", "Europe": "--rg-eur", "Latin America & Caribbean": "--rg-lac",
+  "Middle East & North Africa": "--rg-mena", "North America": "--rg-nam", "Oceania": "--rg-oce", "South Asia": "--rg-sas", "Southeast Asia": "--rg-sea", "Sub-Saharan Africa": "--rg-ssa" };
+const TIER_VAR = { global_hub: "--tier-hub", established: "--tier-est", emerging: "--tier-emg", nascent: "--tier-nas" };
+const HAS_VAR = { visa: "--c3", open: "--u-soon", accelerators: "--k-acc", vcs: "--k-vc", grants: "--k-grant" };
+const rdot = r => `<span class="dot" style="--x:var(${REGION_VAR[r] || "--u-none"})"></span>`;
 const HAS = { visa: "Startup visa", open: "Upcoming deadline", accelerators: "Accelerators", vcs: "Local VCs", grants: "Grants" };
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -372,7 +418,7 @@ function dueChip(item) {
   if (d) {
     const n = daysTo(d);
     if (n < 0) return `<span class="pill d-closed">Closed ${esc(fmtDate(d))}</span>`;
-    return `<span class="pill ${n <= 30 ? "d-soon" : "d-open"}">${esc(fmtDate(d))} · ${n === 0 ? "today" : n + "d"}</span>`;
+    return `<span class="pill ${n <= 7 ? "d-now" : n <= 30 ? "d-soon" : n <= 90 ? "d-mid" : "d-open"}">${esc(fmtDate(d))} · ${n === 0 ? "today" : n + "d"}</span>`;
   }
   const t = String(item.deadline || "").toLowerCase();
   if (/rolling|any ?time|continuous|ongoing/.test(t) || item.status === "rolling") return `<span class="pill d-rolling">Rolling</span>`;
@@ -422,7 +468,8 @@ function chips(el, key, opts) {
   el.innerHTML = opts.map(([v, label]) => {
     const c = DATA.filter(d => match(d, key) && (key === "region" ? d.region === v : key === "tier" ? d.tier === v :
       v === "visa" ? d.hasVisa : v === "open" ? d.nOpen : d.n[v])).length;
-    return `<button type="button" class="chip" data-k="${key}" data-v="${esc(v)}" aria-pressed="${S[key].has(v)}">${esc(label)}<span class="c">${c}</span></button>`;
+    const cv = key === "region" ? REGION_VAR[v] : key === "tier" ? TIER_VAR[v] : HAS_VAR[v];
+    return `<button type="button" class="chip" data-k="${key}" data-v="${esc(v)}" aria-pressed="${S[key].has(v)}" style="--x:var(${cv})"><span class="dot"></span>${esc(label)}<span class="c">${c}</span></button>`;
   }).join("");
 }
 function renderFacets() {
@@ -483,19 +530,23 @@ function tipHide() { tip.hidden = true; }
 
 const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
 function scaleFor(mode) {
-  const ramp = ["--m0", "--m1", "--m2", "--m3", "--m4", "--m5"].map(css);
+  const ramp = ["--c0", "--c1", "--c2", "--c3", "--c4", "--c5", "--c6", "--c7", "--c8"].map(css);
   if (mode === "tier") {
-    const m = { nascent: ramp[0], emerging: ramp[2], established: ramp[4], global_hub: ramp[5] };
-    return { fill: d => m[d.tier] || css("--nodata"), legend: TIERS.slice().reverse().map(t => [m[t], TIER_LABEL[t]]) };
+    const m = Object.fromEntries(TIERS.map(t => [t, css(TIER_VAR[t])]));
+    return { fill: d => m[d.tier] || css("--nodata"), legend: TIERS.map(t => [m[t], TIER_LABEL[t]]) };
+  }
+  if (mode === "region") {
+    const m = Object.fromEntries(REGIONS.map(r => [r, css(REGION_VAR[r])]));
+    return { fill: d => m[d.region] || css("--nodata"), legend: REGIONS.map(r => [m[r], r]) };
   }
   if (mode === "wellfound") {
-    const bins = [0, 1, 5, 20, 80, 300];
+    const bins = [0, 1, 3, 10, 25, 50, 100, 300, 1000];
     const pick = v => { if (v == null) return css("--nodata"); let i = 0; for (let k = 0; k < bins.length; k++) if (v >= bins[k]) i = k; return ramp[i]; };
     return { fill: d => pick(d.wf), legend: bins.map((b, i) => [ramp[i], i === bins.length - 1 ? `${b}+` : bins[i + 1] - 1 === b ? `${b}` : `${b}–${bins[i + 1] - 1}`]).concat([[css("--nodata"), "No Wellfound page"]]) };
   }
-  if (mode === "visa") return { fill: d => d.hasVisa ? ramp[4] : ramp[0], legend: [[ramp[4], "Startup or founder visa"], [ramp[0], "None found"]] };
+  if (mode === "visa") return { fill: d => d.hasVisa ? ramp[4] : ramp[8], legend: [[ramp[4], "Startup or founder visa"], [ramp[8], "None found"]] };
   const val = d => mode === "total" ? d.total : mode === "open" ? d.nOpen : d.n[mode];
-  const bins = mode === "open" ? [0, 1, 2, 4, 7, 12] : mode === "total" ? [0, 5, 12, 25, 45, 80] : [0, 1, 3, 6, 10, 18];
+  const bins = mode === "open" ? [0, 1, 2, 3, 4, 5, 7, 9, 12] : mode === "total" ? [0, 4, 8, 12, 16, 22, 30, 40, 55] : [0, 1, 2, 3, 4, 6, 9, 13, 18];
   const pick = v => { let i = 0; for (let k = 0; k < bins.length; k++) if (v >= bins[k]) i = k; return ramp[i]; };
   const legend = bins.map((b, i) => [ramp[i], i === bins.length - 1 ? `${b}+` : bins[i + 1] - 1 === b ? `${b}` : `${b}–${bins[i + 1] - 1}`]);
   return { fill: d => pick(val(d)), legend };
@@ -534,9 +585,9 @@ function renderList() {
   $("#lcount").textContent = `${rows.length} of ${DATA.length}`;
   $("#matchnote").textContent = rows.length === DATA.length ? "" : `${rows.length} countries match your filters`;
   $("#list").innerHTML = rows.map(d => `<tr class="row${S.sel === d.country ? " sel" : ""}" data-c="${esc(d.country)}" tabindex="0">
-    <td class="cname">${esc(d.country)}<small>${esc(d.region)}</small></td>
+    <td class="cname">${esc(d.country)}<small>${rdot(d.region)}${esc(d.region)}</small></td>
     <td class="hide-sm"><span class="pill t-${esc(d.tier)}">${esc(TIER_LABEL[d.tier] || d.tier)}</span></td>
-    <td class="num">${d.n.accelerators}</td><td class="num">${d.n.vcs}</td><td class="num">${d.n.grants}</td><td class="num hide-sm">${d.wf ?? "—"}</td>
+    ${["accelerators", "vcs", "grants"].map(k => `<td class="num k-${k}${d.n[k] ? "" : " zero"}">${d.n[k]}</td>`).join("")}<td class="num hide-sm">${d.wf ?? "—"}</td>
     <td>${d.next ? `${dueChip(d.next)} <span class="note">${esc(d.next.name)}</span>` : `<span class="note">—</span>`}</td></tr>`).join("")
     || `<tr><td colspan="7" class="empty">No country matches these filters. Remove a filter to widen the search.</td></tr>`;
 }
@@ -549,27 +600,28 @@ $("#rank").onchange = e => { S.rank = e.target.value; save(); renderList(); };
 const DTABS = [["grants", "Grants"], ["accelerators", "Accelerators"], ["vcs", "Investors"], ["resources", "Resources"]];
 function itemHTML(kind, x) {
   const kv = (k, v) => v && v !== "unknown" ? `<span class="kv"><b>${k}</b> ${esc(v)}</span>` : "";
-  if (kind === "grants") return `<div class="item"><div class="ih">${link(x.url, x.name)}${dueChip(x)}</div>
+  if (kind === "grants") return `<div class="item k-grants"><div class="ih">${link(x.url, x.name)}${dueChip(x)}</div>
     <span class="sub">${esc(x.agency || "")}</span>${kv("Amount", x.amount)}${kv("Who", x.eligibility)}</div>`;
-  if (kind === "accelerators") return `<div class="item"><div class="ih">${link(x.url, x.name)}${dueChip(x)}</div>
+  if (kind === "accelerators") return `<div class="item k-accelerators"><div class="ih">${link(x.url, x.name)}${dueChip(x)}</div>
     <span class="sub">${esc([x.city, (x.type || "").replace(/_/g, " "), x.sectors].filter(Boolean).join(" · "))}</span>${kv("Offer", x.investment)}${kv("Next cohort", x.next_cohort)}</div>`;
-  if (kind === "vcs") return `<div class="item"><div class="ih">${link(x.url, x.name)}<span class="note">${esc((x.type || "").replace(/_/g, " "))}</span></div>
+  if (kind === "vcs") return `<div class="item k-vcs"><div class="ih">${link(x.url, x.name)}<span class="note">${esc((x.type || "").replace(/_/g, " "))}</span></div>
     <span class="sub">${esc([x.city, x.stage, x.sectors].filter(Boolean).join(" · "))}</span>${kv("Cheque", x.check_size)}</div>`;
-  return `<div class="item"><div class="ih">${link(x.url, x.name)}<span class="note">${esc((x.type || "").replace(/_/g, " "))}</span></div>${x.note ? `<span class="sub">${esc(x.note)}</span>` : ""}</div>`;
+  return `<div class="item k-resources"><div class="ih">${link(x.url, x.name)}<span class="note">${esc((x.type || "").replace(/_/g, " "))}</span></div>${x.note ? `<span class="sub">${esc(x.note)}</span>` : ""}</div>`;
 }
 function renderDossier() {
   const el = $("#dossier");
   const d = byName.get(S.sel);
   if (!d) {
-    const soon = DATA.flatMap(c => c.upcoming.map(x => ({ ...x, c: c.country }))).sort((a, b) => a.due - b.due).slice(0, 6);
+    const soon = LEDGER_ROWS.filter(r => r.due && r.due >= TODAY).sort((a, b) => a.due - b.due).slice(0, 6)
+      .map(r => ({ ...r.x, kind: r.kind, c: r.kind === "global" ? r.where : r.places.length > 2 ? `${r.places.slice(0, 2).join(", ")} and ${r.places.length - 2} more` : r.places.join(", ") }));
     el.innerHTML = `<div class="placeholder"><h2>Pick a country</h2><p>Click the map or a row in the list to see its grants, accelerators, investors and founder resources, with application deadlines.</p>
-      <span class="label">Closing soonest</span><div class="items">${soon.map(x => `<div class="item"><div class="ih">${link(x.url, x.name)}${dueChip(x)}</div><span class="sub">${esc(x.c)} · ${x.kind}</span></div>`).join("")}</div></div>`;
+      <span class="label">Closing soonest</span><div class="items">${soon.map(x => `<div class="item k-${x.kind}"><div class="ih">${link(x.url, x.name)}${dueChip(x)}</div><span class="sub">${esc(x.c)} · ${x.kind}</span></div>`).join("")}</div></div>`;
     return;
   }
   const tab = S.dtab;
-  el.innerHTML = `<div class="dhead"><span class="label">${esc(d.region)}</span><h2>${esc(d.country)}</h2>
+  el.innerHTML = `<div class="dhead"><span class="label" style="display:flex;align-items:center">${rdot(d.region)}${esc(d.region)}</span><h2>${esc(d.country)}</h2>
     <div class="dmeta"><span class="pill t-${esc(d.tier)}">${esc(TIER_LABEL[d.tier] || d.tier)}</span>
-    <span>Confidence: ${esc(d.confidence || "—")}</span><a href="#${esc(d.slug)}" title="Link to this country">#${esc(d.slug)}</a></div></div>
+    <span class="pill cf-${esc(d.confidence)}">Confidence: ${esc(d.confidence || "—")}</span><a href="#${esc(d.slug)}" title="Link to this country">#${esc(d.slug)}</a></div></div>
   <div class="dbody">
     ${d.summary ? `<p>${esc(d.summary)}</p>` : ""}
     <div class="facts">
@@ -578,8 +630,8 @@ function renderDossier() {
       ${d.wellfound && d.wf != null ? `<div class="fact"><span class="label">Startups hiring ${d.wellfound.scope === "city" ? "in " + esc(d.wellfound.city) : "here"} on Wellfound</span><div><span class="mono">${d.wf.toLocaleString("en")}</span> companies with open roles · ${link(d.wellfound.url, "browse on Wellfound")}${d.wellfound.scope === "city" ? `<div class="note">Wellfound has no country page for ${esc(d.country)}, so this counts ${esc(d.wellfound.city)} only.</div>` : ""}</div></div>` : ""}
       ${d.notes ? `<div class="fact"><span class="label">Caveats</span><div>${esc(d.notes)}</div></div>` : ""}
     </div>
-    ${d.upcoming.length ? `<div class="fact"><span class="label">Upcoming deadlines</span><div class="items">${d.upcoming.slice(0, 4).map(x => `<div class="item"><div class="ih">${link(x.url, x.name)}${dueChip(x)}</div><span class="sub">${x.kind}</span></div>`).join("")}</div></div>` : ""}
-    <div class="counts" role="tablist">${DTABS.map(([k, l]) => `<button type="button" role="tab" data-dt="${k}" aria-selected="${tab === k}"><b>${d.n[k]}</b><span>${l}</span></button>`).join("")}</div>
+    ${d.upcoming.length ? `<div class="fact"><span class="label">Upcoming deadlines</span><div class="items">${d.upcoming.slice(0, 4).map(x => `<div class="item"><div class="ih">${link(x.url, x.name)}${dueChip(x)}</div><span class="sub">${x.kind}</span></div>`.replace('class="item"', `class="item k-${x.kind}"`)).join("")}</div></div>` : ""}
+    <div class="counts" role="tablist">${DTABS.map(([k, l]) => `<button type="button" role="tab" data-dt="${k}" class="k-${k}" style="--x:var(${{ grants: "--k-grant", accelerators: "--k-acc", vcs: "--k-vc", resources: "--k-res" }[k]})" aria-selected="${tab === k}"><b>${d.n[k]}</b><span>${l}</span></button>`).join("")}</div>
     <div class="items">${d[tab].length ? d[tab].map(x => itemHTML(tab, x)).join("") : `<div class="empty">None found for ${esc(d.country)}. The global programs tab lists options open to founders anywhere.</div>`}</div>
     ${d.sources?.length ? `<div class="fact"><span class="label">Sources</span><div class="srcs">${d.sources.map(u => link(u)).join("")}</div></div>` : ""}
   </div>`;
@@ -630,10 +682,12 @@ function renderLedger() {
     const m = r.due ? r.due.toLocaleDateString("en-GB", { month: "long", year: "numeric", timeZone: "UTC" }) : "Rolling";
     if (m !== month) { month = m; html += `<tr class="month"><td colspan="5">${esc(m)}</td></tr>`; }
     const offer = r.x.investment || r.x.amount || "";
-    html += `<tr><td class="due">${r.due ? esc(fmtDate(r.due)) + `<small>${daysTo(r.due)} days left</small>` : "Rolling"}</td>
+    const dn = r.due ? daysTo(r.due) : null;
+    const uv = dn == null ? "--u-roll" : dn <= 7 ? "--u-now" : dn <= 30 ? "--u-soon" : dn <= 90 ? "--u-mid" : "--u-later";
+    html += `<tr><td class="due" style="--x:var(${uv});color:color-mix(in srgb, var(--x) 80%, var(--ink));border-left:4px solid var(--x)">${r.due ? esc(fmtDate(r.due)) + `<small>${dn} days left</small>` : "Rolling"}</td>
       <td>${link(r.x.url, r.x.name)}${r.x.deadline_note ? `<div class="note">${esc(r.x.deadline_note)}</div>` : ""}</td>
       <td>${r.kind === "global" ? esc(r.where) : placesHTML(r.places)}</td>
-      <td class="hide-sm">${esc(offer)}</td><td class="kind hide-sm">${r.kind === "global" ? "global " + esc(r.x.type || "") : r.kind}</td></tr>`;
+      <td class="hide-sm">${esc(offer)}</td><td class="kind hide-sm"><span class="pill k-${r.kind}">${r.kind === "global" ? "global " + esc(r.x.type || "") : r.kind}</span></td></tr>`;
   }
   $("#ledger").innerHTML = html || `<tr><td colspan="5" class="empty">Nothing closes in this window. Widen it to "Next 12 months" or "All dated".</td></tr>`;
 }

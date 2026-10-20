@@ -14,7 +14,7 @@
 [![Accelerators](https://img.shields.io/badge/accelerators-769-4a9e95)](#-at-a-glance)
 [![Investors](https://img.shields.io/badge/investors-979-4a9e95)](#-at-a-glance)
 [![Grants](https://img.shields.io/badge/grants-659-4a9e95)](#-at-a-glance)
-[![Deadlines in 30 days](https://img.shields.io/badge/deadlines_next_30_days-45-9a5b00)](#-closing-soon)
+[![Deadlines in 30 days](https://img.shields.io/badge/deadlines_next_30_days-50-d7263d)](#-closing-soon)
 [![Hosted on Cloudflare Pages](https://img.shields.io/badge/hosted_on-Cloudflare_Pages-F38020?logo=cloudflare&logoColor=white)](https://openstartup-qz7.pages.dev/)
 [![No build step](https://img.shields.io/badge/build-plain_Python_3-3776AB?logo=python&logoColor=white)](#%EF%B8%8F-run-it-yourself)
 [![D3](https://img.shields.io/badge/map-D3_v7-F9A03C?logo=d3dotjs&logoColor=white)](https://d3js.org/)
@@ -33,7 +33,8 @@
 
 | | Feature | Details |
 |---|---|---|
-| 🗺️ | **World map** | Colour every country by all listings, ecosystem tier, accelerators, VCs, grants, upcoming deadlines, startup visa or **startups hiring on Wellfound**. Zoom, pan and tap any country. |
+| 🗺️ | **World map** | Colour every country by all listings, region, ecosystem tier, accelerators, VCs, grants, upcoming deadlines, startup visa or **startups hiring on Wellfound**. Counts use a nine-step rainbow scale (grey → purple → blue → cyan → green → lime → yellow → orange → red) so neighbouring bands are easy to tell apart. Zoom, pan and tap any country. |
+| 🎨 | **Colour-coded everything** | Each region, tier and listing type has its own colour: 🟢 grants · 🟠 accelerators · 🔵 investors · 🟣 resources · 🩷 global programs. Deadlines are coloured by urgency: 🔴 within 7 days · 🟠 within 30 · 🟡 within 90 · 🟢 later · 🔵 rolling · ⚪ closed or unpublished. Confidence shows 🟢 high · 🟡 medium · 🔴 low. |
 | 📅 | **Deadline ledger** | Every dated application call in the atlas (country accelerators and grants plus global programs), soonest first, grouped by month. Window: 30 days, 90 days, 12 months, all dated, or rolling only. A program listed for many countries (EIC Accelerator, YC, Techstars) shows once with every country named. |
 | 📄 | **Country dossier** | Ecosystem summary, startup visa, how to set up the company, caveats, upcoming deadlines, then tabs for grants, accelerators, investors and resources, each with its deadline badge and official link, plus sources. |
 | 🌍 | **Global programs** | 100 accelerators, fellowships, competitions and perks open to founders anywhere: YC, Techstars, a16z speedrun, Antler, EF, Google for Startups, the EIC Accelerator, Thiel, Emergent Ventures, cloud credits and more. |
