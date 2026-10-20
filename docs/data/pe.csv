@@ -1,6 +1,6 @@
 country,region,name,city,aum,founded,url,source
 Australia,Oceania,BGH Capital,Melbourne,,2017,https://www.bghcapital.com,Wikipedia: List of private equity firms
-Australia,Oceania,Pacific Equity Partners,Sydney,(2025),1998,http://www.pep.com.au/,Wikipedia: List of private equity firms
+Australia,Oceania,Pacific Equity Partners,Sydney,A$14 billion (2025),1998,http://www.pep.com.au/,Wikipedia: List of private equity firms
 Australia,Oceania,Quadrant Private Equity,Sydney,,1996,http://quadrantpe.com.au/,Wikipedia: List of private equity firms
 Bahrain,Middle East & North Africa,Arcapita,Manama,,1997,https://arcapita.com,Wikipedia: List of private equity firms
 Bahrain,Middle East & North Africa,GFH Capital,Manama,,1999,http://www.gfh-capital.com,Wikipedia: List of private equity firms
@@ -9,13 +9,13 @@ Belgium,Europe,GIMV,Antwerp,,1980,https://www.gimv.com,Wikipedia: List of privat
 Belgium,Europe,Sofina,,,,https://www.sofinagroup.com/,Wikipedia: List of private equity firms
 Brazil,Latin America & Caribbean,GP Investimentos,São Paulo,,,https://gp-investments.com/,Wikipedia: List of private equity firms
 Canada,North America,Onex Corporation,Toronto,CA$47 billion (November 2022),1984,http://www.onex.com/,Wikipedia: List of private equity firms
-China,East Asia,Centurium Capital,Beijing,(December 2023),,https://www.centurium.com/,Wikipedia: List of private equity firms
+China,East Asia,Centurium Capital,Beijing,US$7.0 billion (December 2023),,https://www.centurium.com/,Wikipedia: List of private equity firms
 China,East Asia,China Chengtong Holdings Group,Beijing,,1992,http://www.cctgroup.com.cn/,Wikipedia: List of private equity firms
 China,East Asia,China Media Capital,Shanghai,,2009,https://www.cmccap.com/,Wikipedia: List of private equity firms
 China,East Asia,China Reform Fund Management,Beijing,,2010,https://www.crhc.cn,Wikipedia: List of private equity firms
 China,East Asia,CITIC Capital,CITIC Tower,US$15 billion (2024),2002,https://www.citiccapital.com,Wikipedia: List of private equity firms
 China,East Asia,CPE,Beijing,US$14 billion (2024),2008,https://www.cpe-fund.com/,Wikipedia: List of private equity firms
-China,East Asia,DCP Capital,Beijing,(2023),2017,https://dcpcapital.com,Wikipedia: List of private equity firms
+China,East Asia,DCP Capital,Beijing,US$5.5 billion (2023),2017,https://dcpcapital.com,Wikipedia: List of private equity firms
 China,East Asia,Hony Capital,Beijing,US$13 Billion (2023),,http://www.honycapital.com,Wikipedia: List of private equity firms
 China,East Asia,Hopu Investment Management,Singapore,US$15 billion (2025),2008,https://www.hopucap.com,Wikipedia: List of private equity firms
 China,East Asia,Yunfeng Capital,Shanghai,US$20 billion (2021),2010,http://www.yfc.cn/,Wikipedia: List of private equity firms
@@ -30,15 +30,15 @@ Germany,Europe,Aurelius Group,,,2005,http://www.aureliusinvest.de/,Wikipedia: Li
 Germany,Europe,Mutares,Munich,,2008,https://mutares.com/,Wikipedia: List of private equity firms
 Greece,Europe,Marfin Investment Group,Athens,,1988,https://www.migholdingssa.com/en/,Wikipedia: List of private equity firms
 Hong Kong,East Asia,Affinity Equity Partners,Hong Kong,$14 billion (2023),1998,http://www.affinityequity.com/,Wikipedia: List of private equity firms
-Hong Kong,East Asia,Boyu Capital,Two Pacific Place,(2022),2010,https://www.boyucapital.com,Wikipedia: List of private equity firms
-Hong Kong,East Asia,FountainVest Partners,Two IFC,(2022),2007,https://fountainvest.com,Wikipedia: List of private equity firms
+Hong Kong,East Asia,Boyu Capital,Two Pacific Place,US$40 billion (2022),2010,https://www.boyucapital.com,Wikipedia: List of private equity firms
+Hong Kong,East Asia,FountainVest Partners,Two IFC,US$11 billion (2022),2007,https://fountainvest.com,Wikipedia: List of private equity firms
 Hong Kong,East Asia,PAG,,US$55 billion (2023),2002,https://www.pag.com/en/,Wikipedia: List of private equity firms
 Hungary,Europe,Mid Europa Partners,London,,1999,https://www.mideuropa.com,Wikipedia: List of private equity firms
 Japan,East Asia,JIC Capital,Toranomon,,2018,https://www.j-ic.co.jp/,Wikipedia: List of private equity firms
 Liechtenstein,Europe,LGT Capital Partners,Vaduz,CHF 386.1 billion,,https://www.lgt.com,Wikipedia: List of private equity firms
 Luxembourg,Europe,BIP Investment Partners,rue des Coquelicots,,2000,http://www.bip.lu,Wikipedia: List of private equity firms
 Luxembourg,Europe,Conquest Asset Management,Ireland,,2010,http://www.conquest.group/asset,Wikipedia: List of private equity firms
-Luxembourg,Europe,CVC Capital Partners,St Helier,billion (2025),1981,https://www.cvc.com/,Wikipedia: List of private equity firms
+Luxembourg,Europe,CVC Capital Partners,St Helier,"US$49.5bn raised in five years (PEI 300 2026, rank 12)",1981,https://www.cvc.com/,Wikipedia: List of private equity firms
 Malaysia,Southeast Asia,Ekuinas,Surian Tower,nowrap| RM4.1 billion (2014),2009,http://www.ekuinas.com.my/,Wikipedia: List of private equity firms
 Netherlands,Europe,AlpInvest Partners,New York,,1999,http://www.alpinvest.com/,Wikipedia: List of private equity firms
 Norway,Europe,Argentum Fondsinvesteringer,Bergen,,2001,http://www.argentum.no/,Wikipedia: List of private equity firms
@@ -85,8 +85,8 @@ United States,North America,3G Capital,New York City,,2004,http://www.3g-capital
 United States,North America,ABS Capital,Hunt Valley,,1990,http://abscapital.com,Wikipedia: List of private equity firms
 United States,North America,Adams Street Partners,One North Wacker,US$54 billion (2023),1972,http://www.adamsstreetpartners.com/,Wikipedia: List of private equity firms
 United States,North America,Advent International,Boston,~$100 billion (2025),1984,https://www.adventinternational.com,Wikipedia: List of private equity firms
-United States,North America,AEA Investors,New York City,(2023),1968,http://www.aeainvestors.com,Wikipedia: List of private equity firms
-United States,North America,"Angelo, Gordon & Co.",New York City,(2023),1988,https://angelogordon.com,Wikipedia: List of private equity firms
+United States,North America,AEA Investors,New York City,US$19 billion (2023),1968,http://www.aeainvestors.com,Wikipedia: List of private equity firms
+United States,North America,"Angelo, Gordon & Co.",New York City,US$73 billion (2023),1988,https://angelogordon.com,Wikipedia: List of private equity firms
 United States,North America,Apollo Global Management,New York City,US$938.4 billion (2025),1990,https://www.apollo.com/,Wikipedia: List of private equity firms
 United States,North America,Ares Management,Los Angeles,$596 billion (2025),1997,http://www.aresmgmt.com/,Wikipedia: List of private equity firms
 United States,North America,Arlington Capital Partners,Washington,,1999,http://www.arlingtoncap.com,Wikipedia: List of private equity firms
@@ -100,7 +100,7 @@ United States,North America,Blum Capital,San Francisco,,1975,http://www.blumcapi
 United States,North America,Brentwood Associates,Los Angeles,,1972,http://www.brentwood.com,Wikipedia: List of private equity firms
 United States,North America,"Bruckmann, Rosser, Sherrill & Co.",New York,,1995,http://www.brs.com,Wikipedia: List of private equity firms
 United States,North America,Brynwood Partners,Greenwich,,1984,http://www.brynwoodpartners.com,Wikipedia: List of private equity firms
-United States,North America,Carlyle Group,Washington,(2024),1987,https://carlyle.com,Wikipedia: List of private equity firms
+United States,North America,Carlyle Group,Washington,US$441 billion (2024),1987,https://carlyle.com,Wikipedia: List of private equity firms
 United States,North America,Castle Harlan,New York City,,1987,http://www.castleharlan.com/,Wikipedia: List of private equity firms
 United States,North America,CCMP Capital,New York City,$4.7 billion,1984,http://www.ccmpcapital.com,Wikipedia: List of private equity firms
 United States,North America,Centerbridge Partners,Seagram Building,$56 Billion,2005,http://www.centerbridge.com/,Wikipedia: List of private equity firms
@@ -132,7 +132,7 @@ United States,North America,Goldman Sachs Alternatives,New York City,US$627 bill
 United States,North America,Gores Group,Beverly Hills,,1987,http://www.gores.com/,Wikipedia: List of private equity firms
 United States,North America,GTCR,Chicago,US$40 billion (2024),1980,http://www.gtcr.com/,Wikipedia: List of private equity firms
 United States,North America,H.I.G. Capital,Miami,$74 billion,1993,http://www.higcapital.com/,Wikipedia: List of private equity firms
-United States,North America,Hamilton Lane,Conshohocken,(November 2024),1991,http://hamiltonlane.com/,Wikipedia: List of private equity firms
+United States,North America,Hamilton Lane,Conshohocken,US$947.70 billion (November 2024),1991,http://hamiltonlane.com/,Wikipedia: List of private equity firms
 United States,North America,Harbert Management Corporation,Concord Center,"$7.9 billion (September 30, 2026)",1993,http://www.harbert.net,Wikipedia: List of private equity firms
 United States,North America,HarbourVest Partners,One Financial Center,"US$36.8bn raised in five years (PEI 300 2026, rank 19)",1982,http://www.harbourvest.com/,Wikipedia: List of private equity firms
 United States,North America,Harvest Partners,New York City,$7.0 billion,1981,http://www.harvpart.com/,Wikipedia: List of private equity firms
@@ -154,9 +154,9 @@ United States,North America,L Catterton,Greenwich,US$33 billion (2023),1989,http
 United States,North America,Landmark Partners,Los Angeles,$596 billion (2025),1997,http://www.landmarkpartners.com/,Wikipedia: List of private equity firms
 United States,North America,Lee Equity Partners,General Motors Building,$3.0 billion,2006,https://leeequity.com,Wikipedia: List of private equity firms
 United States,North America,Leeds Equity Partners,New York,$7.0 billion,1993,https://www.leedsequity.com/,Wikipedia: List of private equity firms
-United States,North America,Leonard Green & Partners,Los Angeles,(2024),1989,http://www.leonardgreen.com/,Wikipedia: List of private equity firms
+United States,North America,Leonard Green & Partners,Los Angeles,US$77.8 billion (2024),1989,http://www.leonardgreen.com/,Wikipedia: List of private equity firms
 United States,North America,Lexington Partners,New York,$55 billion,1994,http://www.lexingtonpartners.com/,Wikipedia: List of private equity firms
-United States,North America,Lightyear Capital,New York City,(),2000,http://www.lycap.com,Wikipedia: List of private equity firms
+United States,North America,Lightyear Capital,New York City,US$8.1 billion (),2000,http://www.lycap.com,Wikipedia: List of private equity firms
 United States,North America,Lincolnshire Management,New York,,1986,https://www.lincolnshiremgmt.com/,Wikipedia: List of private equity firms
 United States,North America,Lindsay Goldberg Bessemer,New York City,,2001,https://www.lindsaygoldbergllc.com,Wikipedia: List of private equity firms
 United States,North America,Littlejohn & Co.,Cos Cob,,1987,http://www.littlejohnllc.com/,Wikipedia: List of private equity firms
@@ -176,7 +176,7 @@ United States,North America,Platinum Equity,Beverly Hills,,1995,https://www.plat
 United States,North America,Rhône Group,New York City,$10 billion (2025),1995,http://www.rhonegroup.com/,Wikipedia: List of private equity firms
 United States,North America,Riverside Partners,Boston,US$700 mil (December 2011),1989,http://www.riversidepartners.com,Wikipedia: List of private equity firms
 United States,North America,Riverstone Holdings,New York,,2000,http://www.riverstonellc.com,Wikipedia: List of private equity firms
-United States,North America,Roark Capital Group,Atlanta,(2023),2001,http://www.roarkcapital.com,Wikipedia: List of private equity firms
+United States,North America,Roark Capital Group,Atlanta,US$37 billion (2023),2001,http://www.roarkcapital.com,Wikipedia: List of private equity firms
 United States,North America,RPX Corporation,San Francisco,,2008,http://www.rpxcorp.com,Wikipedia: List of private equity firms
 United States,North America,Sentinel Capital Partners,One Vanderbilt,,1995,http://www.sentinelpartners.com,Wikipedia: List of private equity firms
 United States,North America,Silver Lake Partners,United States,US$110 billion (2025),1999,https://www.silverlake.com,Wikipedia: List of private equity firms
@@ -189,19 +189,19 @@ United States,North America,TA Associates,John Hancock Tower,$55 billion (2026),
 United States,North America,Tavistock Group,The Bahamas,,1975,http://www.tavistock.com/,Wikipedia: List of private equity firms
 United States,North America,Thayer Hidden Creek,Washington,,1994,http://www.hciequity.com,Wikipedia: List of private equity firms
 United States,North America,Thoma Bravo,Chicago,"US$71.9bn raised in five years (PEI 300 2026, rank 5)",,https://www.thomabravo.com/,Wikipedia: List of private equity firms
-United States,North America,Thoma Cressey Bravo,Chicago,(2026),2008,https://thomabravo.com,Wikipedia: List of private equity firms
+United States,North America,Thoma Cressey Bravo,Chicago,US$183 billion (2026),2008,https://thomabravo.com,Wikipedia: List of private equity firms
 United States,North America,Thomas H. Lee Partners,Boston,$16.9 billion,1974,https://thl.com,Wikipedia: List of private equity firms
 United States,North America,TowerBrook Capital Partners,London and New York City,USD$25 billion,2005,http://www.towerbrook.com/,Wikipedia: List of private equity firms
-United States,North America,TPG Capital,Corporate: Bank of America Tower,(2024),1992,https://tpg.com,Wikipedia: List of private equity firms
+United States,North America,TPG Capital,Corporate: Bank of America Tower,US$245.9 billion (2024),1992,https://tpg.com,Wikipedia: List of private equity firms
 United States,North America,Trilantic Capital Partners,New York,,2009,http://www.trilantic.com,Wikipedia: List of private equity firms
 United States,North America,TSG Consumer Partners,Larkspur,US$20 billion,1986,http://www.tsgconsumer.com,Wikipedia: List of private equity firms
 United States,North America,Värde Partners,New York,US$16 billion (2025),1993,https://www.varde.com,Wikipedia: List of private equity firms
-United States,North America,Veritas Capital,New York City,> billion (2026),1992,http://www.veritascapital.com,Wikipedia: List of private equity firms
+United States,North America,Veritas Capital,New York City,"US$33.1bn raised in five years (PEI 300 2026, rank 21)",1992,http://www.veritascapital.com,Wikipedia: List of private equity firms
 United States,North America,Veronis Suhler Stevenson,New York,,1981,http://www.vss.com/,Wikipedia: List of private equity firms
 United States,North America,Vestar Capital Partners,New York City,,1988,http://www.vestarcapital.com,Wikipedia: List of private equity firms
-United States,North America,Vista Equity Partners,Austin,(2026),2000,https://www.vistaequitypartners.com,Wikipedia: List of private equity firms
+United States,North America,Vista Equity Partners,Austin,US$103 billion (2026),2000,https://www.vistaequitypartners.com,Wikipedia: List of private equity firms
 United States,North America,Vulcan Capital Management,New York City,,1997,http://www.VulcanCapital.com,Wikipedia: List of private equity firms
-United States,North America,Warburg Pincus,New York City,(2026),1966,http://www.warburgpincus.com,Wikipedia: List of private equity firms
+United States,North America,Warburg Pincus,New York City,US$100 billion (2026),1966,http://www.warburgpincus.com,Wikipedia: List of private equity firms
 United States,North America,Warwick Energy Group,,,2010,https://warwickinvestmentgroup.com,Wikipedia: List of private equity firms
 United States,North America,Wind Point Partners,Chicago,,1984,http://www.wppartners.com,Wikipedia: List of private equity firms
 United States,North America,WL Ross & Co.,New York City,,2000,http://www.wlross.com,Wikipedia: List of private equity firms
